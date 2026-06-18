@@ -1,53 +1,18 @@
 [
   [
     {
-      "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
-      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
-    },
-    {
-      "title": "Tom Hanks, Oprah, Steven Spielberg turn Obama's presidential center opening into Hollywood's hottest ticket",
-      "url": "https://www.foxnews.com/entertainment/tom-hanks-oprah-steven-spielberg-turn-obamas-presidential-center-opening-hollywoods-hottest-ticket",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "Watch Live: Obama Presidential Center opening ceremony",
-      "url": "https://www.cbsnews.com/live-updates/obama-presidential-center-opening-2026/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "Trump\u2019s Iran agreement is a massive buy signal for stocks",
-      "url": "https://www.marketwatch.com/story/trumps-iran-agreement-changes-the-game-for-investors-these-are-the-two-sectors-to-buy-right-now-0705bc62?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
-    },
-    {
-      "title": "The Daily Wire - Breaking News, Videos & Podcasts",
-      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5DS2g1RUcwNXdQUnBuWDBfV3MxaHNqWDJfTG5fSUVmZi1jVTJ0YzRDQXRpNTdwM1AtaVlnZlM1OA?oc=5",
-      "source": "Daily Wire",
-      "bias": "right",
-      "domain": "dailywire.com"
-    },
-    {
-      "title": "G7 leaders back Trump\u2019s deal to end Iran war as more details of it emerge",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVnI2WGtqR3RNZGpvRVNISjI3SVhEM2tyX2VmRG1pZXZVRW1sTEFrNU8yWnFfeEo2LXV4U08wX0RuM3JhcWxzZEJ0c0RNTnNDSWZtYzVJVVhudVlJNHhSSGVQdm5SalJJY2tHT3BWNkpCQUc4MzNacVg0QTlKb1JkaUNpbnZYSTBZNmpBcmR1RQ?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "Ukraine brings the war to Moscow as huge blasts shake refinery",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOelJsYzdzc05CeUJiTkFiMWJlOWFVdHNhQ3QwbkpOc1dBLU1qOWp1Wk42R1lHcy11bHNBMUtrMmFMRnVXT0E3alh5bTlPbkRSV3NIUzhobWpHd3BsY1d5YWNTZUdQLTFyZkljdGIwaFpPY0hUeE01RDZCOGlWM2VvdjZTaXJvaVloYVo0U2dDd0RDMjN4WF9KQnZCN09MdHUwQ1lv?oc=5",
+      "title": "Vance warns Israeli critics over Iran deal: Trump is your only ally",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQXNyRDhPaS1YLXpCcE5sWnNCNWdCMENzLUI2bnk2ZkpteXZOWGpNMWVUeDZTR3M5WW92bnpIS3l1dnF1czFEcVZkNXpCRncwR0JGeVZuZkFCcUhLdVA0NTAzVDhXdTN5d0ItOUpQc29KdFdVeHduUHlqTFNnSHRkeG9rSGFxSm90Q1dWLWdqUXFURk5UUzVfZHJtRi0xaE1pQmlaZ3dib2NmSnJkWk44Y0phYk9PZk1RU2FNNXdGd0tDSG5t?oc=5",
       "source": "Reuters",
       "bias": "center",
       "domain": "reuters.com"
+    },
+    {
+      "title": "The Iran oil shock taught traders these key lessons about demand and China",
+      "url": "https://www.marketwatch.com/story/the-iran-oil-shock-taught-traders-these-key-lessons-about-demand-and-china-b03ad6a3?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
     },
     {
       "title": "Senate targets Hegseth\u2019s travel in standoff over apparent Iran school attack, boat strikes",
@@ -57,13 +22,6 @@
       "domain": "washingtonpost.com"
     },
     {
-      "title": "Hegseth renews Nato criticism and says US will review presence in Europe",
-      "url": "https://www.bbc.com/news/articles/c3vy5l62622o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
       "title": "A Twist in Ukraine\u2019s Drone Campaign Is \u2018Really Hurting the Russians\u2019",
       "url": "https://www.nytimes.com/2026/06/10/world/europe/ukraine-midrange-logistics-strikes.html",
       "source": "New York Times",
@@ -71,11 +29,39 @@
       "domain": "nytimes.com"
     },
     {
-      "title": "Giants-Braves rained out for second time, makeup set for Aug. 31",
-      "url": "https://nypost.com/2026/06/18/sports/giants-braves-rained-out-for-second-time-makeup-set-for-august/",
+      "title": "NYC celebrates Knicks NBA championship with ticker-tape parade",
+      "url": "https://www.cbsnews.com/live-updates/knicks-parade-details-route-closures-nyc-nba-championship/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Giants broadcaster goes ballistic on pitchers\u2019 Pride Night Bible verse battle",
+      "url": "https://nypost.com/2026/06/18/sports/sf-giants-broadcaster-blasts-pitchers-for-pride-night-protest/",
       "source": "New York Post",
       "bias": "right",
       "domain": "nypost.com"
+    },
+    {
+      "title": "A 13-year-old dies after participating in a Benadryl TikTok 'challenge'",
+      "url": "https://www.cnn.com/2023/04/18/us/benadryl-tiktok-challenge-teen-death-wellness/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
+    },
+    {
+      "title": "Nolte: California Billionaire Tax Qualifies for November Ballot",
+      "url": "https://www.breitbart.com/politics/2026/06/18/nolte-california-billionaire-tax-qualifies-for-november-ballot/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
+    },
+    {
+      "title": "Student loan borrowers will get an interest rate cut if they sign up for auto pay",
+      "url": "https://www.npr.org/2026/06/18/nx-s1-5863085/student-loan-auto-pay-discount",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
     },
     {
       "title": "WATCH:  World Cup soccer fans in US for first time experience joys of America",
@@ -92,11 +78,55 @@
       "domain": "theguardian.com"
     },
     {
-      "title": "World Cup 2026: South Africa grab 1-1 draw with Czechia with late penalty",
-      "url": "https://www.aljazeera.com/sports/2026/6/18/woerld-cup-2026-south-africa-grab-1-1-draw-with-czechia-with-late-penalty?traffic_source=rss",
+      "title": "G7 leaders back Trump\u2019s deal to end Iran war as more details of it emerge",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVnI2WGtqR3RNZGpvRVNISjI3SVhEM2tyX2VmRG1pZXZVRW1sTEFrNU8yWnFfeEo2LXV4U08wX0RuM3JhcWxzZEJ0c0RNTnNDSWZtYzVJVVhudVlJNHhSSGVQdm5SalJJY2tHT3BWNkpCQUc4MzNacVg0QTlKb1JkaUNpbnZYSTBZNmpBcmR1RQ?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "US lifts naval blockade as Iran's supreme leader says Trump made deal 'out of desperation'",
+      "url": "https://www.bbc.com/news/articles/c8r2eejdd35o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "Netanyahu says Israel must protect relationship with US",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/netanyahu-says-israel-must-protect-relationship-with-us?traffic_source=rss",
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
+    },
+    {
+      "title": "The Daily Wire - Breaking News, Videos & Podcasts",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5DS2g1RUcwNXdQUnBuWDBfV3MxaHNqWDJfTG5fSUVmZi1jVTJ0YzRDQXRpNTdwM1AtaVlnZlM1OA?oc=5",
+      "source": "Daily Wire",
+      "bias": "right",
+      "domain": "dailywire.com"
+    },
+    {
+      "title": "Obama knocks Founders at presidential center debut before America\u2019s 250th: \u2018Fell terribly short\u2019",
+      "url": "https://www.foxnews.com/politics/obama-knocks-founders-presidential-center-debut-before-americas-250th-fell-terribly-short",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    }
+  ],
+  [
+    {
+      "title": "US Supreme Court limits ban on gun ownership by marijuana users",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX3Z4S3pqZi1uNC11eXVpcmczWEp4bnZaaEtXQ2ZqY19qQVFEWi1ieEQ4M3Rabmk0SDFqR0JwRjRUUXVDS2JqQWl5M1pERWU1WHN5VXZ2dGlqY1RiaVFMU3hpeWpvN1lIRFBqdVBXN3lKNVQyaXdlemwwTUNjdjJjaFNtMDM0a3pMeDRWaU84dEp3NDBDMERpeXNqd0F3b1RSVjdOR3dkZG9OOUVEUUE?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Supreme Court sides with a marijuana user who was barred from owning guns",
+      "url": "https://www.npr.org/2026/06/18/nx-s1-5835232/supreme-court-marijuana-guns",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
     },
     {
       "title": "Supreme Court Sides With Texas Man Who Says It\u2019s Not A Crime For Marijuana Users To Have Guns",
@@ -104,89 +134,93 @@
       "source": "HuffPost",
       "bias": "left",
       "domain": "huffpost.com"
-    },
-    {
-      "title": "Nolte: California Legislature Seeks to Let Kids Divorce Their Parents",
-      "url": "https://www.breitbart.com/politics/2026/06/18/nolte-california-legislature-seeks-to-let-kids-divorce-their-parents/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
-    },
-    {
-      "title": "Student loan borrowers will get an interest rate cut if they sign up for auto pay",
-      "url": "https://www.npr.org/2026/06/18/nx-s1-5863085/student-loan-auto-pay-discount",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
     }
   ],
   [
     {
-      "title": "See the Knicks Championship Parade Unfold",
-      "url": "https://www.nytimes.com/2026/06/18/nyregion/18met-knicks-parade-photos.html",
+      "title": "Janeese Lewis George Wins Democratic Primary In D.C. Mayor's Race",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNWF6WnJnUjNUTTAzdkM3RzhFR0JCalFvdTJhMVpwUHFFcDR1VEIxb1RDNE9Ca09Edi1ja0VWR2NrSmJxZ2RSWHBwdjFhRHRrUk96UW1fV2NHaWtUUlNfamZHQ2Z3UklXWlNpZkVVcTV5TTRyZG1jMFFRbUd3RHdWTkNzWGhNMWhBQko2Y3R6MDh3cXdhSlB0M2Q3d2dBc0pyTks4aUp4Mm9hUHRzdVVBT2pUZlNrc1hCNzRmTWxkRdIBxAFBVV95cUxPZlFka0Z1U1pTZlZfX2YtYVZXY2JFdmRKQ214Mk96Y3llbUdkd0x4X3NFZDZPVjFTeDNCNm9IX3puTEJhUURSS0JudmMyTURYN3VTUmh6RmhBX2puNDdXTG0xeVdkOHp0bVZmNnpmU1BPQXFrZWlFbkJUZVRkbGRQQklLalV0UXBRSlkydVIyMjlpcGY0bHJBd1hDZzBHTks4VUoyaFdMZU9selJMc1J3QjlERGh6cHF5RkVMV3VNZ1lOZjNn?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    },
+    {
+      "title": "Janeese Lewis George projected to win D.C. Democratic primary for mayor",
+      "url": "https://www.cbsnews.com/news/washington-dc-mayors-race-democratic-primary-results-janeese-lewis-george-kenyan-mcduffie/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Democratic socialist Janeese Lewis George wins Democratic primary for DC mayor",
+      "url": "https://abcnews.com/Politics/democratic-socialist-janeese-lewis-george-wins-democratic-primary/story?id=133943813",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    }
+  ],
+  [
+    {
+      "title": "Jena Sims gives Brooks Koepka a cheeky send-off before brutal US Open, baseball manager goes insane & BEER!",
+      "url": "https://www.foxnews.com/outkick-sports/jena-sims-gives-brooks-koepka-cheeky-send-brutal-us-open-baseball-manager-goes-insane-beer",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Fan picks up Rory McIlroy\u2019s ball after wayward shot in wild US Open scene",
+      "url": "https://nypost.com/2026/06/18/sports/fan-picks-up-rory-mcilroys-ball-after-wayward-shot-in-wild-us-open-scene/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    }
+  ],
+  [
+    {
+      "title": "Hegseth renews Nato criticism and says US will review presence in Europe",
+      "url": "https://www.bbc.com/news/articles/c3vy5l62622o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "U.S. moves toward troop reductions in Europe as Hegseth scolds NATO allies",
+      "url": "https://www.washingtonpost.com/world/2026/06/18/europe-readies-nato-with-less-us-hegseth-announces-troop-review/",
+      "source": "Washington Post",
+      "bias": "left-center",
+      "domain": "washingtonpost.com"
+    }
+  ],
+  [
+    {
+      "title": "Interest rates held as Bank warns of impact of high energy prices",
+      "url": "https://www.bbc.com/news/articles/c33yzm5mdjpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "High interest rates are on pause again. This is the savings account you should avoid.",
+      "url": "https://www.cbsnews.com/news/high-interest-rates-pause-savings-account-you-should-avoid/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    }
+  ],
+  [
+    {
+      "title": "ICE Spent $700 Million on 7 Warehouses. Now It Wants to Get Rid of Them.",
+      "url": "https://www.nytimes.com/2026/06/18/us/politics/ice-warehouses-immigration.html",
       "source": "New York Times",
       "bias": "left-center",
       "domain": "nytimes.com"
     },
     {
-      "title": "Live Updates: Knicks celebrate championship win with parade in NYC",
-      "url": "https://www.cbsnews.com/live-updates/knicks-parade-details-route-closures-nyc-nba-championship/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "WATCH:  Messi's massive night and Kansas town adopts Team Algeria",
-      "url": "https://abcnews.com/video/133955448/",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    },
-    {
-      "title": "Officer Suspended for \u2018Dog Feces Sandwich\u2019 Scandal Now Running Police Department in South Texas",
-      "url": "https://www.breitbart.com/border/2026/06/18/officer-suspended-for-dog-feces-sandwich-scandal-now-running-police-department-in-south-texas/",
+      "title": "EXCLUSIVE: 735 Criminal Illegal Aliens Arrested by ICE-Houston Officers in May \u2014 Nearly 1,200 with Violent Convictions, Including Murderers, Child Predators",
+      "url": "https://www.breitbart.com/border/2026/06/18/exclusive-735-criminal-illegal-aliens-arrested-by-ice-houston-agents-in-may-nearly-1200-with-violent-convictions-including-murderers-child-predators/",
       "source": "Breitbart",
       "bias": "right",
       "domain": "breitbart.com"
-    }
-  ],
-  [
-    {
-      "title": "Teen tourist who died after fall from Central Park horse was trying to save mom\u2019s life",
-      "url": "https://nypost.com/2026/06/18/us-news/teen-who-died-after-fall-from-central-park-horse-in-nyc-was-trying-to-save-moms-life/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "A 13-year-old dies after participating in a Benadryl TikTok 'challenge'",
-      "url": "https://www.cnn.com/2023/04/18/us/benadryl-tiktok-challenge-teen-death-wellness/index.html",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
-    },
-    {
-      "title": "These 3 brothers lost their parents to AIDS. Now they struggle to make it on their own",
-      "url": "https://www.npr.org/2026/06/18/g-s1-128583/hiv-orphans-child-headed-family",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    }
-  ],
-  [
-    {
-      "title": "Americans are having fewer babies than ever. Blame smartphones \u2014 and these 4 financial realities.",
-      "url": "https://www.marketwatch.com/story/americas-fertility-rate-has-never-been-lower-blame-smartphones-and-these-4-financial-realities-d58aa598?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
-    },
-    {
-      "title": "A third of Americans say they're reading fewer books",
-      "url": "https://www.cbsnews.com/news/a-third-of-americans-say-theyre-reading-fewer-books/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
     }
   ]
 ]

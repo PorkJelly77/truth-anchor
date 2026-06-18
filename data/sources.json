@@ -1,0 +1,157 @@
+{
+  "sources": [
+    {
+      "name": "CNN",
+      "domain": "cnn.com",
+      "rss": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "bias": "left",
+      "factuality": "mixed",
+      "owner": "Warner Bros. Discovery",
+      "color": "#0066aa"
+    },
+    {
+      "name": "Fox News",
+      "domain": "foxnews.com",
+      "rss": "https://moxie.foxnews.com/google-publisher/latest.xml",
+      "bias": "right",
+      "factuality": "mixed",
+      "owner": "Fox Corporation (Murdoch)",
+      "color": "#aa3300"
+    },
+    {
+      "name": "Reuters",
+      "domain": "reuters.com",
+      "rss": "https://news.google.com/rss/search?q=site:reuters.com&hl=en-US&gl=US&ceid=US:en",
+      "bias": "center",
+      "factuality": "high",
+      "owner": "Thomson Reuters",
+      "color": "#ff6600"
+    },
+    {
+      "name": "BBC News",
+      "domain": "bbc.com",
+      "rss": "https://feeds.bbci.co.uk/news/rss.xml",
+      "bias": "center",
+      "factuality": "high",
+      "owner": "British Broadcasting Corporation",
+      "color": "#bb1919"
+    },
+    {
+      "name": "New York Times",
+      "domain": "nytimes.com",
+      "rss": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+      "bias": "left-center",
+      "factuality": "high",
+      "owner": "The New York Times Company (Sulzberger)",
+      "color": "#004276"
+    },
+    {
+      "name": "Wall Street Journal",
+      "domain": "wsj.com",
+      "rss": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+      "bias": "center-right",
+      "factuality": "high",
+      "owner": "News Corp (Murdoch)",
+      "color": "#0080c8"
+    },
+    {
+      "name": "NPR",
+      "domain": "npr.org",
+      "rss": "https://feeds.npr.org/1001/rss.xml",
+      "bias": "left-center",
+      "factuality": "high",
+      "owner": "National Public Radio (publicly funded)",
+      "color": "#336633"
+    },
+    {
+      "name": "Washington Post",
+      "domain": "washingtonpost.com",
+      "rss": "https://feeds.washingtonpost.com/rss/world",
+      "bias": "left-center",
+      "factuality": "high",
+      "owner": "Nash Holdings (Bezos)",
+      "color": "#000000"
+    },
+    {
+      "name": "New York Post",
+      "domain": "nypost.com",
+      "rss": "https://nypost.com/feed/",
+      "bias": "right",
+      "factuality": "mixed",
+      "owner": "News Corp (Murdoch)",
+      "color": "#cc3333"
+    },
+    {
+      "name": "Al Jazeera",
+      "domain": "aljazeera.com",
+      "rss": "https://www.aljazeera.com/xml/rss/all.xml",
+      "bias": "center",
+      "factuality": "high",
+      "owner": "Al Jazeera Media Network (Qatar government)",
+      "color": "#e62929"
+    },
+    {
+      "name": "Associated Press",
+      "domain": "apnews.com",
+      "rss": "https://news.google.com/rss/search?q=site:apnews.com&hl=en-US&gl=US&ceid=US:en",
+      "bias": "center",
+      "factuality": "high",
+      "owner": "Associated Press (cooperative, member-funded)",
+      "color": "#ba0c2f"
+    },
+    {
+      "name": "Daily Wire",
+      "domain": "dailywire.com",
+      "rss": "https://news.google.com/rss/search?q=site:dailywire.com&hl=en-US&gl=US&ceid=US:en",
+      "bias": "right",
+      "factuality": "mixed",
+      "owner": "Daily Wire (Ben Shapiro/Jeremy Boreing)",
+      "color": "#1a1a2e"
+    },
+    {
+      "name": "HuffPost",
+      "domain": "huffpost.com",
+      "rss": "https://news.google.com/rss/search?q=site:huffpost.com&hl=en-US&gl=US&ceid=US:en",
+      "bias": "left",
+      "factuality": "mixed",
+      "owner": "BuzzFeed",
+      "color": "#e85b3a"
+    },
+    {
+      "name": "The Guardian",
+      "domain": "theguardian.com",
+      "rss": "https://www.theguardian.com/world/rss",
+      "bias": "left-center",
+      "factuality": "high",
+      "owner": "Guardian Media Group (Scott Trust)",
+      "color": "#052962"
+    },
+    {
+      "name": "Breitbart",
+      "domain": "breitbart.com",
+      "rss": "https://feeds.feedburner.com/Breitbart",
+      "bias": "right",
+      "factuality": "low",
+      "owner": "Breitbart News Network (Bannon/Mercer)",
+      "color": "#8b0000"
+    },
+    {
+      "name": "CBS News",
+      "domain": "cbsnews.com",
+      "rss": "https://www.cbsnews.com/latest/rss/main",
+      "bias": "left-center",
+      "factuality": "high",
+      "owner": "Paramount Global",
+      "color": "#003366"
+    },
+    {
+      "name": "ABC News",
+      "domain": "abcnews.go.com",
+      "rss": "https://abcnews.go.com/abcnews/topstories",
+      "bias": "center",
+      "factuality": "high",
+      "owner": "The Walt Disney Company",
+      "color": "#333366"
+    }
+  ]
+}

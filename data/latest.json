@@ -36,13 +36,6 @@
       "domain": "cnn.com"
     },
     {
-      "title": "Italian aristocrat eyed in twisted Sarajevo \u2018human safari\u2019 killings: report",
-      "url": "https://nypost.com/2026/06/18/world-news/italian-aristocrat-eyed-in-twisted-sarajevo-human-safari-killings-report/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
       "title": "Roger Clemens questions MLB's warning to Giants pitchers who wrote Bible verses on Pride Night hats",
       "url": "https://www.foxnews.com/outkick-sports/roger-clemens-questions-mlbs-warning-giants-pitchers-wrote-bible-verses-pride-night-hats",
       "source": "Fox News",
@@ -76,6 +69,13 @@
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
+    },
+    {
+      "title": "Lionel Messi\u2019s first World Cup hat trick draw rave reviews from USMNT",
+      "url": "https://nypost.com/2026/06/18/sports/lionel-messis-world-cup-hat-trick-draw-rave-reviews-from-usmnt/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
     },
     {
       "title": "Protesters to rally against World Cup sponsor Hyundai before Mexico game",

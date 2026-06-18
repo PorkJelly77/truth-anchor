@@ -24,7 +24,12 @@
       font-size: 2.5rem;
       font-weight: 700;
       letter-spacing: -1px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 12px;
     }
+    header .logo-img { width: 40px; height: 40px; }
     header h1 span.anchor { color: #6699cc; }
     header h1 span.truth { color: #cc8844; }
     header p.subtitle {
@@ -187,13 +192,13 @@
 <body>
   <div class="container">
     <header>
-      <h1><span class="truth">Truth</span> <span class="anchor">Anchor</span></h1>
+      <h1><img src="logo.svg" alt="Truth Anchor" class="logo-img"><span class="truth">Truth</span> <span class="anchor">Anchor</span></h1>
       <p class="subtitle">The same news story. Across the spectrum. <em>You decide.</em></p>
       <div class="status-bar">
         <span>7 stories tracked</span>
         <span>31 articles</span>
         <span>17 sources monitored</span>
-        <span>Updated June 18, 2026 at 06:59 UTC</span>
+        <span>Updated June 18, 2026 at 07:02 UTC</span>
       </div>
     </header>
 
@@ -265,16 +270,6 @@
                 <div class="article-title">White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges</div>
               </div>
             </a>
-            <a href="https://nypost.com/2026/06/18/world-news/italian-aristocrat-eyed-in-twisted-sarajevo-human-safari-killings-report/" target="_blank" rel="noopener" class="article-link">
-              <div class="article-card" style="border-left: 4px solid #cc3333">
-                <div class="article-source">
-                  <span class="bias-tag" style="background:#cc4400">Right</span>
-                  <span class="source-name">New York Post</span>
-                  <span class="owner-name">News Corp</span>
-                </div>
-                <div class="article-title">Italian aristocrat eyed in twisted Sarajevo ‘human safari’ killings: report</div>
-              </div>
-            </a>
             <a href="https://www.foxnews.com/outkick-sports/roger-clemens-questions-mlbs-warning-giants-pitchers-wrote-bible-verses-pride-night-hats" target="_blank" rel="noopener" class="article-link">
               <div class="article-card" style="border-left: 4px solid #aa3300">
                 <div class="article-source">
@@ -323,6 +318,16 @@
                   <span class="owner-name">Al Jazeera Media Network</span>
                 </div>
                 <div class="article-title">Despair and delight in England-Croatia grudge match</div>
+              </div>
+            </a>
+            <a href="https://nypost.com/2026/06/18/sports/lionel-messis-world-cup-hat-trick-draw-rave-reviews-from-usmnt/" target="_blank" rel="noopener" class="article-link">
+              <div class="article-card" style="border-left: 4px solid #cc3333">
+                <div class="article-source">
+                  <span class="bias-tag" style="background:#cc4400">Right</span>
+                  <span class="source-name">New York Post</span>
+                  <span class="owner-name">News Corp</span>
+                </div>
+                <div class="article-title">Lionel Messi’s first World Cup hat trick draw rave reviews from USMNT</div>
               </div>
             </a>
             <a href="https://www.theguardian.com/football/2026/jun/17/protesters-to-rally-against-world-cup-sponsor-hyundai-before-mexico-game" target="_blank" rel="noopener" class="article-link">

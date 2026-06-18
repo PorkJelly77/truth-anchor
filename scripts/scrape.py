@@ -301,7 +301,7 @@ def generate_html(clusters, sources_count, timestamp):
       border-bottom: 1px solid #2a2a2a;
       margin-bottom: 30px;
     }}
-    header h1 {
+    header h1 {{
       font-size: 2.5rem;
       font-weight: 700;
       letter-spacing: -1px;
@@ -309,8 +309,8 @@ def generate_html(clusters, sources_count, timestamp):
       align-items: center;
       justify-content: center;
       gap: 12px;
-    }
-    header .logo-img { width: 40px; height: 40px; }
+    }}
+    header .logo-img {{ width: 40px; height: 40px; }}
     header h1 span.anchor {{ color: #6699cc; }}
     header h1 span.truth {{ color: #cc8844; }}
     header p.subtitle {{

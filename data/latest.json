@@ -15,18 +15,32 @@
       "domain": "apnews.com"
     },
     {
-      "title": "Lebanon Latest: Tensions remain despite US-Iran deal",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/aje-onl-aje_onl_lebanon_wrap-180626?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
       "title": "Read the full text of Trump's preliminary U.S.-Iran agreement to end the war",
       "url": "https://www.npr.org/2026/06/18/nx-s1-5863027/us-iran-trump-memorandum-of-understanding-full-text",
       "source": "NPR",
       "bias": "left-center",
       "domain": "npr.org"
+    },
+    {
+      "title": "Facing bipartisan criticism of Iran deal, Trump lashes out at \"fools\"",
+      "url": "https://www.cbsnews.com/news/iran-deal-reaction-trump-republicans-democrats/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Bowen: US-Iran deal raises inescapable question of what the war was for",
+      "url": "https://www.bbc.com/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "Lebanon Latest: Tensions remain despite US-Iran deal",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/aje-onl-aje_onl_lebanon_wrap-180626?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
     },
     {
       "title": "Fed Chair Kevin Warsh wants to get inflation under control. That could be bad news for home buyers seeking lower mortgage rates.",
@@ -41,13 +55,6 @@
       "source": "New York Post",
       "bias": "right",
       "domain": "nypost.com"
-    },
-    {
-      "title": "'Pure hell' in Moscow as Ukrainian drones strike major refinery supplying capital's fuel market",
-      "url": "https://www.foxnews.com/world/pure-hell-moscow-ukrainian-drones-strike-major-refinery-supplying-capitals-fuel-market",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
     },
     {
       "title": "A Twist in Ukraine\u2019s Drone Campaign Is \u2018Really Hurting the Russians\u2019",
@@ -69,6 +76,13 @@
       "source": "Washington Post",
       "bias": "left-center",
       "domain": "washingtonpost.com"
+    },
+    {
+      "title": "'Pure hell' in Moscow as Ukrainian drones strike major refinery supplying capital's fuel market",
+      "url": "https://www.foxnews.com/world/pure-hell-moscow-ukrainian-drones-strike-major-refinery-supplying-capitals-fuel-market",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
     },
     {
       "title": "Report: Democrats Worried DOJ Probe of California Gov. Gavin Newsom May Hurt Possible 2028 White House Bid",
@@ -104,20 +118,6 @@
       "source": "Daily Wire",
       "bias": "right",
       "domain": "dailywire.com"
-    },
-    {
-      "title": "Facing bipartisan criticism of Iran deal, Trump lashes out at \"fools\"",
-      "url": "https://www.cbsnews.com/news/iran-deal-reaction-trump-republicans-democrats/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "Bowen: US-Iran deal raises inescapable question of what the war was for",
-      "url": "https://www.bbc.com/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
     }
   ],
   [
@@ -127,13 +127,6 @@
       "source": "Fox News",
       "bias": "right",
       "domain": "foxnews.com"
-    },
-    {
-      "title": "Jordyn Woods sports custom Karl-Anthony Towns jeans \u2014 and her lucky bag \u2014 to the Knicks parade",
-      "url": "https://pagesix.com/2026/06/18/style/jordyn-woods-sports-custom-karl-anthony-towns-jeans-and-her-lucky-bag-to-the-knicks-parade/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
     },
     {
       "title": "UK bans under-16s from using social media apps including TikTok and YouTube",
@@ -148,6 +141,20 @@
       "source": "ABC News",
       "bias": "center",
       "domain": "abcnews.go.com"
+    },
+    {
+      "title": "Travis Kelce has boys\u2019 night in LA as guests gather at Taylor Swift\u2019s Rhode Island home ahead of wedding",
+      "url": "https://pagesix.com/2026/06/18/entertainment/travis-kelce-has-boys-night-in-la-as-guests-gather-at-taylor-swifts-rhode-island-home-ahead-of-wedding/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
+      "title": "\u2018We own our home outright\u2019: I am 67 and earn $100,000. Do I take my $30,000-a-year Social Security now or wait?",
+      "url": "https://www.marketwatch.com/story/we-own-our-home-outright-i-am-67-and-earn-100-000-do-i-take-my-30-000-social-security-now-or-wait-bbe1e123?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
     },
     {
       "title": "Live Updates: Knicks celebrate championship win with parade in NYC",
@@ -169,13 +176,6 @@
       "source": "Breitbart",
       "bias": "right",
       "domain": "breitbart.com"
-    },
-    {
-      "title": "\u2018We own our home outright\u2019: I am 67 and earn $100,000. Do I take my $30,000-a-year Social Security now or wait?",
-      "url": "https://www.marketwatch.com/story/we-own-our-home-outright-i-am-67-and-earn-100-000-do-i-take-my-30-000-social-security-now-or-wait-bbe1e123?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
     }
   ],
   [
@@ -199,6 +199,22 @@
       "source": "Washington Post",
       "bias": "left-center",
       "domain": "washingtonpost.com"
+    }
+  ],
+  [
+    {
+      "title": "Socialist Surge: Mamdani flexes growing political muscle as he takes on Dem establishment",
+      "url": "https://www.foxnews.com/politics/socialist-surge-mamdani-flexes-growing-political-muscle-takes-democratic-party-establishment",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "US progressive Lewis George on track to become DC mayor after Trump threats",
+      "url": "https://www.aljazeera.com/news/2026/6/18/us-progressive-lewis-george-on-track-to-become-dc-mayor-after-trump-threats?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
     }
   ],
   [

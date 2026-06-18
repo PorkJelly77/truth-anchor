@@ -206,8 +206,8 @@ def generate_html(clusters, sources_count, timestamp):
         'left': '#1a237e',
         'left-center': '#3949ab',
         'center': '#888888',
-        'center-right': '#e67300',
-        'right': '#cc4400',
+        'center-right': '#cc3333',
+        'right': '#cc2222',
     }
 
     # Build story cards
@@ -305,14 +305,9 @@ def generate_html(clusters, sources_count, timestamp):
       font-size: 2.5rem;
       font-weight: 700;
       letter-spacing: -1px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      gap: 12px;
     }}
-    header .logo-img {{ width: 40px; height: 40px; }}
-    header h1 span.anchor {{ color: #6699cc; }}
-    header h1 span.truth {{ color: #cc8844; }}
+    header h1 span.anchor {{ color: #cc2222; }}
+    header h1 span.truth {{ color: #1a237e; }}
     header p.subtitle {{
       color: #888;
       font-size: 1.05rem;
@@ -473,7 +468,7 @@ def generate_html(clusters, sources_count, timestamp):
 <body>
   <div class="container">
     <header>
-      <h1><img src="logo.svg" alt="Truth Anchor" class="logo-img"><span class="truth">Truth</span> <span class="anchor">Anchor</span></h1>
+      <h1><span class="truth">Truth</span> <span class="anchor">Anchor</span></h1>
       <p class="subtitle">The same news story. Across the spectrum. <em>You decide.</em></p>
       <div class="status-bar">
         <span>{len(clusters)} stories tracked</span>
@@ -487,8 +482,8 @@ def generate_html(clusters, sources_count, timestamp):
       <div class="legend-item"><div class="legend-dot" style="background:#1a237e"></div> Left / Dem</div>
       <div class="legend-item"><div class="legend-dot" style="background:#3949ab"></div> Left-Center</div>
       <div class="legend-item"><div class="legend-dot" style="background:#888888"></div> Center</div>
-      <div class="legend-item"><div class="legend-dot" style="background:#e67300"></div> Center-Right</div>
-      <div class="legend-item"><div class="legend-dot" style="background:#cc4400"></div> Right / GOP</div>
+      <div class="legend-item"><div class="legend-dot" style="background:#cc3333"></div> Center-Right</div>
+      <div class="legend-item"><div class="legend-dot" style="background:#cc2222"></div> Right / GOP</div>
     </div>
 
     <main>

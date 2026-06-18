@@ -29,6 +29,13 @@
       "domain": "huffpost.com"
     },
     {
+      "title": "Trump ramps up Education Department's dismantling with changes on special education and civil rights",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaDk5WTJNSzBsR1RIeWJFU3k5ZFpybDlFYjd2UG1BekgxVWZDRXdDLWRETFE4VHpkYWhTM0RtMFM0ZDBWdk1DdzNYUEsxYXhYamVXU1RsZXdOZDA1RGhvRkhYODAyRWRQLVdOeVJWdk5vVU9ocENGNlZFVGoxaFNDSkZRdzBVdW1OY29JakxnWUlXNmp0ZE8yaERoeFY?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
       "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges",
       "url": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html",
       "source": "CNN",
@@ -50,18 +57,18 @@
       "domain": "breitbart.com"
     },
     {
-      "title": "What's in the US-Iran agreement?",
-      "url": "https://www.bbc.com/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
       "title": "Tropical Storm Arthur is the first named storm of the Atlantic hurricane season",
       "url": "https://www.npr.org/2026/06/17/g-s1-128578/tropical-storm-arthur-first-named-storm-atlantic-hurricane-season",
       "source": "NPR",
       "bias": "left-center",
       "domain": "npr.org"
+    },
+    {
+      "title": "What's in the US-Iran agreement?",
+      "url": "https://www.bbc.com/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
     },
     {
       "title": "Despair and delight in England-Croatia grudge match",
@@ -83,13 +90,6 @@
       "source": "The Guardian",
       "bias": "left-center",
       "domain": "theguardian.com"
-    },
-    {
-      "title": "Trump ramps up Education Department's dismantling with changes on special education and civil rights",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaDk5WTJNSzBsR1RIeWJFU3k5ZFpybDlFYjd2UG1BekgxVWZDRXdDLWRETFE4VHpkYWhTM0RtMFM0ZDBWdk1DdzNYUEsxYXhYamVXU1RsZXdOZDA1RGhvRkhYODAyRWRQLVdOeVJWdk5vVU9ocENGNlZFVGoxaFNDSkZRdzBVdW1OY29JakxnWUlXNmp0ZE8yaERoeFY?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
     },
     {
       "title": "Trump didn't want 'Herbert Hoover' presidency; said Iran has to have 'some' missiles",

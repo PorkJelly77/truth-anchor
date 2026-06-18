@@ -203,11 +203,11 @@ def generate_html(clusters, sources_count, timestamp):
         'right': 'Right',
     }
     bias_colors = {
-        'left': '#3366cc',
-        'left-center': '#6699cc',
+        'left': '#1a237e',
+        'left-center': '#3949ab',
         'center': '#888888',
-        'center-right': '#cc9966',
-        'right': '#cc6633',
+        'center-right': '#e67300',
+        'right': '#cc4400',
     }
 
     # Build story cards
@@ -479,11 +479,11 @@ def generate_html(clusters, sources_count, timestamp):
     </header>
 
     <div class="legend">
-      <div class="legend-item"><div class="legend-dot" style="background:#3366cc"></div> Left</div>
-      <div class="legend-item"><div class="legend-dot" style="background:#6699cc"></div> Left-Center</div>
+      <div class="legend-item"><div class="legend-dot" style="background:#1a237e"></div> Left / Dem</div>
+      <div class="legend-item"><div class="legend-dot" style="background:#3949ab"></div> Left-Center</div>
       <div class="legend-item"><div class="legend-dot" style="background:#888888"></div> Center</div>
-      <div class="legend-item"><div class="legend-dot" style="background:#cc9966"></div> Center-Right</div>
-      <div class="legend-item"><div class="legend-dot" style="background:#cc6633"></div> Right</div>
+      <div class="legend-item"><div class="legend-dot" style="background:#e67300"></div> Center-Right</div>
+      <div class="legend-item"><div class="legend-dot" style="background:#cc4400"></div> Right / GOP</div>
     </div>
 
     <main>

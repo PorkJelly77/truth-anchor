@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="48" height="48">
+  <!-- Anchor shape in midnight blue -->
+  <g fill="none" stroke="#1a237e" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Ring at top -->
+    <circle cx="50" cy="12" r="5" fill="#1a237e" stroke="none"/>
+    <!-- Shank (vertical bar) -->
+    <line x1="50" y1="17" x2="50" y2="72"/>
+    <!-- Crossbar -->
+    <line x1="32" y1="38" x2="68" y2="38"/>
+    <!-- Left fluke -->
+    <path d="M22 52 Q30 70 50 72 L50 72"/>
+    <!-- Right fluke -->
+    <path d="M78 52 Q70 70 50 72"/>
+  </g>
+  <!-- Flame at the ring (truth torch) -->
+  <g fill="#cc4400">
+    <ellipse cx="50" cy="5" rx="6" ry="10"/>
+    <ellipse cx="50" cy="3" rx="3" ry="6" fill="#e67300"/>
+  </g>
+</svg>

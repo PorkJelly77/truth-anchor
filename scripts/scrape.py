@@ -301,11 +301,16 @@ def generate_html(clusters, sources_count, timestamp):
       border-bottom: 1px solid #2a2a2a;
       margin-bottom: 30px;
     }}
-    header h1 {{
+    header h1 {
       font-size: 2.5rem;
       font-weight: 700;
       letter-spacing: -1px;
-    }}
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 12px;
+    }
+    header .logo-img { width: 40px; height: 40px; }
     header h1 span.anchor {{ color: #6699cc; }}
     header h1 span.truth {{ color: #cc8844; }}
     header p.subtitle {{
@@ -468,7 +473,7 @@ def generate_html(clusters, sources_count, timestamp):
 <body>
   <div class="container">
     <header>
-      <h1><span class="truth">Truth</span> <span class="anchor">Anchor</span></h1>
+      <h1><img src="logo.svg" alt="Truth Anchor" class="logo-img"><span class="truth">Truth</span> <span class="anchor">Anchor</span></h1>
       <p class="subtitle">The same news story. Across the spectrum. <em>You decide.</em></p>
       <div class="status-bar">
         <span>{len(clusters)} stories tracked</span>

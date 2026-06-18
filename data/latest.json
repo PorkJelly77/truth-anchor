@@ -8,6 +8,34 @@
       "domain": "cnn.com"
     },
     {
+      "title": "Tom Hanks, Oprah, Steven Spielberg turn Obama's presidential center opening into Hollywood's hottest ticket",
+      "url": "https://www.foxnews.com/entertainment/tom-hanks-oprah-steven-spielberg-turn-obamas-presidential-center-opening-hollywoods-hottest-ticket",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Watch Live: Obama Presidential Center opening ceremony",
+      "url": "https://www.cbsnews.com/live-updates/obama-presidential-center-opening-2026/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Trump\u2019s Iran agreement is a massive buy signal for stocks",
+      "url": "https://www.marketwatch.com/story/trumps-iran-agreement-changes-the-game-for-investors-these-are-the-two-sectors-to-buy-right-now-0705bc62?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
+    },
+    {
+      "title": "The Daily Wire - Breaking News, Videos & Podcasts",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5DS2g1RUcwNXdQUnBuWDBfV3MxaHNqWDJfTG5fSUVmZi1jVTJ0YzRDQXRpNTdwM1AtaVlnZlM1OA?oc=5",
+      "source": "Daily Wire",
+      "bias": "right",
+      "domain": "dailywire.com"
+    },
+    {
       "title": "G7 leaders back Trump\u2019s deal to end Iran war as more details of it emerge",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVnI2WGtqR3RNZGpvRVNISjI3SVhEM2tyX2VmRG1pZXZVRW1sTEFrNU8yWnFfeEo2LXV4U08wX0RuM3JhcWxzZEJ0c0RNTnNDSWZtYzVJVVhudVlJNHhSSGVQdm5SalJJY2tHT3BWNkpCQUc4MzNacVg0QTlKb1JkaUNpbnZYSTBZNmpBcmR1RQ?oc=5",
       "source": "Associated Press",
@@ -15,60 +43,11 @@
       "domain": "apnews.com"
     },
     {
-      "title": "Read the full text of Trump's preliminary U.S.-Iran agreement to end the war",
-      "url": "https://www.npr.org/2026/06/18/nx-s1-5863027/us-iran-trump-memorandum-of-understanding-full-text",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    },
-    {
-      "title": "Facing bipartisan criticism of Iran deal, Trump lashes out at \"fools\"",
-      "url": "https://www.cbsnews.com/news/iran-deal-reaction-trump-republicans-democrats/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "Bowen: US-Iran deal raises inescapable question of what the war was for",
-      "url": "https://www.bbc.com/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
+      "title": "Ukraine brings the war to Moscow as huge blasts shake refinery",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOelJsYzdzc05CeUJiTkFiMWJlOWFVdHNhQ3QwbkpOc1dBLU1qOWp1Wk42R1lHcy11bHNBMUtrMmFMRnVXT0E3alh5bTlPbkRSV3NIUzhobWpHd3BsY1d5YWNTZUdQLTFyZkljdGIwaFpPY0hUeE01RDZCOGlWM2VvdjZTaXJvaVloYVo0U2dDd0RDMjN4WF9KQnZCN09MdHUwQ1lv?oc=5",
+      "source": "Reuters",
       "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "Lebanon Latest: Tensions remain despite US-Iran deal",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/18/aje-onl-aje_onl_lebanon_wrap-180626?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "Fed Chair Kevin Warsh wants to get inflation under control. That could be bad news for home buyers seeking lower mortgage rates.",
-      "url": "https://www.marketwatch.com/story/fed-chair-kevin-warsh-wants-to-get-inflation-under-control-that-could-be-bad-news-for-home-buyers-seeking-lower-mortgage-rates-99fb4aad?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
-    },
-    {
-      "title": "Warsh shocks Wall Street with hawkish turn as Fed rate hikes come back into play",
-      "url": "https://nypost.com/2026/06/18/business/warsh-shocks-wall-street-with-hawkish-turn-as-fed-rate-hikes-come-back-into-play/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "A Twist in Ukraine\u2019s Drone Campaign Is \u2018Really Hurting the Russians\u2019",
-      "url": "https://www.nytimes.com/2026/06/10/world/europe/ukraine-midrange-logistics-strikes.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "Seven-year-old Abdiqadir was hit in a US airstrike. Without a $750 operation, he may lose his ability to walk",
-      "url": "https://www.theguardian.com/global-development/2026/jun/17/boy-injured-us-strike-somalia-ability-walk-operation-abdiqadir-salah-surgery-civilians-november-attack",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
+      "domain": "reuters.com"
     },
     {
       "title": "Senate targets Hegseth\u2019s travel in standoff over apparent Iran school attack, boat strikes",
@@ -78,25 +57,46 @@
       "domain": "washingtonpost.com"
     },
     {
-      "title": "'Pure hell' in Moscow as Ukrainian drones strike major refinery supplying capital's fuel market",
-      "url": "https://www.foxnews.com/world/pure-hell-moscow-ukrainian-drones-strike-major-refinery-supplying-capitals-fuel-market",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
+      "title": "Hegseth renews Nato criticism and says US will review presence in Europe",
+      "url": "https://www.bbc.com/news/articles/c3vy5l62622o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
     },
     {
-      "title": "Report: Democrats Worried DOJ Probe of California Gov. Gavin Newsom May Hurt Possible 2028 White House Bid",
-      "url": "https://www.breitbart.com/politics/2026/06/18/report-democrats-worried-doj-probe-california-gov-gavin-newsom-may-hurt-possible-2028-white-house-bid/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
+      "title": "A Twist in Ukraine\u2019s Drone Campaign Is \u2018Really Hurting the Russians\u2019",
+      "url": "https://www.nytimes.com/2026/06/10/world/europe/ukraine-midrange-logistics-strikes.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
     },
     {
-      "title": "Supreme Court allows some marijuana users to own guns, limiting federal gun ban",
-      "url": "https://abcnews.com/Politics/supreme-court-rules-favor-marijuana-user-charged-unlawful/story?id=132932442",
+      "title": "Giants-Braves rained out for second time, makeup set for Aug. 31",
+      "url": "https://nypost.com/2026/06/18/sports/giants-braves-rained-out-for-second-time-makeup-set-for-august/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
+      "title": "WATCH:  World Cup soccer fans in US for first time experience joys of America",
+      "url": "https://abcnews.com/video/133982347/",
       "source": "ABC News",
       "bias": "center",
       "domain": "abcnews.go.com"
+    },
+    {
+      "title": "Protesters to rally against World Cup sponsor Hyundai before Mexico game",
+      "url": "https://www.theguardian.com/football/2026/jun/17/protesters-to-rally-against-world-cup-sponsor-hyundai-before-mexico-game",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "World Cup 2026: South Africa grab 1-1 draw with Czechia with late penalty",
+      "url": "https://www.aljazeera.com/sports/2026/6/18/woerld-cup-2026-south-africa-grab-1-1-draw-with-czechia-with-late-penalty?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
     },
     {
       "title": "Supreme Court Sides With Texas Man Who Says It\u2019s Not A Crime For Marijuana Users To Have Guns",
@@ -106,55 +106,27 @@
       "domain": "huffpost.com"
     },
     {
-      "title": "US Supreme Court limits ban on gun ownership by marijuana users",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX3Z4S3pqZi1uNC11eXVpcmczWEp4bnZaaEtXQ2ZqY19qQVFEWi1ieEQ4M3Rabmk0SDFqR0JwRjRUUXVDS2JqQWl5M1pERWU1WHN5VXZ2dGlqY1RiaVFMU3hpeWpvN1lIRFBqdVBXN3lKNVQyaXdlemwwTUNjdjJjaFNtMDM0a3pMeDRWaU84dEp3NDBDMERpeXNqd0F3b1RSVjdOR3dkZG9OOUVEUUE?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
+      "title": "Nolte: California Legislature Seeks to Let Kids Divorce Their Parents",
+      "url": "https://www.breitbart.com/politics/2026/06/18/nolte-california-legislature-seeks-to-let-kids-divorce-their-parents/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
     },
     {
-      "title": "The Daily Wire - Breaking News, Videos & Podcasts",
-      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5DS2g1RUcwNXdQUnBuWDBfV3MxaHNqWDJfTG5fSUVmZi1jVTJ0YzRDQXRpNTdwM1AtaVlnZlM1OA?oc=5",
-      "source": "Daily Wire",
-      "bias": "right",
-      "domain": "dailywire.com"
+      "title": "Student loan borrowers will get an interest rate cut if they sign up for auto pay",
+      "url": "https://www.npr.org/2026/06/18/nx-s1-5863085/student-loan-auto-pay-discount",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
     }
   ],
   [
     {
-      "title": "Mike Brown sports '10 Weeks' shirt for Knicks' championship parade after James Dolan's abstinence joke",
-      "url": "https://www.foxnews.com/outkick-sports/mike-brown-sports-10-weeks-shirt-knicks-championship-parade-james-dolans-abstinence-joke",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "UK bans under-16s from using social media apps including TikTok and YouTube",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPS09GclpMaDVCWjhseWZMdmtBZmV3d0o2bFNPT1pjZVd4SFd4eUVvYkc2OFdjRjZnalpfamVmZTI5NWhhS2VGNVpCd0hKRkNuSWZNS2dfQ3ZPd2Vic0h1TmhVb19nNDIyNXliX0dRRVctUE1KbVFrNkJpRTM0cHlScjBUY2Y2SG8xbE12Y2ZDLV80Vm5ka2pn?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "WATCH:  Messi's massive night and Kansas town adopts Team Algeria",
-      "url": "https://abcnews.com/video/133955448/",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    },
-    {
-      "title": "Travis Kelce has boys\u2019 night in LA as guests gather at Taylor Swift\u2019s Rhode Island home ahead of wedding",
-      "url": "https://pagesix.com/2026/06/18/entertainment/travis-kelce-has-boys-night-in-la-as-guests-gather-at-taylor-swifts-rhode-island-home-ahead-of-wedding/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "\u2018We own our home outright\u2019: I am 67 and earn $100,000. Do I take my $30,000-a-year Social Security now or wait?",
-      "url": "https://www.marketwatch.com/story/we-own-our-home-outright-i-am-67-and-earn-100-000-do-i-take-my-30-000-social-security-now-or-wait-bbe1e123?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
+      "title": "See the Knicks Championship Parade Unfold",
+      "url": "https://www.nytimes.com/2026/06/18/nyregion/18met-knicks-parade-photos.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
     },
     {
       "title": "Live Updates: Knicks celebrate championship win with parade in NYC",
@@ -164,11 +136,11 @@
       "domain": "cbsnews.com"
     },
     {
-      "title": "See the Knicks Championship Parade Unfold",
-      "url": "https://www.nytimes.com/2026/06/18/nyregion/18met-knicks-parade-photos.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
+      "title": "WATCH:  Messi's massive night and Kansas town adopts Team Algeria",
+      "url": "https://abcnews.com/video/133955448/",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
     },
     {
       "title": "Officer Suspended for \u2018Dog Feces Sandwich\u2019 Scandal Now Running Police Department in South Texas",
@@ -180,70 +152,22 @@
   ],
   [
     {
-      "title": "Hegseth announces review of US troops in Europe, scorns some allies",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTzBLSHdEcWROVjZ5QTVWX2RGcG93Tng5OTZrWVVYUmVfczktSVJMSHY5ZHUwTEhfT21TandJeTVJQnMtWjhLWjNyQlRqWTE3Z19KN0dOVEFyMDMtM2FucjluN3dEY3BYaEdBcE5UeVJqb3BGa0Exa0gySnBqemttV3BWWExXMlpfbVdUWkE3enVGT1JyWEpKMkZCUF95TmlUUU04TFVmMGF1cF9mSEJGY3pNOA?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "Hegseth renews Nato criticism and says US will review presence in Europe",
-      "url": "https://www.bbc.com/news/articles/c3vy5l62622o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "U.S. moves toward troop reductions in Europe as Hegseth scolds NATO allies",
-      "url": "https://www.washingtonpost.com/world/2026/06/18/europe-readies-nato-with-less-us-hegseth-announces-troop-review/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
-    }
-  ],
-  [
-    {
-      "title": "Socialist Surge: Mamdani flexes growing political muscle as he takes on Dem establishment",
-      "url": "https://www.foxnews.com/politics/socialist-surge-mamdani-flexes-growing-political-muscle-takes-democratic-party-establishment",
-      "source": "Fox News",
+      "title": "Teen tourist who died after fall from Central Park horse was trying to save mom\u2019s life",
+      "url": "https://nypost.com/2026/06/18/us-news/teen-who-died-after-fall-from-central-park-horse-in-nyc-was-trying-to-save-moms-life/",
+      "source": "New York Post",
       "bias": "right",
-      "domain": "foxnews.com"
+      "domain": "nypost.com"
     },
     {
-      "title": "US progressive Lewis George on track to become DC mayor after Trump threats",
-      "url": "https://www.aljazeera.com/news/2026/6/18/us-progressive-lewis-george-on-track-to-become-dc-mayor-after-trump-threats?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    }
-  ],
-  [
-    {
-      "title": "Seattle mayor announces crackdown on crime-plagued neighborhood after years of complaints",
-      "url": "https://www.foxnews.com/media/seattle-mayor-announces-crackdown-crime-plagued-neighborhood-years-complaints",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
+      "title": "A 13-year-old dies after participating in a Benadryl TikTok 'challenge'",
+      "url": "https://www.cnn.com/2023/04/18/us/benadryl-tiktok-challenge-teen-death-wellness/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
     },
     {
-      "title": "WATCH:  'Devil Wears Prada' franchise tops $1B at global box office",
-      "url": "https://abcnews.com/video/133972257/",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    }
-  ],
-  [
-    {
-      "title": "Gen Z\u2019s \u2018chicken before the egg\u2019 credit problem: How to build your score when lenders keep saying no",
-      "url": "https://www.marketwatch.com/story/gen-z-needs-to-build-credit-to-start-adulting-but-half-say-they-cant-get-it-heres-how-to-start-ef3e100c?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
-    },
-    {
-      "title": "You're probably using too many skin care products. Here are the 3 essentials",
-      "url": "https://www.npr.org/2026/06/18/nx-s1-5861903/essential-skin-care-products",
+      "title": "These 3 brothers lost their parents to AIDS. Now they struggle to make it on their own",
+      "url": "https://www.npr.org/2026/06/18/g-s1-128583/hiv-orphans-child-headed-family",
       "source": "NPR",
       "bias": "left-center",
       "domain": "npr.org"
@@ -251,18 +175,18 @@
   ],
   [
     {
-      "title": "My child was given a summer cabin. Should I pay for the $10,000-a-year maintenance and taxes?",
-      "url": "https://www.marketwatch.com/story/my-child-was-given-a-summer-cabin-should-i-pay-for-the-10-000-a-year-maintenance-and-taxes-5dc5cace?mod=mw_rss_topstories",
+      "title": "Americans are having fewer babies than ever. Blame smartphones \u2014 and these 4 financial realities.",
+      "url": "https://www.marketwatch.com/story/americas-fertility-rate-has-never-been-lower-blame-smartphones-and-these-4-financial-realities-d58aa598?mod=mw_rss_topstories",
       "source": "Wall Street Journal",
       "bias": "center-right",
       "domain": "wsj.com"
     },
     {
-      "title": "Embedded: \"We Keep Us Safe\" from NPR, KUOW and The Seattle Times",
-      "url": "https://www.npr.org/2026/06/04/g-s1-120825/seattle-chop-zone-antonio-mays",
-      "source": "NPR",
+      "title": "A third of Americans say they're reading fewer books",
+      "url": "https://www.cbsnews.com/news/a-third-of-americans-say-theyre-reading-fewer-books/",
+      "source": "CBS News",
       "bias": "left-center",
-      "domain": "npr.org"
+      "domain": "cbsnews.com"
     }
   ]
 ]

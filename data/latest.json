@@ -1,27 +1,6 @@
 [
   [
     {
-      "title": "Book Review: \u2018Regime Change,\u2019 by Maggie Haberman and Jonathan Swan",
-      "url": "https://www.nytimes.com/2026/06/18/books/review/regime-change-maggie-haberman-jonathan-swan.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "Trump's $14M Reflecting Pool Paint Job Is Now Peeling Off And Floating To The Surface",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNR053UzlYRFZqZEs1ckJyWGNJNXYyNHBqQXlSQ3RVbXdXWU80bkZrUXFpTDI4RG9ad1A4QXZaa2dNS0YzQm1GSTJrdFN5WXl3YW04M1JqOVBoeFBwRnNnZ0dUODdKV2FUUlVwc3FBazdnM3hHUVMzR1JWOTNLWFprY2IwczNXTlRyc2RjY3pXNU5Zck1XR2xRMlUyeTdhaHlhZGZsQkxxYUlhWWpBdFZHTm5WcHROcXNJNDBOdnY3TVFGVHVET212bWhSMV80bGpFdEhRUjR4ZFfSAd4BQVVfeXFMTmhTOFNVWDF0SU80M2VIWFJRdkJqdGc4Z3QySGpCSTQ4ZnU2dkZMM0dQeUN2X3VCX0FnU2dNRDlyMjBBLWluTHZYRXZDTERrZXJyTDNlcHRLUWRNTE92OFNQTzUzbm5haTc4ajVBOXBvRm9RUzNRbGtaR0stUVZfRTNWOG03VWhTZEtWeUpHV2sxTHNncjQ1cUxaUnliYWJtNU1IRTB0QVdYdTR5bnhTQjZxRFU1UHBudEF1blVtSVlQMks0azE3UmJoaElPbnRZaXJPY1EtZlNRNUZNOVdn?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    },
-    {
-      "title": "Obamas Welcome Hollywood Elites, Famous Friends to Presidential Center Opening as Unpaid Subcontractors Claim Millions Owed",
-      "url": "https://www.breitbart.com/entertainment/2026/06/18/obamas-welcome-hollywood-elites-famous-friends-to-presidential-center-opening-as-unpaid-subcontractors-claim-millions-owed/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
-    },
-    {
       "title": "A 13-year-old dies after participating in a Benadryl TikTok 'challenge'",
       "url": "https://www.cnn.com/2023/04/18/us/benadryl-tiktok-challenge-teen-death-wellness/index.html",
       "source": "CNN",
@@ -29,60 +8,67 @@
       "domain": "cnn.com"
     },
     {
-      "title": "Fed watching is looking very different now. Two charts can help you in the Warsh era.",
-      "url": "https://www.marketwatch.com/story/fed-watching-is-looking-very-different-now-two-charts-can-help-you-in-the-warsh-era-d2372c15?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
-    },
-    {
-      "title": "Starmer\u2019s future hangs in balance after Burnham\u2019s Makerfield election win",
-      "url": "https://www.aljazeera.com/news/2026/6/19/inside-the-makerfield-by-election?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "Farage blames Makerfield defeat on anti-Starmer votes",
-      "url": "https://www.bbc.com/news/articles/cvgqvj8dkz7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "WATCH:  Knicks superfans celebrate at kids ticker tape celebration",
-      "url": "https://abcnews.com/video/133971174/",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    },
-    {
-      "title": "bet365 bonus code: Bet $10, get $365 in bonus bets for United States vs. Australia",
-      "url": "https://nypost.com/2026/06/19/sports/bet365-bonus-code-bet-10-get-365-in-bonus-bets-for-united-states-vs-australia/",
+      "title": "Vance issues harsh warning to Israelis slamming Trump\u2019s Iran deal",
+      "url": "https://nypost.com/video/vance-issues-harsh-warning-to-israelis-slamming-trumps-iran-deal-2/",
       "source": "New York Post",
       "bias": "right",
       "domain": "nypost.com"
     },
     {
-      "title": "Protesters to rally against World Cup sponsor Hyundai before Mexico game",
-      "url": "https://www.theguardian.com/football/2026/jun/17/protesters-to-rally-against-world-cup-sponsor-hyundai-before-mexico-game",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    },
-    {
-      "title": "Lebanon hostilities escalate, with Israeli leaders defiant in face of US-Iran deal",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMDU0b09vektQdnBEbFN3LXFOMjFUQk0ybEdGV3EyZnpibE13akNnNzVVVHZjRkZIX1ZjYjBUM0ZHTTNSdTVWWTJPTGpGQkJhMndMWDFqYnQ2Zjg2eEVPWm41Q0otVmhvRHZTOUo1MEx5Zi0zd3JINUZXb25fVFBONHJhUHNoT3VPTWxlYWFfVDlwY0htS0FfMnpBWkIwSWoxNm9HTFZieGF0RmtsMjRmZQ?oc=5",
+      "title": "For US Vice President JD Vance, Iran talks could shape political rise",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQWlnWFI3SUZDeUtiRU9JdURpYTJhMkM0Qzdzay01VGNKbFBXRDdNZURuX2h4TFNrdGVhYlF0QVcxaHY0cG5FNTIxSVRpVG9yOENHbnF1M2ZJRkpYb01kdUg5YWlhRHljMXhBcll5d2xNLTVaQXZQZDh2LWZhcU9TREVLYnl5MDUtdVQtdVlqOUQyQQ?oc=5",
       "source": "Reuters",
       "bias": "center",
       "domain": "reuters.com"
     },
     {
-      "title": "Iranian and Israeli athletes react to memorandum of understanding to end US-Iran war",
-      "url": "https://www.foxnews.com/sports/iranian-israeli-athletes-react-memorandum-understanding-end-us-iran-war",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
+      "title": "US and Iran sign initial deal to end war, ease sanctions and open strait as nuclear talks continue",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYzhJLTNmdndOU3pZcnk5NHo0eTlWSXd1OTNGenFWRDUxbGVuZnhXLUN4QWs4RTAwUEpvT0xtd29yZ1J3U1d5Q0hhWkpBZ2U3MGx5QkltNGl3SkdvRWY2aGU2dmZCMnZ0aU5Td0xidVZ4VHExdnBkQmJYeEhYUjFWTXUxMlJKaFVwcFJfNHI3eDJqcnYtX09wM09YcmN5U2JjbkE?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Oil prices face fresh wave of volatility amid conflicting reports about Strait of Hormuz reopening and ongoing regional strife",
+      "url": "https://www.marketwatch.com/story/oil-prices-under-new-wave-of-pressure-amid-lingering-questions-over-a-strait-of-hormuz-reopening-c58fc9e8?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
+    },
+    {
+      "title": "Israeli air strikes hit Lebanon minutes after new ceasefire",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/19/israeli-air-strikes-hit-lebanon-minutes-after-new-ceasefire?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "Trump defends his Iran deal, criticizes longtime ally Israel as G-7 ends",
+      "url": "https://www.washingtonpost.com/politics/2026/06/17/trump-defends-iran-deal-white-house-unveils-details/",
+      "source": "Washington Post",
+      "bias": "left-center",
+      "domain": "washingtonpost.com"
+    },
+    {
+      "title": "\u2018Game Changer\u2019? Too Soon to Tell. But Ukraine Flexed in Striking Moscow.",
+      "url": "https://www.nytimes.com/2026/06/19/world/europe/ukraine-drone-attack-moscow.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Henry Zeffman: What does Keir Starmer do next after Andy Burnham's Makerfield win?",
+      "url": "https://www.bbc.com/news/articles/c3ryp0nejdro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "Israel and Hezbollah agree to ceasefire, officials say",
+      "url": "https://www.cbsnews.com/live-updates/iran-us-war-talks-suspended-trump-mou-israel-lebanon-hezbollah-fighting/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
     },
     {
       "title": "US-Iran talks in Switzerland canceled. And, DHS to give police facial recognition app",
@@ -92,101 +78,69 @@
       "domain": "npr.org"
     },
     {
-      "title": "Senate targets Hegseth\u2019s travel in standoff over apparent Iran school attack, boat strikes",
-      "url": "https://www.washingtonpost.com/national-security/2026/06/17/senate-targets-hegseths-travel-standoff-over-iran-school-attack-boat-strikes/",
-      "source": "Washington Post",
+      "title": "Jair Bolsonaro\u2019s son sentenced to four years in jail for seeking US interference in father\u2019s Brazil coup trial",
+      "url": "https://www.theguardian.com/world/2026/jun/16/brazilian-court-convicts-eduardo-bolsonaro-us-help-father-jair",
+      "source": "The Guardian",
       "bias": "left-center",
-      "domain": "washingtonpost.com"
+      "domain": "theguardian.com"
     },
     {
-      "title": "Read the transcript of the deal between the US and Iran",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUFZwMWw2WVV5TV9rVk9Uc25PMk5OMHU5VWZvSVdXUTlSdUlkbGZmMmRmQ294SENYV09yZVVUTUFzOHJ0SWxiZW45Y1VPUlpHOVRJdkV6STBPY2pVV0JLRlpRdkhlN2lnOGw2MEVTS00zWnRGTlZ6MDRQOEE2RE1EMlFzb3BwN0pvTUp3VHpYbw?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "More than a dozen dead after Israeli attack in Lebanon, potentially impacting peace deal",
-      "url": "https://www.cbsnews.com/video/more-than-a-dozen-dead-israeli-attack-in-lebanon-potentially-impacting-peace-deal/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    }
-  ],
-  [
-    {
-      "title": "Texas sheriff rescues RV full of Swedish World Cup fans who needed a helping hand, buy Burrow's Bronco & MEAT",
-      "url": "https://www.foxnews.com/outkick-sports/texas-sheriff-rescues-rv-full-swedish-world-cup-fans-needed-helping-hand-buy-burrows-bronco-meat",
-      "source": "Fox News",
+      "title": "Nolte: California Billionaire Tax Qualifies for November Ballot",
+      "url": "https://www.breitbart.com/politics/2026/06/18/nolte-california-billionaire-tax-qualifies-for-november-ballot/",
+      "source": "Breitbart",
       "bias": "right",
-      "domain": "foxnews.com"
+      "domain": "breitbart.com"
     },
     {
-      "title": "Die-hard Scotland fans fly 22 hours in tiny plane to World Cup",
-      "url": "https://www.bbc.com/news/videos/cx2j75vg4p1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "WATCH:  World Cup soccer fans in US for first time experience joys of America",
-      "url": "https://abcnews.com/video/133982347/",
+      "title": "WATCH:  Knicks superfans celebrate at kids ticker tape celebration",
+      "url": "https://abcnews.com/video/133971174/",
       "source": "ABC News",
       "bias": "center",
       "domain": "abcnews.go.com"
     },
     {
-      "title": "Brazil vs Haiti: World Cup \u2013 Prediction, how to watch and will Neymar play?",
-      "url": "https://www.aljazeera.com/sports/2026/6/19/brazil-vs-haiti-world-cup-prediction-how-to-watch-and-will-neymar-play?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    }
-  ],
-  [
-    {
-      "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
-      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
-    },
-    {
-      "title": "Luigi Mangione's lawyers withdraw psychiatric defense for state case in CEO killing",
-      "url": "https://www.cbsnews.com/video/luigi-mangiones-lawyers-withdraw-psychiatric-defense-for-state-case-in-ceo-killing/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "Disgraced Murdaugh trial clerk who helped blow up murder conviction claims protection from payback lawsuit",
-      "url": "https://www.foxnews.com/us/disgraced-murdaugh-trial-clerk-helped-blow-murder-conviction-claims-protection-payback-lawsuit",
+      "title": "Reporter's Notebook: How Trump's surprise move on DNI confirmation upended key Senate deal on FISA",
+      "url": "https://www.foxnews.com/politics/reporters-notebook-trumps-surprise-move-dni-confirmation-upended-key-senate-deal-fisa",
       "source": "Fox News",
       "bias": "right",
       "domain": "foxnews.com"
+    },
+    {
+      "title": "'I Want Them To Go': Whoopi Goldberg Has Unexpected Take On Knicks' White House Invite",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQjZwcTFhYk5PUzBZVU5jSmgyMHBDMWZQQlI4cGdXNzhkWTZDRDJQWDhpNUtCb3pkWWdtRGRaS2NKbGpFbmkzak03bWVwVjU0WDZwZDNaLTlqRnBBd29iZFRLRFZJWkNzdW82MEt1MnRpQjBOMGg4NmVIa014VGlvYjRJbnNsNU0xd01BQmFVY0Z6eVZqRkZlLWlsWnNLV3JwYXdDZUVoeVFSdHNZRHFicjBsQXlobzdsRkHSAb8BQVVfeXFMTklZcF9qREFxMUxJUDhJbFZBOVJJdnlZbE1TbUwtb0gzemVDVXluNVRYYmhvdVg3QVZEdnN5SENEVU5oUE5vNDUwQS1MTFozLU5YVFZwWHNEQ3Y0c2hBYUlhZ193bnNWTWxSLTRObHVHM2lTaXh6VjJVSnBha1gxUnhENW5sUncydF9vVnVVelZndEZYNnllNGNXdzZnVkRydzdmMnJ1MkRVVnBvaHplcjZBV1dhNGViQ2xPTVQtZHc?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
     }
   ],
   [
     {
-      "title": "\u2018Game Changer\u2019? Too Soon to Tell. But Ukraine Flexed in Striking Moscow.",
-      "url": "https://www.nytimes.com/2026/06/19/world/europe/ukraine-drone-attack-moscow.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
+      "title": "WATCH: Would-be second-term President Biden left searching for family on stage after Obama Center opening",
+      "url": "https://www.foxnews.com/politics/watch-would-second-term-president-biden-left-searching-family-stage-obama-center-opening",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
     },
     {
-      "title": "Ukraine pummels Russian capital with what may be largest drone strike yet on Moscow",
-      "url": "https://www.washingtonpost.com/world/2026/06/18/ukraine-takes-revenge-russian-capital-by-pummelling-moscow-with-drones/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
-    },
-    {
-      "title": "Ukrainian drones set a Moscow refinery ablaze in a major attack on the Russian capital",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObnJLLU9lQkl6M1NlTnlwMVNFYllySjZfU3FJdElaRTVZYjZqeUlnT0lQS2VPSGpJdW5sWktCTHF0NXJrRTVobFNvN01zREI5dDVlX0RtQmhnQ0FTWkFybXFGU1ZSMFRjRVNTXzlFdlRVRENZS3hoaHZPZmE4dHRNeTBVVVhpblVQczd2Q3JtYnQ4T1dZZ0NxWkd3d3dWdU9xM2N4QVRsemI?oc=5",
-      "source": "Associated Press",
+      "title": "WATCH:  Questions surround $14M Reflecting Pool renovation as new paint peels off the bottom",
+      "url": "https://abcnews.com/video/134013020/",
+      "source": "ABC News",
       "bias": "center",
-      "domain": "apnews.com"
+      "domain": "abcnews.go.com"
+    },
+    {
+      "title": "Trump's $14M Reflecting Pool Paint Job Is Now Peeling Off And Floating To The Surface",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNR053UzlYRFZqZEs1ckJyWGNJNXYyNHBqQXlSQ3RVbXdXWU80bkZrUXFpTDI4RG9ad1A4QXZaa2dNS0YzQm1GSTJrdFN5WXl3YW04M1JqOVBoeFBwRnNnZ0dUODdKV2FUUlVwc3FBazdnM3hHUVMzR1JWOTNLWFprY2IwczNXTlRyc2RjY3pXNU5Zck1XR2xRMlUyeTdhaHlhZGZsQkxxYUlhWWpBdFZHTm5WcHROcXNJNDBOdnY3TVFGVHVET212bWhSMV80bGpFdEhRUjR4ZFfSAd4BQVVfeXFMTmhTOFNVWDF0SU80M2VIWFJRdkJqdGc4Z3QySGpCSTQ4ZnU2dkZMM0dQeUN2X3VCX0FnU2dNRDlyMjBBLWluTHZYRXZDTERrZXJyTDNlcHRLUWRNTE92OFNQTzUzbm5haTc4ajVBOXBvRm9RUzNRbGtaR0stUVZfRTNWOG03VWhTZEtWeUpHV2sxTHNncjQ1cUxaUnliYWJtNU1IRTB0QVdYdTR5bnhTQjZxRFU1UHBudEF1blVtSVlQMks0azE3UmJoaElPbnRZaXJPY1EtZlNRNUZNOVdn?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    },
+    {
+      "title": "Algae clouded Trump's vision for the Reflecting Pool. But scientists aren't surprised",
+      "url": "https://www.npr.org/2026/06/19/nx-s1-5863044/dc-reflecting-pool-algae-green-trump",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
     }
   ],
   [
@@ -198,40 +152,15 @@
       "domain": "reuters.com"
     },
     {
-      "title": "Boy, 3, hurt at zoo was attacked by a crocodile, BBC understands",
+      "title": "Boy, 3, hurt at zoo was attacked by a crocodile",
       "url": "https://www.bbc.com/news/articles/cp9l2278m8no?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "bias": "center",
       "domain": "bbc.com"
-    }
-  ],
-  [
-    {
-      "title": "Five tips to keep your kids cool this weekend",
-      "url": "https://www.bbc.com/news/articles/c862j9vy746o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
     },
     {
-      "title": "It's toys vs. tech in 'Toy Story 5.' Here are 4 ways to keep tech in check this summer",
-      "url": "https://www.npr.org/2026/06/19/nx-s1-5845874/toy-story-5-tech-social-media-screentime-summer-movie",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    }
-  ],
-  [
-    {
-      "title": "U.S. moves toward troop reductions in Europe as Hegseth scolds NATO allies",
-      "url": "https://www.washingtonpost.com/world/2026/06/18/europe-readies-nato-with-less-us-hegseth-announces-troop-review/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
-    },
-    {
-      "title": "Hegseth attacks NATO allies and announces a review of US forces in Europe",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaW1GcDV4M2FXcnBqejVmZTF5TUdqRUNIc1VkdE1WTjFEMGpBam5TMkJKY0xxSXBMMDdMbU1aOTMwSzFOdmtVSTcwRVRqSi0xYUh3aTcxUmdOY0dYeFlkdUVjeGlJVmRtMU1tVThUaG5sU2duanRGeE9hcjVpbXhCbHBCRThBNVpSS1hVNDRyTy1TMFVhMWltRlFXOHg2Tl9vRGtz?oc=5",
+      "title": "Police arrest a man for attempted murder after toddler ends up in crocodile enclosure at English zoo",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT1pEV01EVGZZWlFGZUtaV1MyRWhsem5yZnM0d2tqM0tWdkMyTXJjX0ZPZEY1RTNkNVUwMVhEckJ0S1lMc3VQTzB5eHRIVDAtYXJHOWptT2w4ZzVmT1VOR1lGaXVwLU54QVdJMjM0VlpwU1paQ010ZTI4Q0FsWlhIWWx2amdpenZOdTlrVjE0eGktdFhReFJOTW1XelU1cW5FUHRIZ1A1dWttdw?oc=5",
       "source": "Associated Press",
       "bias": "center",
       "domain": "apnews.com"
@@ -239,18 +168,73 @@
   ],
   [
     {
-      "title": "Weather tracker: Severe thunderstorms sweep Europe and east Asia",
-      "url": "https://www.theguardian.com/environment/2026/jun/19/weather-tracker-severe-thunderstorms-europe-east-asia-heatwave-france",
+      "title": "Big dogs, Buc-ee's and the great BBQ debate: World Cup fans discover everyday America",
+      "url": "https://www.npr.org/2026/06/19/nx-s1-5860711/world-cup-america-tourists",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "Boston gals predict \u2018baby boom\u2019 after partying with charming Scots during World Cup",
+      "url": "https://nypost.com/2026/06/19/us-news/boston-gals-predict-baby-boom-in-9-months-after-partying-with-charming-scots-during-world-cup/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
+      "title": "WATCH:  World Cup soccer fans in US for first time experience joys of America",
+      "url": "https://abcnews.com/video/133982347/",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    }
+  ],
+  [
+    {
+      "title": "More than 70 Congo medics infected with Ebola since outbreak started, WHO says",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeU10VXJmdVJ3S3JKc1NjQnhpUm1SRjVSTnMzSkgwQndoQ3FVOUNXT2x5Q0lKYTF6MW1MZ09nc0pyQl8yVWY3aFlfU20yRTY3YWxwWVFhUzRLRlZLQ0pUcXlmUU9lZm52T1lNVFdZSU5JV0haNTd1U1VFbEh1dU45S3Y5Y2RYa1UtTUtVeGk2UlZwTjNwaVlTMkYxTzgtM2poeTA2a2I5eGVZZEtLOFN4RkNjc1Z4VHJpbVZSa01FUVdXbmNNTDItZjUzREFrUjY3WHRJMU1hVFVJMFpPc0Frc2dHQQ?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "CDC to tap $107m in emergency funding for Ebola response in DRC and Uganda",
+      "url": "https://www.theguardian.com/us-news/2026/jun/18/cdc-emergency-ebola-funding",
       "source": "The Guardian",
       "bias": "left-center",
       "domain": "theguardian.com"
+    }
+  ],
+  [
+    {
+      "title": "\u2018We are habitually frugal\u2019: My wife and I have money. How do we help our children without ruining their independence?",
+      "url": "https://www.marketwatch.com/story/we-are-habitually-frugal-my-wife-and-i-have-money-how-do-we-help-our-children-without-ruining-their-independence-a1e30cec?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
     },
     {
-      "title": "Remnants of Tropical Storm Arthur flood homes and force evacuations in Gulf states",
-      "url": "https://www.cbsnews.com/news/tropical-storm-arthur-gulf-states-flooding/",
-      "source": "CBS News",
+      "title": "More than a game: Football, friendship and mental health recovery",
+      "url": "https://www.aljazeera.com/features/longform/2026/6/19/more-than-a-game-football-friendship-and-mental-health-recovery?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    }
+  ],
+  [
+    {
+      "title": "Senate targets Hegseth\u2019s travel in standoff over apparent Iran school attack, boat strikes",
+      "url": "https://www.washingtonpost.com/national-security/2026/06/17/senate-targets-hegseths-travel-standoff-over-iran-school-attack-boat-strikes/",
+      "source": "Washington Post",
       "bias": "left-center",
-      "domain": "cbsnews.com"
+      "domain": "washingtonpost.com"
+    },
+    {
+      "title": "Seven-year-old Abdiqadir was hit in a US airstrike. Without a $750 operation, he may lose his ability to walk",
+      "url": "https://www.theguardian.com/global-development/2026/jun/17/boy-injured-us-strike-somalia-ability-walk-operation-abdiqadir-salah-surgery-civilians-november-attack",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
     }
   ]
 ]

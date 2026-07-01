@@ -1,11 +1,32 @@
 [
   [
     {
-      "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges",
-      "url": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
+      "title": "Four people die in mass fan celebrations in Mexico City after World Cup victory",
+      "url": "https://www.theguardian.com/football/2026/jul/01/deaths-mexico-world-cup-fan-celebrations",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "\u00bfY Si S\u00ed? The World Cup Delivers Hope to Mexico",
+      "url": "https://www.nytimes.com/2026/07/01/world/americas/mexico-world-cup-celebrations.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "2 Empire State Building climbers in custody after apparently getting engaged at the top",
+      "url": "https://www.cbsnews.com/news/empire-state-building-climbers-banner-nyc/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Russian daredevils unfurl banner atop New York's Empire State Building in proposal stunt",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMDF1RDNwbTNjWmdEeV9lekhGelhlSjB3aVVIdjhRNjVOOXpwRXJRaG9UckIyNFU1bTY4M0lnc3hwTnRZaUpaeWQwTk90RFRhQlYwY2F5OXlGT2ZiXzhzb0lKWUU2aFBtcVhaeG1JTUF3TW1oZUhSQUdNSGJSa0huUXZPQ2NhWnFkdk5mQkRyaXozWXJvVVVwV3d3cFM2SWw1TUtvU3NsNHNRVXk4YktN?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
     },
     {
       "title": "Untold casualties and humanitarian needs: What to know a week from Venezuela's quakes",
@@ -15,6 +36,20 @@
       "domain": "npr.org"
     },
     {
+      "title": "Venezuela earthquakes latest: Nearly 50,000 unaccounted for as death toll climbs",
+      "url": "https://abcnews.com/International/venezuela-earthquakes-latest-50000-unaccounted-death-toll-climbs/story?id=134386173",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    },
+    {
+      "title": "After quakes trap Venezuelans, the government impedes rescuers and aid",
+      "url": "https://www.washingtonpost.com/world/2026/07/01/after-quakes-trap-venezuelans-government-blocks-rescuers-aid/",
+      "source": "Washington Post",
+      "bias": "left-center",
+      "domain": "washingtonpost.com"
+    },
+    {
       "title": "JD Vance Lays Out Post-Trump Conservative Vision In Interview With Michael Knowles",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdFQwckdHV2pVNkZ5QjJLWllWTm9femIzZmlETjRQUEpsd3JLRUFsUjFWak1mNEVvR0hxbmltRjFfMW12NGhZcUJ1S205YklNaS1CMnBLZ25LZmdFTlozRXNhMGFnZjZndlhlS2R5ZW5iSHo0a3dXTjk4MjlaLU9kVFRkN2ZvQVlDbE1QT0NOLXB0MzFoQ1psbzY4WTVFZlh0QUJueHlqS0tMU3RLTENhNE1QUQ?oc=5",
       "source": "Daily Wire",
@@ -22,11 +57,25 @@
       "domain": "dailywire.com"
     },
     {
-      "title": "Despite marquee losses, Supreme Court term grows Trump\u2019s presidential power",
-      "url": "https://www.aljazeera.com/news/2026/7/1/despite-marquee-losses-supreme-court-term-grows-trumps-presidential-power?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "From Truman's pension to Trump's billions - a White House windfall unmatched by any president",
+      "url": "https://www.bbc.co.uk/news/articles/c70yk07vq0po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "bias": "center",
-      "domain": "aljazeera.com"
+      "domain": "bbc.com"
+    },
+    {
+      "title": "Trump filing shows he took in about $1.2 billion from crypto businesses last year",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWjNlekt0VjJhX2w5b01vaFFEaXB2LVdlc0R4dUU0UVQtZ3RxMGxvb2pZUGNnT3lvQmpkOXJjdnMzaVpTcDZNZ3ZnalNMYWZSMjFaZkxXTldKYUtRcnFvd2hBZnlGZWpPU0V0Qms0YVBsZkdCUkxZcEdXRmZ5WHJDb01SSmM4TExxMVl6UElqbmlKQ0lqRk9SZw?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "A 13-year-old dies after participating in a Benadryl TikTok 'challenge'",
+      "url": "https://www.cnn.com/2023/04/18/us/benadryl-tiktok-challenge-teen-death-wellness/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
     },
     {
       "title": "Democratic Socialist Melat Kiros Unseats Rep. Diana DeGette In Colorado Primary",
@@ -36,33 +85,51 @@
       "domain": "huffpost.com"
     },
     {
-      "title": "Pope Leo plans to send a message about migrants on July Fourth",
-      "url": "https://www.washingtonpost.com/world/2026/06/30/july-fourth-pope-leo-offer-counterpoint-trumps-america/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
-    },
-    {
-      "title": "Taiwan\u2019s president visits East-West think tank as China criticizes his 2-day visit to Hawaii",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbTNwYVpBWm9DMEZHTUMwMmdLZnpYV1JwRjB3Tnp0Z19hNHBDd05yQ3E4cmd3XzZudEppOEg1QTZkdGdWQ1JsU1RUUUJXTERPMGwtWkJ3Z0dHYU8tSW5EbkNrd1JOT1ltQUpvU1ZweTJQaF94MEZNa1FCc1pFamNJa3dmMFR2U1V2S3U4RWJ6ZWhjZmxjZjBCRFFrV1U2VDJBeVE?oc=5",
-      "source": "Associated Press",
+      "title": "E Jean Carroll demands Donald Trump pay $5.8m in damages from 2019 case",
+      "url": "https://www.aljazeera.com/news/2026/7/1/e-jean-carroll-demands-donald-trump-pay-5-8m-in-damages-from-2019-case?traffic_source=rss",
+      "source": "Al Jazeera",
       "bias": "center",
-      "domain": "apnews.com"
+      "domain": "aljazeera.com"
     },
     {
-      "title": "Mexico pushes to extend USMCA after Trump says he\u2019d \u2018rather have it terminated\u2019",
-      "url": "https://nypost.com/video/mexico-pushes-to-extend-usmca-after-trump-says-hed-rather-have-it-terminated/",
+      "title": "Walz, Minnesota Board of Pardons clears convicted illegal alien child sex offender facing deportation",
+      "url": "https://www.foxnews.com/politics/walz-minnesota-board-pardons-clears-convicted-illegal-alien-child-sex-offender-facing-deportation",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Phil Mickelson rejects allegation he showed nude selfie to woman, calls misconduct expos\u00e9 \u2018drive-by shooting\u2019",
+      "url": "https://nypost.com/2026/07/01/media/phil-mickelson-rejects-allegation-he-showed-nude-selfie-to-woman-calls-misconduct-expose-drive-by-shooting/",
       "source": "New York Post",
       "bias": "right",
       "domain": "nypost.com"
     },
     {
-      "title": "Trump refuses to renew US-Canada-Mexico trade pact he once championed",
-      "url": "https://www.theguardian.com/us-news/2026/jul/01/trump-usmca-trade-treaty",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
+      "title": "Exclusive \u2014 Rep. Riley Moore: House \u2018Held Hostage\u2019 by Senate Inaction as SAVE Act Set to Be Attached to NDAA",
+      "url": "https://www.breitbart.com/politics/2026/07/01/exclusive-rep-riley-moore-house-held-hostage-by-senate-inaction-as-save-act-set-to-be-attached-to-ndaa/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
+    }
+  ],
+  [
+    {
+      "title": "Celtics agree to send Jaylen Brown, 2024 Finals MVP, to 76ers in blockbuster NBA trade: report",
+      "url": "https://www.foxnews.com/sports/celtics-send-jaylen-brown-2024-finals-mvp-76ers-blockbuster-nba-trade-report",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
     },
+    {
+      "title": "Jaylen Brown reportedly traded from Celtics to 76ers",
+      "url": "https://www.cbsnews.com/news/jaylen-brown-traded-boston-celtics-philadelphia-76ers/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    }
+  ],
+  [
     {
       "title": "US declines to extend North American trade deal, starting clock to end it while seeking changes",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORWxhSVNvODM1MVFkUkxYbEZKQ0FTbUhoOWpsdUdCTkRDYzlLTDZaTjlKOGQ5ZDQyd3MxOUUxblp4eUxtZGZIeEpKVGtkMXJMNFpkUVpNNnNHTzlSOU5rc21LU1dnNnBld0dmdzItZ2dpS05aOC1BRm8xdmt5WUduWDJjUUc0Nmd3OFdBX3JsbnhOY2RPdm50a2Vyek5IMGhWa1lPSHRWanNWMno1RkJOQkM3NFdOV3pSZVgzX053WnBOWGRGM3VF?oc=5",
@@ -71,131 +138,8 @@
       "domain": "reuters.com"
     },
     {
-      "title": "U.S. says it won't extend key trade deal with Canada and Mexico",
-      "url": "https://www.cbsnews.com/news/us-wont-extend-usmca-trade-deal/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "Watch: Two people climb to highest point of Empire State Building",
-      "url": "https://www.bbc.co.uk/news/videos/cz75gz79pl2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "Can \u2018Chalant\u2019 Dating Help More People Find Love? Ask Taylor and Travis.",
-      "url": "https://www.nytimes.com/2026/07/01/well/live/chalance-dating-taylor-swift-travis-kelce.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "West Coast state sheriff's bait bike sting snares dozens of alleged thieves in just months",
-      "url": "https://www.foxnews.com/us/west-coast-state-sheriffs-bait-bike-sting-snares-dozens-alleged-thieves-just-months",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "Federal Judge Rejects Meta's Attempt to Dismiss Lawsuit over Youth Social Media Addiction",
-      "url": "https://www.breitbart.com/tech/2026/07/01/federal-judge-rejects-metas-attempt-to-dismiss-lawsuit-over-youth-social-media-addiction/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
-    },
-    {
-      "title": "Is the U.S. jobs market getting better? June employment report to give us a heat check.",
-      "url": "https://www.marketwatch.com/story/is-the-u-s-jobs-market-getting-better-june-employment-report-to-give-us-a-heat-check-529a3d2e?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
-    },
-    {
-      "title": "Venezuela earthquakes latest: Nearly 50,000 unaccounted for as death toll climbs",
-      "url": "https://abcnews.com/International/venezuela-earthquakes-latest-50000-unaccounted-death-toll-climbs/story?id=134386173",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    }
-  ],
-  [
-    {
-      "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
-      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
-    },
-    {
-      "title": "Judge gives Trump administration two days to release billions of dollars in blocked foreign aid",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdUhoSU1yMkoyak1SZGRnallrSGx2cUttQjNCOXg1QmEwaEI0RmZvODJKNHNRWXZjdFBTc0IycWRuRTQ5cmthNlVmWU9aUzhaN0lmb3ppR0Q3bjdLTWdUREFIdE1WWGZHaTVQU0hPV3NVeE80bXROZkxyNFF5RVY2ZUJlQUJBd3ZDdXJVMEt6QQ?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "Bibles, Home Alone and perfume: Six surprising ways Trump made money in 2025",
-      "url": "https://www.bbc.co.uk/news/articles/cy9rg133lrjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "Crypto Brought Trump a Huge Windfall, Even as Many Investors Lost Big",
-      "url": "https://www.nytimes.com/2026/07/01/us/politics/trump-crypto-memecoin-world-liberty.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "Trump takes 1st flight on Air Force One gifted by Qatar",
-      "url": "https://abcnews.com/Politics/trump-takes-1st-flight-new-air-force-gifted/story?id=134373911",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    },
-    {
-      "title": "Harvard professor known for alien theories to lead White House UFO council",
-      "url": "https://www.cbsnews.com/news/avi-loeb-harvard-ufo-council-aliens/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    }
-  ],
-  [
-    {
-      "title": "Kane double rescues England in comeback win over DR Congo",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTXdweDg0ak14djdFVHg4YnA5T0NoeVRUM1ExcEhvV0dPZWtWRzViVXFzaUFMd3Q1UVUzaVlUdjBqOXVWaXZaNFlXT2dxU3V1cl82QmhlaGxyYUsyNUFJQWFITHI0djRmLTVQM2x3cTl3SDJsNFQ4TzlsVzFPdXgtalAxNTkyYlR5S1ZrbHNiTlhJZTJSUVdSazlOM21EZUZrbWdOUmUwdw?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "Genuine superstar Kane produces his biggest England moment",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgd12vj79qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "WATCH:  Florist learns the power of social media",
-      "url": "https://abcnews.com/video/134345709/",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    },
-    {
-      "title": "Kane double fires England to comeback win over DR Congo at World Cup 2026",
-      "url": "https://www.aljazeera.com/sports/2026/7/1/kane-double-fires-england-to-comeback-win-over-dr-congo-at-world-cup-2026?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "\u2018Everyone is talking about Cape Verde\u2019: World Cup run delights diaspora community in UK",
-      "url": "https://www.theguardian.com/world/2026/jun/26/cape-verde-world-cup-run-delights-diaspora-community-uk",
+      "title": "Trump refuses to renew US-Canada-Mexico trade pact he once championed",
+      "url": "https://www.theguardian.com/us-news/2026/jul/01/trump-usmca-trade-treaty",
       "source": "The Guardian",
       "bias": "left-center",
       "domain": "theguardian.com"
@@ -203,66 +147,50 @@
   ],
   [
     {
-      "title": "Germany charges Ukrainian over Nord Stream pipeline blasts",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOalRlaFpyS3FBM2dSdHM0ck5wVzNlWXpQUEZIczhyWF9ITVFqbFNFWE1kQkZkTlVLcUNiWXItYmFTVzNpallnQ1BiVnJ5MmlkWi0zSjNKVzBLMml2cnJ4Vi1RckwxaUxrRFI2OVZaUFJlSWhZem1pUC1tamhWdXFrU29kNTZUTExkZE5ZUHJtUW9TX0xya2M0Z1l6bTltLWJ4UHhmOE5rRHg3UlF5OVRYS3hSWHNRdV96b0ZPRw?oc=5",
-      "source": "Reuters",
+      "title": "Israel kills three Palestinians in Gaza despite \u2018ceasefire\u2019",
+      "url": "https://www.aljazeera.com/news/2026/7/1/israel-kills-three-palestinians-in-gaza-despite-ceasefire?traffic_source=rss",
+      "source": "Al Jazeera",
       "bias": "center",
-      "domain": "reuters.com"
+      "domain": "aljazeera.com"
     },
     {
-      "title": "Ukrainian charged in Germany over Nord Stream blasts",
-      "url": "https://www.bbc.co.uk/news/articles/c33yjk0ldkdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
+      "title": "Ukrainian drone attacks on oil refineries plunge Russia into a summer fuel crisis",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVWhCd0owd29LOGZjcXNhWmpEaVRIb1lyUE5jamlUVlhLNE5aMWVPLUVvTTdDSlRUNkNIa2RjS2NUY3gyZG5VWHl1bV9IUERWVkR4NlpHYk9xZ3pzY2VOZUdpdWtZNzhYTVEtWjJ1c0xvTlJjZVZ3STlBcmFtUl96RnRoZHA2dFRxVXZSUzZCQmZCbldBT0hEZ1Zn?oc=5",
+      "source": "Associated Press",
       "bias": "center",
-      "domain": "bbc.com"
+      "domain": "apnews.com"
     }
   ],
   [
     {
-      "title": "Meta building cloud business to sell excess AI capacity, Bloomberg News reports",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRTFZdGllTTA5UmJ6WmxLYjRDUHJ4RWg1U3dCOEVGTElDMUJlNWQwOTg0VWZxTGUxSWVPaEJqTjJ0TTZsRHk5Ynh4RC15a0ZVQkdxQVVGdTl0UXRZZ3NBLVZWZVQxcWJQSEoyQ01LZ3F3V0FnWFZucTNibm9nTm9DZlVfNzAxaW14LXFYQXRxdmxFMXZBeDF0NEo1dnN0S2tFdTlpNVF3bjNoRVY2WjE2SkFBNXhzWkVHOFRFOVk3Q2ZZakk?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "Is Meta \u2018giving up\u2019 on cutting-edge AI? Wall Street is divided over potential cloud pivot.",
-      "url": "https://www.marketwatch.com/story/is-meta-giving-up-on-cutting-edge-ai-wall-street-is-divided-over-potential-cloud-pivot-7c5ffc5d?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
-    }
-  ],
-  [
-    {
-      "title": "Control of the Senate Is Up for Grabs, Times/Siena Polls Find",
-      "url": "https://www.nytimes.com/2026/07/01/us/politics/polls-senate-control.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "Nolte: GOP Leads in Most U.S. Senate Polls Ahead of Midterm Elections",
-      "url": "https://www.breitbart.com/politics/2026/07/01/nolte-gop-leads-in-most-u-s-senate-polls-ahead-of-midterm-elections/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
-    }
-  ],
-  [
-    {
-      "title": "Putin calls for closer Russia-China cooperation on military satellites and prospective weapons",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeHZ2RmFqc0NzVjZVZkNac2FUTFQtVk0yNmFRVU5YWlVvbjIzczVHbFlzbVZkSEl2TndoSWd3bDlHRmRjRllqaW9DenlEU3dRZWhBZFNsTk5XNEx1RmJOMUlsMjJTZ2p2NnlVMWNhdW9PRXgxRlRpbTl1bjljMmZ1bFl3MmYtZzNKSnlhMl9ZanlXcUdoaUdzLQ?oc=5",
+      "title": "Victor Willis, who co-founded the Village People and co-wrote \u2018Y.M.C.A.,\u2019 dies at 74",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeDRES2ZtNnZPQW1hYlZaeUtNel91M2ZIZTRYQmIwaDZMa1ZTLWVJRkhBelN2dW9RNTZub2dVYnVUdkEzOXJNTjZJWWE3amhaQ3BiV3JVMEdiX0FHV3R4OUxEOXZaaHdVVnBabFh0RE5wRE5JZnVYRzAxMVlGVE15RHRZMFc?oc=5",
       "source": "Associated Press",
       "bias": "center",
       "domain": "apnews.com"
     },
     {
-      "title": "Russia Approved Secret China Military Training At Top Level: Reuters",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMC16bTNwU3p6UjU2b0gxQlhzaG9vSk1WTmlkS0hFNnNDOUh0aGRYX2lpMXBsTHVZR0NUby1VSFEzLVEwR1Nfd21CWWg3TWNfcEdCSHZwNE5yMjlqVzdISllReFp1UFRJSFU1eWlLWk9HMHEzeExUNzllMTdhN1dWcDF6dkZxTEx2RW81RVI4QW1VbUExTWExa0ZlZ9IBoAFBVV95cUxQRG1nWk5EVkg1bGYySDNJV2NJUVZWaGhUR1E1ejdoNzViRGtQd3M3V2FrbjY1M0NVbV9lNHZQSFJDS0p6ZDR2c0NxNUxuUGl4ZzBCdDJMQUFNMXFsaktvSDhfUVJoNHhhWkpKdTQwSkVWd2ZCSHVKdWQ5Z1ZiMUpnNllmN2hKd3hYcURSQVFSQ094dTJjWTA5VkJXSmhHbzV6?oc=5",
+      "title": "Village People Lead Singer Victor Willis Dead At 74",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVHBXZ0dFRWdscDBUVWpFX2ZmczJxbXU1TEU0Y3M1Nmt1YjhPdjBfRG5JaUJkY0g3WGU3WG1Ua3NaQlF3SmduTTJIZkNDbEpkQ0VCS08yX3NKREgtcjdXeXp0bHhuMDd4aGhPVGJSV19zdUVwWG9TOFdnX0NnNkNwS0xoNUlIVHNRbk9kTlZ1Q1BxU1AxekHSAZsBQVVfeXFMTTFja3hfTFVkN09XVEw0NGZWQmpBVzM4VkhnQjA3dG0xOVN2Y0YwLTJ3QjBUOEZUTTJCRVpWQldOQjhuaW01U2hkMnpNeDZCZC1ENXZXMUZxRkVrUEc5VFc5cXdianJDMWNtZHJvVDJTb0xMM0xZUExYRXNsb2tuaUhuX2poNFpwRWZ0UU5OdEpFV0pVbmdZcHhWdDQ?oc=5",
       "source": "HuffPost",
       "bias": "left",
       "domain": "huffpost.com"
+    }
+  ],
+  [
+    {
+      "title": "Nursing gains 'professional' label for student loans after judge's ruling, but theology now dropped",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQTlkLTVPRGtyZDhmdGhoWmpMeVVpaVE0a01uOWoyMzRaUEl3TFUzb1lNOGNDbFVrUnFCTFQwdF9JQmtKMENFR05WQ09SUnJya3RoOXd2Y2R3a09odVVSRVNNTnc4XzZSeHkyMVEwNWdQS0hmaHBrbERtQnJGR3ZyRmhXYVpORFh2b1VGdFdFOG9yaUFqZUJ2SW56dWRQUkNFVzR2cVBURHp6OV9Y?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Sweeping changes to federal student loans take effect",
+      "url": "https://www.cbsnews.com/video/sweeping-changes-federal-student-loans-take-effect/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
     }
   ]
 ]

@@ -1,60 +1,67 @@
 [
   [
     {
-      "title": "Supreme Court hands Trump wins\u2026and losses, Monaco parcel bomb sparks international manhunt",
-      "url": "https://nypost.com/video/supreme-court-hands-trump-winsand-losses-monaco-parcel-bomb-sparks-international-manhunt/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
+      "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges",
+      "url": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
     },
     {
-      "title": "SCOTUS Protects Women\u2019s Sports In Landmark Ruling",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNk1RZXNPUjRSUTdQN0t6dURJZUEzcks3THAtbkdUM29DbzRpLWUxX0hLSzdDTm5YbW9ud2ctT2VaTzM0SkxvRFJER3V4Y1Y1QlpGeG1UYWo1OVN6aml0S2MzZHlROTRtWHF3WFpOMElNcmh5S3dHeEhNalRYYmRjUEt3MXNON29rYm1LbVVLaw?oc=5",
-      "source": "Daily Wire",
-      "bias": "right",
-      "domain": "dailywire.com"
-    },
-    {
-      "title": "Trump discloses expanding financial empire, including Apple stock, celebration coins and crypto",
-      "url": "https://www.marketwatch.com/story/trump-discloses-expanding-financial-empire-including-apple-stock-celebration-coins-and-crypto-8786ef64?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
-    },
-    {
-      "title": "E. Jean Carroll attorneys say 'time for him to pay' after SCOTUS rejects Trump appeal",
-      "url": "https://abcnews.com/Politics/after-supreme-court-rejects-trumps-appeal-attorneys-jean/story?id=134362318",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    },
-    {
-      "title": "Trump made more than $1bn from crypto in first year back in office",
-      "url": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "'United Saints of America': Trump-Inspired 'Fighter' Singer Jon Kahn, Nashville Hit-Maker Michael Farren Release Patriotic Anthem Ahead of America's 250",
-      "url": "https://www.breitbart.com/america250/2026/07/01/united-saints-of-america-trump-inspired-fighter-singer-jon-kahn-nashville-hit-maker-michael-farren-release-patriotic-anthem-ahead-of-americas-250/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
-    },
-    {
-      "title": "Three people die in mass fans celebrations in Mexico City after World Cup victory",
+      "title": "Four people die in mass fan celebrations in Mexico City after World Cup victory",
       "url": "https://www.theguardian.com/football/2026/jul/01/deaths-mexico-world-cup-fan-celebrations",
       "source": "The Guardian",
       "bias": "left-center",
       "domain": "theguardian.com"
     },
     {
-      "title": "Three people die in Mexico World Cup celebrations as fans crowd streets",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONHRuWjl1VEhoVC1qTllkS0RUSERFbEJCbG9ydkQ0NTF4WG5jSXEzU2J2WkdRb0JUZkNER2loa2FRbmpuNEtRSXo5eVd4dXdlamE0VzBrQmI2TGo3TG9Ud3JfRy0zQThKcmxrUUJ1a3VCMENmMTJKZW1CSHBISHgzSXUzVXJkTVgzMzBtd21taHhGQzJkZC1ZYXRJd2xvVllvcElpS2NEaVBUZTYwdXRVWlVpQQ?oc=5",
+      "title": "Ohio motel fire kills 3 people trapped in room after firefighters couldn\u2019t reach victims",
+      "url": "https://nypost.com/2026/07/01/us-news/ohio-motel-fire-kills-3-people-trapped-in-room-after-firefighters-couldnt-reach-victims/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
+      "title": "One crew member missing after US Navy helicopter makes emergency landing in Arabian Sea",
+      "url": "https://www.foxnews.com/world/one-crew-member-missing-after-us-navy-helicopter-makes-emergency-landing-arabian-sea",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Watch: Fans react to tense World Cup game",
+      "url": "https://www.bbc.co.uk/news/videos/cy4ewx4832jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "What Would Taylor Swift and Travis Kelce\u2019s Prenuptial Agreement Look Like?",
+      "url": "https://www.nytimes.com/2026/07/01/business/taylor-swift-travis-kelce-prenup.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Russian daredevils unfurl banner atop New York's Empire State Building in proposal stunt",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMDF1RDNwbTNjWmdEeV9lekhGelhlSjB3aVVIdjhRNjVOOXpwRXJRaG9UckIyNFU1bTY4M0lnc3hwTnRZaUpaeWQwTk90RFRhQlYwY2F5OXlGT2ZiXzhzb0lKWUU2aFBtcVhaeG1JTUF3TW1oZUhSQUdNSGJSa0huUXZPQ2NhWnFkdk5mQkRyaXozWXJvVVVwV3d3cFM2SWw1TUtvU3NsNHNRVXk4YktN?oc=5",
       "source": "Reuters",
       "bias": "center",
       "domain": "reuters.com"
+    },
+    {
+      "title": "JD Vance Lays Out Post-Trump Conservative Vision In Interview With Michael Knowles",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdFQwckdHV2pVNkZ5QjJLWllWTm9femIzZmlETjRQUEpsd3JLRUFsUjFWak1mNEVvR0hxbmltRjFfMW12NGhZcUJ1S205YklNaS1CMnBLZ25LZmdFTlozRXNhMGFnZjZndlhlS2R5ZW5iSHo0a3dXTjk4MjlaLU9kVFRkN2ZvQVlDbE1QT0NOLXB0MzFoQ1psbzY4WTVFZlh0QUJueHlqS0tMU3RLTENhNE1QUQ?oc=5",
+      "source": "Daily Wire",
+      "bias": "right",
+      "domain": "dailywire.com"
+    },
+    {
+      "title": "Untold casualties and humanitarian needs: What to know a week from Venezuela's quakes",
+      "url": "https://www.npr.org/2026/07/01/nx-s1-5877369/venezuela-earthquakes-updates",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
     },
     {
       "title": "After quakes trap Venezuelans, the government impedes rescuers and aid",
@@ -64,39 +71,25 @@
       "domain": "washingtonpost.com"
     },
     {
-      "title": "England vs DR Congo LIVE \u2013 FIFA World Cup 2026",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/7/1/england-vs-dr-congo-live-fifa-world-cup-2026?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Venezuela earthquakes latest: Nearly 50,000 unaccounted for as death toll climbs",
+      "url": "https://abcnews.com/International/venezuela-earthquakes-latest-50000-unaccounted-death-toll-climbs/story?id=134386173",
+      "source": "ABC News",
       "bias": "center",
-      "domain": "aljazeera.com"
+      "domain": "abcnews.go.com"
     },
     {
-      "title": "A 13-year-old dies after participating in a Benadryl TikTok 'challenge'",
-      "url": "https://www.cnn.com/2023/04/18/us/benadryl-tiktok-challenge-teen-death-wellness/index.html",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
-    },
-    {
-      "title": "VP Vance says the US is in a great position with Iran, has accomplished 'core mission'",
-      "url": "https://www.foxnews.com/media/vp-vance-says-us-great-position-iran-accomplished-core-mission",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "SCOTUS upholds birthright citizenship. And, key results from Colorado's primaries",
-      "url": "https://www.npr.org/2026/07/01/g-s1-131327/up-first-newsletter-supreme-court-birthright-citizenship-colorado-primaries-world-cup-heat-american-pride",
-      "source": "NPR",
+      "title": "What is the \"buy, borrow, die\" tax strategy Gavin Newsom wants to ban?",
+      "url": "https://www.cbsnews.com/news/california-gavin-newsom-billionaire-tax-buy-borrow-die-ban/",
+      "source": "CBS News",
       "bias": "left-center",
-      "domain": "npr.org"
+      "domain": "cbsnews.com"
     },
     {
-      "title": "Democratic socialist Melat Kiros defeats longtime US House incumbent in Colorado",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeTRzNlZzZl9PeWZDaDdDaUE0UXBYMUtPMjltVWYyakRETUtlM08wWmMtN05sY2pyUGQtdXdfLXYycGJxYlZ3X0MyTGU2S2xJR0NpenBZMEVWMW15eHUtbmVSYjdXZEp5V3VnbjZLUFdvcDNwdzNWQkVIWmE1ek5ycFlhSEpPY0k3XzI1bmgxaktCbmhoOGc3SEQzc1ZycFkyc25QM1FiWVVheGNpYzhCWnp4MjQ?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
+      "title": "Federal Judge Rejects Meta's Attempt to Dismiss Lawsuit over Youth Social Media Addiction",
+      "url": "https://www.breitbart.com/tech/2026/07/01/federal-judge-rejects-metas-attempt-to-dismiss-lawsuit-over-youth-social-media-addiction/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
     },
     {
       "title": "Democratic Socialist Melat Kiros Unseats Rep. Diana DeGette In Colorado Primary",
@@ -106,11 +99,64 @@
       "domain": "huffpost.com"
     },
     {
-      "title": "Progressive Manny Rutinel projected to win the Democratic primary in CD-8",
-      "url": "https://www.cbsnews.com/news/manny-rutinel-congressional-district-8-democrat-colorado-primary/",
+      "title": "Democratic socialist Melat Kiros defeats longtime US House incumbent in Colorado",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeTRzNlZzZl9PeWZDaDdDaUE0UXBYMUtPMjltVWYyakRETUtlM08wWmMtN05sY2pyUGQtdXdfLXYycGJxYlZ3X0MyTGU2S2xJR0NpenBZMEVWMW15eHUtbmVSYjdXZEp5V3VnbjZLUFdvcDNwdzNWQkVIWmE1ek5ycFlhSEpPY0k3XzI1bmgxaktCbmhoOGc3SEQzc1ZycFkyc25QM1FiWVVheGNpYzhCWnp4MjQ?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Is the U.S. jobs market getting better? June employment report to give us a heat check.",
+      "url": "https://www.marketwatch.com/story/is-the-u-s-jobs-market-getting-better-june-employment-report-to-give-us-a-heat-check-529a3d2e?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
+    },
+    {
+      "title": "As Venezuela responds to earthquake devastation, volunteers take charge",
+      "url": "https://www.aljazeera.com/features/longform/2026/7/1/as-venezuela-responds-to-earthquake-devastation-volunteers-take-charge?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    }
+  ],
+  [
+    {
+      "title": "US declines to extend North American trade deal, starting clock to end it while seeking changes",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORWxhSVNvODM1MVFkUkxYbEZKQ0FTbUhoOWpsdUdCTkRDYzlLTDZaTjlKOGQ5ZDQyd3MxOUUxblp4eUxtZGZIeEpKVGtkMXJMNFpkUVpNNnNHTzlSOU5rc21LU1dnNnBld0dmdzItZ2dpS05aOC1BRm8xdmt5WUduWDJjUUc0Nmd3OFdBX3JsbnhOY2RPdm50a2Vyek5IMGhWa1lPSHRWanNWMno1RkJOQkM3NFdOV3pSZVgzX053WnBOWGRGM3VF?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Trump refuses to renew US-Canada-Mexico trade pact he once championed",
+      "url": "https://www.theguardian.com/us-news/2026/jul/01/trump-usmca-trade-treaty",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "U.S. says it won't extend key trade deal with Canada and Mexico",
+      "url": "https://www.cbsnews.com/news/us-wont-extend-usmca-trade-deal/",
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Trump takes 1st flight on Air Force One gifted by Qatar",
+      "url": "https://abcnews.com/Politics/trump-takes-1st-flight-new-air-force-gifted/story?id=134373911",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    },
+    {
+      "title": "Trump filing shows he took in about $1.2 billion from crypto businesses last year",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWjNlekt0VjJhX2w5b01vaFFEaXB2LVdlc0R4dUU0UVQtZ3RxMGxvb2pZUGNnT3lvQmpkOXJjdnMzaVpTcDZNZ3ZnalNMYWZSMjFaZkxXTldKYUtRcnFvd2hBZnlGZWpPU0V0Qms0YVBsZkdCUkxZcEdXRmZ5WHJDb01SSmM4TExxMVl6UElqbmlKQ0lqRk9SZw?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
     },
     {
       "title": "Trump\u2019s Moneymaking Run: Unrivaled in Presidential History",
@@ -122,52 +168,31 @@
   ],
   [
     {
-      "title": "Nowak case officers face gross misconduct investigation",
-      "url": "https://www.bbc.co.uk/news/articles/cd6ezln069vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
+      "title": "Millions in the US could face massive consequences unless McCarthy can navigate out of a debt trap he set for Biden",
+      "url": "https://www.cnn.com/2023/04/18/politics/mccarthy-biden-debt-ceiling/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
     },
     {
-      "title": "Two UK police officers face misconduct probe in Henry Nowak murder case",
-      "url": "https://www.aljazeera.com/news/2026/7/1/two-uk-police-officers-face-misconduct-probe-in-henry-nowak-murder-case?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "Thai police investigate if Australian man charged over 17-year-old girl\u2019s murder linked to other unsolved cases",
-      "url": "https://www.theguardian.com/world/2026/jun/30/thai-teen-girl-murder-australian-man-charged-police-investigate-other-unsolved-cases-ntwnfb",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    },
-    {
-      "title": "The Daily Wire - Breaking News, Videos & Podcasts",
-      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5DS2g1RUcwNXdQUnBuWDBfV3MxaHNqWDJfTG5fSUVmZi1jVTJ0YzRDQXRpNTdwM1AtaVlnZlM1OA?oc=5",
-      "source": "Daily Wire",
+      "title": "New Fox Nation show blows open the wild secrets inside the \u2018impossible\u2019 White House UFC fight",
+      "url": "https://www.foxnews.com/media/new-fox-nation-show-blows-open-wild-secrets-inside-impossible-white-house-ufc-fight",
+      "source": "Fox News",
       "bias": "right",
-      "domain": "dailywire.com"
+      "domain": "foxnews.com"
     }
   ],
   [
     {
-      "title": "Several people killed in 'raging fire' at Antwerp apartment block, say Belgian police",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNS1iRmhZMWRBbENvMl9DRGpiVkU5OE5MYjVYSERPYW5ENlI1UjVJSEtRaGpmN2k1dnUtWW9NY3E2ejB0T2MtVVAxVkdKNUJXaEZ1c3RKNnNQS2xKNG11aC0yUmFpTEI2eU8yOVBrOEhaLUpiOXlFRVM2NUFzODZkUlpNdGF6Tk56Y3cwS1JRUTR3QzZGTjBtX1p4d2JpMl9NRXRJODY0Vk4tcS1nOEZiZQ?oc=5",
+      "title": "Germany charges Ukrainian over Nord Stream pipeline blasts",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOalRlaFpyS3FBM2dSdHM0ck5wVzNlWXpQUEZIczhyWF9ITVFqbFNFWE1kQkZkTlVLcUNiWXItYmFTVzNpallnQ1BiVnJ5MmlkWi0zSjNKVzBLMml2cnJ4Vi1RckwxaUxrRFI2OVZaUFJlSWhZem1pUC1tamhWdXFrU29kNTZUTExkZE5ZUHJtUW9TX0xya2M0Z1l6bTltLWJ4UHhmOE5rRHg3UlF5OVRYS3hSWHNRdV96b0ZPRw?oc=5",
       "source": "Reuters",
       "bias": "center",
       "domain": "reuters.com"
     },
     {
-      "title": "Several people killed in fire at apartment block in Belgium\u2019s Antwerp",
-      "url": "https://www.aljazeera.com/news/2026/7/1/several-killed-in-fire-at-apartment-block-in-belgiums-antwerp?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "At least five killed in fire at Antwerp apartment block, say police",
-      "url": "https://www.bbc.co.uk/news/articles/c621dx0vl7xo?at_medium=RSS&at_campaign=rss",
+      "title": "Ukrainian charged in Germany over Nord Stream blasts",
+      "url": "https://www.bbc.co.uk/news/articles/c33yjk0ldkdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "bias": "center",
       "domain": "bbc.com"
@@ -175,66 +200,82 @@
   ],
   [
     {
-      "title": "Kroger to buy retailer Giant Eagle in a $1.65 billion deal",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU0xTcWNLdGw2QWFGbUtjLTBIcjFtQXIybUdxTlRJdE9lV0F4ZlZsWkxndjgxek5UWVRuX1ZtVEFMbHRSaC1LaV9jd2IxNGphblY3X1NjZWtKbEtfalM3VzJxX2R1anJYM2JMS0NpSzM0S0MzSGZsSjVXTEx5R1FsOU1pMkZWTURwYl9IT2g0Tk9SenMyeFFfd2Z3dw?oc=5",
+      "title": "Meta building cloud business to sell excess AI capacity, Bloomberg News reports",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRTFZdGllTTA5UmJ6WmxLYjRDUHJ4RWg1U3dCOEVGTElDMUJlNWQwOTg0VWZxTGUxSWVPaEJqTjJ0TTZsRHk5Ynh4RC15a0ZVQkdxQVVGdTl0UXRZZ3NBLVZWZVQxcWJQSEoyQ01LZ3F3V0FnWFZucTNibm9nTm9DZlVfNzAxaW14LXFYQXRxdmxFMXZBeDF0NEo1dnN0S2tFdTlpNVF3bjNoRVY2WjE2SkFBNXhzWkVHOFRFOVk3Q2ZZakk?oc=5",
       "source": "Reuters",
       "bias": "center",
       "domain": "reuters.com"
     },
     {
-      "title": "Kroger buying regional grocer and pharmacy retailer Giant Eagle in $1.65 billion deal",
-      "url": "https://abcnews.com/Business/wireStory/kroger-buying-regional-grocer-pharmacy-retailer-giant-eagle-134370982",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    }
-  ],
-  [
-    {
-      "title": "Iran insists on keeping control over Hormuz, senior Iranian sources say",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTFBydmx6S2JaLXlSTGotcDJJemY3STctRmNiX1M1aEtQR3czZzU5VEtiYjdObEloOXRVVkNEckpmY1BmaG5DZUV6UjVaTzhZd0ZSNkZaYkw4WURhbWZ3eWpBeDlBVW0wTU9XcGFLVk9PZzBtSkpQVzA0ampJOVd4X0c1U3JkTDFzUXZTUFFrZmQ3aGRWZkllSmE5Nml5M2ZPS3VWWEhDMi1nVzRCbzhrSWZXZlMzbGhrcTZTajVB?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "How Iran could try to control the Strait of Hormuz \u2014 and profit from it",
-      "url": "https://www.cbsnews.com/news/us-iran-war-strait-of-hormuz-future-shipping/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    }
-  ],
-  [
-    {
-      "title": "How to stay healthy in a \u2018heat dome\u2019 \u2014 and medicines that put you at risk for heat exhaustion",
-      "url": "https://www.marketwatch.com/story/how-to-stay-healthy-in-a-heat-wave-and-medicines-that-put-you-at-risk-for-heat-exhaustion-1f8125fb?mod=mw_rss_topstories",
+      "title": "CoreWeave, Nebius shares tumble as Meta stands to become a fresh threat in the cloud",
+      "url": "https://www.marketwatch.com/story/coreweave-nebius-shares-tumble-as-meta-stands-to-become-a-fresh-threat-in-the-cloud-a47c3616?mod=mw_rss_topstories",
       "source": "Wall Street Journal",
       "bias": "center-right",
       "domain": "wsj.com"
-    },
+    }
+  ],
+  [
     {
-      "title": "5 safety tips to keep you out of the emergency room this summer",
-      "url": "https://www.npr.org/2026/07/01/nx-s1-5871208/5-safety-tips-to-keep-you-out-of-the-emergency-room-this-summer",
+      "title": "Lone star ticks are covering much of the U.S. Here's what you need to know",
+      "url": "https://www.npr.org/2026/07/01/nx-s1-5877341/lone-star-ticks-are-covering-much-of-the-u-s-heres-what-you-need-to-know",
       "source": "NPR",
       "bias": "left-center",
       "domain": "npr.org"
+    },
+    {
+      "title": "How much interest can a $55,000 CD account earn if opened now?",
+      "url": "https://www.cbsnews.com/news/how-much-interest-can-55000-cd-account-earn-july-2026/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
     }
   ],
   [
     {
-      "title": "Student-loan borrowers face major changes that start today. Your repayment plan may be phased out.",
-      "url": "https://www.marketwatch.com/story/student-loan-borrowers-face-major-changes-that-start-today-your-repayment-plan-may-be-phased-out-80d34beb?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
+      "title": "Israel kills three Palestinians in Gaza despite \u2018ceasefire\u2019",
+      "url": "https://www.aljazeera.com/news/2026/7/1/israel-kills-three-palestinians-in-gaza-despite-ceasefire?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
     },
     {
-      "title": "New student loan rules take effect today. Here's what to know.",
-      "url": "https://www.cbsnews.com/news/student-loan-changes-july-1-2026/",
-      "source": "CBS News",
+      "title": "Ukrainian drone attacks on oil refineries plunge Russia into a summer fuel crisis",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVWhCd0owd29LOGZjcXNhWmpEaVRIb1lyUE5jamlUVlhLNE5aMWVPLUVvTTdDSlRUNkNIa2RjS2NUY3gyZG5VWHl1bV9IUERWVkR4NlpHYk9xZ3pzY2VOZUdpdWtZNzhYTVEtWjJ1c0xvTlJjZVZ3STlBcmFtUl96RnRoZHA2dFRxVXZSUzZCQmZCbldBT0hEZ1Zn?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Can Sudan\u2019s Rapid Support Forces take control of el-Obeid?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/1/can-sudans-rapid-support-forces-take-control-of-el-obeid?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "Sudan\u2019s RSF committed crimes against humanity in El Fasher, Amnesty says",
+      "url": "https://www.theguardian.com/world/2026/jul/01/sudan-rsf-rapid-support-forces-crimes-against-humanity-el-fasher-amnesty-ethnic-cleansing",
+      "source": "The Guardian",
       "bias": "left-center",
-      "domain": "cbsnews.com"
+      "domain": "theguardian.com"
+    }
+  ],
+  [
+    {
+      "title": "Victor Willis, who co-founded the Village People and co-wrote \u2018Y.M.C.A.,\u2019 dies at 74",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeDRES2ZtNnZPQW1hYlZaeUtNel91M2ZIZTRYQmIwaDZMa1ZTLWVJRkhBelN2dW9RNTZub2dVYnVUdkEzOXJNTjZJWWE3amhaQ3BiV3JVMEdiX0FHV3R4OUxEOXZaaHdVVnBabFh0RE5wRE5JZnVYRzAxMVlGVE15RHRZMFc?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Village People Lead Singer Victor Willis Dead At 74",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVHBXZ0dFRWdscDBUVWpFX2ZmczJxbXU1TEU0Y3M1Nmt1YjhPdjBfRG5JaUJkY0g3WGU3WG1Ua3NaQlF3SmduTTJIZkNDbEpkQ0VCS08yX3NKREgtcjdXeXp0bHhuMDd4aGhPVGJSV19zdUVwWG9TOFdnX0NnNkNwS0xoNUlIVHNRbk9kTlZ1Q1BxU1AxekHSAZsBQVVfeXFMTTFja3hfTFVkN09XVEw0NGZWQmpBVzM4VkhnQjA3dG0xOVN2Y0YwLTJ3QjBUOEZUTTJCRVpWQldOQjhuaW01U2hkMnpNeDZCZC1ENXZXMUZxRkVrUEc5VFc5cXdianJDMWNtZHJvVDJTb0xMM0xZUExYRXNsb2tuaUhuX2poNFpwRWZ0UU5OdEpFV0pVbmdZcHhWdDQ?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
     }
   ]
 ]

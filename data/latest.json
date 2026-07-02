@@ -1,34 +1,6 @@
 [
   [
     {
-      "title": "Nolte: California Billionaire Tax Qualifies for November Ballot",
-      "url": "https://www.breitbart.com/politics/2026/06/18/nolte-california-billionaire-tax-qualifies-for-november-ballot/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
-    },
-    {
-      "title": "US job growth slows in June; unemployment rate falls to 4.2% amid decline in labor force",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcC1JUDBLdzUyXy1CSEd3TV8tc3BUcUVheXREal9lcXhza1NIVlVHcHZrYWZmYmtSV2Q2SmdpdW9KbHIzTzFpeElNUGlNTG5MTnN0WFpwN2tCVjBpRGZzbTk2Y0VwMzQ0WDA5dTdkclhmVndRZnB0YTN3QXVzcUtvMl9qMXhSMHJ0RUY0WjJlN2h2RTZIWi1yaXZCOC1qcVAwS1RRcWxyckQyeXR4VW53?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "Trump denies conflict of interest over crypto. And, Vatican excommunicates rebel group",
-      "url": "https://www.npr.org/2026/07/02/g-s1-131702/up-first-newsletter-trump-crypto-earnings-society-pope-pius-venezuela-world-cup",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    },
-    {
-      "title": "If you lost money on Trump crypto ventures, don\u2019t whine",
-      "url": "https://www.marketwatch.com/story/if-you-lost-money-on-trump-crypto-ventures-dont-whine-1839a774?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
-    },
-    {
       "title": "Pope Leo plans to send a message about migrants on July Fourth",
       "url": "https://www.washingtonpost.com/world/2026/06/30/july-fourth-pope-leo-offer-counterpoint-trumps-america/",
       "source": "Washington Post",
@@ -43,6 +15,13 @@
       "domain": "abcnews.go.com"
     },
     {
+      "title": "Celeb planners on how MSG could become Taylor Swift's perfect wedding venue",
+      "url": "https://www.cbsnews.com/news/taylor-swift-wedding-madison-square-garden-transformation/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
       "title": "After A Messy Breakup With Republicans, Tucker Carlson Claims He\u2019s Building A Political Party",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaVlUbHE5Q2F5SVA3OFhvWTU4Y2dNZXFKdHBGLU1HN2E5bUVISzNkcVRwYmdLQ2tfRzNkZDFKYkhBZFRBX0E5Slh5UVRDVkhQZmpwNkhBeDhlaDkzZVI5U2JBTXUxcWk4TTB3WWxfT1cwNDZScTBFWWM1YUdpb0Z6NWRxOG8yemNpckVYelFzeG10U0tyYXZZZllVV0RnaExNUnJB0gGoAUFVX3lxTFBvRFYxQndqbGxTR0ZmNlVTWFMzUFhwZnBibEF6b2kyc3pRNFZ2a0Y2UjNXVURRc3RLZk1TVGIzeUxTNlZDU2ZEcjEzblJGak9LSHhwTzJ3NXl0UTM0M21nT1ZpVTJmZXhJeDhxSEtVMkQ5TjNNOTg2WnFIM0JqM2J2dm81R0w5OGFYeFFNNUNwZWQxMXhJaDVVLTJwMzc1ZHdweDlzWUNySQ?oc=5",
       "source": "HuffPost",
@@ -50,25 +29,32 @@
       "domain": "huffpost.com"
     },
     {
-      "title": "What is the Society of St Pius X? Why Pope Leo excommunicated its members",
-      "url": "https://www.aljazeera.com/news/2026/7/2/what-is-the-society-of-st-pius-x-why-pope-leo-excommunicated-its-bishops?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
+      "title": "David Hearn, Olympian Canoeist, Is Indicted After Arrest at Trump\u2019s Reflecting Pool",
+      "url": "https://www.nytimes.com/2026/07/02/us/reflecting-pool-indictment-david-hearn.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
     },
     {
-      "title": "Socialist summer heats up with more DSA candidates plotting Democratic Party upsets \u2014 here\u2019s where",
-      "url": "https://nypost.com/2026/07/02/us-news/socialist-summer-heats-up-with-more-dsa-candidates-plotting-democratic-party-upsets/",
-      "source": "New York Post",
+      "title": "Former US Olympian David Hearn indicted in alleged Reflecting Pool vandalism",
+      "url": "https://www.foxnews.com/sports/former-us-olympian-david-hearn-indicted-alleged-reflecting-pool-vandalism",
+      "source": "Fox News",
       "bias": "right",
-      "domain": "nypost.com"
+      "domain": "foxnews.com"
     },
     {
-      "title": "WHO says Hantavirus outbreak linked to ship is over",
-      "url": "https://www.bbc.co.uk/news/articles/cd7wjy2e1d8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
+      "title": "If you lost money on Trump crypto ventures, don\u2019t whine",
+      "url": "https://www.marketwatch.com/story/if-you-lost-money-on-trump-crypto-ventures-dont-whine-1839a774?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
+    },
+    {
+      "title": "What to know about the Society of St. Pius X, the schismatic group excommunicated by the Pope",
+      "url": "https://www.npr.org/2026/07/02/g-s1-131791/what-to-know-about-the-society-of-st-pius-x-the-schismatic-group-excommunicated-by-the-pope",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
     },
     {
       "title": "Four people die in mass fan celebrations in Mexico City after World Cup victory",
@@ -78,32 +64,18 @@
       "domain": "theguardian.com"
     },
     {
-      "title": "4 people die in Mexico City during celebrations after World Cup win",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYk1nS3oxQThCQ1NCbm80ejRGWFZxYndnN0x2VVgwZ2dJcS1BV3BVdHNnLVhWWmVwSjZ1S09TMHIzMVlHOFRMd3pvZlhMVFY4Y1NCSDFMVHVadmlCWkZ0UlFvcTBNTHV3WWlrY0FIeEtyTWNHX1QwSWEzYVRjUzU2LTl0SXl2V2tzSXZIQUcwTHRyRWRPc3A2UXJMZEc?oc=5",
-      "source": "Associated Press",
+      "title": "Rescuers pull man alive from Venezuela quake rubble nearly eight days later",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSGpodTFFdm9hM1VIbUJVM18tS1RpT2lFQlVjMmNMTExTNUZnenJlV0pWZGZYak1mR0ZLYmg4VnVUSTVxdFBfbXBqMDlWS1J2eTlBcUZXekQyd1I1NzhhUnBGWE9leG0tYUNnTFFZTGpkOGFmYm1GZ18ycS1nbDVCcUhFZDY4Qy1HcjROZmtweDVmQnh4VzhvdkFpa1B1R0hqRGdhMnJoU25jTUs1TGZucHpOZGc?oc=5",
+      "source": "Reuters",
       "bias": "center",
-      "domain": "apnews.com"
+      "domain": "reuters.com"
     },
     {
-      "title": "Russia Bombards Ukrainian Capital With Deadly Wave of Attacks",
-      "url": "https://www.nytimes.com/2026/07/02/world/europe/russia-attack-on-kyiv.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "Why tick season is expected to be worse than normal",
-      "url": "https://www.cbsnews.com/news/tick-season-emergency-room-visits-rise-safety-tips/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "Security guard survives eight days beneath collapsed shopping center after Venezuela earthquakes",
-      "url": "https://www.foxnews.com/world/security-guard-survives-eight-days-beneath-collapsed-shopping-center-venezuela-earthquakes",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
+      "title": "\u2018Miracle\u2019: Trapped man rescued eight days after Venezuela earthquakes",
+      "url": "https://www.aljazeera.com/news/2026/7/2/miracle-trapped-man-rescued-eight-days-after-venezuela-earthquakes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
     },
     {
       "title": "A 13-year-old dies after participating in a Benadryl TikTok 'challenge'",
@@ -111,29 +83,34 @@
       "source": "CNN",
       "bias": "left",
       "domain": "cnn.com"
-    }
-  ],
-  [
-    {
-      "title": "In Tumultuous Term, Chief Justice Roberts Took Charge of Unruly Supreme Court",
-      "url": "https://www.nytimes.com/2026/07/02/us/politics/the-docket-roberts-supreme-court.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
     },
     {
-      "title": "The U.S. healthcare system is in crisis. A Supreme Court ruling could make things worse",
-      "url": "https://www.npr.org/2026/07/02/nx-s1-5878415/haitian-tps-healthcare-immigration-supreme-court",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
+      "title": "Nolte: California Billionaire Tax Qualifies for November Ballot",
+      "url": "https://www.breitbart.com/politics/2026/06/18/nolte-california-billionaire-tax-qualifies-for-november-ballot/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
     },
     {
-      "title": "\u2018They will attack me if I stay\u2019: immigrants in South Africa flee for safety amid violence and anti-foreigner protests",
-      "url": "https://www.theguardian.com/world/2026/jun/30/they-will-attack-me-if-i-stay-immigrants-in-south-africa-flee-for-safety-amid-violence-and-anti-foreigner-protests",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
+      "title": "California\u2019s huge new desert surf park seen in action for the first time: \u2018Best in the world\u2019",
+      "url": "https://nypost.com/2026/07/02/lifestyle/massive-california-surf-park-deemed-best-wave-pool-on-earth-by-pros/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
+      "title": "4 people die in Mexico City during celebrations after World Cup win",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYk1nS3oxQThCQ1NCbm80ejRGWFZxYndnN0x2VVgwZ2dJcS1BV3BVdHNnLVhWWmVwSjZ1S09TMHIzMVlHOFRMd3pvZlhMVFY4Y1NCSDFMVHVadmlCWkZ0UlFvcTBNTHV3WWlrY0FIeEtyTWNHX1QwSWEzYVRjUzU2LTl0SXl2V2tzSXZIQUcwTHRyRWRPc3A2UXJMZEc?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Pubs allowed to stay open until 5am for England Mexico match",
+      "url": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
     },
     {
       "title": "JD Vance Lays Out Post-Trump Conservative Vision In Interview With Michael Knowles",
@@ -141,36 +118,61 @@
       "source": "Daily Wire",
       "bias": "right",
       "domain": "dailywire.com"
-    },
-    {
-      "title": "Supreme Court upholds birthright citizenship, rejecting Trump\u2019s proposed limits",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeHFHR0ZCdDJuOUJjckJLaWRDcGc4a2xQb3lyM3lnZE9pbFVibF8xeHVxanl1VGF3Tnd1a29IVkpIUHNoTjR2WV9Uc1doeDQ0LWNabVV3MmZmM3luSk94MEo1RXdnSkx1cDdPTDMwNmdvWkZNNlRRX043SUpqTnA1MXdSZFpnOW1FQVVoQnZRazFPdFk5MFBOOVRXTVlrY2MzUmdtQ3JTb1Z0SEduczZxTEpqRDY?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
     }
   ],
   [
     {
-      "title": "Biden \u2018madness\u2019 still being revealed as father killed, children kidnapped by terror group member: DOJ",
-      "url": "https://www.foxnews.com/politics/biden-madness-still-being-revealed-father-killed-children-kidnapped-terror-group-member-doj",
+      "title": "Trump-backed truce in Lebanon, key to Iran peace deal, risks new civil war",
+      "url": "https://www.washingtonpost.com/world/2026/07/02/trump-backed-ceasefire-lebanon-key-iran-peace-deal-risks-new-civil-war/",
+      "source": "Washington Post",
+      "bias": "left-center",
+      "domain": "washingtonpost.com"
+    },
+    {
+      "title": "U.S.-Iran talks pause for ayatollah's funeral after claims of progress",
+      "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-negotiations-pause-ayatollah-funeral/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "US wants intervention, but Syria signals diplomacy after FM\u2019s Lebanon trip",
+      "url": "https://www.aljazeera.com/news/2026/7/2/us-wants-intervention-syria-signals-diplomacy-after-fm-lebanon-trip?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    }
+  ],
+  [
+    {
+      "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
+    },
+    {
+      "title": "Reporter who exited CNN after being at center of costly defamation trial lands at Al Jazeera English",
+      "url": "https://www.foxnews.com/media/reporter-who-exited-cnn-after-being-center-costly-defamation-trial-lands-al-jazeera-english",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Nancy Guthrie 'imposter' behind phony ransom notes pleads guilty to federal charges",
+      "url": "https://www.foxnews.com/us/nancy-guthrie-imposter-phony-ransom-notes-pleads-guilty-federal-charges",
       "source": "Fox News",
       "bias": "right",
       "domain": "foxnews.com"
     },
     {
-      "title": "At least nine monks killed in Thailand after boy drives truck into procession",
-      "url": "https://www.theguardian.com/world/2026/jul/02/monks-killed-thailand-mukdahan-crash-truck-procession",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    },
-    {
-      "title": "Boy driving truck crashes into group of monks, killing 9",
-      "url": "https://www.cbsnews.com/news/boy-driving-crashes-monks-deaths-injuries-thailand/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
+      "title": "California man pleads guilty after sending fake ransom note to Nancy Guthrie\u2019s heartbroken family",
+      "url": "https://nypost.com/2026/07/02/us-news/california-man-pleads-guilty-after-sending-fake-ransom-note-to-nancy-guthries-heartbroken-family/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
     }
   ],
   [
@@ -191,34 +193,50 @@
   ],
   [
     {
-      "title": "'The shame is not yours': Starmer apologises for state's role in forced adoptions",
-      "url": "https://www.bbc.co.uk/news/articles/c20yq332018o?at_medium=RSS&at_campaign=rss",
+      "title": "Watch: Kate gives out tickets and meets public in surprise Wimbledon visit",
+      "url": "https://www.bbc.co.uk/news/videos/cly09x7wjpko?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "bias": "center",
       "domain": "bbc.com"
     },
     {
-      "title": "UK\u2019s Starmer apologises for the state\u2019s role in decades of forced adoptions",
-      "url": "https://www.aljazeera.com/news/2026/7/2/uks-starmer-apologises-for-the-states-role-in-decades-of-forced-adoptions?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
+      "title": "Kate Middleton suits up for Wimbledon 2026 appearance in brilliant blue",
+      "url": "https://pagesix.com/2026/07/02/style/kate-middleton-wears-blue-suit-for-wimbledon-2026-appearance/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
     }
   ],
   [
     {
-      "title": "Climber couple arrested after scaling Empire State Building antenna for apparent marriage proposal",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRlppNjh3eVpGS2g2VXFLcW95WnJnakctcUFCVEZsamFXaWQwRTZEU2ZLZU5ieGp3alR0SXR1RGNXa1haWkItcHZYNWVtNmdvd0pyaGQxQkJTa05kT0hnTHd3S1pxd2g4dkxqM0RBcHE2WlZDQTdFN0RTUjl6ZERZLUVYRDdSQ2oya0psRjVBd3F1dW9PVktxeWpNTnNCOGFES21NTg?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
+      "title": "All New York Suffers in a Heat Wave. It\u2019s Worse in Jamaica, Queens.",
+      "url": "https://www.nytimes.com/2026/07/02/nyregion/heat-wave-nyc-jamaica-queens.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
     },
     {
-      "title": "New details emerge about Empire State Building daredevil climbers, as couple released",
-      "url": "https://abcnews.com/US/empire-state-building-climbers-expected-court-thursday/story?id=134401909",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
+      "title": "Nolte: Zohran Mamdani Tells New Yorkers to Set Thermostat at 78 During Heat Wave",
+      "url": "https://www.breitbart.com/politics/2026/07/02/nolte-zohran-mamdani-tells-new-yorkers-to-set-thermostat-at-78-during-heat-wave/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
+    }
+  ],
+  [
+    {
+      "title": "California fruit farmers\u2019 free nectarine giveaway shut down by authorities due to huge crowds",
+      "url": "https://nypost.com/2026/07/02/us-news/central-valley-farmers-nectarine-giveaway-shut-down-amid-legal-spat/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
+      "title": "Papua separatists kill American pilot in \u2018message\u2019 to US and Indonesia",
+      "url": "https://www.theguardian.com/world/2026/jul/02/papua-separatists-kill-american-pilot-yahukimo",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
     }
   ]
 ]

@@ -15,13 +15,6 @@
       "domain": "abcnews.go.com"
     },
     {
-      "title": "Celeb planners on how MSG could become Taylor Swift's perfect wedding venue",
-      "url": "https://www.cbsnews.com/news/taylor-swift-wedding-madison-square-garden-transformation/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
       "title": "After A Messy Breakup With Republicans, Tucker Carlson Claims He\u2019s Building A Political Party",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaVlUbHE5Q2F5SVA3OFhvWTU4Y2dNZXFKdHBGLU1HN2E5bUVISzNkcVRwYmdLQ2tfRzNkZDFKYkhBZFRBX0E5Slh5UVRDVkhQZmpwNkhBeDhlaDkzZVI5U2JBTXUxcWk4TTB3WWxfT1cwNDZScTBFWWM1YUdpb0Z6NWRxOG8yemNpckVYelFzeG10U0tyYXZZZllVV0RnaExNUnJB0gGoAUFVX3lxTFBvRFYxQndqbGxTR0ZmNlVTWFMzUFhwZnBibEF6b2kyc3pRNFZ2a0Y2UjNXVURRc3RLZk1TVGIzeUxTNlZDU2ZEcjEzblJGak9LSHhwTzJ3NXl0UTM0M21nT1ZpVTJmZXhJeDhxSEtVMkQ5TjNNOTg2WnFIM0JqM2J2dm81R0w5OGFYeFFNNUNwZWQxMXhJaDVVLTJwMzc1ZHdweDlzWUNySQ?oc=5",
       "source": "HuffPost",
@@ -29,25 +22,25 @@
       "domain": "huffpost.com"
     },
     {
+      "title": "U.S.-Iran talks pause for ayatollah's funeral after claims of progress",
+      "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-negotiations-pause-ayatollah-funeral/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Why maxing out your 401(k) is a major financial mistake if you have credit-card and other punishing debt",
+      "url": "https://www.marketwatch.com/story/why-maxing-out-your-401-k-is-a-major-financial-mistake-if-you-have-credit-card-and-other-punishing-debt-4c25beab?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
+    },
+    {
       "title": "David Hearn, Olympian Canoeist, Is Indicted After Arrest at Trump\u2019s Reflecting Pool",
       "url": "https://www.nytimes.com/2026/07/02/us/reflecting-pool-indictment-david-hearn.html",
       "source": "New York Times",
       "bias": "left-center",
       "domain": "nytimes.com"
-    },
-    {
-      "title": "Former US Olympian David Hearn indicted in alleged Reflecting Pool vandalism",
-      "url": "https://www.foxnews.com/sports/former-us-olympian-david-hearn-indicted-alleged-reflecting-pool-vandalism",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "If you lost money on Trump crypto ventures, don\u2019t whine",
-      "url": "https://www.marketwatch.com/story/if-you-lost-money-on-trump-crypto-ventures-dont-whine-1839a774?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
     },
     {
       "title": "What to know about the Society of St. Pius X, the schismatic group excommunicated by the Pope",
@@ -71,18 +64,25 @@
       "domain": "reuters.com"
     },
     {
-      "title": "\u2018Miracle\u2019: Trapped man rescued eight days after Venezuela earthquakes",
-      "url": "https://www.aljazeera.com/news/2026/7/2/miracle-trapped-man-rescued-eight-days-after-venezuela-earthquakes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
       "title": "A 13-year-old dies after participating in a Benadryl TikTok 'challenge'",
       "url": "https://www.cnn.com/2023/04/18/us/benadryl-tiktok-challenge-teen-death-wellness/index.html",
       "source": "CNN",
       "bias": "left",
       "domain": "cnn.com"
+    },
+    {
+      "title": "Video shows moments before Army veteran was fatally shot in Walmart parking lot dispute",
+      "url": "https://www.foxnews.com/us/video-shows-moments-before-army-veteran-fatally-shot-walmart-parking-lot-dispute",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "\u2018Drop the weapons!\u2019: Swedish officer shoots arson suspect in leg",
+      "url": "https://nypost.com/video/drop-the-weapons-swedish-officer-shoots-arson-suspect-in-leg/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
     },
     {
       "title": "Nolte: California Billionaire Tax Qualifies for November Ballot",
@@ -92,11 +92,11 @@
       "domain": "breitbart.com"
     },
     {
-      "title": "California\u2019s huge new desert surf park seen in action for the first time: \u2018Best in the world\u2019",
-      "url": "https://nypost.com/2026/07/02/lifestyle/massive-california-surf-park-deemed-best-wave-pool-on-earth-by-pros/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
+      "title": "Sciver-Brunt leads superb England into World Cup final",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cy731p46j5mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
     },
     {
       "title": "4 people die in Mexico City during celebrations after World Cup win",
@@ -106,38 +106,15 @@
       "domain": "apnews.com"
     },
     {
-      "title": "Pubs allowed to stay open until 5am for England Mexico match",
-      "url": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
       "title": "JD Vance Lays Out Post-Trump Conservative Vision In Interview With Michael Knowles",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdFQwckdHV2pVNkZ5QjJLWllWTm9femIzZmlETjRQUEpsd3JLRUFsUjFWak1mNEVvR0hxbmltRjFfMW12NGhZcUJ1S205YklNaS1CMnBLZ25LZmdFTlozRXNhMGFnZjZndlhlS2R5ZW5iSHo0a3dXTjk4MjlaLU9kVFRkN2ZvQVlDbE1QT0NOLXB0MzFoQ1psbzY4WTVFZlh0QUJueHlqS0tMU3RLTENhNE1QUQ?oc=5",
       "source": "Daily Wire",
       "bias": "right",
       "domain": "dailywire.com"
-    }
-  ],
-  [
-    {
-      "title": "Trump-backed truce in Lebanon, key to Iran peace deal, risks new civil war",
-      "url": "https://www.washingtonpost.com/world/2026/07/02/trump-backed-ceasefire-lebanon-key-iran-peace-deal-risks-new-civil-war/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
     },
     {
-      "title": "U.S.-Iran talks pause for ayatollah's funeral after claims of progress",
-      "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-negotiations-pause-ayatollah-funeral/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "US wants intervention, but Syria signals diplomacy after FM\u2019s Lebanon trip",
-      "url": "https://www.aljazeera.com/news/2026/7/2/us-wants-intervention-syria-signals-diplomacy-after-fm-lebanon-trip?traffic_source=rss",
+      "title": "UK\u2019s likely next leader Andy Burnham vows to fully fund defence plans",
+      "url": "https://www.aljazeera.com/news/2026/7/2/uks-likely-next-leader-andy-burnham-vows-to-fully-fund-defence-plans?traffic_source=rss",
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
@@ -145,31 +122,15 @@
   ],
   [
     {
-      "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
-      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
-    },
-    {
-      "title": "Reporter who exited CNN after being at center of costly defamation trial lands at Al Jazeera English",
-      "url": "https://www.foxnews.com/media/reporter-who-exited-cnn-after-being-center-costly-defamation-trial-lands-al-jazeera-english",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    }
-  ],
-  [
-    {
-      "title": "Nancy Guthrie 'imposter' behind phony ransom notes pleads guilty to federal charges",
-      "url": "https://www.foxnews.com/us/nancy-guthrie-imposter-phony-ransom-notes-pleads-guilty-federal-charges",
+      "title": "Letitia James hammered after NY Medicaid fraud unit funding frozen over ineffective enforcement",
+      "url": "https://www.foxnews.com/politics/letitia-james-hammered-ny-medicaid-fraud-unit-funding-frozen-ineffective-enforcement",
       "source": "Fox News",
       "bias": "right",
       "domain": "foxnews.com"
     },
     {
-      "title": "California man pleads guilty after sending fake ransom note to Nancy Guthrie\u2019s heartbroken family",
-      "url": "https://nypost.com/2026/07/02/us-news/california-man-pleads-guilty-after-sending-fake-ransom-note-to-nancy-guthries-heartbroken-family/",
+      "title": "Long Island con artist posed as doctor in NYC and regularly saw patients in $100K fraud scheme: AG",
+      "url": "https://nypost.com/2026/07/02/us-news/long-island-con-artist-posed-as-doctor-in-nyc-and-regularly-saw-patients-in-100k-fraud-scheme-ag/",
       "source": "New York Post",
       "bias": "right",
       "domain": "nypost.com"
@@ -177,34 +138,18 @@
   ],
   [
     {
-      "title": "Former UK pop star Gary Glitter charged with non-recent sexual offences",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNanp1bTE1TFZqclFtczd4NU9iQ2JzWTVXaGYweW5ad1lycDloRnBqa1VHN1I2ZzRKU0NaRG1PUGhyYUxQUHA2cTFFakc5enQyc2VhSE1UanptZlk3cGQtRG1SZTJRdjdnQkpNNnZxUGlCanBpVE9uMXlxZkt2aEp3YUMxekQ1LTZlRUhzMDN1anZMWGxWcU9zYzBURm5SLTQzVXhqY0FaQUktM01IX0diNWN4RQ?oc=5",
+      "title": "Trump administration and Anthropic have not discussed the government taking a stake in it, source says",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbmxpNnJVaWFGeUpNcXgtMUpYSGxwblVfTkM2TTluOFduQWF4X2VJM2g5Qkw5dEl0X3ZWTmNOUWJDUTVZVTBaenp0TklNcWp3ZzZNRnFqSmhjSXZ3d3Aza0hVUXA1Y2VMUnI3MzhCalhUV2lzRUtESmxyOTNKakF2TjBvaVpLZDdKVlVoVm1MSk5TTG9CalBySkxvc2hnVU92ejVMOXlWbTJnYlRScWV6d3VfeGFuYlBpb3NjcDZkV3MwUQ?oc=5",
       "source": "Reuters",
       "bias": "center",
       "domain": "reuters.com"
     },
     {
-      "title": "Gary Glitter charged with historical sexual offences",
-      "url": "https://www.bbc.co.uk/news/articles/c2lywez0zddo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
+      "title": "Trump administration lifts restrictions on Anthropic's Claude models after cybersecurity alarm",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSUFUaE4wVlNYRDNtWjhaNXdpRV80eUR2ZzhrMklvNDJKcENfMFNjblluVnZVcEYwbjNEdXhIWms2VGMwQ1NZRzY3Y1c4U0pLbl84ajhaZ05fcklpZ1V6bHZkQi10SHV1YjBvSC1FOEwwNjh6YWdVZm9ZMWJhd0FpLU9QVTVNOFNtVU4wcEhJUThQdjZXN1pZaGtJQQ?oc=5",
+      "source": "Associated Press",
       "bias": "center",
-      "domain": "bbc.com"
-    }
-  ],
-  [
-    {
-      "title": "Watch: Kate gives out tickets and meets public in surprise Wimbledon visit",
-      "url": "https://www.bbc.co.uk/news/videos/cly09x7wjpko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "Kate Middleton suits up for Wimbledon 2026 appearance in brilliant blue",
-      "url": "https://pagesix.com/2026/07/02/style/kate-middleton-wears-blue-suit-for-wimbledon-2026-appearance/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
+      "domain": "apnews.com"
     }
   ],
   [
@@ -225,18 +170,34 @@
   ],
   [
     {
-      "title": "California fruit farmers\u2019 free nectarine giveaway shut down by authorities due to huge crowds",
-      "url": "https://nypost.com/2026/07/02/us-news/central-valley-farmers-nectarine-giveaway-shut-down-amid-legal-spat/",
+      "title": "Ocasio-Cortez Endorses Abdul El-Sayed in Crucial Michigan Senate Race",
+      "url": "https://www.nytimes.com/2026/07/02/us/politics/ocasio-cortez-endorses-abdul-el-sayed-in-crucial-michigan-senate-race.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "AOC throws her weight behind progressive Abdul El-Sayed in Michigan Senate race",
+      "url": "https://nypost.com/2026/07/02/us-news/aoc-throws-her-weight-behind-progressive-abdul-el-sayed-in-michigan-senate-race/",
       "source": "New York Post",
       "bias": "right",
       "domain": "nypost.com"
+    }
+  ],
+  [
+    {
+      "title": "LIVE: Portugal vs Croatia \u2013 FIFA World Cup 2026",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/7/2/live-portugal-vs-croatia-fifa-world-cup-2026?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
     },
     {
-      "title": "Papua separatists kill American pilot in \u2018message\u2019 to US and Indonesia",
-      "url": "https://www.theguardian.com/world/2026/jul/02/papua-separatists-kill-american-pilot-yahukimo",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
+      "title": "LIVE:  ABC News Live",
+      "url": "https://abcnews.com/video/41463246/",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
     }
   ]
 ]

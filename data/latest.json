@@ -1,46 +1,25 @@
 [
   [
     {
-      "title": "Four people die in mass fan celebrations in Mexico City after World Cup victory",
-      "url": "https://www.theguardian.com/football/2026/jul/01/deaths-mexico-world-cup-fan-celebrations",
+      "title": "The US, Canada and Mexico begin bumpy negotiations to renew North American trade pact",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT1VNaDk4Rkg0MHNfcGt0Sm9kd2o4YktDcVN4VWUxTzNUTExIX1VRSmJ0MzlzRTgtSWpzSjd3b19nOENKNGF6Sl9sV181c3RjOW84cUhpWjlKUWp4MDJ3NHAwVlFUeno0TWlKUVNaelltV2Z5WDFTUnlJNGl0b2N3VlAydVR1Y2NHZUpSNUhYMy1sWTNKUEE?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Trump refuses to renew US-Canada-Mexico trade pact he once championed",
+      "url": "https://www.theguardian.com/us-news/2026/jul/01/trump-usmca-trade-treaty",
       "source": "The Guardian",
       "bias": "left-center",
       "domain": "theguardian.com"
     },
     {
-      "title": "\u00bfY Si S\u00ed? The World Cup Delivers Hope to Mexico",
-      "url": "https://www.nytimes.com/2026/07/01/world/americas/mexico-world-cup-celebrations.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "2 Empire State Building climbers in custody after apparently getting engaged at the top",
-      "url": "https://www.cbsnews.com/news/empire-state-building-climbers-banner-nyc/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "Russian daredevils unfurl banner atop New York's Empire State Building in proposal stunt",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMDF1RDNwbTNjWmdEeV9lekhGelhlSjB3aVVIdjhRNjVOOXpwRXJRaG9UckIyNFU1bTY4M0lnc3hwTnRZaUpaeWQwTk90RFRhQlYwY2F5OXlGT2ZiXzhzb0lKWUU2aFBtcVhaeG1JTUF3TW1oZUhSQUdNSGJSa0huUXZPQ2NhWnFkdk5mQkRyaXozWXJvVVVwV3d3cFM2SWw1TUtvU3NsNHNRVXk4YktN?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "Untold casualties and humanitarian needs: What to know a week from Venezuela's quakes",
-      "url": "https://www.npr.org/2026/07/01/nx-s1-5877369/venezuela-earthquakes-updates",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    },
-    {
-      "title": "Venezuela earthquakes latest: Nearly 50,000 unaccounted for as death toll climbs",
-      "url": "https://abcnews.com/International/venezuela-earthquakes-latest-50000-unaccounted-death-toll-climbs/story?id=134386173",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
+      "title": "Two arrested at Costco after alleged fraudulent credit card shopping spree",
+      "url": "https://www.foxnews.com/us/two-arrested-costco-alleged-fraudulent-credit-card-shopping-spree",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
     },
     {
       "title": "After quakes trap Venezuelans, the government impedes rescuers and aid",
@@ -50,6 +29,13 @@
       "domain": "washingtonpost.com"
     },
     {
+      "title": "Untold casualties and humanitarian needs: What to know a week from Venezuela's quakes",
+      "url": "https://www.npr.org/2026/07/01/nx-s1-5877369/venezuela-earthquakes-updates",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
       "title": "JD Vance Lays Out Post-Trump Conservative Vision In Interview With Michael Knowles",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdFQwckdHV2pVNkZ5QjJLWllWTm9femIzZmlETjRQUEpsd3JLRUFsUjFWak1mNEVvR0hxbmltRjFfMW12NGhZcUJ1S205YklNaS1CMnBLZ25LZmdFTlozRXNhMGFnZjZndlhlS2R5ZW5iSHo0a3dXTjk4MjlaLU9kVFRkN2ZvQVlDbE1QT0NOLXB0MzFoQ1psbzY4WTVFZlh0QUJueHlqS0tMU3RLTENhNE1QUQ?oc=5",
       "source": "Daily Wire",
@@ -57,18 +43,32 @@
       "domain": "dailywire.com"
     },
     {
-      "title": "From Truman's pension to Trump's billions - a White House windfall unmatched by any president",
-      "url": "https://www.bbc.co.uk/news/articles/c70yk07vq0po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
+      "title": "After A Messy Breakup With Republicans, Tucker Carlson Claims He\u2019s Building A Political Party",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaVlUbHE5Q2F5SVA3OFhvWTU4Y2dNZXFKdHBGLU1HN2E5bUVISzNkcVRwYmdLQ2tfRzNkZDFKYkhBZFRBX0E5Slh5UVRDVkhQZmpwNkhBeDhlaDkzZVI5U2JBTXUxcWk4TTB3WWxfT1cwNDZScTBFWWM1YUdpb0Z6NWRxOG8yemNpckVYelFzeG10U0tyYXZZZllVV0RnaExNUnJB0gGoAUFVX3lxTFBvRFYxQndqbGxTR0ZmNlVTWFMzUFhwZnBibEF6b2kyc3pRNFZ2a0Y2UjNXVURRc3RLZk1TVGIzeUxTNlZDU2ZEcjEzblJGak9LSHhwTzJ3NXl0UTM0M21nT1ZpVTJmZXhJeDhxSEtVMkQ5TjNNOTg2WnFIM0JqM2J2dm81R0w5OGFYeFFNNUNwZWQxMXhJaDVVLTJwMzc1ZHdweDlzWUNySQ?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
     },
     {
-      "title": "Trump filing shows he took in about $1.2 billion from crypto businesses last year",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWjNlekt0VjJhX2w5b01vaFFEaXB2LVdlc0R4dUU0UVQtZ3RxMGxvb2pZUGNnT3lvQmpkOXJjdnMzaVpTcDZNZ3ZnalNMYWZSMjFaZkxXTldKYUtRcnFvd2hBZnlGZWpPU0V0Qms0YVBsZkdCUkxZcEdXRmZ5WHJDb01SSmM4TExxMVl6UElqbmlKQ0lqRk9SZw?oc=5",
-      "source": "Associated Press",
+      "title": "Sen. Elizabeth Warren presses Eric Trump for update on Capital One de-banking lawsuit",
+      "url": "https://nypost.com/2026/07/02/business/sen-elizabeth-warren-presses-eric-trump-for-update-on-capital-one-de-banking-lawsuit/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
+      "title": "Iran warns US, Israel against attacks ahead of funeral processions for Khamenei",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVjd1X1pITDBSckd0dXdzYzdCbTZ2T3o2UmFUWG5yaHRuZFZWR1pMclo4Z3BLNGYzeS1WREhPZ291WFlJcmZGOGNHclp0dEp4cVhaQTdweUx5Rl90U2tnRGdJOEtjZHNnbC05aUJRMXZJbHl3aUtKMzlxRl94SUl5N251SENtMVBqVVFHdldIcDJCTnpaamphc2VVWUlReGZCMkZpOEJYMlBxcGlOaVktWUdIR2RseW94clhPenQzVlVhOWM?oc=5",
+      "source": "Reuters",
       "bias": "center",
-      "domain": "apnews.com"
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Report: Kamala Harris Courts Mamdani, Pro-Palestinian Activists Ahead of Possible 2028 Run",
+      "url": "https://www.breitbart.com/politics/2026/07/01/report-kamala-harris-courts-mamdani-pro-palestinian-activists-ahead-of-possible-2028-run/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
     },
     {
       "title": "A 13-year-old dies after participating in a Benadryl TikTok 'challenge'",
@@ -78,52 +78,59 @@
       "domain": "cnn.com"
     },
     {
-      "title": "Democratic Socialist Melat Kiros Unseats Rep. Diana DeGette In Colorado Primary",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLUdCdU1aeHo0UGRwOEpFY0RzZS1TREh1QzhWVFA5eFNkbEs1WjlGb1hueUtFaHp1NUpYM2lKdTBHTWtuRUhVOWpEaUJEdS1PN3VZbUF1dmp1bzJBVEFod0pHMkxiOHZwT0RQZ1hRTm8yOFhSclYyNWNObjhoNW9zdF8wQlZDVE9RNDJPYWJySEdoeDkwTnBjQ1RFLTIzYUVFUzI3enJJYm5uZDlfV1pzLTJVOTBtcl9NZFF6LVJn0gHDAUFVX3lxTE1kemw2Ql8wdXpMNzEzM1VCRXBsTy1RWG9Kcnk4WlNTRVJKdWJzelFsa1dETTI5bG5vOUMtdm1iRFcwUTBvWXo0UF9QMENKYmUzcGtrZEtXUkZER2d2RVZfZW9YajB0LXVxU2hySzhSeWVfdkpZZzBiTW5TN3BBM0lfSWRtekR4bS0yN3Yyd2oyWHFBQzF2RUI5S01sU3R1X0tCUktvckVDbm5vVnJjX3hWSmxsTnFiaWw4aWJBZ3hTa3hGYw?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
+      "title": "US defeats Bosnia-Herzegovina 2-0, advancing to World Cup round of 16",
+      "url": "https://abcnews.com/GMA/Culture/usmnt-faces-bosnia-herzegovina-world-cups-knockout-round/story?id=134347846",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
     },
     {
-      "title": "E Jean Carroll demands Donald Trump pay $5.8m in damages from 2019 case",
-      "url": "https://www.aljazeera.com/news/2026/7/1/e-jean-carroll-demands-donald-trump-pay-5-8m-in-damages-from-2019-case?traffic_source=rss",
+      "title": "Tuchel urges parents to let kids stay up for England game",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cd95g9y8k24o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "Ronaldo fever hits Toronto ahead of Portugal vs Croatia World Cup clash",
+      "url": "https://www.aljazeera.com/sports/2026/7/2/ronaldo-fever-hits-toronto-portugal-vs-croatia-world-cup-2026?traffic_source=rss",
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
     },
     {
-      "title": "Walz, Minnesota Board of Pardons clears convicted illegal alien child sex offender facing deportation",
-      "url": "https://www.foxnews.com/politics/walz-minnesota-board-pardons-clears-convicted-illegal-alien-child-sex-offender-facing-deportation",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
+      "title": "U.S. takes down Bosnia 2-0 for second-ever World Cup knockout round win",
+      "url": "https://www.cbsnews.com/news/world-cup-us-bosnia-herzegovina-round-of-32/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
     },
     {
-      "title": "Phil Mickelson rejects allegation he showed nude selfie to woman, calls misconduct expos\u00e9 \u2018drive-by shooting\u2019",
-      "url": "https://nypost.com/2026/07/01/media/phil-mickelson-rejects-allegation-he-showed-nude-selfie-to-woman-calls-misconduct-expose-drive-by-shooting/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "Exclusive \u2014 Rep. Riley Moore: House \u2018Held Hostage\u2019 by Senate Inaction as SAVE Act Set to Be Attached to NDAA",
-      "url": "https://www.breitbart.com/politics/2026/07/01/exclusive-rep-riley-moore-house-held-hostage-by-senate-inaction-as-save-act-set-to-be-attached-to-ndaa/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
+      "title": "Does Trump Worry About Conflicts of Interest? \u2018I Found Out That Nobody Cared.\u2019",
+      "url": "https://www.nytimes.com/2026/07/01/us/politics/trump-money-conflicts-presidency.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
     }
   ],
   [
     {
-      "title": "Celtics agree to send Jaylen Brown, 2024 Finals MVP, to 76ers in blockbuster NBA trade: report",
-      "url": "https://www.foxnews.com/sports/celtics-send-jaylen-brown-2024-finals-mvp-76ers-blockbuster-nba-trade-report",
+      "title": "Micron's $250 million bet on kids is a blueprint for America's future",
+      "url": "https://www.foxnews.com/opinion/microns-250-million-bet-kids-blueprint-americas-future",
       "source": "Fox News",
       "bias": "right",
       "domain": "foxnews.com"
     },
     {
-      "title": "Jaylen Brown reportedly traded from Celtics to 76ers",
-      "url": "https://www.cbsnews.com/news/jaylen-brown-traded-boston-celtics-philadelphia-76ers/",
+      "title": "Opening a \u2018Trump account\u2019 for your children? Here is the risk you need to reckon with first.",
+      "url": "https://www.marketwatch.com/story/opening-a-trump-account-for-your-children-here-is-the-risk-you-need-to-recognize-first-fe206bc0?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
+    },
+    {
+      "title": "Trump Accounts launch July 4. Here's how they work.",
+      "url": "https://www.cbsnews.com/news/trump-account-kids-child-open-july-4/",
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"
@@ -131,15 +138,15 @@
   ],
   [
     {
-      "title": "US declines to extend North American trade deal, starting clock to end it while seeking changes",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORWxhSVNvODM1MVFkUkxYbEZKQ0FTbUhoOWpsdUdCTkRDYzlLTDZaTjlKOGQ5ZDQyd3MxOUUxblp4eUxtZGZIeEpKVGtkMXJMNFpkUVpNNnNHTzlSOU5rc21LU1dnNnBld0dmdzItZ2dpS05aOC1BRm8xdmt5WUduWDJjUUc0Nmd3OFdBX3JsbnhOY2RPdm50a2Vyek5IMGhWa1lPSHRWanNWMno1RkJOQkM3NFdOV3pSZVgzX053WnBOWGRGM3VF?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
+      "title": "DeSantis announces plans to use new state law to target dozens of alleged terrorist groups",
+      "url": "https://www.foxnews.com/politics/desantis-announces-plans-use-new-state-law-target-dozens-alleged-terrorist-groups",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
     },
     {
-      "title": "Trump refuses to renew US-Canada-Mexico trade pact he once championed",
-      "url": "https://www.theguardian.com/us-news/2026/jul/01/trump-usmca-trade-treaty",
+      "title": "\u2018Witch-hunt\u2019 in Niger as military regime rounds up LGBTQ+ population",
+      "url": "https://www.theguardian.com/world/2026/jul/01/witch-hunt-in-niger-as-military-regime-rounds-up-lgbtq-population",
       "source": "The Guardian",
       "bias": "left-center",
       "domain": "theguardian.com"
@@ -147,8 +154,72 @@
   ],
   [
     {
-      "title": "Israel kills three Palestinians in Gaza despite \u2018ceasefire\u2019",
-      "url": "https://www.aljazeera.com/news/2026/7/1/israel-kills-three-palestinians-in-gaza-despite-ceasefire?traffic_source=rss",
+      "title": "Google loses fight against record \u20ac4.1 billion EU antitrust fine",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeFFsalo3LWdiNVRiVnR2aGx3VEhYRm9JZW9XMFpWMTNzWENjczNPdG5JOUNrVWJYN3lVeFV6Q1RITnI5OUN3Y3Q4Sno4UlNoNGRybmppNGxVa3hOTXZyNGc4eV9JcUUzaE45cGhGWkRjNlhYSVpvcjR2TWtjZUN4TG9ZWjFOWllFcHBrNnBYM09pS19GYzVxdTFOVGJEUFNrdDJUTHNrWGcwVElWY3dNbGVuSmZSeVB3dGZBbUlR?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "After eight years, Google loses final appeal against $4.7 billion European Union fine",
+      "url": "https://www.marketwatch.com/story/after-eight-years-google-loses-final-appeal-against-4-7-billion-european-union-fine-46b7459a?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
+    }
+  ],
+  [
+    {
+      "title": "OpenAI proposes handing Trump administration 5% stake, FT reports",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUNkeGxUSzgzdlZ3STBUWGtaU3pHVUFhUWlCYWh6MVZKVjNnckJRTVBiNFF0d0ZvTjB0OWtGcWtxR1ZIY1lLVUdtSHQ4LXY3MUQ4ZHNIdkFyMzRuOXZkaEVqMDBaTjRkeXYzcGNTVWg2TEwxWUNVVFJDcEtSbUFnd2J1NzVJLXJPX3lHcG1icFh3YmxqMDR0cS1qTW85ZnpQeXBwdUNuQjBETmIw?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "OpenAI reportedly considers handing 5% stake to the government. Here\u2019s why the AI lab would consider that move.",
+      "url": "https://www.marketwatch.com/story/openai-reportedly-considers-handing-5-stake-to-the-government-heres-why-the-ai-lab-would-consider-that-move-8c2871cb?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
+    }
+  ],
+  [
+    {
+      "title": "Watch: People smuggler tracked down and confronted by BBC",
+      "url": "https://www.bbc.co.uk/news/videos/cnv9648nd5vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "WATCH:  Clock ticks down to Taylor Swift and Travis Kelce's wedding",
+      "url": "https://abcnews.com/video/134368787/",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    }
+  ],
+  [
+    {
+      "title": "Vatican declares Society of St. Pius X in schism, excommunicates bishops",
+      "url": "https://www.npr.org/2026/07/02/nx-s1-5878916/vatican-society-of-st-pius-x-in-schism",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "Vatican excommunicates bishops of breakaway traditionalist sect",
+      "url": "https://www.washingtonpost.com/world/2026/07/02/vatican-excommunicates-bishops-breakaway-traditionalist-sect/",
+      "source": "Washington Post",
+      "bias": "left-center",
+      "domain": "washingtonpost.com"
+    }
+  ],
+  [
+    {
+      "title": "\u2018The crisis is deep\u2019: The view from Russia as fuel shortages worsen",
+      "url": "https://www.aljazeera.com/news/2026/7/2/the-crisis-is-deep-the-view-from-russia-as-fuel-shortages-worsen?traffic_source=rss",
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
@@ -163,34 +234,18 @@
   ],
   [
     {
-      "title": "Victor Willis, who co-founded the Village People and co-wrote \u2018Y.M.C.A.,\u2019 dies at 74",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeDRES2ZtNnZPQW1hYlZaeUtNel91M2ZIZTRYQmIwaDZMa1ZTLWVJRkhBelN2dW9RNTZub2dVYnVUdkEzOXJNTjZJWWE3amhaQ3BiV3JVMEdiX0FHV3R4OUxEOXZaaHdVVnBabFh0RE5wRE5JZnVYRzAxMVlGVE15RHRZMFc?oc=5",
+      "title": "16 children rescued from Ohio home were \u2018almost feral,\u2019 authorities say",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPekpfN3NQc3RPVGZHb0hFSmxhVDM3dGlSQVVTRm0tSE5WY3hVb0c5LXdfbFNlSjNIZ0dxOVVyZTNZcS1PU1FVMVZOSFV1QXRtbVZqR19zSlM3M2Vxd2lsVDMtYWpzOUZXeG84VVp4YTk2WlROZ1VOS2lZYksxcXJDOEJqbkpuUEpTZkt4T0lYZ1pyeVFYTXB4bGdxYw?oc=5",
       "source": "Associated Press",
       "bias": "center",
       "domain": "apnews.com"
     },
     {
-      "title": "Village People Lead Singer Victor Willis Dead At 74",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVHBXZ0dFRWdscDBUVWpFX2ZmczJxbXU1TEU0Y3M1Nmt1YjhPdjBfRG5JaUJkY0g3WGU3WG1Ua3NaQlF3SmduTTJIZkNDbEpkQ0VCS08yX3NKREgtcjdXeXp0bHhuMDd4aGhPVGJSV19zdUVwWG9TOFdnX0NnNkNwS0xoNUlIVHNRbk9kTlZ1Q1BxU1AxekHSAZsBQVVfeXFMTTFja3hfTFVkN09XVEw0NGZWQmpBVzM4VkhnQjA3dG0xOVN2Y0YwLTJ3QjBUOEZUTTJCRVpWQldOQjhuaW01U2hkMnpNeDZCZC1ENXZXMUZxRkVrUEc5VFc5cXdianJDMWNtZHJvVDJTb0xMM0xZUExYRXNsb2tuaUhuX2poNFpwRWZ0UU5OdEpFV0pVbmdZcHhWdDQ?oc=5",
+      "title": "16 Children Rescued From Ohio Home Were Reportedly 'Almost Feral'",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLURkaElUS3Z6R05wZk40VzA4a3FyZGNiVjJoSVNWVXE4QnlGQklTd3FxTGpFY3dvajRQMG1Ld1V6ZzhWSm10V2wxdmFuN3pEQXd0MUFtT0RHa3NVRlNJMkw1X01TNzNKNF8tTGNHZm8xQkdHelZsREpFVGRYYjVsNWdDdkFWdXBxS0d5S1FabDNCWlVNdjcycWRMM0YwWllfMXlFRXN0TlJJN0tvZ2wxOU16X1dvMlNVbkJPTTNB0gHDAUFVX3lxTE1ydEE5NUFXQlRtOHlsRElYZ1pxRVRsc1dodmsxQmZKS3A3XzlsMXRqTGJlN25JM0Z4OUIyNktKNjRsT05zVW9iMGZQU3U2VjlBdEtXMmtwRHJxQ05OaWpzMHZlcjdvVjc5YXhBMnBQN0kyLTVXVmJTcVd6a19uSDRJRkNtMFk2NDI4VHQ2WlgzLUJoTVM1WkpNclFBa3YwUm1CdHFmQkloTXVGQnViT1JOcGEzZ1F6UEx4NmxWc0pLSnFoNA?oc=5",
       "source": "HuffPost",
       "bias": "left",
       "domain": "huffpost.com"
-    }
-  ],
-  [
-    {
-      "title": "Nursing gains 'professional' label for student loans after judge's ruling, but theology now dropped",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQTlkLTVPRGtyZDhmdGhoWmpMeVVpaVE0a01uOWoyMzRaUEl3TFUzb1lNOGNDbFVrUnFCTFQwdF9JQmtKMENFR05WQ09SUnJya3RoOXd2Y2R3a09odVVSRVNNTnc4XzZSeHkyMVEwNWdQS0hmaHBrbERtQnJGR3ZyRmhXYVpORFh2b1VGdFdFOG9yaUFqZUJ2SW56dWRQUkNFVzR2cVBURHp6OV9Y?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "Sweeping changes to federal student loans take effect",
-      "url": "https://www.cbsnews.com/video/sweeping-changes-federal-student-loans-take-effect/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
     }
   ]
 ]

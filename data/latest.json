@@ -1,32 +1,18 @@
 [
   [
     {
-      "title": "Pope Leo plans to send a message about migrants on July Fourth",
-      "url": "https://www.washingtonpost.com/world/2026/06/30/july-fourth-pope-leo-offer-counterpoint-trumps-america/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
-    },
-    {
-      "title": "Is the stock market open tomorrow, or will it close early for the Fourth of July?",
-      "url": "https://www.marketwatch.com/story/is-the-stock-market-open-on-friday-or-will-it-close-early-for-the-fourth-of-july-b9885f36?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
-    },
-    {
-      "title": "Untold casualties and humanitarian needs: What to know a week from Venezuela's quakes",
-      "url": "https://www.npr.org/2026/07/01/nx-s1-5877369/venezuela-earthquakes-updates",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    },
-    {
-      "title": "Taylor Swift's rumored July 3 wedding sparks holiday weekend etiquette debate for guests",
-      "url": "https://www.foxnews.com/travel/taylor-swifts-rumored-july-3-wedding-sparks-huge-holiday-weekend-debate-beach-trip-guests",
-      "source": "Fox News",
+      "title": "Nolte: California Billionaire Tax Qualifies for November Ballot",
+      "url": "https://www.breitbart.com/politics/2026/06/18/nolte-california-billionaire-tax-qualifies-for-november-ballot/",
+      "source": "Breitbart",
       "bias": "right",
-      "domain": "foxnews.com"
+      "domain": "breitbart.com"
+    },
+    {
+      "title": "From friendship bracelets to wedding rings: A Taylor and Travis timeline",
+      "url": "https://www.bbc.co.uk/news/articles/cqj19p112qjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
     },
     {
       "title": "WATCH:  Clock ticks down to Taylor Swift and Travis Kelce's wedding",
@@ -36,11 +22,18 @@
       "domain": "abcnews.go.com"
     },
     {
-      "title": "Michael Rubin confirms he \u2018didn\u2019t want people to have to choose\u2019 between July 4 bash and Taylor Swift wedding",
-      "url": "https://pagesix.com/2026/07/02/entertainment/michael-rubin-didnt-want-people-to-have-to-choose-between-july-4-bash-taylor-swift-wedding/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
+      "title": "U.S. job market slows in June",
+      "url": "https://www.npr.org/2026/07/02/nx-s1-5877491/labor-department-to-release-latest-jobs-report-thursday",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "Wall St opens higher after June jobs report eases rate-hike bets",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNmlSQU1CX2FPdk85U1ZHQjBSbHFXZDZ3VjUxNDg3THFOeUFyM0tiQURWczlyLUVxYm9QR0g5ZW5mcVA2bXVEc2QydjlQdkpfNHkxeTFzbXdxRkZVQ21lS2lXVVJQSktrWUVrY1pqUXdRN2VJdmpyWnRhT0ZncG1MT1RvZmpOcF9QcV91RXJ2SzBiQmpHd0ZHbkZNQzE?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
     },
     {
       "title": "Four people die in mass fan celebrations in Mexico City after World Cup victory",
@@ -50,46 +43,53 @@
       "domain": "theguardian.com"
     },
     {
-      "title": "JD Vance Lays Out Post-Trump Conservative Vision In Interview With Michael Knowles",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdFQwckdHV2pVNkZ5QjJLWllWTm9femIzZmlETjRQUEpsd3JLRUFsUjFWak1mNEVvR0hxbmltRjFfMW12NGhZcUJ1S205YklNaS1CMnBLZ25LZmdFTlozRXNhMGFnZjZndlhlS2R5ZW5iSHo0a3dXTjk4MjlaLU9kVFRkN2ZvQVlDbE1QT0NOLXB0MzFoQ1psbzY4WTVFZlh0QUJueHlqS0tMU3RLTENhNE1QUQ?oc=5",
-      "source": "Daily Wire",
-      "bias": "right",
-      "domain": "dailywire.com"
-    },
-    {
-      "title": "After A Messy Breakup With Republicans, Tucker Carlson Claims He\u2019s Building A Political Party",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaVlUbHE5Q2F5SVA3OFhvWTU4Y2dNZXFKdHBGLU1HN2E5bUVISzNkcVRwYmdLQ2tfRzNkZDFKYkhBZFRBX0E5Slh5UVRDVkhQZmpwNkhBeDhlaDkzZVI5U2JBTXUxcWk4TTB3WWxfT1cwNDZScTBFWWM1YUdpb0Z6NWRxOG8yemNpckVYelFzeG10U0tyYXZZZllVV0RnaExNUnJB0gGoAUFVX3lxTFBvRFYxQndqbGxTR0ZmNlVTWFMzUFhwZnBibEF6b2kyc3pRNFZ2a0Y2UjNXVURRc3RLZk1TVGIzeUxTNlZDU2ZEcjEzblJGak9LSHhwTzJ3NXl0UTM0M21nT1ZpVTJmZXhJeDhxSEtVMkQ5TjNNOTg2WnFIM0JqM2J2dm81R0w5OGFYeFFNNUNwZWQxMXhJaDVVLTJwMzc1ZHdweDlzWUNySQ?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    },
-    {
-      "title": "Ex-CIA Director John Brennan seeks court order requiring records from investigations be preserved",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbmkzVjZOS3ZBQk9LMVVFT3BBYTh3M2hfRnNmLVBiVnRlVmRQUzVCR2ZuZm9KWmh4QnpDSm42dUhjMWZFVk1ZZUJkVE9OUkdNWGo5UTBlSGp6aUxCSlkwOTdUMzRjN2Y2MUFUMXl3S2xOejlNTWlPNGlGQmpDbm42aE93b2hKczQ0RTNVUFM2T1FDdG5WQS1lWUNxVktJUzJBd3FCRVlCUFNnYnphSGpmSw?oc=5",
+      "title": "4 people die in Mexico City during celebrations after World Cup win",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYk1nS3oxQThCQ1NCbm80ejRGWFZxYndnN0x2VVgwZ2dJcS1BV3BVdHNnLVhWWmVwSjZ1S09TMHIzMVlHOFRMd3pvZlhMVFY4Y1NCSDFMVHVadmlCWkZ0UlFvcTBNTHV3WWlrY0FIeEtyTWNHX1QwSWEzYVRjUzU2LTl0SXl2V2tzSXZIQUcwTHRyRWRPc3A2UXJMZEc?oc=5",
       "source": "Associated Press",
       "bias": "center",
       "domain": "apnews.com"
     },
     {
-      "title": "US-Iran talks in Doha: What were the outcomes and what\u2019s next?",
-      "url": "https://www.aljazeera.com/news/2026/7/2/us-iran-talks-in-doha-what-were-the-outcomes-and-whats-next?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "Iran Prepares to Bury Supreme Leader, Ayatollah Ali Khamenei, Killed at Iran War\u2019s Outset",
-      "url": "https://www.nytimes.com/2026/07/02/world/middleeast/iran-funeral-ali-khamenei-preparations.html",
+      "title": "Putin Retaliates With New Strikes After Ukraine Takes the War to Russia",
+      "url": "https://www.nytimes.com/2026/07/02/world/europe/russia-putin-ukraine-war-pressure.html",
       "source": "New York Times",
       "bias": "left-center",
       "domain": "nytimes.com"
     },
     {
-      "title": "Report: Kamala Harris Courts Mamdani, Pro-Palestinian Activists Ahead of Possible 2028 Run",
-      "url": "https://www.breitbart.com/politics/2026/07/01/report-kamala-harris-courts-mamdani-pro-palestinian-activists-ahead-of-possible-2028-run/",
-      "source": "Breitbart",
+      "title": "'Night Of Horror': Major Russian Attack Kills 18 In Kyiv As Ukraine Keeps Striking Moscow's Oil Sector",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMm1XQjE5c0wtOE5XOGVGc2l3UzI1blc3RDNUOTdpSHNDTU16eFJnbUN2R0RMUUdJRGF6MTNwX3VhUjdhU092NGltNkNBaFFPZTBrRU5PM0JWQksyYjhyZkpvbU5CYUlzSHNGZzBqVXdNOUU4bkMtOUZXVWczMzd5M1pyRGUtbW92SEI2MU1Fc9IBlAFBVV95cUxPYm9UbEVVSHZ5TDNjS1pOSENCMVl3bF9rRmhDTGV6OXpaZWh5V3Q5VkZnREpTTllvb3pxMWdvMmVrOHBXV2lwZ1dkdG8wSk9mYjdSR0V2VFB6RUZFWlNRcmlXazNtS09mSjNVaVdndk9fbWxZUTRwUEZZajBJN0IzTTJXNXItNlNidkd0R3Q3alFUcGR1?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    },
+    {
+      "title": "After quakes trap Venezuelans, the government impedes rescuers and aid",
+      "url": "https://www.washingtonpost.com/world/2026/07/01/after-quakes-trap-venezuelans-government-blocks-rescuers-aid/",
+      "source": "Washington Post",
+      "bias": "left-center",
+      "domain": "washingtonpost.com"
+    },
+    {
+      "title": "Empire State Building security under scrutiny after climbers' stunt, tourist reveals possible access point",
+      "url": "https://www.foxnews.com/us/empire-state-building-security-scrutiny-climbers-stunt-tourist-reveals-possible-access-point",
+      "source": "Fox News",
       "bias": "right",
-      "domain": "breitbart.com"
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Daredevil couple who got engaged atop Empire State Building released \u2014 as lawyer claims it was a \u2018message of love\u2019",
+      "url": "https://nypost.com/2026/07/02/us-news/daredevil-couple-who-got-engaged-atop-empire-state-building-released-as-lawyer-claims-it-was-a-message-of-love/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
+      "title": "Who climbed the Empire State Building? Here's what we know.",
+      "url": "https://www.cbsnews.com/news/empire-state-building-climbers-ivan-kuznetsov-angela-nikolau/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
     },
     {
       "title": "A 13-year-old dies after participating in a Benadryl TikTok 'challenge'",
@@ -97,29 +97,22 @@
       "source": "CNN",
       "bias": "left",
       "domain": "cnn.com"
-    },
-    {
-      "title": "Details emerge of Taylor Swift-Travis Kelce wedding events at MSG",
-      "url": "https://www.cbsnews.com/news/taylor-swift-travis-kelce-wedding-madison-square-garden-rehearsal-dinner/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "From friendship bracelets to wedding rings: A Taylor and Travis timeline",
-      "url": "https://www.bbc.co.uk/news/articles/cqj19p112qjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
     }
   ],
   [
     {
-      "title": "Vatican excommunicates breakaway Catholic bishops who defied Pope Leo XIV",
-      "url": "https://www.foxnews.com/world/vatican-excommunicates-breakaway-catholic-bishops-defied-pope-leo-xiv",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
+      "title": "Support floods in for influencer Nara Smith after daughter's cancer diagnosis",
+      "url": "https://www.bbc.co.uk/news/articles/cwyd3nxr5ggo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "Dads of Camp Mystic victims push for safety laws 1 year after floods",
+      "url": "https://www.cbsnews.com/news/dads-camp-mystic-victims-safety-laws-deadly-texas-floods/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
     },
     {
       "title": "Trump denies conflict of interest over crypto. And, Vatican excommunicates rebel group",
@@ -129,6 +122,13 @@
       "domain": "npr.org"
     },
     {
+      "title": "Vatican excommunicates bishops of breakaway traditionalist sect",
+      "url": "https://www.washingtonpost.com/world/2026/07/02/vatican-excommunicates-bishops-breakaway-traditionalist-sect/",
+      "source": "Washington Post",
+      "bias": "left-center",
+      "domain": "washingtonpost.com"
+    },
+    {
       "title": "Trump filing shows he took in about $1.2 billion from crypto businesses last year",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWjNlekt0VjJhX2w5b01vaFFEaXB2LVdlc0R4dUU0UVQtZ3RxMGxvb2pZUGNnT3lvQmpkOXJjdnMzaVpTcDZNZ3ZnalNMYWZSMjFaZkxXTldKYUtRcnFvd2hBZnlGZWpPU0V0Qms0YVBsZkdCUkxZcEdXRmZ5WHJDb01SSmM4TExxMVl6UElqbmlKQ0lqRk9SZw?oc=5",
       "source": "Associated Press",
@@ -136,38 +136,105 @@
       "domain": "apnews.com"
     },
     {
-      "title": "Vatican expels members of rebel Catholic group over unapproved ordination",
-      "url": "https://www.aljazeera.com/news/2026/7/2/breakaway-catholic-group-condemned-sacraments-deemed-illicit-by-vatican?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "Vatican excommunicates bishops of breakaway traditionalist sect",
-      "url": "https://www.washingtonpost.com/world/2026/07/02/vatican-excommunicates-bishops-breakaway-traditionalist-sect/",
-      "source": "Washington Post",
+      "title": "A Quiet Surge in ICE Arrests, and Trump\u2019s First Flight on Plane Given by Qatar",
+      "url": "https://www.nytimes.com/2026/07/02/podcasts/the-headlines/ice-arrests-trump-plane.html",
+      "source": "New York Times",
       "bias": "left-center",
-      "domain": "washingtonpost.com"
+      "domain": "nytimes.com"
     }
   ],
   [
     {
-      "title": "US posts 2-0 victory, advances in World Cup, despite controversial red card",
-      "url": "https://abcnews.com/GMA/Culture/usmnt-faces-bosnia-herzegovina-world-cups-knockout-round/story?id=134347846",
+      "title": "\u2018Libelous\u2019 NYT report tying Trump family to government-backed deal sparks legal demand",
+      "url": "https://www.foxnews.com/politics/libelous-nyt-report-tying-trump-family-government-backed-deal-sparks-legal-demand",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Pope Leo plans to send a message about migrants on July Fourth",
+      "url": "https://www.washingtonpost.com/world/2026/06/30/july-fourth-pope-leo-offer-counterpoint-trumps-america/",
+      "source": "Washington Post",
+      "bias": "left-center",
+      "domain": "washingtonpost.com"
+    },
+    {
+      "title": "WATCH:  Millions are expected to fly for July 4th holiday: TSA",
+      "url": "https://abcnews.com/video/134403343/",
       "source": "ABC News",
       "bias": "center",
       "domain": "abcnews.go.com"
     },
     {
-      "title": "Controversial penalty ends Senegal\u2019s FIFA World Cup run against Belgium",
-      "url": "https://www.aljazeera.com/sports/2026/7/2/controversial-penalty-ends-senegals-fifa-world-cup-run-against-belgium?traffic_source=rss",
+      "title": "Where can I invest my kid\u2019s \u2018Trump account\u2019 money? The Treasury Department just answered that question.",
+      "url": "https://www.marketwatch.com/story/where-can-i-invest-my-kids-trump-account-money-the-treasury-department-just-answered-that-question-4f656574?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
+    },
+    {
+      "title": "Trump Shows Off His New $400 Million Jumbo Jet He Solicited From The Qatari Royal Family",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LWmh4dHBHTnVzWUJic1pYeFpOS2pZd0kxVTh6Nkc0SGZNZWFjUVB2N29iM01OU1pWcDEtQ09lT2lNQ25RbDQzY3RsUURlUGlOX3BWa19EcVpjYzFoeUN0QzJYLWM0WG9HOU53cGI5UV94YllxS0FMMnlZUXMySmPSAYQBQVVfeXFMTXFySlp3dFVUR1V1VDRJS09keFlpOS1GZEJhd3ZuVTVkVlY2VU5OMmxGZVV2RS1INzVmY203bjc5dmg4aWdFMkliUG9STlJOcmZqOTY0WERtU2pSazdiNjFiZ3NzRmlwcnQtdlN6aGZoR1hFWWt5bDgyMFVKYXlHZGpGSVZy?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    }
+  ],
+  [
+    {
+      "title": "WATCH: Nationwide transgender sports law is next step after Supreme Court win, GOP senator says",
+      "url": "https://www.foxnews.com/politics/watch-nationwide-transgender-sports-law-next-step-after-supreme-court-win-gop-senator-says",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Supreme Court upholds state laws banning transgender girls and women from school athletic teams",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ0k5Vmc2S1lZU2JqQXR1SDVRZEVUMnRsUEFCVm14SmI3VTNramx5bEhqeEpIQVlDdjdsa0ZTQjBCaE9nRjRNMS10Yk5sNll3RzJBN2VlbFNyVHRzek4wcUtHVGVucEVJMXhsQUVabHBraGc3dDFyd1VndnN3SEpyMzc5aGJjSkFrMkVaU0NkRUVnVXQtQVdLMHFITmliYU5aS19LanVuSDJZT0U?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "JD Vance Lays Out Post-Trump Conservative Vision In Interview With Michael Knowles",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdFQwckdHV2pVNkZ5QjJLWllWTm9femIzZmlETjRQUEpsd3JLRUFsUjFWak1mNEVvR0hxbmltRjFfMW12NGhZcUJ1S205YklNaS1CMnBLZ25LZmdFTlozRXNhMGFnZjZndlhlS2R5ZW5iSHo0a3dXTjk4MjlaLU9kVFRkN2ZvQVlDbE1QT0NOLXB0MzFoQ1psbzY4WTVFZlh0QUJueHlqS0tMU3RLTENhNE1QUQ?oc=5",
+      "source": "Daily Wire",
+      "bias": "right",
+      "domain": "dailywire.com"
+    },
+    {
+      "title": "The U.S. healthcare system is in crisis. A Supreme Court ruling could make things worse",
+      "url": "https://www.npr.org/2026/07/02/nx-s1-5878415/haitian-tps-healthcare-immigration-supreme-court",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "\u2018They will attack me if I stay\u2019: immigrants in South Africa flee for safety amid violence and anti-foreigner protests",
+      "url": "https://www.theguardian.com/world/2026/jun/30/they-will-attack-me-if-i-stay-immigrants-in-south-africa-flee-for-safety-amid-violence-and-anti-foreigner-protests",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    }
+  ],
+  [
+    {
+      "title": "FIFA rules leave Team USA no recourse after Folarin Balogun's controversial red card",
+      "url": "https://www.foxnews.com/sports/fifa-rules-leave-team-usa-no-recourse-folarin-balogun-controversial-red-card",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Portugal vs Croatia: FIFA World Cup \u2013 Ronaldo-Modric, prediction, team news",
+      "url": "https://www.aljazeera.com/sports/2026/7/2/portugal-vs-croatia-world-cup-last-32-preview-prediction-team-news-ronald-modric?traffic_source=rss",
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
     },
     {
-      "title": "VAR inconsistencies questioned after controversial Folarin Balogun red card in USMNT World Cup win",
-      "url": "https://nypost.com/2026/07/02/sports/var-inconsistencies-questioned-after-controversial-folarin-balogun-red-card-in-usmnt-world-cup-win/",
+      "title": "Spain vs. Austria World Cup prediction: Odds, picks, best bets for Round of 32",
+      "url": "https://nypost.com/2026/07/02/betting/spain-vs-austria-world-cup-prediction-odds-picks-best-bets-for-round-of-32/",
       "source": "New York Post",
       "bias": "right",
       "domain": "nypost.com"
@@ -178,65 +245,65 @@
       "source": "BBC News",
       "bias": "center",
       "domain": "bbc.com"
-    },
-    {
-      "title": "South Africa at the FIFA World Cup 2026: News, Fixtures, Results & Squad | Reuters",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhazBVQ0ZJWEhZZ1BsZ0hCbXZ6V3hqN29seThKZ0tUT09EM2RKelJqWlc2cmd6TWs1TGVFdFpzWl9TTy0wQ0hNTTBFczRzZTlZaGE0NVMwMTl5dVhKb0xuZEt2LWlNaGNMTVVuRg?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
     }
   ],
   [
     {
-      "title": "Dave Portnoy has outlandish NSFW reaction to Celtics adding Paul George in shocking Jaylen Brown trade",
-      "url": "https://nypost.com/2026/07/02/sports/dave-portnoy-has-nsfw-reaction-to-celtics-adding-paul-george-in-jaylen-brown-trade/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
+      "title": "Iran warns US, Israel against attacks ahead of funeral processions for Khamenei",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVjd1X1pITDBSckd0dXdzYzdCbTZ2T3o2UmFUWG5yaHRuZFZWR1pMclo4Z3BLNGYzeS1WREhPZ291WFlJcmZGOGNHclp0dEp4cVhaQTdweUx5Rl90U2tnRGdJOEtjZHNnbC05aUJRMXZJbHl3aUtKMzlxRl94SUl5N251SENtMVBqVVFHdldIcDJCTnpaamphc2VVWUlReGZCMkZpOEJYMlBxcGlOaVktWUdIR2RseW94clhPenQzVlVhOWM?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
     },
     {
-      "title": "Jaylen Brown traded from Celtics to Sixers for Paul George, draft picks",
-      "url": "https://www.cbsnews.com/news/jaylen-brown-traded-boston-celtics-philadelphia-76ers/",
+      "title": "Iran Prepares to Bury Supreme Leader, Ayatollah Ali Khamenei, Killed at Iran War\u2019s Outset",
+      "url": "https://www.nytimes.com/2026/07/02/world/middleeast/iran-funeral-ali-khamenei-preparations.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "U.S.-Iran talks pause for ayatollah's funeral after claims of progress",
+      "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-negotiations-pause-ayatollah-funeral/",
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"
     },
     {
-      "title": "Jaylen Brown traded to Philadelphia 76ers from Boston Celtics",
-      "url": "https://www.aljazeera.com/sports/2026/7/2/jaylen-brown-traded-to-philadelphia-76ers-from-boston-celtics?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
+      "title": "U.S. and Iran hold separate meetings in Qatar and agree to continue discussions",
+      "url": "https://www.npr.org/2026/07/02/nx-s1-5878887/us-iran-meetings-qatar",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
     }
   ],
   [
     {
-      "title": "After 1,000 days of war: Many Israeli children carry trauma into summer break",
-      "url": "https://www.foxnews.com/world/after-1000-days-war-many-israeli-children-carry-trauma-summer-break",
+      "title": "Mamdani gets roasted after telling sweltering New Yorkers to set ACs to 78 degrees: 'Commie'",
+      "url": "https://www.foxnews.com/politics/mamdani-gets-roasted-after-telling-sweltering-new-yorkers-set-acs-78-degrees-commie",
       "source": "Fox News",
       "bias": "right",
       "domain": "foxnews.com"
     },
     {
-      "title": "Heartbroken boyfriend of alligator attack victim speaks out after desperately trying to save her",
-      "url": "https://nypost.com/2026/07/02/us-news/boyfriend-of-alligator-attack-victim-speaks-out-after-desperately-trying-to-save-her/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
+      "title": "Louisville mayor reacts to blistering heat wave slamming the U.S.",
+      "url": "https://www.cbsnews.com/video/louisville-mayor-reacts-to-blistering-heat-wave-slamming-the-us/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
     }
   ],
   [
     {
-      "title": "Country star Chris Janson says respecting the flag is the number one lesson he wants his kids to learn",
-      "url": "https://www.foxnews.com/entertainment/country-star-chris-janson-says-respecting-flag-number-one-lesson-wants-kids-learn",
+      "title": "FOX News Deals Newsletter: Celebrate America 250 and save on heatwave survival gear",
+      "url": "https://www.foxnews.com/deals/fox-news-deals-fourth-of-july",
       "source": "Fox News",
       "bias": "right",
       "domain": "foxnews.com"
     },
     {
-      "title": "WATCH:  Strawberry moon glows over Statue of Liberty ahead of America's 250th",
-      "url": "https://abcnews.com/video/134359075/",
+      "title": "WATCH:  Statue of Liberty ceremony marks America\u2019s 250th anniversary",
+      "url": "https://abcnews.com/video/134404629/",
       "source": "ABC News",
       "bias": "center",
       "domain": "abcnews.go.com"
@@ -244,15 +311,31 @@
   ],
   [
     {
-      "title": "US employers add 57K jobs in June as hiring continues at a healthy clip \u2013 though rate-cut hopes fall",
-      "url": "https://nypost.com/2026/07/02/business/us-employers-add-57k-jobs-in-june-as-hiring-continues-at-a-healthy-clip-though-rate-cut-hopes-fall/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
+      "title": "Damascus cafe blast kills 5, wounds 16, Syrian state news agency says",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ1FuZFNuTEZTUUhkZmNuOFJ1VXBOR3JCNTJSeWE1bzlGUm5LSGZ4aGVWREdueU9uckxILVUzMzlyZWprdDc0cXBzQnVBR3h0YXJta2hBdG0yS3IyS3cwYWozN3UzNV9xTUpySFVkQW5FR2sxUmIxbmRabml3RTh1eGduZDF5RmtaZkZKT2hRQXNZYXBvc1UtbUhvT25rSHRMY0RkSHRYOHp1cUtOempvQWZ1WQ?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
     },
     {
-      "title": "Employers added 57,000 jobs in June, far below forecasts",
-      "url": "https://www.cbsnews.com/news/june-jobs-report-57000-jobs-hiring-slows/",
+      "title": "Explosion in Damascus cafe causes casualties",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/explosion-in-damascus-cafe-causes-casualties?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    }
+  ],
+  [
+    {
+      "title": "Venezuela quake survivor pulled out alive after eight days",
+      "url": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "Security guard rescued from rubble 8 days after Venezuela earthquakes",
+      "url": "https://www.cbsnews.com/news/security-guard-rescued-venezuela-earthquake-rubble-8-days/",
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"
@@ -260,18 +343,18 @@
   ],
   [
     {
-      "title": "16 children rescued from Ohio home were \u2018almost feral,\u2019 authorities say",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPekpfN3NQc3RPVGZHb0hFSmxhVDM3dGlSQVVTRm0tSE5WY3hVb0c5LXdfbFNlSjNIZ0dxOVVyZTNZcS1PU1FVMVZOSFV1QXRtbVZqR19zSlM3M2Vxd2lsVDMtYWpzOUZXeG84VVp4YTk2WlROZ1VOS2lZYksxcXJDOEJqbkpuUEpTZkt4T0lYZ1pyeVFYTXB4bGdxYw?oc=5",
-      "source": "Associated Press",
+      "title": "Why has Trump refused to renew the USMCA, and what will that mean?",
+      "url": "https://www.aljazeera.com/news/2026/7/2/why-has-trump-refused-to-renew-the-usmca-and-what-will-that-mean?traffic_source=rss",
+      "source": "Al Jazeera",
       "bias": "center",
-      "domain": "apnews.com"
+      "domain": "aljazeera.com"
     },
     {
-      "title": "16 Children Rescued From Ohio Home Were Reportedly 'Almost Feral'",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLURkaElUS3Z6R05wZk40VzA4a3FyZGNiVjJoSVNWVXE4QnlGQklTd3FxTGpFY3dvajRQMG1Ld1V6ZzhWSm10V2wxdmFuN3pEQXd0MUFtT0RHa3NVRlNJMkw1X01TNzNKNF8tTGNHZm8xQkdHelZsREpFVGRYYjVsNWdDdkFWdXBxS0d5S1FabDNCWlVNdjcycWRMM0YwWllfMXlFRXN0TlJJN0tvZ2wxOU16X1dvMlNVbkJPTTNB0gHDAUFVX3lxTE1ydEE5NUFXQlRtOHlsRElYZ1pxRVRsc1dodmsxQmZKS3A3XzlsMXRqTGJlN25JM0Z4OUIyNktKNjRsT05zVW9iMGZQU3U2VjlBdEtXMmtwRHJxQ05OaWpzMHZlcjdvVjc5YXhBMnBQN0kyLTVXVmJTcVd6a19uSDRJRkNtMFk2NDI4VHQ2WlgzLUJoTVM1WkpNclFBa3YwUm1CdHFmQkloTXVGQnViT1JOcGEzZ1F6UEx4NmxWc0pLSnFoNA?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
+      "title": "Trump refuses to renew US-Canada-Mexico trade pact he once championed",
+      "url": "https://www.theguardian.com/us-news/2026/jul/01/trump-usmca-trade-treaty",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
     }
   ]
 ]

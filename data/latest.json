@@ -1,102 +1,39 @@
 [
   [
     {
-      "title": "Insight: Trump Jr.'s 'Amazon of guns' could make millions under new proposed firearm rule",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORWZydEVhQ0dMR2lfUm96Q2RXeWNvMUxDdENuXzJ4VVNZcC1PREFrVlA5U3J3NkxEaHpZaUgyamZkN0VjYmNUZzJiOTQwVjJIQ1NrS0RPeTdSX3RPcTdvWG55V3lnNkRTVUtmMEVuZzUxTmc0TlAtNDk2NTVXb2xDbmY5VElNQl9rNTZtd2FHaEhZX2VXV3RqcVMzSmZCdmdVX3U3S1JnX2xyU09STjVsZVhLNkJsTTRFU3NkZmVNbzdzLU9I?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "Pope Leo plans to send a message about migrants on July Fourth",
-      "url": "https://www.washingtonpost.com/world/2026/06/30/july-fourth-pope-leo-offer-counterpoint-trumps-america/",
-      "source": "Washington Post",
+      "title": "Maine Democrats Eyeing Late July Convention to Pick Platner Replacement",
+      "url": "https://www.nytimes.com/2026/07/10/us/maine-democrats-platner-replacement-convention.html",
+      "source": "New York Times",
       "bias": "left-center",
-      "domain": "washingtonpost.com"
+      "domain": "nytimes.com"
     },
     {
-      "title": "House Democrats accuse Trump of 'hijacking' America's 250th birthday for his own gain",
-      "url": "https://www.npr.org/2026/07/02/nx-s1-5879162/freedom-250-report-house-democrats-controversy",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    },
-    {
-      "title": "WATCH:  Clock ticks down to Taylor Swift and Travis Kelce's wedding",
-      "url": "https://abcnews.com/video/134368787/",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    },
-    {
-      "title": "Details emerge of Taylor Swift-Travis Kelce wedding events at MSG",
-      "url": "https://www.cbsnews.com/news/taylor-swift-travis-kelce-wedding-madison-square-garden-rehearsal-dinner/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "Sabrina Carpenter and Graham Norton spotted in NYC before rumoured Swift wedding celebrations",
-      "url": "https://www.bbc.co.uk/news/articles/ce8ml4q37veo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "Four people die in mass fan celebrations in Mexico City after World Cup victory",
-      "url": "https://www.theguardian.com/football/2026/jul/01/deaths-mexico-world-cup-fan-celebrations",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    },
-    {
-      "title": "Former Olympian Indicted On Felony Charge Over Alleged Reflecting Pool Vandalism",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb19zbU5xZkxVZGdhdlpyTGZsRXpzQ0VUM0ZxTzNiSW8tZzVVQzV2TF9PeERXN1F6cXA2N05qdFF5WmZGYkxydWlUZFJMSVc1LXg4N2tjcFVlSkszd2pVMEJFc3hfZmYyLVRtejMwWGFHcFh4N1VIWEMyNlFsQlVaOXhJcFFwQS1aZEpPRnplQ216RXFvS3lNQ3owNk9QcFdrTmVael83MjbSAa4BQVVfeXFMTVQ2NF9yNGN2V1o4LVNtVkhOc01pR2l1cDZaSHEzLTE5MHhMeEVzQnBkS0Z5bnlycHctSjIyZno3cUl4YUYxUTI5NmQyVHdoOTI2MU05QUR2cDk4UDRZY1NfbEJscFA0NTZGdGtIa1J2SnRrUUE2U1Jib3h6SG1BU2wzckUyWFdCYVdrZHExTHRtZ1ZXZjRPc01BUXFLSlFjejZ4NVVRNW8zSnBrV3BB?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    },
-    {
-      "title": "Trump\u2019s billion-dollar crypto haul triggers some everyday investors sitting on big losses",
-      "url": "https://www.marketwatch.com/story/trumps-billion-dollar-crypto-haul-triggers-some-everyday-investors-sitting-on-big-losses-9f045f00?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
-    },
-    {
-      "title": "Nolte: California Billionaire Tax Qualifies for November Ballot",
-      "url": "https://www.breitbart.com/politics/2026/06/18/nolte-california-billionaire-tax-qualifies-for-november-ballot/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
-    },
-    {
-      "title": "JD Vance Lays Out Post-Trump Conservative Vision In Interview With Michael Knowles",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdFQwckdHV2pVNkZ5QjJLWllWTm9femIzZmlETjRQUEpsd3JLRUFsUjFWak1mNEVvR0hxbmltRjFfMW12NGhZcUJ1S205YklNaS1CMnBLZ25LZmdFTlozRXNhMGFnZjZndlhlS2R5ZW5iSHo0a3dXTjk4MjlaLU9kVFRkN2ZvQVlDbE1QT0NOLXB0MzFoQ1psbzY4WTVFZlh0QUJueHlqS0tMU3RLTENhNE1QUQ?oc=5",
+      "title": "EXCLUSIVE: Women Harmed By Abortion Drugs Send A Message To Todd Blanche",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRDZaZDJkamJiNXZBczMxWkJiU3JTVDRvWVpJOUFLM2h2SlpCU2VhOE8ta2R3amh4Q0lKRzFqUmxIVzF6RTdQWXZnUElDOFFUeUR2QlpFMmppZm1vaWtVQkFtRXZ5V3FwRU9tc2NoUkdBYVZDMEJuVno4a1MxR0U2ZC1aLUJsU2xuWi1SbXZTYklFdHp1NkRwSFhWZUVfS0JhNUQyOA?oc=5",
       "source": "Daily Wire",
       "bias": "right",
       "domain": "dailywire.com"
     },
     {
-      "title": "Riley Gaines and women's sports activists share honest reactions, emotions to SCOTUS Title IX ruling",
-      "url": "https://www.foxnews.com/outkick-sports/riley-gaines-womens-sports-activists-honest-reactions-emotions-scotus-title-ix-ruling",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
+      "title": "Trump says US will give Ukraine license to produce Patriot defense systems",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQzhoTmRUY1YwTVlQNXBOQ08wcTU5dVQ4YXB4ZW0tN3FuMWZCbkFDbTRyRnMwRVNCRVNaTDFRWkhLWENMeUVKelpJdEVVcXdqVy1QVWxPNC02MVVSWF80MG8zR2FZVklqVFMtN2RZZkltNUEtSUgzempWdjFFSlpHekVmSGxnTzZjNlVndzBIQWVJbHJh?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
     },
     {
-      "title": "Up-and-coming NYC drill rapper, dad of 3-year-old girl, reportedly shot dead near Coney Island boardwalk",
-      "url": "https://nypost.com/2026/07/02/us-news/nyc-drill-rapper-dad-of-3-year-old-girl-shot-dead-near-coney-island-boardwalk-cops-kin/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "Man Rescued 8 Days After Quake, a Ray of Joy in Stricken Venezuela",
-      "url": "https://www.nytimes.com/2026/07/02/world/americas/venezuela-earthquake-survivor.html",
-      "source": "New York Times",
+      "title": "U.S. intensifies strikes on Iran\u2019s coast along Strait of Hormuz",
+      "url": "https://www.washingtonpost.com/world/2026/07/09/us-intensifies-strikes-irans-coast-along-strait-hormuz/",
+      "source": "Washington Post",
       "bias": "left-center",
-      "domain": "nytimes.com"
+      "domain": "washingtonpost.com"
+    },
+    {
+      "title": "Trump says US agreed to Iran's request to continue talks, but ceasefire is over",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWU8weHNqWU10dDFxUGpMR3Z5LW0xVVVnTlNuU2ZBaWpXS0ZnbHQ4c3BENmZ2QVZMZ0VLWmIyUnU0NVM2Tkp4T0lONVM2NnF5cHluZWRxR3FkOXdsNEJoQ3I1VmV3a3hOcExFWll0Vkp2VUJKN2xpcU13US1lOEkxWE1CcEY2dWZGbUZ4TzZ3V0lYRUhLdC1CZjJNTDVJZVM2TDZpSUU0V0lQdkZn?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
     },
     {
       "title": "A 13-year-old dies after participating in a Benadryl TikTok 'challenge'",
@@ -106,102 +43,190 @@
       "domain": "cnn.com"
     },
     {
-      "title": "Ex-CIA Director John Brennan seeks court order requiring records from investigations be preserved",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbmkzVjZOS3ZBQk9LMVVFT3BBYTh3M2hfRnNmLVBiVnRlVmRQUzVCR2ZuZm9KWmh4QnpDSm42dUhjMWZFVk1ZZUJkVE9OUkdNWGo5UTBlSGp6aUxCSlkwOTdUMzRjN2Y2MUFUMXl3S2xOejlNTWlPNGlGQmpDbm42aE93b2hKczQ0RTNVUFM2T1FDdG5WQS1lWUNxVktJUzJBd3FCRVlCUFNnYnphSGpmSw?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
+      "title": "Nolte: California Billionaire Tax Qualifies for November Ballot",
+      "url": "https://www.breitbart.com/politics/2026/06/18/nolte-california-billionaire-tax-qualifies-for-november-ballot/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
     },
     {
-      "title": "UK\u2019s likely next leader Andy Burnham vows to fully fund defence plans",
-      "url": "https://www.aljazeera.com/news/2026/7/2/uks-likely-next-leader-andy-burnham-vows-to-fully-fund-defence-plans?traffic_source=rss",
+      "title": "WATCH:  Woman perched on Brooklyn Bridge beam rescued by elite NYPD team",
+      "url": "https://abcnews.com/video/134636407/",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    },
+    {
+      "title": "Houston neighbors started seeing more ICE agents around. Then came a fatal shooting.",
+      "url": "https://www.npr.org/2026/07/10/nx-s1-5886481/houston-neighbors-started-seeing-more-ice-agents-around-then-came-a-fatal-shooting",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "Witnesses contest the Trump administration\u2019s account of Texas ICE killing",
+      "url": "https://www.aljazeera.com/news/2026/7/10/witnesses-contest-the-trump-administrations-account-of-texas-ice-killing?traffic_source=rss",
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
-    }
-  ],
-  [
-    {
-      "title": "Bronx DA\u2019s charges against \u2018gang members\u2019 expose the disturbing trend of NY\u2019s Raise the Age law",
-      "url": "https://nypost.com/2026/07/02/opinion/bronx-das-charges-against-gang-members-expose-the-disturbing-trend-of-nys-raise-the-age-law/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
     },
     {
-      "title": "Sudan\u2019s RSF committed crimes against humanity in El Fasher, Amnesty says",
-      "url": "https://www.theguardian.com/world/2026/jul/01/sudan-rsf-rapid-support-forces-crimes-against-humanity-el-fasher-amnesty-ethnic-cleansing",
+      "title": "French prosecutors investigate racist abuse of Kylian Mbapp\u00e9 by Paraguayan senator",
+      "url": "https://www.theguardian.com/world/2026/jul/07/french-prosecutors-investigate-racist-abuse-mbappe",
       "source": "The Guardian",
       "bias": "left-center",
       "domain": "theguardian.com"
     },
     {
-      "title": "EXCLUSIVE: 735 Criminal Illegal Aliens Arrested by ICE-Houston Officers in May \u2014 Nearly 1,200 with Violent Convictions, Including Murderers, Child Predators",
-      "url": "https://www.breitbart.com/border/2026/06/18/exclusive-735-criminal-illegal-aliens-arrested-by-ice-houston-agents-in-may-nearly-1200-with-violent-convictions-including-murderers-child-predators/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
-    }
-  ],
-  [
-    {
-      "title": "Sanctuary county refused 615 ICE transfer requests, turned over just 11 illegal immigrants, records show",
-      "url": "https://www.foxnews.com/politics/sanctuary-county-refused-615-ice-transfer-requests-turned-over-11-illegal-immigrants-records-show",
+      "title": "Cause of death revealed for American mother murdered in Ireland: report",
+      "url": "https://www.foxnews.com/us/cause-death-revealed-american-mother-murdered-ireland-report",
       "source": "Fox News",
       "bias": "right",
       "domain": "foxnews.com"
     },
     {
-      "title": "Federal civil rights data holds schools accountable. Under Trump, it's 6 months late",
-      "url": "https://www.npr.org/2026/07/02/nx-s1-5859422/civil-rights-data-students-education",
-      "source": "NPR",
+      "title": "Charlie Kirk's family cites \"overwhelming evidence\" against alleged killer",
+      "url": "https://www.cbsnews.com/news/charlie-kirk-tyler-robinson-preliminary-hearing-family-statement/",
+      "source": "CBS News",
       "bias": "left-center",
-      "domain": "npr.org"
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Man arrested on suspicion of murder after death of Ann Widdecombe",
+      "url": "https://www.bbc.co.uk/news/articles/cvg50lk22jpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "Graham Platner Waiting Until Last Minute To Formally Withdraw From Senate Race: Reports",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONkNqb2pyeUJLZXREeE9PdTJKajZDajVXTklQNktmTG15OGczZ0Fvajg4TTFTNXF3REJqRmd1Y29hRnlXTEs4RmlXXzJFZzZNWldNejNrVXVvZXZ1dEJTb2lhcmlJNWREWEpjaS1UR1VFaWxjS3JVX3lUdUw3N082aEV1MW5yd19NeDlzZmxmMC1XVHVmbGM0ZzlMMlc2QzJxVXBUMW5BTWF3NmRxVzJBUHZsTXFYVGVjSnJjb2tRbWVfX3FiTkhEVjBLQnV2R0swTGFN0gHYAUFVX3lxTE4zV1JfX3R4NjVrOGl4c1JmTFBYbHh1UWpnVmVVOTFUZWh2RVQwRkNxZTZUd1pjYkwyZEVNTllDR3pzMjFRMzZ3eUwzX3Vpb2RjZHhvZHZTNlF0a1prZHpuUzhabjlJRXVKVHQtSkF5R2R0X0V2OVI1cDJzVERfUUdaYUpaOV9Mb2FwQjNMdWVXTF82M3ZKXy0zNUxxem9wT0V3VFlRWk5yaGdQbGZvaWI0TWpsTWlVb0RIa0NrVVZxU3ZXem95VVFIMjAwTWZNQkw0c3htRWhpag?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
     }
   ],
   [
     {
-      "title": "Trump administration and Anthropic have not discussed the government taking a stake in it, source says",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbmxpNnJVaWFGeUpNcXgtMUpYSGxwblVfTkM2TTluOFduQWF4X2VJM2g5Qkw5dEl0X3ZWTmNOUWJDUTVZVTBaenp0TklNcWp3ZzZNRnFqSmhjSXZ3d3Aza0hVUXA1Y2VMUnI3MzhCalhUV2lzRUtESmxyOTNKakF2TjBvaVpLZDdKVlVoVm1MSk5TTG9CalBySkxvc2hnVU92ejVMOXlWbTJnYlRScWV6d3VfeGFuYlBpb3NjcDZkV3MwUQ?oc=5",
-      "source": "Reuters",
+      "title": "Wildfire in southern Spain leaves at least 12 dead and 23 missing",
+      "url": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "bias": "center",
-      "domain": "reuters.com"
+      "domain": "bbc.com"
     },
     {
-      "title": "Trump administration lifts restrictions on Anthropic's Claude models after cybersecurity alarm",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSUFUaE4wVlNYRDNtWjhaNXdpRV80eUR2ZzhrMklvNDJKcENfMFNjblluVnZVcEYwbjNEdXhIWms2VGMwQ1NZRzY3Y1c4U0pLbl84ajhaZ05fcklpZ1V6bHZkQi10SHV1YjBvSC1FOEwwNjh6YWdVZm9ZMWJhd0FpLU9QVTVNOFNtVU4wcEhJUThQdjZXN1pZaGtJQQ?oc=5",
+      "title": "Wildfire devastates an expat community in southern Spain, killing at least 12 with 23 missing",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdERXbVpiZXNlclNoY2JSMzZlTVo3N09oMklGd0dQYmJkTm43eGlZMVFSbFpWeldadVZ3OUJQRzF5QUlTdUxMekVMRVp2OWhrT0ZocnV6SUdTS3pJOWZtTGhCbjhXX0tUSEVVN3JEQmI4bnJ0a29KbmtLd3NlMmVsc2U3U0hSYThLamc?oc=5",
       "source": "Associated Press",
       "bias": "center",
       "domain": "apnews.com"
+    },
+    {
+      "title": "At least 11 people killed as wildfires sweep southern Spain",
+      "url": "https://www.washingtonpost.com/world/2026/07/10/deadly-wildfire-southern-spain-leaves-least-11-dead/",
+      "source": "Washington Post",
+      "bias": "left-center",
+      "domain": "washingtonpost.com"
+    },
+    {
+      "title": "Weather tracker: Typhoon leaves people stranded on rooftops in China",
+      "url": "https://www.theguardian.com/world/2026/jul/10/weather-tracker-typhoon-leaves-people-stranded-on-rooftops-in-china",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
     }
   ],
   [
     {
-      "title": "All New York Suffers in a Heat Wave. It\u2019s Worse in Jamaica, Queens.",
-      "url": "https://www.nytimes.com/2026/07/02/nyregion/heat-wave-nyc-jamaica-queens.html",
+      "title": "Newly released video shows scene of Jeremy Renner's snowplow accident",
+      "url": "https://www.cnn.com/videos/us/2023/04/18/jeremy-renner-snowplow-accident-bodycam-nc-melas-contd-vpx.cnn",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
+    },
+    {
+      "title": "New Trump UFO file dump includes military footage of mysterious star-shaped object",
+      "url": "https://www.foxnews.com/politics/trump-ufo-file-dump-includes-military-footage-mysterious-star-shaped-object",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Toddler crawls through White House fence, prompts Secret Service response",
+      "url": "https://www.cnn.com/2023/04/18/politics/white-house-toddler/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
+    },
+    {
+      "title": "White House considering plan to add permanent fencing on Pennsylvania Ave.",
+      "url": "https://www.cbsnews.com/news/white-house-considering-plan-to-add-fencing-nearby-to-bolster-security/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Fery's Wimbledon run ended by Zverev in semi-finals",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/ckg475qdnd7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "Sinner demolishes Djokovic to set up Wimbledon final with Zverev",
+      "url": "https://www.aljazeera.com/sports/2026/7/10/clinical-sinner-demolishes-djokovic-to-set-up-wimbledon-final-with-zverev?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    }
+  ],
+  [
+    {
+      "title": "Trump Cuts Habitat Protections for Endangered Species",
+      "url": "https://www.nytimes.com/2026/07/10/climate/endangered-species-act-harm.html",
       "source": "New York Times",
       "bias": "left-center",
       "domain": "nytimes.com"
     },
     {
-      "title": "Nolte: Zohran Mamdani Tells New Yorkers to Set Thermostat at 78 During Heat Wave",
-      "url": "https://www.breitbart.com/politics/2026/07/02/nolte-zohran-mamdani-tells-new-yorkers-to-set-thermostat-at-78-during-heat-wave/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
+      "title": "Species\u2019 ingenious survival strategies no match for human destruction, red list reveals",
+      "url": "https://www.theguardian.com/environment/2026/jul/09/species-ingenious-survival-strategies-no-match-human-destruction-red-list",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
     }
   ],
   [
     {
-      "title": "LIVE: Portugal vs Croatia \u2013 FIFA World Cup 2026",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/7/2/live-portugal-vs-croatia-fifa-world-cup-2026?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
+      "title": "SK Hynix\u2019s stock scores double-digit pop in Nasdaq debut",
+      "url": "https://www.marketwatch.com/story/sk-hynixs-stock-looks-primed-for-a-pop-in-its-nasdaq-debut-38054370?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
     },
     {
-      "title": "LIVE:  ABC News Live",
-      "url": "https://abcnews.com/video/41463246/",
+      "title": "Canada to buy 12 hi-tech German submarines after bidding war",
+      "url": "https://www.theguardian.com/world/2026/jul/06/canada-buys-12-tkms-german-norwegian-submarines-after-bidding-war",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    }
+  ],
+  [
+    {
+      "title": "Student Pilot Lands Plane After Instructor Leaps To His Death Mid-Flight",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTmZIWEhUVzBkeENCbzR0cjFfNGhZRUV4ek84SUk5cDB4OTlhS3RqVWlaR3FPSkRvc1ZSTkh2dDd5MHIwbVJTbkNYNXc0T0J1bDRxYUZOZENXcDQ4dTNUSUtRT1JrQ2NFai02R1IxNHU2dm5IMnViWmh6OXpISzJ3U1gxeVR1YTJMVnJJRWRhNlN0cWNtajF1LWU3dy1oeWo4VUgtX2FB?oc=5",
+      "source": "Daily Wire",
+      "bias": "right",
+      "domain": "dailywire.com"
+    },
+    {
+      "title": "WATCH:  Student pilot forced to land plane alone after instructor jumps to his death midair",
+      "url": "https://abcnews.com/video/134636515/",
       "source": "ABC News",
       "bias": "center",
       "domain": "abcnews.go.com"

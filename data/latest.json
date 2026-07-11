@@ -1,81 +1,18 @@
 [
   [
     {
-      "title": "Rosie O'Donnell escalates feud with Trump, predicts president isn't healthy enough to live through 2028",
-      "url": "https://www.foxnews.com/media/rosie-odonnell-escalates-feud-trump-predicts-president-isnt-healthy-enough-live-through-2028",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
+      "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges",
+      "url": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
     },
     {
-      "title": "Iran live updates: Khamenei vows revenge for his father\u2019s death",
-      "url": "https://abcnews.com/International/live-updates/iran-live-updates-thousands-throng-tehran-streets-khamenei/?id=134509610",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    },
-    {
-      "title": "Trump and Iran\u2019s supreme leader trade threats as mediators try to save their crumbling deal",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb29YUXh5MnNRTjVBazdXOUdMSkx5bkU0WHJFVFRGX1pyY0E5cWZfRXc5NnhQVjdOUVFzZTJFNkpBNlZpdUZIVGdoNk5ieU1sVUw1dDMwdkhSYWF4a0pKUk9nYVFMLW5HRFRjOUJTSTBuVEkxLTQ1X2NEZk5FWDMwV2lnRlBhYmhyY2FjQU82S2pnM2RQSEpfTjFwSXBlbk54OGdr?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "Mojtaba Khamenei Vows Revenge as Iran\u2019s Top Diplomat Is in Oman For Talks",
-      "url": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-araghchi-oman-iran-strait-of-hormuz.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "U.S. intensifies strikes on Iran\u2019s coast along Strait of Hormuz",
-      "url": "https://www.washingtonpost.com/world/2026/07/09/us-intensifies-strikes-irans-coast-along-strait-hormuz/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
-    },
-    {
-      "title": "Minnesota is pulling troops early from D.C., as pressure grows on Michigan",
-      "url": "https://www.npr.org/2026/07/11/nx-s1-5887666/national-guard-dc-trump-michigan-minnesota",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    },
-    {
-      "title": "Hormuz shipping in focus as Iran-US rhetoric heats up",
-      "url": "https://www.aljazeera.com/news/2026/7/11/hormuz-shipping-in-focus-as-iran-us-rhetoric-heats-up?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "Furore in Nigeria over fake federal agency set up in government HQ",
-      "url": "https://www.theguardian.com/world/2026/jul/09/bola-tinubu-under-pressure-fake-nigerian-government-agency-political-storm",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    },
-    {
-      "title": "Maine event: Dems descend into chaos over Platner exit",
-      "url": "https://nypost.com/2026/07/11/us-news/maine-democrats-descend-into-chaos-over-graham-platner-exit/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "South Africa World Cup midfielder Adams dies aged 25",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss",
+      "title": "Ann Widdecombe attacked nearly 24 hours before she was found dead, police believe",
+      "url": "https://www.bbc.co.uk/news/articles/cgjx912wxw3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "bias": "center",
       "domain": "bbc.com"
-    },
-    {
-      "title": "South Africa World Cup midfielder Adams dies aged 25",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ2U1YlJyWlRNSTRqUnFjR2xmQ2N6cl9fb3BTVGtyeEw5eVRYaU15X1pnR3VWaGNGR2EzNVpXMS0yS193RXdfd3d3WThURW5PNG1YYkx5amxrbzRJank1Rzk3aGFnRVRZWlFKVkM4enJaNkYzM2sxUU12VF9UUFZsM0t4Nnp0UlFyNENFSDhwTjRpVFhDSklJeWZBQTFscF92YzB3dA?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
     },
     {
       "title": "EXCLUSIVE: Women Harmed By Abortion Drugs Send A Message To Todd Blanche",
@@ -85,11 +22,25 @@
       "domain": "dailywire.com"
     },
     {
-      "title": "200 young campers, staff rescued amid record flooding in Missouri",
-      "url": "https://www.cbsnews.com/news/missouri-flooding-campers-rescued-helicopter-national-guard/",
-      "source": "CBS News",
+      "title": "At least 11 people killed as wildfires sweep southern Spain",
+      "url": "https://www.washingtonpost.com/world/2026/07/10/deadly-wildfire-southern-spain-leaves-least-11-dead/",
+      "source": "Washington Post",
       "bias": "left-center",
-      "domain": "cbsnews.com"
+      "domain": "washingtonpost.com"
+    },
+    {
+      "title": "Wildfire devastates an expat community in southern Spain, killing at least 12 with 23 missing",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdERXbVpiZXNlclNoY2JSMzZlTVo3N09oMklGd0dQYmJkTm43eGlZMVFSbFpWeldadVZ3OUJQRzF5QUlTdUxMekVMRVp2OWhrT0ZocnV6SUdTS3pJOWZtTGhCbjhXX0tUSEVVN3JEQmI4bnJ0a29KbmtLd3NlMmVsc2U3U0hSYThLamc?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Venezuela quakes have killed 4,333, injured 16,740, National Assembly president says",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORkE0LXY1NzZMSC1kVURVTDA0a0NGc3l4aXNreERjdXJhZWlWWDlzVGhKaGhFS2p2WGIyVV9SdzVzcHJXS0w1UG9ZSGpyUFpVUWx5UEVTOTlQYWJmRHBkRlZlSHVsN19zQ3RCUVQxaWhzWTFpYWQtSUY4YWVJcnZmUkk2S3NpcFFUR1dBQU9tRjZqSWE4NGlXenJmVTQzSEo5Vk5qakZ1TDVoSXNyX1pEZFpFcnRrb0ZEZldPQlBuLW5KM2RKUVRPMDVQWQ?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
     },
     {
       "title": "American Tributes \u2013 DHS Secretary Mullin: \u2018In America There's Not One Thing You Can't Achieve'",
@@ -99,20 +50,25 @@
       "domain": "breitbart.com"
     },
     {
+      "title": "Houston man didn't threaten ICE agent before being fatally shot, lawyer for witnesses says",
+      "url": "https://www.cbsnews.com/video/houston-man-didnt-threaten-ice-agent-before-being-fatally-shot-lawyer-for-witnesses-says/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Videos Shed Light on Pursuit Before ICE Killing in Houston",
+      "url": "https://www.nytimes.com/2026/07/11/us/houston-ice-video-shooting-salgado-araujo.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
       "title": "Surging Progressive Once Said Black Democratic Leaders 'Defang The White Left'",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaWZlQXRZTlNLR29pZWVRTHpiWmlIN2pZLTBTaTJIbnA1bnA3bnJwdjZIX1ZzcjVCbXZXcThTR194c3JLdGJOUUVkdllnU1l5emZabGtPNTk0T1g4NU1uRFY4eFVxNDN0Z3VpTWpyS05qenN5azRrUDl2MDk2dGJFbjh4WVZiMU43aE8zalR0MGZnNWxSeTRmTjlJLU5UQXYwcU4wdTJENzU2T1ZncjlZcms1YUJPLWJVLUpoR3ZsazRTdjBvMWpZLXpEbTc0SDjSAdQBQVVfeXFMT3c2Wjg2ZkpQQ2FiUXBraDBLUkdKcGk0ZWVNMDZnM1d2RVM3ZTZ0QjRkdE5RMkpMZldOMF9WRUpYNXZrU2E5WVIzYVFiQnY0TkFuTV8tcDh4RjNZekxIVk5wcEZuT1JGd1NOYy1uVGlNS2FKMHRfTG9uS2EyYkpTRElONlRtVkNnNHBKSG9weV9Zay13NHFhS3F3REowSzJzY3FSaHNnY0xjNlMzX3gzMkRrekxubzc4VVdkSm55cEJJQkQ4VE5zWEdIX0doUmZ3UmZaZ2I?oc=5",
       "source": "HuffPost",
       "bias": "left",
       "domain": "huffpost.com"
-    }
-  ],
-  [
-    {
-      "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges",
-      "url": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
     },
     {
       "title": "French prosecutors investigate racist abuse of Kylian Mbapp\u00e9 by Paraguayan senator",
@@ -129,32 +85,97 @@
       "domain": "npr.org"
     },
     {
-      "title": "Norway vs. England World Cup prediction: Odds, picks, best bets for Saturday\u2019s quarterfinal",
-      "url": "https://nypost.com/2026/07/11/betting/norway-vs-england-world-cup-prediction-odds-picks-best-bets-for-saturdays-quarterfinal/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "Harry Kane and Erling Haaland set for FIFA World Cup quarterfinal duel as England eye moneyline win",
-      "url": "https://www.foxnews.com/outkick-sports/harry-kane-erling-haaland-fifa-world-cup-quarterfinal-duel-england-eye-moneyline-win",
+      "title": "South Africa World Cup player dead at 25 just weeks after tournament appearance",
+      "url": "https://www.foxnews.com/sports/south-africa-world-cup-player-dead-25-weeks-after-tournament-appearance",
       "source": "Fox News",
       "bias": "right",
       "domain": "foxnews.com"
     },
     {
-      "title": "If you ask Americans, Norway's Erling Haaland is already a winner",
-      "url": "https://www.bbc.co.uk/news/articles/ceqd3l4v7reo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
+      "title": "How Red Bulls, NYCFC are trying to capitalize on World Cup buzz \u2014 including some free tickets",
+      "url": "https://nypost.com/2026/07/11/sports/how-red-bulls-nycfc-are-trying-to-capitalize-on-world-cup-buzz-including-some-free-tickets/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
     },
     {
-      "title": "World Cup quarterfinal resale prices drop, FIFA selling nearly 1,200 more seats for final at $7,380",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYTZCVjVzVm50Z1B3MGdXNW43cVA3RjF1NUg2TWw0MFVpQlo1OHVyVkFsWFRKLXZRTlVVM3FibnhyQVRaVHVEU0FKallHV0ViOUVYUzFwNUItRDhuaWItMldLbjdCTW5jTDNJRlYxNlVoVUUxSnNQc1lOSUZxRFpOS0F5b1YyRHhZazNZ?oc=5",
+      "title": "South Africa\u2019s Jayden Adams, 25, dies after playing in FIFA World Cup",
+      "url": "https://www.aljazeera.com/sports/2026/7/11/south-africas-jayden-adams-25-dies-after-playing-in-fifa-world-cup?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    }
+  ],
+  [
+    {
+      "title": "English soccer star Harry Kane calls round of golf with Trump a \u2018surreal experience\u2019",
+      "url": "https://www.foxnews.com/sports/english-soccer-star-harry-kane-calls-round-golf-trump-surreal-experience",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Iran live updates: Khamenei vows revenge for his father\u2019s death",
+      "url": "https://abcnews.com/International/live-updates/iran-live-updates-thousands-throng-tehran-streets-khamenei/?id=134509610",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    },
+    {
+      "title": "Iran's supreme leader pledges revenge for slain father and predecessor",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVFJ6QzJlMkc1VWtrWHlLcms2NkZhSWZ5VnhDazNkY04zS0RMN01UUjhUOGZUajRWVGRqREUtbWRDUjlLakFZaFByZDgySm9mcFNGQi1rLWJFd3RHS09iUVZRZHZGTHFfM1BlTXVYdmhZczl2bFBkZVZDRHE5T0phT2NDd2dTb1F0aS1vRW12SlFCbEFrMGJhRGdSY3FCRHhhd21vbVg5QVNKMl82c1VQd1NaaEp2dw?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "U.S. intensifies strikes on Iran\u2019s coast along Strait of Hormuz",
+      "url": "https://www.washingtonpost.com/world/2026/07/09/us-intensifies-strikes-irans-coast-along-strait-hormuz/",
+      "source": "Washington Post",
+      "bias": "left-center",
+      "domain": "washingtonpost.com"
+    },
+    {
+      "title": "Minnesota is pulling troops early from D.C., as pressure grows on Michigan",
+      "url": "https://www.npr.org/2026/07/11/nx-s1-5887666/national-guard-dc-trump-michigan-minnesota",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "Trump\u2019s Posts on Singing Somali Schoolchildren Stir Anger in Minnesota",
+      "url": "https://www.nytimes.com/2026/07/11/us/politics/trump-somali-kindergartners.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Trump says 1,000 missiles aimed at Iran if he's targeted for assassination",
+      "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-ceasefire-talks-strait-of-hormuz/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Hormuz shipping in focus as Iran-US rhetoric heats up",
+      "url": "https://www.aljazeera.com/news/2026/7/11/hormuz-shipping-in-focus-as-iran-us-rhetoric-heats-up?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "Trump and Iran\u2019s supreme leader trade threats as mediators try to save their crumbling deal",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb29YUXh5MnNRTjVBazdXOUdMSkx5bkU0WHJFVFRGX1pyY0E5cWZfRXc5NnhQVjdOUVFzZTJFNkpBNlZpdUZIVGdoNk5ieU1sVUw1dDMwdkhSYWF4a0pKUk9nYVFMLW5HRFRjOUJTSTBuVEkxLTQ1X2NEZk5FWDMwV2lnRlBhYmhyY2FjQU82S2pnM2RQSEpfTjFwSXBlbk54OGdr?oc=5",
       "source": "Associated Press",
       "bias": "center",
       "domain": "apnews.com"
+    },
+    {
+      "title": "Furore in Nigeria over fake federal agency set up in government HQ",
+      "url": "https://www.theguardian.com/world/2026/jul/09/bola-tinubu-under-pressure-fake-nigerian-government-agency-political-storm",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
     }
   ],
   [
@@ -192,22 +213,22 @@
       "source": "ABC News",
       "bias": "center",
       "domain": "abcnews.go.com"
-    },
-    {
-      "title": "Ex-Pentagon UFO honcho claims photos show monolith-like structures on moon",
-      "url": "https://nypost.com/2026/07/11/us-news/ex-pentagon-ufo-prober-claims-photos-show-structures-on-lunar-surface/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
     }
   ],
   [
     {
-      "title": "Trump administration subpoenas NY Times journalists in grand jury leak probe tied to Air Force One report",
-      "url": "https://www.foxnews.com/media/trump-administration-subpoenas-ny-times-journalists-grand-jury-leak-probe-tied-air-force-one-report",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
+      "title": "Trump administration subpoenas New York Times journalists over Air Force One story, newspaper says",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSHoyVWJPLXpERllzOE44WHRjYUZEc2tGRTdmZXREdWg1VlMyczdhcUFJVWlGYTZiZTREaWpGMjRBZ3FKeWcwcDBoVHpzT25vSHphZ1oxa3BJSVpZaEtiZU5MUHhONUNsdkNiY1JIWmRrdHBnaDV3bXEwWkhXQndiNGZDWVlOTTk5b1ptREFOOGpxY0pqcUUtSFB6eFVOcDJIcS1rckcwVGhtcGpGVGdMM3FTdEpwb2dVTVVYcm51TUhXTDR5OWVhM0JmT0dPVGhY?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Trump administration subpoenas New York Times reporters over coverage",
+      "url": "https://www.aljazeera.com/news/2026/7/11/trump-administration-subpoenas-new-york-times-reporters-over-coverage?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
     },
     {
       "title": "Justice Department subpoenas New York Times reporters over Air Force One reporting",
@@ -217,13 +238,6 @@
       "domain": "npr.org"
     },
     {
-      "title": "New York Times journalists issued subpoenas over Air Force One reporting",
-      "url": "https://www.cbsnews.com/news/trump-air-force-one-security-subpoena-journalists/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
       "title": "Times Journalists Subpoenaed as Trump Escalates Pressure on Media",
       "url": "https://www.nytimes.com/2026/07/11/business/media/new-york-times-trump-subpoenas.html",
       "source": "New York Times",
@@ -231,8 +245,8 @@
       "domain": "nytimes.com"
     },
     {
-      "title": "Trump\u2019s Embarrassingly Bad Week: A Ceasefire Collapse, Air Force One Concerns And A Court Defeat",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWjZkcmk4TlJWa2FKWVpKYVQxTEo3b1M5SGJmMDZBUjI1WENVdVFfN3BxQ2ZFbkIxUFU3MW8zXzFuYlNVelhGaDZGOE1yZ2VFeTFvYkdlS3FyZTFVT0pic0Q5Q2hJaENHeTZSMzZQZnRLaUpIM19TQ3BuME1NNVdLMWpJNDR1TWhWeFRvZ0dqQTFUeldqRkk4dTM3QjVoeUpBaGdBNXVpZTRXaHNzQlIxZVFTXy1kLUgyQkFvZkctZndPWFdmaXA5YTlPUVpXYVFpZnVKSmdCeEZTaEnSAeABQVVfeXFMTmgyV1N1Y3o4c2c0bXNhTDc1S0dIbnJERC02Q2prWWlDcnh0TmwzY2ozY1ZXQ2xjSlhlRURWY19Xc2UtNnVTTDlSR1RkazVCd0tkMWYxRTQ1N0lXS2VBendTclFYS01EMC1SakZhS1BZaldIVlB2SS1ybzNfRUhJa2dVcWtPZE1Ha1Y2QkZKcHN5c29fUjdYUUU4U3hCTEstZ29DMWo5eW9VY1FRZDEwN1p2SkszeThFRHFpMDVMYk9BSmFUTVFEOFN3a3B0QThzbjMweDVSSFBiV1EwaEJ6bVc?oc=5",
+      "title": "New York Times Reporters Subpoenaed After Coverage Of Air Force One, Paper Says",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQd1AzM1BxWjFBUVNGU19IZ3RNOVR6U1BsUFFma2hSTGFTLWZCV0tYYXNTaUdGeGpQMzRwT2h1MEl0Y0NuZDM3dkVjV284cFc0YWx4Mk1CaU1YNmlwMmxiMlI0UjZQWF9VRVdjd3IyaDQ0WGgwWDVSVFJoRXJfbnlCTWFPQV9hRml3cWxGeE5IN2dTamxZak5rVUIyTzhHV0ZKb1IwV25CSXo5bHY2U1pROHBOb3k5elZFYV9na2h3N2lJMXNoNVpEdndIR3Uya0lLdkHSAdcBQVVfeXFMTTNQYm10V1gtcHBoV3JvSEVGeDViOWRxY0xPREpXNVN3S2NTeXBMek9FWDdNVTdJU0RJaGMzSk9kcEZkRFpQcVhPN2VnNEJOekk0S3VBSVRoQmdYRFJQQWxCOEsxX3hmZ1BSSFZjdHdlYnlfQmlWS2FjRFdCZy1BbDlJZlV6OHcyLTNSTlpVV0V5M3BILWZLSkozQUxtT2pEYWp0UW9IZm5ESEJPYXZBVmpxS25ZSmc5bkRoRWJzYW8zZXdRbl85SlFTMTV6QzJsZ2tacTFLSnM?oc=5",
       "source": "HuffPost",
       "bias": "left",
       "domain": "huffpost.com"
@@ -240,48 +254,78 @@
   ],
   [
     {
-      "title": "Newly released video shows scene of Jeremy Renner's snowplow accident",
-      "url": "https://www.cnn.com/videos/us/2023/04/18/jeremy-renner-snowplow-accident-bodycam-nc-melas-contd-vpx.cnn",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
+      "title": "US Democrat Ro Khanna detained by Israeli settlers during West Bank visit",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPemk1Y2lWN29BWVNsNWJNNzFZYVU2ZG94Zmt3R1VyWmVjLVBnOHdEdVFudE1sOGotX0NpTXMyUWhpN2xub2cxUDhXdmhRUURUczNPSmR4RGJPU2xjeDU5V2sxcW5MYWNfaG1ET3VXdGZiUnNnbkFDcW90Z0k5LURYWGgzeVgzNm9ESXVjOGxER3BxVXMyclRZc3dBZHVjU2xQdmxteTlzQ2hCZjhmMTYyZ1BjRm1yVUpOSkE?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
     },
     {
-      "title": "Friend of Charlie Kirk labels courtroom evidence 'devastating' after chilling surveillance footage shown",
-      "url": "https://www.foxnews.com/media/friend-charlie-kirk-labels-courtroom-evidence-devastating-chilling-surveillance-footage-shown",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
+      "title": "US lawmaker slams Israeli army after settlers detain him on Palestine trip",
+      "url": "https://www.aljazeera.com/news/2026/7/11/us-lawmaker-slams-israeli-army-after-settlers-detain-him-on-palestine-trip?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
     },
     {
-      "title": "Videos Shed Light on Pursuit Before ICE Killing in Houston",
-      "url": "https://www.nytimes.com/2026/07/11/us/houston-ice-video-shooting-salgado-araujo.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    }
-  ],
-  [
-    {
-      "title": "House Democrat Ro Khanna says he was detained by armed Israeli settlers in West Bank",
-      "url": "https://www.foxnews.com/politics/house-democrat-ro-khanna-detained-armed-israeli-settlers-west-bank",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "An American Politician is Blocked by Israeli Settlers in the West Bank",
+      "title": "An American Politician Is Blocked by Israeli Settlers in the West Bank",
       "url": "https://www.nytimes.com/2026/07/11/us/politics/ro-khanna-west-bank.html",
       "source": "New York Times",
       "bias": "left-center",
       "domain": "nytimes.com"
     },
     {
-      "title": "US Democrat Ro Khanna detained by Israeli settlers during West Bank visit",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPemk1Y2lWN29BWVNsNWJNNzFZYVU2ZG94Zmt3R1VyWmVjLVBnOHdEdVFudE1sOGotX0NpTXMyUWhpN2xub2cxUDhXdmhRUURUczNPSmR4RGJPU2xjeDU5V2sxcW5MYWNfaG1ET3VXdGZiUnNnbkFDcW90Z0k5LURYWGgzeVgzNm9ESXVjOGxER3BxVXMyclRZc3dBZHVjU2xQdmxteTlzQ2hCZjhmMTYyZ1BjRm1yVUpOSkE?oc=5",
-      "source": "Reuters",
+      "title": "Congressman says he was detained by Israeli settlers in the West Bank",
+      "url": "https://www.cbsnews.com/news/ro-khanna-israeli-settlers-west-bank/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Guehi and Stones set to start for England in World Cup quarter-final",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c7vyp994jjgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "bias": "center",
-      "domain": "reuters.com"
+      "domain": "bbc.com"
+    },
+    {
+      "title": "England vs Norway LIVE: FIFA World Cup 2026 \u2013 quarterfinal",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/7/11/england-vs-norway-live-fifa-world-cup-2026-quarterfinal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "World Cup quarterfinal resale prices drop, FIFA selling nearly 1,200 more seats for final at $7,380",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYTZCVjVzVm50Z1B3MGdXNW43cVA3RjF1NUg2TWw0MFVpQlo1OHVyVkFsWFRKLXZRTlVVM3FibnhyQVRaVHVEU0FKallHV0ViOUVYUzFwNUItRDhuaWItMldLbjdCTW5jTDNJRlYxNlVoVUUxSnNQc1lOSUZxRFpOS0F5b1YyRHhZazNZ?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Trump administration rolls back a key protection for imperiled wildlife",
+      "url": "https://www.npr.org/2026/07/11/nx-s1-5890025/trump-administration-imperiled-wildlife",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "Senators celebrate housing bill becoming law despite Trump's refusal to sign",
+      "url": "https://abcnews.com/Politics/senators-celebrate-bipartisan-housing-bill-becoming-law-despite/story?id=134676815",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    },
+    {
+      "title": "Trump will let bipartisan housing bill become law without signing in protest over GOP voter ID law",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOU1hxOG03ckZKUlpWcjZEWEVjSkNiZ2N3eWl2aXdETXFiMnFyUzF5aE9RWDR1UGMzVE1hc19Mc2M5RkdmSEl5WklrNHl1bFd6bW5ZaDQyVlhrdGROaHVUVjFiY0xqWEFEM0xKVXM0dlNxelV1WWN3ZUJodEp4MEhtekRac2k?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
     }
   ],
   [
@@ -302,18 +346,50 @@
   ],
   [
     {
-      "title": "Businessman who sold land for Kushner resort in Albania suspected of faking the deeds",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSlNmN2luQVhJdF9FcU1XWGUxSTBLdWhiUHZsd09wdllLUGJmRHlacGVPTmNMaVdTV0lyNEJzV3RrWEIyTzlHSkhJV0VCcVdzLUl3SnlFNm8tMVF2dUR6RnZJeEJxOG5SbHU0TUlRM0FMMkdKbHZLU2xCY2o3QWxBNFFuczFucm44dkxObks0bGpVXzN3d0s4alJqSEc2WDdtWlpoMTZheGVyMlU2ZDB4ZXZBZWJScV8wLTRBTw?oc=5",
-      "source": "Reuters",
+      "title": "Noskova holds off extraordinary Muchova fightback to win Wimbledon",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/ce37x57gv49o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "bias": "center",
-      "domain": "reuters.com"
+      "domain": "bbc.com"
     },
     {
-      "title": "Land sold for Kushner-backed Albania resort suspected of forged deeds",
-      "url": "https://www.aljazeera.com/news/2026/7/11/land-sold-for-kushner-backed-albania-resort-suspected-of-forged-deeds?traffic_source=rss",
+      "title": "Noskova defeats Muchova in Wimbledon final to record first Grand Slam title",
+      "url": "https://www.aljazeera.com/sports/2026/7/11/noskova-defeats-muchova-in-wimbledon-final-to-record-first-grand-slam-title?traffic_source=rss",
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
+    }
+  ],
+  [
+    {
+      "title": "Bonnie Tyler, who topped the charts with epic \u2018Total Eclipse of the Heart,\u2019 has died at 75",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbnlyOGxWdV9wbzRlOVhwUm54VHBzdVliTlNWVExNWEdydlRsYnU5Q0w3SXlwd1FHTS1Qa2NSYjRpMUEzTG1qZnE5T1pMdzFRLXFCaXdhYWMySGNubkU0bkY3aTZtbWZZY3l0WTlVampKVEZZUTJVTjZsWmVla1BhdTFoZC14UWJuSHYwOA?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Bonnie Tyler, Famed For \u2018Total Eclipse Of The Heart,\u2019 Dies At 75",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeGZhQ0tlbDJCRW1OMmlOV1BTT2VkbHFjRUJJXzBSSUMzOV96blpkaktMTXV1S1hvWG5ENzBPRGc0LUY1aHpjbUxHeGxNdEd3dXktbURUVTk1OXlRZzB1VnZ1ay0ybXFFWXgzZHJYMHdCeXVOdjRSd2x1alhOaXZ6VzZiejRrcjBJS0F6ZzBqNXNHSGEwZ3c?oc=5",
+      "source": "Daily Wire",
+      "bias": "right",
+      "domain": "dailywire.com"
+    }
+  ],
+  [
+    {
+      "title": "Crews are draining the Lincoln Memorial Reflecting Pool again as part of Trump's troubled revamp",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaEhYQ2hneHMtWndtYWpsTFNJU0VzRGJoV0s1UHBFempJSzk2bHhuQktiT0tGM2xRekMtX2M0dndRRzA5SWwwTDlrd1ZuUDdnZmE5YmhaWGU1VUVoREF0VG1lV1ZsamRPeEdOcWt3U051OXVhQTFuRi1oYVM1MWhFQTAxUmloSFJYdXB0UU1xU2FkWnVHVjZLWFY4WkxnZw?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Crews Are Draining The Lincoln Memorial Reflecting Pool Again In More Trouble For Trump Revamp",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa3l1eGFzRy1Ga19XdGRlWjl4dmdIM2xoSy1GaE9HVml5LWttd0NOT2V4OEt3ZTdWRGVtM2JSeThQX2pXX0FrUHNlb2IzNTJteU9kNGhELXd4dEJ0VENuQ29LOTBUVks1SkhkR1h5Q29GaGN6cGRkb1BSYWt1Z2M0UlBaNHVsMzdDLTBtLWNQSUFZZ9IBlwFBVV95cUxQOVpUdGc1dVNHNDNrdF91NjlldDVxRG5KVWtMZlJxTWpmM3gxUTBBeXNmaWM1dEtoa1U1UXVBdGlNMEh3eUlza2JIbktDT09fNm1jSjlOVjRaVTJSYWlSeHVocE1kdUZud3BWNVVXVFFCbExfWE1SQ2VCZUZFTlBwOFQxYmNlVHBCQkRxRmhyQjItVmRiUWc4?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
     }
   ],
   [
@@ -330,22 +406,6 @@
       "source": "HuffPost",
       "bias": "left",
       "domain": "huffpost.com"
-    }
-  ],
-  [
-    {
-      "title": "China takes a page from SpaceX and recaptures the first stage of a rocket to reuse it",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX0dWYzJmUnQxUFJvdXlQNHJmLXFFc2d4YzFzbFFNSEFDMVVmV21kZFR2MV9aYlpkTjdGMUxGVm1FUmVNN0t3Tlp6WmxmX3dvV19xdG1iYWxBS3FSWTA1cGJPeHA3cFhTX3pWRGVvWndmNl9LTDcwZXY1TFhEU1FKNkI1aFJmMnBoMFFseA?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "WATCH:  China touts first reusable rocket booster",
-      "url": "https://abcnews.com/video/134665903/",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
     }
   ]
 ]

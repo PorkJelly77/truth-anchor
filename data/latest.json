@@ -1,42 +1,28 @@
 [
   [
     {
-      "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges",
-      "url": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
-    },
-    {
-      "title": "French prosecutors investigate racist abuse of Kylian Mbapp\u00e9 by Paraguayan senator",
-      "url": "https://www.theguardian.com/world/2026/jul/07/french-prosecutors-investigate-racist-abuse-mbappe",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    },
-    {
-      "title": "Harry Kane and Erling Haaland set for FIFA World Cup quarterfinal duel as England eye moneyline win",
-      "url": "https://www.foxnews.com/outkick-sports/harry-kane-erling-haaland-fifa-world-cup-quarterfinal-duel-england-eye-moneyline-win",
+      "title": "Rosie O'Donnell escalates feud with Trump, predicts president isn't healthy enough to live through 2028",
+      "url": "https://www.foxnews.com/media/rosie-odonnell-escalates-feud-trump-predicts-president-isnt-healthy-enough-live-through-2028",
       "source": "Fox News",
       "bias": "right",
       "domain": "foxnews.com"
     },
     {
-      "title": "FIFA World Cup parties at MacArthur Park hit by bed bug concerns",
-      "url": "https://nypost.com/2026/07/11/us-news/fifa-world-cup-fans-warned-of-bed-bug-concerns-at-las-macarthur-park/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
-      "url": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
+      "title": "Iran live updates: Khamenei vows revenge for his father\u2019s death",
+      "url": "https://abcnews.com/International/live-updates/iran-live-updates-thousands-throng-tehran-streets-khamenei/?id=134509610",
+      "source": "ABC News",
       "bias": "center",
-      "domain": "bbc.com"
+      "domain": "abcnews.go.com"
     },
     {
-      "title": "Iran\u2019s Top Diplomat Is in Oman for Talks on Strait as Ayatollah Vows Revenge",
+      "title": "Trump and Iran\u2019s supreme leader trade threats as mediators try to save their crumbling deal",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb29YUXh5MnNRTjVBazdXOUdMSkx5bkU0WHJFVFRGX1pyY0E5cWZfRXc5NnhQVjdOUVFzZTJFNkpBNlZpdUZIVGdoNk5ieU1sVUw1dDMwdkhSYWF4a0pKUk9nYVFMLW5HRFRjOUJTSTBuVEkxLTQ1X2NEZk5FWDMwV2lnRlBhYmhyY2FjQU82S2pnM2RQSEpfTjFwSXBlbk54OGdr?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Mojtaba Khamenei Vows Revenge as Iran\u2019s Top Diplomat Is in Oman For Talks",
       "url": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-araghchi-oman-iran-strait-of-hormuz.html",
       "source": "New York Times",
       "bias": "left-center",
@@ -57,11 +43,39 @@
       "domain": "npr.org"
     },
     {
-      "title": "UK police free suspect in ex-MP Ann Widdecombe murder investigation",
-      "url": "https://www.aljazeera.com/news/2026/7/11/uk-police-free-suspect-in-ex-mp-ann-widdecombe-murder-investigation?traffic_source=rss",
+      "title": "Hormuz shipping in focus as Iran-US rhetoric heats up",
+      "url": "https://www.aljazeera.com/news/2026/7/11/hormuz-shipping-in-focus-as-iran-us-rhetoric-heats-up?traffic_source=rss",
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
+    },
+    {
+      "title": "Furore in Nigeria over fake federal agency set up in government HQ",
+      "url": "https://www.theguardian.com/world/2026/jul/09/bola-tinubu-under-pressure-fake-nigerian-government-agency-political-storm",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "Maine event: Dems descend into chaos over Platner exit",
+      "url": "https://nypost.com/2026/07/11/us-news/maine-democrats-descend-into-chaos-over-graham-platner-exit/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
+      "title": "South Africa World Cup midfielder Adams dies aged 25",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "South Africa World Cup midfielder Adams dies aged 25",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ2U1YlJyWlRNSTRqUnFjR2xmQ2N6cl9fb3BTVGtyeEw5eVRYaU15X1pnR3VWaGNGR2EzNVpXMS0yS193RXdfd3d3WThURW5PNG1YYkx5amxrbzRJank1Rzk3aGFnRVRZWlFKVkM4enJaNkYzM2sxUU12VF9UUFZsM0t4Nnp0UlFyNENFSDhwTjRpVFhDSklJeWZBQTFscF92YzB3dA?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
     },
     {
       "title": "EXCLUSIVE: Women Harmed By Abortion Drugs Send A Message To Todd Blanche",
@@ -71,32 +85,18 @@
       "domain": "dailywire.com"
     },
     {
-      "title": "10 Injured in Overnight Russian Missile and Drone Strikes on Kyiv",
-      "url": "https://www.breitbart.com/europe/2026/07/11/10-injured-in-overnight-russian-missile-and-drone-strikes-on-kyiv/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
-    },
-    {
-      "title": "11 wounded in Russian strikes on Kyiv; Ukraine attacks Russian vessels",
-      "url": "https://abcnews.com/International/wireStory/11-wounded-overnight-russian-missile-drone-strikes-kyiv-134672177",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    },
-    {
-      "title": "Hundreds of firefighters in Spain battle deadly wildfires that killed at least 12",
-      "url": "https://www.cbsnews.com/news/spain-deadly-wildfires-firefighters/",
+      "title": "200 young campers, staff rescued amid record flooding in Missouri",
+      "url": "https://www.cbsnews.com/news/missouri-flooding-campers-rescued-helicopter-national-guard/",
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"
     },
     {
-      "title": "Fed Chair Warsh will be in the hot seat as lawmakers press for his read on the economy",
-      "url": "https://www.marketwatch.com/story/fed-chair-warsh-will-be-in-the-hot-seat-as-lawmakers-press-for-his-read-on-the-economy-959ac784?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
+      "title": "American Tributes \u2013 DHS Secretary Mullin: \u2018In America There's Not One Thing You Can't Achieve'",
+      "url": "https://www.breitbart.com/politics/2026/07/11/american-tributes-dhs-secretary-mullin-in-america-theres-not-one-thing-you-cant-achieve/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
     },
     {
       "title": "Surging Progressive Once Said Black Democratic Leaders 'Defang The White Left'",
@@ -104,43 +104,57 @@
       "source": "HuffPost",
       "bias": "left",
       "domain": "huffpost.com"
-    },
-    {
-      "title": "Iran's supreme leader pledges revenge for slain father and predecessor",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVFJ6QzJlMkc1VWtrWHlLcms2NkZhSWZ5VnhDazNkY04zS0RMN01UUjhUOGZUajRWVGRqREUtbWRDUjlLakFZaFByZDgySm9mcFNGQi1rLWJFd3RHS09iUVZRZHZGTHFfM1BlTXVYdmhZczl2bFBkZVZDRHE5T0phT2NDd2dTb1F0aS1vRW12SlFCbEFrMGJhRGdSY3FCRHhhd21vbVg5QVNKMl82c1VQd1NaaEp2dw?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "Trump and Iranian leader trade threats as mediators try to save crumbling deal",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb29YUXh5MnNRTjVBazdXOUdMSkx5bkU0WHJFVFRGX1pyY0E5cWZfRXc5NnhQVjdOUVFzZTJFNkpBNlZpdUZIVGdoNk5ieU1sVUw1dDMwdkhSYWF4a0pKUk9nYVFMLW5HRFRjOUJTSTBuVEkxLTQ1X2NEZk5FWDMwV2lnRlBhYmhyY2FjQU82S2pnM2RQSEpfTjFwSXBlbk54OGdr?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
     }
   ],
   [
     {
-      "title": "US Democrat Ro Khanna detained by Israeli settlers during West Bank visit",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPemk1Y2lWN29BWVNsNWJNNzFZYVU2ZG94Zmt3R1VyWmVjLVBnOHdEdVFudE1sOGotX0NpTXMyUWhpN2xub2cxUDhXdmhRUURUczNPSmR4RGJPU2xjeDU5V2sxcW5MYWNfaG1ET3VXdGZiUnNnbkFDcW90Z0k5LURYWGgzeVgzNm9ESXVjOGxER3BxVXMyclRZc3dBZHVjU2xQdmxteTlzQ2hCZjhmMTYyZ1BjRm1yVUpOSkE?oc=5",
-      "source": "Reuters",
+      "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges",
+      "url": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
+    },
+    {
+      "title": "French prosecutors investigate racist abuse of Kylian Mbapp\u00e9 by Paraguayan senator",
+      "url": "https://www.theguardian.com/world/2026/jul/07/french-prosecutors-investigate-racist-abuse-mbappe",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "Spain edges Belgium and will face France in World Cup semifinal",
+      "url": "https://www.npr.org/2026/07/11/nx-s1-5890030/spain-will-face-france-world-cup-semifinal",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "Norway vs. England World Cup prediction: Odds, picks, best bets for Saturday\u2019s quarterfinal",
+      "url": "https://nypost.com/2026/07/11/betting/norway-vs-england-world-cup-prediction-odds-picks-best-bets-for-saturdays-quarterfinal/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
+      "title": "Harry Kane and Erling Haaland set for FIFA World Cup quarterfinal duel as England eye moneyline win",
+      "url": "https://www.foxnews.com/outkick-sports/harry-kane-erling-haaland-fifa-world-cup-quarterfinal-duel-england-eye-moneyline-win",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "If you ask Americans, Norway's Erling Haaland is already a winner",
+      "url": "https://www.bbc.co.uk/news/articles/ceqd3l4v7reo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "bias": "center",
-      "domain": "reuters.com"
+      "domain": "bbc.com"
     },
     {
-      "title": "An American Politician is Blocked by Israeli Settlers in the West Bank",
-      "url": "https://www.nytimes.com/2026/07/11/us/politics/ro-khanna-west-bank.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "Congressman says he was detained by Israeli settlers in the West Bank",
-      "url": "https://www.cbsnews.com/news/ro-khanna-israeli-settlers-west-bank/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
+      "title": "World Cup quarterfinal resale prices drop, FIFA selling nearly 1,200 more seats for final at $7,380",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYTZCVjVzVm50Z1B3MGdXNW43cVA3RjF1NUg2TWw0MFVpQlo1OHVyVkFsWFRKLXZRTlVVM3FibnhyQVRaVHVEU0FKallHV0ViOUVYUzFwNUItRDhuaWItMldLbjdCTW5jTDNJRlYxNlVoVUUxSnNQc1lOSUZxRFpOS0F5b1YyRHhZazNZ?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
     }
   ],
   [
@@ -157,6 +171,133 @@
       "source": "HuffPost",
       "bias": "left",
       "domain": "huffpost.com"
+    },
+    {
+      "title": "Whistle-Blowers Accuse Kennedy Center of Contracting Flaws Under Trump",
+      "url": "https://www.nytimes.com/2026/07/11/arts/design/whistle-blowers-accuse-kennedy-center-of-contracting-flaws-under-trump.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Harvard astronomer tapped to lead White House UFO council says US government 'baffled by what they are seeing'",
+      "url": "https://www.foxnews.com/politics/harvard-astronomer-tapped-lead-white-house-ufo-council-says-us-government-baffled-what-they-are-seeing",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "WATCH:  Pentagon releases new trove of eerie UFO files",
+      "url": "https://abcnews.com/video/134666117/",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    },
+    {
+      "title": "Ex-Pentagon UFO honcho claims photos show monolith-like structures on moon",
+      "url": "https://nypost.com/2026/07/11/us-news/ex-pentagon-ufo-prober-claims-photos-show-structures-on-lunar-surface/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    }
+  ],
+  [
+    {
+      "title": "Trump administration subpoenas NY Times journalists in grand jury leak probe tied to Air Force One report",
+      "url": "https://www.foxnews.com/media/trump-administration-subpoenas-ny-times-journalists-grand-jury-leak-probe-tied-air-force-one-report",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Justice Department subpoenas New York Times reporters over Air Force One reporting",
+      "url": "https://www.npr.org/2026/07/11/g-s1-133160/justice-department-subpoenas-new-york-times-reporters-over-air-force-one-reporting",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "New York Times journalists issued subpoenas over Air Force One reporting",
+      "url": "https://www.cbsnews.com/news/trump-air-force-one-security-subpoena-journalists/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Times Journalists Subpoenaed as Trump Escalates Pressure on Media",
+      "url": "https://www.nytimes.com/2026/07/11/business/media/new-york-times-trump-subpoenas.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Trump\u2019s Embarrassingly Bad Week: A Ceasefire Collapse, Air Force One Concerns And A Court Defeat",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWjZkcmk4TlJWa2FKWVpKYVQxTEo3b1M5SGJmMDZBUjI1WENVdVFfN3BxQ2ZFbkIxUFU3MW8zXzFuYlNVelhGaDZGOE1yZ2VFeTFvYkdlS3FyZTFVT0pic0Q5Q2hJaENHeTZSMzZQZnRLaUpIM19TQ3BuME1NNVdLMWpJNDR1TWhWeFRvZ0dqQTFUeldqRkk4dTM3QjVoeUpBaGdBNXVpZTRXaHNzQlIxZVFTXy1kLUgyQkFvZkctZndPWFdmaXA5YTlPUVpXYVFpZnVKSmdCeEZTaEnSAeABQVVfeXFMTmgyV1N1Y3o4c2c0bXNhTDc1S0dIbnJERC02Q2prWWlDcnh0TmwzY2ozY1ZXQ2xjSlhlRURWY19Xc2UtNnVTTDlSR1RkazVCd0tkMWYxRTQ1N0lXS2VBendTclFYS01EMC1SakZhS1BZaldIVlB2SS1ybzNfRUhJa2dVcWtPZE1Ha1Y2QkZKcHN5c29fUjdYUUU4U3hCTEstZ29DMWo5eW9VY1FRZDEwN1p2SkszeThFRHFpMDVMYk9BSmFUTVFEOFN3a3B0QThzbjMweDVSSFBiV1EwaEJ6bVc?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    }
+  ],
+  [
+    {
+      "title": "Newly released video shows scene of Jeremy Renner's snowplow accident",
+      "url": "https://www.cnn.com/videos/us/2023/04/18/jeremy-renner-snowplow-accident-bodycam-nc-melas-contd-vpx.cnn",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
+    },
+    {
+      "title": "Friend of Charlie Kirk labels courtroom evidence 'devastating' after chilling surveillance footage shown",
+      "url": "https://www.foxnews.com/media/friend-charlie-kirk-labels-courtroom-evidence-devastating-chilling-surveillance-footage-shown",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Videos Shed Light on Pursuit Before ICE Killing in Houston",
+      "url": "https://www.nytimes.com/2026/07/11/us/houston-ice-video-shooting-salgado-araujo.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    }
+  ],
+  [
+    {
+      "title": "House Democrat Ro Khanna says he was detained by armed Israeli settlers in West Bank",
+      "url": "https://www.foxnews.com/politics/house-democrat-ro-khanna-detained-armed-israeli-settlers-west-bank",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "An American Politician is Blocked by Israeli Settlers in the West Bank",
+      "url": "https://www.nytimes.com/2026/07/11/us/politics/ro-khanna-west-bank.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "US Democrat Ro Khanna detained by Israeli settlers during West Bank visit",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPemk1Y2lWN29BWVNsNWJNNzFZYVU2ZG94Zmt3R1VyWmVjLVBnOHdEdVFudE1sOGotX0NpTXMyUWhpN2xub2cxUDhXdmhRUURUczNPSmR4RGJPU2xjeDU5V2sxcW5MYWNfaG1ET3VXdGZiUnNnbkFDcW90Z0k5LURYWGgzeVgzNm9ESXVjOGxER3BxVXMyclRZc3dBZHVjU2xQdmxteTlzQ2hCZjhmMTYyZ1BjRm1yVUpOSkE?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    }
+  ],
+  [
+    {
+      "title": "Spanish firefighters turn to the offensive against deadly Almeria blaze",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeGxiS3BEWDM1MlRCOFB1Vi1tQXpvai0wbEJHODdYbUFNclJidWhkLXRxYXMtQlNzTU1NNlFQZWJneVFkN3poMFE1TnVPQVdmUEc4WldQVXhSaFE3c292VU45SEQ4eFBTcGI2LVN1ZlRtbzczWmhiM1BGeHBIVmMtX1F0a2xwQWpvWG5OWGVqY3U4dzhxYl9zU1hvODVHSjlIb1gzbm5LQmw5QnlBeGtrOVlMZw?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Watch: 'We escaped Spanish wildfire, but our friends lost their lives'",
+      "url": "https://www.bbc.co.uk/news/videos/c07y357zvl1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
     }
   ],
   [
@@ -173,38 +314,6 @@
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
-    }
-  ],
-  [
-    {
-      "title": "US citizen in Congo tests positive for Ebola virus, US CDC says",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLXYxZnBYby1GYk9jWEp4czFxdFhyaTlFSEVTZHBoZENRakIzSXhFczZFWERQYl96OVpjVmNrRGN0S2xpNDVweElCZjllZTNVUXZpR25GYXRpMWRJMm1Wci04aUN2MVc5MjFWREdfaGV1UUZoM01neExuZVRXdGFkVU9iQW5zbEJtSmRwVHZJZXo0X0Y0cUsxM3JhUF9KSFVHM3B4dGVsTXVjV1hKalR4SzlCOGdsRGlIM1IxY1VhU3UteHhUYkE?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "U.S. citizen working in Congo tests positive for Ebola, CDC says",
-      "url": "https://www.cbsnews.com/news/us-citizen-humanitarian-organization-congo-ebola/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    }
-  ],
-  [
-    {
-      "title": "South Africa World Cup midfielder Adams dies aged 25",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "South Africa soccer star Jayden Adams dead at 25 shortly after World Cup success",
-      "url": "https://nypost.com/2026/07/11/sports/south-africa-soccer-star-jayden-adams-dead-at-25-shortly-after-world-cup-success/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
     }
   ],
   [
@@ -237,22 +346,6 @@
       "source": "ABC News",
       "bias": "center",
       "domain": "abcnews.go.com"
-    }
-  ],
-  [
-    {
-      "title": "Nigeria says army has killed 300 bandits in north-western state of Zamfara",
-      "url": "https://www.theguardian.com/world/2026/jul/11/nigeria-army-kills-bandits-north-western-state-zamfara",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    },
-    {
-      "title": "10 killed, including Bahamian band, in small plane crash, officials say",
-      "url": "https://www.cbsnews.com/news/small-plane-crash-bahamas-fatalities/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
     }
   ]
 ]

@@ -1,60 +1,74 @@
 [
   [
     {
-      "title": "Newly released video shows scene of Jeremy Renner's snowplow accident",
-      "url": "https://www.cnn.com/videos/us/2023/04/18/jeremy-renner-snowplow-accident-bodycam-nc-melas-contd-vpx.cnn",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
+      "title": "Sen. Lindsey Graham dead at 71 after 'brief and sudden' illness, office says",
+      "url": "https://www.foxnews.com/politics/sen-lindsey-graham-dies-after-brief-sudden-illness-office-says",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
     },
     {
-      "title": "UK judges begin hearing appeal over Trinidad and Tobago anti-gay law",
-      "url": "https://www.theguardian.com/world/2026/jul/08/uk-judges-appeal-trinidad-and-tobago-homophobic-law",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    },
-    {
-      "title": "Trump Delays Shutdown of Haitians' Temporary Protected Status",
-      "url": "https://www.breitbart.com/economy/2026/07/11/trump-delays-shutdown-of-haitians-temporary-protected-status/",
+      "title": "Sen. Lindsey Graham Dead at 71 After 'Sudden Illness'",
+      "url": "https://www.breitbart.com/politics/2026/07/12/sen-lindsey-graham-dead-at-71-after-sudden-illness/",
       "source": "Breitbart",
       "bias": "right",
       "domain": "breitbart.com"
     },
     {
-      "title": "Democrat Graham Platner says he plans to withdraw from Maine Senate race after sexual assault claim",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRmFtMVZST1ExeFY5dmVwSTNhaldzTzJ6a3hVZGZBTm5zREo0cUlyLWFydkV5LVNFdGxFRThGZTNWUHA4cllqNl9uWE03WTlnM25ZWnNLR29RenlwQVRsV1NTWEVHZ3FwTkQySnd4SEJUcVVBd2lSb3FkOGtONDhTQlVJUldmOHBZM2tHWGJza3BjcW9OZ0lnelBHRzltM2UyRks1MFhrSjZzWEpUQjVObQ?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "Trump administration subpoenas New York Times journalists over Air Force One story, newspaper says",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSHoyVWJPLXpERllzOE44WHRjYUZEc2tGRTdmZXREdWg1VlMyczdhcUFJVWlGYTZiZTREaWpGMjRBZ3FKeWcwcDBoVHpzT25vSHphZ1oxa3BJSVpZaEtiZU5MUHhONUNsdkNiY1JIWmRrdHBnaDV3bXEwWkhXQndiNGZDWVlOTTk5b1ptREFOOGpxY0pqcUUtSFB6eFVOcDJIcS1rckcwVGhtcGpGVGdMM3FTdEpwb2dVTVVYcm51TUhXTDR5OWVhM0JmT0dPVGhY?oc=5",
+      "title": "Lindsey Graham, pivotal US Republican senator, dies suddenly at 71",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYnRDNk5QRjFpeWtrdW9rUFNnMXQ0SDYtRVlLUmdSWlczOWZQUDYxd2tGcU1PeXVkeW96eThZbTlRSXcxVno4Z0QyaGxsT0V0UXdFSlE3MEE1UmtOWExaS2xhamdmZEVqaURNOEZFS251S3RFLS1idzNjZ0tITnQ4eXZLcHlRa2lScUE?oc=5",
       "source": "Reuters",
       "bias": "center",
       "domain": "reuters.com"
     },
     {
-      "title": "Trump administration subpoenas New York Times reporters over coverage",
-      "url": "https://www.aljazeera.com/news/2026/7/11/trump-administration-subpoenas-new-york-times-reporters-over-coverage?traffic_source=rss",
+      "title": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies: Reactions",
+      "url": "https://www.aljazeera.com/news/2026/7/12/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-reactions?traffic_source=rss",
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
     },
     {
-      "title": "Fox News Journalist Gives Chilling Warning After Trump Subpoenas New York Times Reporters",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeDMyRjNMQjA1QkU2Tk5ZRHQyUHdUaHpuTmtoRnBnTUtubEFtZlVmekw2NzlKemNRaTJNYkFKQ1pBRllsVDRZZnpEa05sNkxkN2RZZGs2T1hIbkdQOGh1R0FJeFhLZjN4Yk5sN19UdVk0NUw3RW9uUEY3QXU3eVBBVVhPWndndGRoVTl0cG9QbGFrb2w0X1BMR01SdFk3WGNLYUNN0gGoAUFVX3lxTE5HblVPVlR1YXRKRUgtcHViVFl0UGlqN1ZNQlJsbWJMdmxUbGtVYTd0OXo0N3kzM0hXakp0RkZYLWdYUU5kU04tMzNkaXU2THBfX3prZGlSV3pXMGtmazRSd0VCUjlId01YTVhCZk4xZnhkMHZYbjVmVjRfTVdqMkFydHdTZjkzNTd2azR1dUM5bHFsUmJsRGdEOXBOZGxuSnpkeWxsY0hVOQ?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
+      "title": "Trump praises \u2018American Patriot\u2019 Sen. Lindsey Graham after longtime politician dies at 71",
+      "url": "https://nypost.com/2026/07/12/us-news/trump-speaks-out-after-sen-lindsey-graham-dies-at-71/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
     },
     {
-      "title": "Justice Department subpoenas New York Times reporters over Air Force One reporting",
-      "url": "https://www.npr.org/2026/07/11/g-s1-133160/justice-department-subpoenas-new-york-times-reporters-over-air-force-one-reporting",
+      "title": "Senator Lindsey Graham, Republican of South Carolina, Dies at 71",
+      "url": "https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-dead.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "US Sen. Lindsey Graham has died after a brief and unexpected illness, his office says",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcGhrZ2FzTUtJem9sWmVlbWNIVFdEdmw0dGNpXzZoenpMLXNIVXZGblVJOEs3MUhPU2hwQTF2cUVtU0VfWjZlOUdmc0pfQy0xWE0xYlFuaDhCY0pBcVFMU3p3dkM3ZXhlc04tdTlEOEpSMDVzWkJ4ZkFlQmVPOVM4ZjhoOVZJdHFXRDVIOUhTMDlVZDMtenEyWmxR?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "US Sen. Lindsey Graham has died after a brief and unexpected illness, his office says",
+      "url": "https://www.npr.org/2026/07/12/nx-s1-5890790/us-sen-lindsey-graham-dies",
       "source": "NPR",
       "bias": "left-center",
       "domain": "npr.org"
+    },
+    {
+      "title": "US Senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "Iran live updates: Gulf countries under attack after US retaliatory strikes",
+      "url": "https://abcnews.com/International/live-updates/iran-live-updates-thousands-throng-tehran-streets-khamenei/?id=134509610",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
     },
     {
       "title": "After leader\u2019s funeral, an emboldened Iran tests Trump, risking renewed war",
@@ -64,55 +78,141 @@
       "domain": "washingtonpost.com"
     },
     {
-      "title": "Iran\u2019s IRGC navy says Strait of Hormuz is closed after firing on container ship, warns of \u2018severe\u2019 retaliation",
-      "url": "https://nypost.com/2026/07/11/world-news/iran-says-strait-of-hormuz-is-closed-after-firing-on-container-ship-warns-of-severe-retaliation/",
+      "title": "Senator Lindsey Graham dies after \"brief and sudden illness\"",
+      "url": "https://www.cbsnews.com/news/senator-lindsey-graham-dies-after-brief-and-sudden-illness/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Lindsey Graham Dead After Brief And Unexpected Illness, His Office Says",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaE5JSmJON0hCU2RfVFlLZ3A0TU9FSmpzeTZyTDlrTVhEZms0UWlBMjJIUEtpY1FOWFVJRjBZcjZ2Nk1xU19CMHZhcGdhbVRzR3FzUW1HbXd1UXhfTzFPVzBwYmI1X2MzdUNBS3FqN2ZHX3ExWnluaEhXNDlTUTNBdFJwYmxDUnRKVUHSAY8BQVVfeXFMTThxYkJBNjdqX0Q2cTBiamN2cVRUSGp1WFRwZFJLWlp2bFZDblIxQ2piSnRkWlJCLXhGTUhtRnd1MVdOV0tUdGZFN3UyelE4QWJsYWVaRWUxMmUwZzIyanRtTE54VzNuZHI3dVhidlc3YXhkZENqQVZMSXFRU3dMUzhWQUs5UVN0VnNBaEJ3VjA?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    },
+    {
+      "title": "Nigeria says army has killed 300 bandits in north-western state of Zamfara",
+      "url": "https://www.theguardian.com/world/2026/jul/11/nigeria-army-kills-bandits-north-western-state-zamfara",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    }
+  ],
+  [
+    {
+      "title": "Conor McGregor's long-awaited Octagon return cut short by apparent knee injury seconds into UFC 329",
+      "url": "https://www.foxnews.com/sports/conor-mcgregor-long-awaited-octagon-return-cut-short-apparent-knee-injury-seconds-ufc-329",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "VIDEO: Conor McGregor Suffers Freak Leg Injury Mere Seconds Into UFC Fight",
+      "url": "https://www.breitbart.com/sports/2026/07/12/video-conor-mcgregor-suffers-freak-leg-injury-mere-seconds-into-ufc-fight/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
+    },
+    {
+      "title": "Argentina strike late in extra time to sink 10-man Swiss and reach World Cup semis",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbjdjRVRIVE9NQVA5aXdUdmlkZzN1dmM1NWgtaFY1TUtzNFlwangwRHBPdWY4TjUyVXkzZzJmRFlRWFMtYnNaSGVKZi1tTS16RzR0a0FBVUljR2NIS0pqTjRxelpPdUJrV3lNZnVpcjJuTEN4RVlnOGotUU1RakFIZXlyaXVrNG5FNGhHREZBcDIwd2hZLXlhYWtqQ01sX2otVWMzQTktYzhTVk5vaXlGU2J0bU9jTzJWd1BLV2YwN0xXemM?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Norway coach says team must \u2018accept\u2019 England\u2019s controversial World Cup goal",
+      "url": "https://nypost.com/2026/07/12/sports/norway-coach-says-team-must-accept-englands-controversial-world-cup-goal/",
       "source": "New York Post",
       "bias": "right",
       "domain": "nypost.com"
     },
     {
-      "title": "Trump and Iran's supreme leader exchange threats with negotiations stalled",
-      "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-ceasefire-talks-strait-of-hormuz/",
-      "source": "CBS News",
+      "title": "Alvarez's 112th-minute goal helps lift Argentina past Switzerland 3-1 and into World Cup semifinals",
+      "url": "https://www.npr.org/2026/07/12/nx-s1-5890774/argentina-switzerland-3-1-world-cup-semifinals",
+      "source": "NPR",
       "bias": "left-center",
-      "domain": "cbsnews.com"
+      "domain": "npr.org"
     },
     {
-      "title": "Trump\u2019s Posts on Singing Somali Schoolchildren Stir Anger in Minnesota",
-      "url": "https://www.nytimes.com/2026/07/11/us/politics/trump-somali-kindergartners.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
+      "title": "Bellingham scores twice to lift England past Haaland and Norway 2-1 and into World Cup semifinals",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMjdYd29Xa3NsdWxUR2g0LUJLR1FlSTQzdlZOLUpZUHFrZXUxN1VCU2d6c0djSGpqZEJiZWFoLXJuTlVhdVJ0NmExV1B1aXFvbFYzR0Z4dk1TY21IYk4xX3RNQ1pxdHpDTU9LWlhKcVc5TVF1Q2N6REkwSWtKWk5mTDdNNEhvdU91U2I1YThNNlVsSERZ?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
     },
     {
-      "title": "Iran supreme leader calls for revenge for father's killing",
-      "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+      "title": "WATCH:  Simple bike ride leads to extraordinary act of kindness",
+      "url": "https://abcnews.com/video/134683759/",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    },
+    {
+      "title": "'The perfect football song': Why England fans (like Beckham) and players love Wonderwall",
+      "url": "https://www.bbc.co.uk/news/articles/cx2wllrlrxgo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "bias": "center",
       "domain": "bbc.com"
     },
     {
-      "title": "Kate Hudson shows off fit body in multiple string bikinis during family vacation in Greece",
-      "url": "https://www.foxnews.com/entertainment/kate-hudson-shows-fit-body-multiple-string-bikinis-family-vacation-greece",
-      "source": "Fox News",
+      "title": "Watch World Cup: England beats Norway to set up semifinal against Argentina",
+      "url": "https://www.aljazeera.com/video/2026/7/12/video-world-cup-2026-highlights?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "The 2026 FIFA World Cup schedule and how to watch",
+      "url": "https://www.cbsnews.com/news/world-cup-2026-schedule-how-to-watch/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "EXCLUSIVE: Women Harmed By Abortion Drugs Send A Message To Todd Blanche",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRDZaZDJkamJiNXZBczMxWkJiU3JTVDRvWVpJOUFLM2h2SlpCU2VhOE8ta2R3amh4Q0lKRzFqUmxIVzF6RTdQWXZnUElDOFFUeUR2QlpFMmppZm1vaWtVQkFtRXZ5V3FwRU9tc2NoUkdBYVZDMEJuVno4a1MxR0U2ZC1aLUJsU2xuWi1SbXZTYklFdHp1NkRwSFhWZUVfS0JhNUQyOA?oc=5",
+      "source": "Daily Wire",
       "bias": "right",
-      "domain": "foxnews.com"
+      "domain": "dailywire.com"
     }
   ],
   [
     {
-      "title": "Army Black Hawks airlift 200+ stranded campers as Missouri floods trigger more 350 rescues",
-      "url": "https://www.foxnews.com/us/army-black-hawks-airlift-200-stranded-campers-missouri-floods-trigger-350-rescues",
+      "title": "Gunfire shatters Toronto Latin street festival, leaving at least 2 dead and multiple wounded",
+      "url": "https://www.foxnews.com/world/gunfire-shatters-toronto-latin-street-festival-leaving-least-2-dead-3-injured",
       "source": "Fox News",
       "bias": "right",
       "domain": "foxnews.com"
     },
     {
-      "title": "200 young campers, staff rescued amid record flooding in Missouri",
-      "url": "https://www.cbsnews.com/news/missouri-flooding-campers-rescued-helicopter-national-guard/",
+      "title": "Toronto Police Search For Active Shooter After 2 Killed at Street Festival",
+      "url": "https://www.nytimes.com/2026/07/11/world/canada/toronto-shooting-salsa-festival-canada.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "At least 2 dead, multiple wounded in shooting at Toronto street festival",
+      "url": "https://abcnews.com/International/2-dead-multiple-wounded-shooting-toronto-street-festival/story?id=134686817",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    },
+    {
+      "title": "At least 2 killed in shooting at Toronto street festival, police say",
+      "url": "https://www.cbsnews.com/news/deadly-shooting-toronto-street-festival/",
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"
+    },
+    {
+      "title": "Typhoon Bavi batters eastern China, threatens days of heavy rain",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeWtNV1dZVG12dFREVVVYbGZsZWRjYmJQWHhWWHV3Wk9DUEpwb2kwaDhLZWNsNHZGOWZrN0F1YTBjVDRwbW1Vend0NkZRNU9qQUg1ZDNhZ3hzMzRWS2lyN2RqeEZKa0puc3FuTGM2cjg2UVF4eGFEem1LdmlUcDdILTYwM3dmM1ROczhwWThvMUgxX0VZQVhoMG4zWnZNSWJiM1dHd18zYmFWMWJRTGxpNXNyaWtvZw?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
     },
     {
       "title": "Typhoon Bavi makes landfall in eastern China as more than 1 million are evacuated",
@@ -122,25 +222,18 @@
       "domain": "apnews.com"
     },
     {
-      "title": "Venezuela quake death toll passes 4,300 as scale of recovery effort looms large",
-      "url": "https://www.theguardian.com/world/2026/jul/11/venezuela-quake-deaths-passes-4000-recovery-effort",
+      "title": "200 young campers rescued as flooding hits parts of Missouri and Kentucky",
+      "url": "https://www.npr.org/2026/07/11/nx-s1-5890213/missouri-kentucky-summer-camp-flooding",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "A revolution in ruins: fury amid the rubble of a housing project in quake-hit Venezuela",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/12/a-revolution-in-ruins-fury-amid-the-rubble-of-a-housing-project-in-quake-hit-venezuela",
       "source": "The Guardian",
       "bias": "left-center",
       "domain": "theguardian.com"
-    },
-    {
-      "title": "\u2018All we see is decay\u2019: Covering the human toll of Venezuela\u2019s earthquakes",
-      "url": "https://www.aljazeera.com/news/2026/7/11/all-we-see-is-decay-covering-the-human-toll-of-venezuelas-earthquakes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "Bull Gores Runner In The Face During Spain's San Fermin Bull Run Festival",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTW03dGVnYzVzbUdIbGtfYXdJbk54dEZrMzE2VmVQWlJaRnNRSVpSa0s0X0xnMEJOUC10c3hUNjlnWDMzaVFQNHNkcmdrZlRUVThCd0w0NnRLTUNITm5TSXRkUmxuQ3lPVXpYRy1zRDdCRE54TWp6NXRfQTFwY1ZQNEt6RkRfMHdMa3FZOUJrektzdTJuWnhRcUdlb3BGaDBDS1lCdzhpcDFkNW5VdUhkaTFDNkdmM0VwYkRVMnlha2tUcmxTZTN6b0Vn0gHPAUFVX3lxTE9fQW84V2ZGbU9ZSGQ5Yjg1cE43NzN6bnZTZ2FPVXVCYTNLUDB0MEV1b2Vrb3pJZ1VOWkxhOW56S2ozNHJjUVBtRGRCMmFYWTdlaDdicDJKVnd6UFozVENRMHVDTmRkU2czM3JuSmFsbkFvQjJyRDhxV0pJUGx2MnpydmdQdmlPSExLZklQc01KZllucUNlWUVxLTNHdmdqSTZCQXhsZXBvcGJZWVpXM2hHS3B5UjgydnBWRmF6cEQxSF9MdlFZYi1ISHR0VGNMbw?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
     },
     {
       "title": "At least 11 people killed as wildfires sweep southern Spain",
@@ -148,148 +241,19 @@
       "source": "Washington Post",
       "bias": "left-center",
       "domain": "washingtonpost.com"
-    },
-    {
-      "title": "Venezuela quakes have killed 4,333, injured 16,740, National Assembly president says",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORkE0LXY1NzZMSC1kVURVTDA0a0NGc3l4aXNreERjdXJhZWlWWDlzVGhKaGhFS2p2WGIyVV9SdzVzcHJXS0w1UG9ZSGpyUFpVUWx5UEVTOTlQYWJmRHBkRlZlSHVsN19zQ3RCUVQxaWhzWTFpYWQtSUY4YWVJcnZmUkk2S3NpcFFUR1dBQU9tRjZqSWE4NGlXenJmVTQzSEo5Vk5qakZ1TDVoSXNyX1pEZFpFcnRrb0ZEZldPQlBuLW5KM2RKUVRPMDVQWQ?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
     }
   ],
   [
     {
-      "title": "US Democrat Ro Khanna detained by Israeli settlers during West Bank visit",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPemk1Y2lWN29BWVNsNWJNNzFZYVU2ZG94Zmt3R1VyWmVjLVBnOHdEdVFudE1sOGotX0NpTXMyUWhpN2xub2cxUDhXdmhRUURUczNPSmR4RGJPU2xjeDU5V2sxcW5MYWNfaG1ET3VXdGZiUnNnbkFDcW90Z0k5LURYWGgzeVgzNm9ESXVjOGxER3BxVXMyclRZc3dBZHVjU2xQdmxteTlzQ2hCZjhmMTYyZ1BjRm1yVUpOSkE?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "Congressman says he was detained by Israeli settlers in the West Bank",
-      "url": "https://www.cbsnews.com/news/ro-khanna-israeli-settlers-west-bank/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "US Rep Ro Khanna speaks out about being harassed by Israeli settlers",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/us-rep-ro-khanna-speaks-out-about-being-harassed-by-israeli-settlers?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "Rep. Khanna says he was 'detained' by Israeli settlers, IDF during West Bank visit",
-      "url": "https://abcnews.com/Politics/rep-ro-khanna-detained-israeli-settlers-military-west/story?id=134681240",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    },
-    {
-      "title": "An American Politician Is Blocked by Israeli Settlers in the West Bank",
-      "url": "https://www.nytimes.com/2026/07/11/us/politics/ro-khanna-west-bank.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    }
-  ],
-  [
-    {
-      "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges",
-      "url": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
-    },
-    {
-      "title": "French prosecutors investigate racist abuse of Kylian Mbapp\u00e9 by Paraguayan senator",
-      "url": "https://www.theguardian.com/world/2026/jul/07/french-prosecutors-investigate-racist-abuse-mbappe",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    },
-    {
-      "title": "Spain edges Belgium and will face France in World Cup semifinal",
-      "url": "https://www.npr.org/2026/07/11/nx-s1-5890030/spain-will-face-france-world-cup-semifinal",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    }
-  ],
-  [
-    {
-      "title": "Irish police under fire for refusing to identify reported asylum seeker sought in American mother's murder",
-      "url": "https://www.foxnews.com/world/irish-police-under-fire-refusing-identify-reported-asylum-seeker-sought-american-mothers-murder",
+      "title": "Mick Jagger doesn't want to 'lecture' fans, says his job is to make people 'have the best time'",
+      "url": "https://www.foxnews.com/entertainment/mick-jagger-doesnt-want-lecture-fans-says-job-make-people-best-time",
       "source": "Fox News",
       "bias": "right",
       "domain": "foxnews.com"
     },
     {
-      "title": "UK police investigate murder of politician Ann Widdecombe",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/uk-police-investigate-murder-of-politician-ann-widdecombe?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "Man arrested on suspicion of murder in Ann Widdecombe investigation, police say",
-      "url": "https://www.bbc.co.uk/news/articles/cz6v5z9zz8jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    }
-  ],
-  [
-    {
-      "title": "South Africa World Cup midfielder Adams dies aged 25",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ2U1YlJyWlRNSTRqUnFjR2xmQ2N6cl9fb3BTVGtyeEw5eVRYaU15X1pnR3VWaGNGR2EzNVpXMS0yS193RXdfd3d3WThURW5PNG1YYkx5amxrbzRJank1Rzk3aGFnRVRZWlFKVkM4enJaNkYzM2sxUU12VF9UUFZsM0t4Nnp0UlFyNENFSDhwTjRpVFhDSklJeWZBQTFscF92YzB3dA?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "South Africa World Cup midfielder Adams dies aged 25",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "South Africa\u2019s Jayden Adams, 25, dies after playing in FIFA World Cup",
-      "url": "https://www.aljazeera.com/sports/2026/7/11/south-africas-jayden-adams-25-dies-after-playing-in-fifa-world-cup?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    }
-  ],
-  [
-    {
-      "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
-      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
-    },
-    {
-      "title": "US judge dismisses January 6 case against Proud Boys after Trump order",
-      "url": "https://www.aljazeera.com/news/2026/7/11/us-judge-dismisses-january-6-case-against-proud-boys-after-trump-order?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    }
-  ],
-  [
-    {
-      "title": "Millions in the US could face massive consequences unless McCarthy can navigate out of a debt trap he set for Biden",
-      "url": "https://www.cnn.com/2023/04/18/politics/mccarthy-biden-debt-ceiling/index.html",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
-    },
-    {
-      "title": "Whistle-Blowers Accuse Kennedy Center of Contracting Flaws Under Trump",
-      "url": "https://www.nytimes.com/2026/07/11/arts/design/kennedy-center-trump-renovations.html",
+      "title": "Mick Jagger Knows He May Have Played His Last Rolling Stones Show",
+      "url": "https://www.nytimes.com/2026/07/11/magazine/mick-jagger-interview.html",
       "source": "New York Times",
       "bias": "left-center",
       "domain": "nytimes.com"
@@ -297,79 +261,31 @@
   ],
   [
     {
-      "title": "British couple saved from Spanish ravine after deadly wildfire",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeGxiS3BEWDM1MlRCOFB1Vi1tQXpvai0wbEJHODdYbUFNclJidWhkLXRxYXMtQlNzTU1NNlFQZWJneVFkN3poMFE1TnVPQVdmUEc4WldQVXhSaFE3c292VU45SEQ4eFBTcGI2LVN1ZlRtbzczWmhiM1BGeHBIVmMtX1F0a2xwQWpvWG5OWGVqY3U4dzhxYl9zU1hvODVHSjlIb1gzbm5LQmw5QnlBeGtrOVlMZw?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "Watch: 'We escaped Spanish wildfire, but our friends lost their lives'",
-      "url": "https://www.bbc.co.uk/news/videos/c07y357zvl1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    }
-  ],
-  [
-    {
-      "title": "Argentina vs Switzerland LIVE: FIFA World Cup 2026 quarterfinal",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/7/11/argentina-vs-switzerland-live-fifa-world-cup-2026?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "World Cup quarterfinal resale prices drop, FIFA selling nearly 1,200 more seats for final at $7,380",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYTZCVjVzVm50Z1B3MGdXNW43cVA3RjF1NUg2TWw0MFVpQlo1OHVyVkFsWFRKLXZRTlVVM3FibnhyQVRaVHVEU0FKallHV0ViOUVYUzFwNUItRDhuaWItMldLbjdCTW5jTDNJRlYxNlVoVUUxSnNQc1lOSUZxRFpOS0F5b1YyRHhZazNZ?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    }
-  ],
-  [
-    {
-      "title": "Trump will let bipartisan housing bill become law without signing in protest over GOP voter ID law",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOU1hxOG03ckZKUlpWcjZEWEVjSkNiZ2N3eWl2aXdETXFiMnFyUzF5aE9RWDR1UGMzVE1hc19Mc2M5RkdmSEl5WklrNHl1bFd6bW5ZaDQyVlhrdGROaHVUVjFiY0xqWEFEM0xKVXM0dlNxelV1WWN3ZUJodEp4MEhtekRac2k?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "Senators celebrate housing bill becoming law despite Trump's refusal to sign",
-      "url": "https://abcnews.com/Politics/senators-celebrate-bipartisan-housing-bill-becoming-law-despite/story?id=134676815",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    }
-  ],
-  [
-    {
-      "title": "Bonnie Tyler, who topped the charts with epic \u2018Total Eclipse of the Heart,\u2019 has died at 75",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbnlyOGxWdV9wbzRlOVhwUm54VHBzdVliTlNWVExNWEdydlRsYnU5Q0w3SXlwd1FHTS1Qa2NSYjRpMUEzTG1qZnE5T1pMdzFRLXFCaXdhYWMySGNubkU0bkY3aTZtbWZZY3l0WTlVampKVEZZUTJVTjZsWmVla1BhdTFoZC14UWJuSHYwOA?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "Bonnie Tyler, Famed For \u2018Total Eclipse Of The Heart,\u2019 Dies At 75",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeGZhQ0tlbDJCRW1OMmlOV1BTT2VkbHFjRUJJXzBSSUMzOV96blpkaktMTXV1S1hvWG5ENzBPRGc0LUY1aHpjbUxHeGxNdEd3dXktbURUVTk1OXlRZzB1VnZ1ay0ybXFFWXgzZHJYMHdCeXVOdjRSd2x1alhOaXZ6VzZiejRrcjBJS0F6ZzBqNXNHSGEwZ3c?oc=5",
-      "source": "Daily Wire",
+      "title": "'Die Hard' actor Robert Davi blasts Mamdani after NYC map omits Little Italy",
+      "url": "https://www.foxnews.com/politics/die-hard-actor-robert-davi-blasts-mamdani-nyc-map-omits-little-italy",
+      "source": "Fox News",
       "bias": "right",
-      "domain": "dailywire.com"
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Pinkerton: Like All Communists, Mamdani Erases Americans' Heritage",
+      "url": "https://www.breitbart.com/politics/2026/07/11/pinkerton-like-all-communists-mamdani-erases-american-heritage/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
     }
   ],
   [
     {
-      "title": "Crews are draining the Lincoln Memorial Reflecting Pool again as part of Trump's troubled revamp",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaEhYQ2hneHMtWndtYWpsTFNJU0VzRGJoV0s1UHBFempJSzk2bHhuQktiT0tGM2xRekMtX2M0dndRRzA5SWwwTDlrd1ZuUDdnZmE5YmhaWGU1VUVoREF0VG1lV1ZsamRPeEdOcWt3U051OXVhQTFuRi1oYVM1MWhFQTAxUmloSFJYdXB0UU1xU2FkWnVHVjZLWFY4WkxnZw?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
+      "title": "White House Directed Patel to Oversee Investigation Involving Times Reporting",
+      "url": "https://www.nytimes.com/2026/07/11/us/politics/white-house-patel-investigation-times.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
     },
     {
-      "title": "Crews Are Draining The Lincoln Memorial Reflecting Pool Again In More Trouble For Trump Revamp",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa3l1eGFzRy1Ga19XdGRlWjl4dmdIM2xoSy1GaE9HVml5LWttd0NOT2V4OEt3ZTdWRGVtM2JSeThQX2pXX0FrUHNlb2IzNTJteU9kNGhELXd4dEJ0VENuQ29LOTBUVks1SkhkR1h5Q29GaGN6cGRkb1BSYWt1Z2M0UlBaNHVsMzdDLTBtLWNQSUFZZ9IBlwFBVV95cUxQOVpUdGc1dVNHNDNrdF91NjlldDVxRG5KVWtMZlJxTWpmM3gxUTBBeXNmaWM1dEtoa1U1UXVBdGlNMEh3eUlza2JIbktDT09fNm1jSjlOVjRaVTJSYWlSeHVocE1kdUZud3BWNVVXVFFCbExfWE1SQ2VCZUZFTlBwOFQxYmNlVHBCQkRxRmhyQjItVmRiUWc4?oc=5",
+      "title": "Fox News Journalist Gives Chilling Warning After Trump Subpoenas New York Times Reporters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeDMyRjNMQjA1QkU2Tk5ZRHQyUHdUaHpuTmtoRnBnTUtubEFtZlVmekw2NzlKemNRaTJNYkFKQ1pBRllsVDRZZnpEa05sNkxkN2RZZGs2T1hIbkdQOGh1R0FJeFhLZjN4Yk5sN19UdVk0NUw3RW9uUEY3QXU3eVBBVVhPWndndGRoVTl0cG9QbGFrb2w0X1BMR01SdFk3WGNLYUNN0gGoAUFVX3lxTE5HblVPVlR1YXRKRUgtcHViVFl0UGlqN1ZNQlJsbWJMdmxUbGtVYTd0OXo0N3kzM0hXakp0RkZYLWdYUU5kU04tMzNkaXU2THBfX3prZGlSV3pXMGtmazRSd0VCUjlId01YTVhCZk4xZnhkMHZYbjVmVjRfTVdqMkFydHdTZjkzNTd2azR1dUM5bHFsUmJsRGdEOXBOZGxuSnpkeWxsY0hVOQ?oc=5",
       "source": "HuffPost",
       "bias": "left",
       "domain": "huffpost.com"
@@ -377,18 +293,34 @@
   ],
   [
     {
-      "title": "Outbreak of diarrhea-causing parasite grows to more than 1,000 cases",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOT1FUblpQcEZwYm8xN0VJLVJrOUVEbXQyc1o5eTlFY0RTWkJjclBuZmpvN1Q2V093M3JCcTFhTnZMcmdLeGROTWlvZ3VOaGtOdDFsREJYal9uUFJ3MExmVTRaOGRwOGZHNmRqeVhvODlmSC1JTlhEZ1JXTVBlT0VLMXlXS1R2LTlHVjk3QkE4N0dtdw?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
+      "title": "Mexico investigates whether US lied about role in capture of drug lord",
+      "url": "https://www.theguardian.com/world/2026/jul/09/mexico-drug-lord-arrest-sinaloa-cartel-investigation",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
     },
     {
-      "title": "CDC Stopped Monitoring Parasite Now Causing Explosive Diarrhea Across The Country",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc3V1bTB1RG52Uk51cFhfbnZKTVFVa1B6QW1ndnVWQzRUZmhWSF9NS3B4TXc5NmM5YnB1cXlLRlNoNllDM21acllmOWJSYmVGa0dBM0dDWUJUdkVhWHFfY1Z6aFV6QUk4UkRQMXpNRkRQTWZlTGhLdFN0QXhPdUtJUF9JeHdWTkE3MUlxQWJqYlU1UGZPUUczbjc0WHdRMUnSAaQBQVVfeXFMTWlYMmE5ejlvTlF5c3ZTenpibmE4b0ZqSlNtb1hHRTZ5bkUtakdLSjJUVmlXaE1CRnVIUjJTUGUwTnh2bFZnV0dESUhmRlUtVVBuNlJ1MUlhVHlCZ3NrQ1ZNbGZhUFlLWFlvNU1PYUJZOTlMYU5yVmZKbURMRW5kS01xMDNUTThuU3R2RzJxTkNpMDlKZjN2RGU5d2xxbml4VllxaVE?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
+      "title": "Mexican President Blames Biden-Era Policies for Rise in Cartel Violence",
+      "url": "https://www.breitbart.com/border/2026/07/11/mexican-president-blames-biden-era-policies-for-rise-in-cartel-violence/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
+    }
+  ],
+  [
+    {
+      "title": "UK judges begin hearing appeal over Trinidad and Tobago anti-gay law",
+      "url": "https://www.theguardian.com/world/2026/jul/08/uk-judges-appeal-trinidad-and-tobago-homophobic-law",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "Marlow: Devastating Case Against Tyler Robinson",
+      "url": "https://www.breitbart.com/clips/2026/07/11/marlow-devastating-case-against-tyler-robinson-embarrasses-candace-owens/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
     }
   ]
 ]

@@ -1,291 +1,276 @@
 [
   [
     {
-      "title": "Sen. Lindsey Graham dead at 71 after 'brief and sudden' illness, office says",
-      "url": "https://www.foxnews.com/politics/sen-lindsey-graham-dies-after-brief-sudden-illness-office-says",
+      "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges",
+      "url": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
+    },
+    {
+      "title": "Louisiana man accused of killing deputy US marshal faces possible death penalty",
+      "url": "https://www.foxnews.com/us/louisiana-man-accused-killing-deputy-us-marshal-faces-possible-death-penalty",
       "source": "Fox News",
       "bias": "right",
       "domain": "foxnews.com"
     },
     {
-      "title": "Sen. Lindsey Graham Dead at 71 After 'Sudden Illness'",
-      "url": "https://www.breitbart.com/politics/2026/07/12/sen-lindsey-graham-dead-at-71-after-sudden-illness/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
-    },
-    {
-      "title": "Lindsey Graham, pivotal US Republican senator, dies suddenly at 71",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYnRDNk5QRjFpeWtrdW9rUFNnMXQ0SDYtRVlLUmdSWlczOWZQUDYxd2tGcU1PeXVkeW96eThZbTlRSXcxVno4Z0QyaGxsT0V0UXdFSlE3MEE1UmtOWExaS2xhamdmZEVqaURNOEZFS251S3RFLS1idzNjZ0tITnQ4eXZLcHlRa2lScUE?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies: Reactions",
-      "url": "https://www.aljazeera.com/news/2026/7/12/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-reactions?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "Trump praises \u2018American Patriot\u2019 Sen. Lindsey Graham after longtime politician dies at 71",
-      "url": "https://nypost.com/2026/07/12/us-news/trump-speaks-out-after-sen-lindsey-graham-dies-at-71/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "Senator Lindsey Graham, Republican of South Carolina, Dies at 71",
-      "url": "https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-dead.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "US Sen. Lindsey Graham has died after a brief and unexpected illness, his office says",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcGhrZ2FzTUtJem9sWmVlbWNIVFdEdmw0dGNpXzZoenpMLXNIVXZGblVJOEs3MUhPU2hwQTF2cUVtU0VfWjZlOUdmc0pfQy0xWE0xYlFuaDhCY0pBcVFMU3p3dkM3ZXhlc04tdTlEOEpSMDVzWkJ4ZkFlQmVPOVM4ZjhoOVZJdHFXRDVIOUhTMDlVZDMtenEyWmxR?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "US Sen. Lindsey Graham has died after a brief and unexpected illness, his office says",
-      "url": "https://www.npr.org/2026/07/12/nx-s1-5890790/us-sen-lindsey-graham-dies",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    },
-    {
-      "title": "US Senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
-      "url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "Iran live updates: Gulf countries under attack after US retaliatory strikes",
-      "url": "https://abcnews.com/International/live-updates/iran-live-updates-thousands-throng-tehran-streets-khamenei/?id=134509610",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    },
-    {
-      "title": "After leader\u2019s funeral, an emboldened Iran tests Trump, risking renewed war",
-      "url": "https://www.washingtonpost.com/world/2026/07/11/after-leaders-funeral-an-emboldened-iran-tests-trump-risking-renewed-war/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
-    },
-    {
-      "title": "Senator Lindsey Graham dies after \"brief and sudden illness\"",
-      "url": "https://www.cbsnews.com/news/senator-lindsey-graham-dies-after-brief-and-sudden-illness/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "Lindsey Graham Dead After Brief And Unexpected Illness, His Office Says",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaE5JSmJON0hCU2RfVFlLZ3A0TU9FSmpzeTZyTDlrTVhEZms0UWlBMjJIUEtpY1FOWFVJRjBZcjZ2Nk1xU19CMHZhcGdhbVRzR3FzUW1HbXd1UXhfTzFPVzBwYmI1X2MzdUNBS3FqN2ZHX3ExWnluaEhXNDlTUTNBdFJwYmxDUnRKVUHSAY8BQVVfeXFMTThxYkJBNjdqX0Q2cTBiamN2cVRUSGp1WFRwZFJLWlp2bFZDblIxQ2piSnRkWlJCLXhGTUhtRnd1MVdOV0tUdGZFN3UyelE4QWJsYWVaRWUxMmUwZzIyanRtTE54VzNuZHI3dVhidlc3YXhkZENqQVZMSXFRU3dMUzhWQUs5UVN0VnNBaEJ3VjA?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    },
-    {
-      "title": "Nigeria says army has killed 300 bandits in north-western state of Zamfara",
-      "url": "https://www.theguardian.com/world/2026/jul/11/nigeria-army-kills-bandits-north-western-state-zamfara",
+      "title": "Mexico asks US state attorneys general to investigate immigrant ICE deaths",
+      "url": "https://www.theguardian.com/us-news/2026/jul/15/mexico-investigate-ice-deaths",
       "source": "The Guardian",
       "bias": "left-center",
       "domain": "theguardian.com"
-    }
-  ],
-  [
-    {
-      "title": "Conor McGregor's long-awaited Octagon return cut short by apparent knee injury seconds into UFC 329",
-      "url": "https://www.foxnews.com/sports/conor-mcgregor-long-awaited-octagon-return-cut-short-apparent-knee-injury-seconds-ufc-329",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
     },
     {
-      "title": "VIDEO: Conor McGregor Suffers Freak Leg Injury Mere Seconds Into UFC Fight",
-      "url": "https://www.breitbart.com/sports/2026/07/12/video-conor-mcgregor-suffers-freak-leg-injury-mere-seconds-into-ufc-fight/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
-    },
-    {
-      "title": "Argentina strike late in extra time to sink 10-man Swiss and reach World Cup semis",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbjdjRVRIVE9NQVA5aXdUdmlkZzN1dmM1NWgtaFY1TUtzNFlwangwRHBPdWY4TjUyVXkzZzJmRFlRWFMtYnNaSGVKZi1tTS16RzR0a0FBVUljR2NIS0pqTjRxelpPdUJrV3lNZnVpcjJuTEN4RVlnOGotUU1RakFIZXlyaXVrNG5FNGhHREZBcDIwd2hZLXlhYWtqQ01sX2otVWMzQTktYzhTVk5vaXlGU2J0bU9jTzJWd1BLV2YwN0xXemM?oc=5",
+      "title": "Iran warns Strait of Hormuz is a 'red line' and will resist until the end",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbGxQSEpXZmFYRldBSGhRcTZWZlBvbUFOZFJDeVoxdXVZczVtY2w1TlhqSnhFaGxsSWlINnBKbDZhNi1mT0Q1anJRTjM0Z0toaVg3QXhMcmkyZlBQRTZ1cVZvbmhZSmU4WDU4NGdnN3FJZGRzbnYzdm0zQUVxWjNUZ1dTZHlwMTA0VTNhbUg0UHVxZmFLUlVtSmVfeHZCb0tfWEE?oc=5",
       "source": "Reuters",
       "bias": "center",
       "domain": "reuters.com"
     },
     {
-      "title": "Norway coach says team must \u2018accept\u2019 England\u2019s controversial World Cup goal",
-      "url": "https://nypost.com/2026/07/12/sports/norway-coach-says-team-must-accept-englands-controversial-world-cup-goal/",
+      "title": "Iran warns Strait of Hormuz is a \u2018red line\u2019 and will resist until the end",
+      "url": "https://nypost.com/2026/07/16/world-news/iran-warns-strait-of-hormuz-is-a-red-line-and-will-resist-until-the-end/",
       "source": "New York Post",
       "bias": "right",
       "domain": "nypost.com"
     },
     {
-      "title": "Alvarez's 112th-minute goal helps lift Argentina past Switzerland 3-1 and into World Cup semifinals",
-      "url": "https://www.npr.org/2026/07/12/nx-s1-5890774/argentina-switzerland-3-1-world-cup-semifinals",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
+      "title": "Whitehouse: Blanche 'Affirmatively Committing Wrongful Acts as Acting Attorney General'",
+      "url": "https://www.breitbart.com/clips/2026/07/15/whitehouse-blanche-affirmatively-committing-wrongful-acts-as-acting-attorney-general/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
     },
     {
-      "title": "Bellingham scores twice to lift England past Haaland and Norway 2-1 and into World Cup semifinals",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMjdYd29Xa3NsdWxUR2g0LUJLR1FlSTQzdlZOLUpZUHFrZXUxN1VCU2d6c0djSGpqZEJiZWFoLXJuTlVhdVJ0NmExV1B1aXFvbFYzR0Z4dk1TY21IYk4xX3RNQ1pxdHpDTU9LWlhKcVc5TVF1Q2N6REkwSWtKWk5mTDdNNEhvdU91U2I1YThNNlVsSERZ?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "WATCH:  Simple bike ride leads to extraordinary act of kindness",
-      "url": "https://abcnews.com/video/134683759/",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    },
-    {
-      "title": "'The perfect football song': Why England fans (like Beckham) and players love Wonderwall",
-      "url": "https://www.bbc.co.uk/news/articles/cx2wllrlrxgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "Watch World Cup: England beats Norway to set up semifinal against Argentina",
-      "url": "https://www.aljazeera.com/video/2026/7/12/video-world-cup-2026-highlights?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "The 2026 FIFA World Cup schedule and how to watch",
-      "url": "https://www.cbsnews.com/news/world-cup-2026-schedule-how-to-watch/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "EXCLUSIVE: Women Harmed By Abortion Drugs Send A Message To Todd Blanche",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRDZaZDJkamJiNXZBczMxWkJiU3JTVDRvWVpJOUFLM2h2SlpCU2VhOE8ta2R3amh4Q0lKRzFqUmxIVzF6RTdQWXZnUElDOFFUeUR2QlpFMmppZm1vaWtVQkFtRXZ5V3FwRU9tc2NoUkdBYVZDMEJuVno4a1MxR0U2ZC1aLUJsU2xuWi1SbXZTYklFdHp1NkRwSFhWZUVfS0JhNUQyOA?oc=5",
+      "title": "Student Pilot Lands Plane After Instructor Leaps To His Death Mid-Flight",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTmZIWEhUVzBkeENCbzR0cjFfNGhZRUV4ek84SUk5cDB4OTlhS3RqVWlaR3FPSkRvc1ZSTkh2dDd5MHIwbVJTbkNYNXc0T0J1bDRxYUZOZENXcDQ4dTNUSUtRT1JrQ2NFai02R1IxNHU2dm5IMnViWmh6OXpISzJ3U1gxeVR1YTJMVnJJRWRhNlN0cWNtajF1LWU3dy1oeWo4VUgtX2FB?oc=5",
       "source": "Daily Wire",
       "bias": "right",
       "domain": "dailywire.com"
-    }
-  ],
-  [
-    {
-      "title": "Gunfire shatters Toronto Latin street festival, leaving at least 2 dead and multiple wounded",
-      "url": "https://www.foxnews.com/world/gunfire-shatters-toronto-latin-street-festival-leaving-least-2-dead-3-injured",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
     },
     {
-      "title": "Toronto Police Search For Active Shooter After 2 Killed at Street Festival",
-      "url": "https://www.nytimes.com/2026/07/11/world/canada/toronto-shooting-salsa-festival-canada.html",
+      "title": "Hegseth Plans to Screen All Troops, Including Women, for Low Testosterone",
+      "url": "https://www.nytimes.com/2026/07/15/us/politics/hegseth-troops-testosterone.html",
       "source": "New York Times",
       "bias": "left-center",
       "domain": "nytimes.com"
     },
     {
-      "title": "At least 2 dead, multiple wounded in shooting at Toronto street festival",
-      "url": "https://abcnews.com/International/2-dead-multiple-wounded-shooting-toronto-street-festival/story?id=134686817",
-      "source": "ABC News",
+      "title": "US military to start screening for testosterone deficiency, Hegseth says",
+      "url": "https://www.bbc.co.uk/news/articles/cn0nlx18rz0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "bias": "center",
-      "domain": "abcnews.go.com"
+      "domain": "bbc.com"
     },
     {
-      "title": "At least 2 killed in shooting at Toronto street festival, police say",
-      "url": "https://www.cbsnews.com/news/deadly-shooting-toronto-street-festival/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
+      "title": "Republican Senator Shreds Todd Blanche's Statements About Trump's Slush Fund",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV3otVHZ2bFlFVjlvZ1JBOFdQZG1KeEZIVFJLZUozVGN6X0lJYVp5aXFpOGZob2VjMmJCZVB1aTZCUFEyVUZVN3drMG85UnlLaVVzX2RtNUN1OUI1WmRqdXlXdDE4UVZkbmZxclU2eHROTkNPNWxyekp3NGlXWEFBa1Q3cndSbVFBN1Ztd1MzbDlRRGNoVS1neTVKSHNTQ3FSTFdCN3BUdFR6UdIBrwFBVV95cUxObURfdjk4eEhHNGlRbnduTExWZmtFM01GUlMtSkdXaXBSRDRpanEwUHZ5Q3ZsXzM2aW1lRFlMYk9JR1JLTlZyUmlzWXZSRThYajNFOXFlQWNtSW9NWXhtRE04ZVowcmktTFM3YnIxWUFTWTFNTGxGN0lWYklsQVNyNzJUMUhDMmhZN0E4UnJyYkZzVEhReVB1SFVkbkttcFA1TnlaRXRWYTVDUHoydUxR?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
     },
     {
-      "title": "Typhoon Bavi batters eastern China, threatens days of heavy rain",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeWtNV1dZVG12dFREVVVYbGZsZWRjYmJQWHhWWHV3Wk9DUEpwb2kwaDhLZWNsNHZGOWZrN0F1YTBjVDRwbW1Vend0NkZRNU9qQUg1ZDNhZ3hzMzRWS2lyN2RqeEZKa0puc3FuTGM2cjg2UVF4eGFEem1LdmlUcDdILTYwM3dmM1ROczhwWThvMUgxX0VZQVhoMG4zWnZNSWJiM1dHd18zYmFWMWJRTGxpNXNyaWtvZw?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "Typhoon Bavi makes landfall in eastern China as more than 1 million are evacuated",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUFpYaEtpZ2dWSzVtVndmRk01cTZ0aHQybGswb1c5QXd1WGtBRjIwejcwbUQ3cFJOVDV1MEpzdVQ0MGNKWWdETkVxVTRYV0ZHYVNTOEVJTktCWlQwVFJnVklJMEIwa3R0SHJDZVotNHdnRi1lbXl1dFpMcXo4eE5pV1lyeWlLWmdoeWxlX0pFRFk5QXRRMHc?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "200 young campers rescued as flooding hits parts of Missouri and Kentucky",
-      "url": "https://www.npr.org/2026/07/11/nx-s1-5890213/missouri-kentucky-summer-camp-flooding",
+      "title": "Oil companies are making billions. In the U.S., calls to tax their windfall are growing",
+      "url": "https://www.npr.org/2026/07/16/nx-s1-5845818/oil-prices-windfall-tax-iran-war",
       "source": "NPR",
       "bias": "left-center",
       "domain": "npr.org"
     },
     {
-      "title": "A revolution in ruins: fury amid the rubble of a housing project in quake-hit Venezuela",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/12/a-revolution-in-ruins-fury-amid-the-rubble-of-a-housing-project-in-quake-hit-venezuela",
+      "title": "U.S., Iran in a \"new phase\" of the conflict, retired Navy vice admiral explains",
+      "url": "https://www.cbsnews.com/video/us-iran-new-phase-conflict-former-intelligence-officer-explains/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Trump and Iran signed a truce but still can\u2019t agree on what its terms mean",
+      "url": "https://www.washingtonpost.com/world/2026/07/15/trump-iran-signed-truce-still-cant-agree-what-its-terms-mean/",
+      "source": "Washington Post",
+      "bias": "left-center",
+      "domain": "washingtonpost.com"
+    },
+    {
+      "title": "Heavy smoke from wildfires blankets the US Midwest and Northeast, prompting evacuations",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRlBKTXJISlpyWUt4ZEtzc3B5QzFONXV2bjFhVW1qSGttbU95ODdOalJGcTdZMVd5ZlA2ZFZEZFhYanE5QTNJWjFNR2EzS1NMWFZvbVVQNDhaTVplclBhZzhwUlhQSU9jZmhER2p2aHdZRll3VVBjQWpVcEVjZXlVSzJjTmNPOTlub21rQnl4eHp1TDN1N0Rj?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "WATCH:  Taco Bell responds to reports of stomach parasite investigation",
+      "url": "https://abcnews.com/video/134775420/",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    },
+    {
+      "title": "Vance says Epstein had connections to US, Israeli intelligence",
+      "url": "https://www.aljazeera.com/news/2026/7/16/vance-says-epstein-had-connections-to-us-israeli-intelligence?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    }
+  ],
+  [
+    {
+      "title": "Argentina face action over Falklands banner",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "Defending champion Argentina reaches World Cup final by beating England 2-1",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTJjclhWdGFhN1RTSlN2Tl9UWjFZRGpyTEF2a3ZIZmJlVEhTb2k5LWdhSTBxTFVjT2VKTzZqTUtGWTJVNnpCd3MtWXlPSEtVZUVySFBZallBVFo2TGZRVjVDRmtZSHcxNTJJZ0JDNEl2NHZMWm1DazNUNC10eF9rZC11b2tBWWhGdURQbjJpYnp4aGN4aFdYNQ?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "\u2018Malvinas are Argentinian\u2019: World Cup holders celebrate win over England with Falklands banner",
+      "url": "https://www.theguardian.com/football/2026/jul/15/malvinas-is-argentinian-world-cup-holders-celebrate-win-over-england-with-banner",
       "source": "The Guardian",
       "bias": "left-center",
       "domain": "theguardian.com"
     },
     {
-      "title": "At least 11 people killed as wildfires sweep southern Spain",
-      "url": "https://www.washingtonpost.com/world/2026/07/10/deadly-wildfire-southern-spain-leaves-least-11-dead/",
-      "source": "Washington Post",
+      "title": "Argentina fans rejoice as team makes it to World Cup final for second time in a row",
+      "url": "https://www.cbsnews.com/video/argentina-fans-rejoice-team-makes-world-cup-final-second-time-row/",
+      "source": "CBS News",
       "bias": "left-center",
-      "domain": "washingtonpost.com"
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "FIFA World Cup final: Date, time, halftime show, prediction and Trump",
+      "url": "https://www.aljazeera.com/sports/2026/7/16/fifa-world-cup-final-2026-date-time-and-venue-trump-prediction?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
     }
   ],
   [
     {
-      "title": "Mick Jagger doesn't want to 'lecture' fans, says his job is to make people 'have the best time'",
-      "url": "https://www.foxnews.com/entertainment/mick-jagger-doesnt-want-lecture-fans-says-job-make-people-best-time",
+      "title": "Two families sue North Dakota hospital on allegations babies were switched at birth",
+      "url": "https://www.foxnews.com/us/two-families-sue-north-dakota-hospital-allegations-babies-switched-birth",
       "source": "Fox News",
       "bias": "right",
       "domain": "foxnews.com"
     },
     {
-      "title": "Mick Jagger Knows He May Have Played His Last Rolling Stones Show",
-      "url": "https://www.nytimes.com/2026/07/11/magazine/mick-jagger-interview.html",
-      "source": "New York Times",
+      "title": "Two North Dakota families sue hospital over allegations babies were switched at birth",
+      "url": "https://nypost.com/2026/07/16/us-news/two-north-dakota-families-sue-hospital-over-allegations-babies-were-switched-at-birth/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
+      "title": "Killings continue on Del Monte farm in Kenya, families say, after G4S hired for security",
+      "url": "https://www.theguardian.com/world/2026/jul/13/del-monte-pineapple-farm-kenya-deaths-g4s",
+      "source": "The Guardian",
       "bias": "left-center",
-      "domain": "nytimes.com"
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "No Asian team managed to go far this World Cup (again). What's holding them back?",
+      "url": "https://www.npr.org/2026/07/16/nx-s1-5884732/world-cup-asian-football-confederation-korea-japan",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
     }
   ],
   [
     {
-      "title": "'Die Hard' actor Robert Davi blasts Mamdani after NYC map omits Little Italy",
-      "url": "https://www.foxnews.com/politics/die-hard-actor-robert-davi-blasts-mamdani-nyc-map-omits-little-italy",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
+      "title": "Newly released video shows scene of Jeremy Renner's snowplow accident",
+      "url": "https://www.cnn.com/videos/us/2023/04/18/jeremy-renner-snowplow-accident-bodycam-nc-melas-contd-vpx.cnn",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
     },
     {
-      "title": "Pinkerton: Like All Communists, Mamdani Erases Americans' Heritage",
-      "url": "https://www.breitbart.com/politics/2026/07/11/pinkerton-like-all-communists-mamdani-erases-american-heritage/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
+      "title": "WATCH:  Oklahoma tree trimming brothers plummet after cable snaps",
+      "url": "https://abcnews.com/video/134799402/",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
     }
   ],
   [
     {
-      "title": "White House Directed Patel to Oversee Investigation Involving Times Reporting",
-      "url": "https://www.nytimes.com/2026/07/11/us/politics/white-house-patel-investigation-times.html",
+      "title": "Protests over ousted Ukraine defence chief cloud government vote",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbXlsVU1ScmxkMGtQOHJaS0ZOR3UtVkJacXJKYUtwa1piZEEwWmZTVHJKYnl3STk4RzM0SXNKUE5zQlBURUJ3VFhrQmVaekhRbEYwMnpFcVVGMUNlbXc3eVdnN3BURFpndFBrRG9sbHM4WmdsbXh5WVh6MzVmdVByeXJxaWdBblRzVjQ5dnllU1U0eHRvd0FzeExGeDUtWU1IVS1ETVBRYlZxUXBfcWtXckVpeU5tV3ZHTVA5Mw?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Protests in Ukraine's cities against Zelensky's removal of defence minister",
+      "url": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    }
+  ],
+  [
+    {
+      "title": "Uber launches $14.8 billion offer for Delivery Hero to create global platform",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYndXVGNVbjBuek9wVkRnRENmNWdDMGJjTG5BcUdLenpZYnZGUE9LSGpGX1VxT2JmWGtpa3JRR2E0MGx2bnFqbjBQUDdXVENhWDNrSXAyd1ZpSkllVXVqMXhFSjVLczVEZ0x3WWxkWmhOZ3JVbzVwaW55UVJKWEtaMHJIX19UMUtSTU9rZGJ6YS0xZ1cyXzV6NDhQNXVEUQ?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Uber launches $14.8 billion takeover bid for Delivery Hero",
+      "url": "https://nypost.com/2026/07/16/business/uber-launches-14-8-billion-takeover-bid-for-delivery-hero/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    }
+  ],
+  [
+    {
+      "title": "TSMC Q2 profit jumps 77% to record, far surpasses expectations",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYnh6a29MX0JydGlXMF83eUJWTTJrcEJZMTR1al8xTXVoTk1QTkduOTBCTjBFa09Qbmd5SjE3NGFiOHl3SHZ6RmFOM0ZoVmg3dFo2TUpiLWhqYnpJME1SdHhZZ2VwX3RuTmhwTHo1TzFjc0V5dDhaU3lELVdNcy1xM2tiZUZwSXdScFNrVmYtSFU2dFgwZUVwV2ZCQUZrZ0VUQUl5Zm1oQ0xfcktCWE5KVEp3?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "TSMC posts record quarter \u2014 but expectations are now \u2018exceptionally high,\u2019 says fund manager",
+      "url": "https://www.marketwatch.com/story/tsmc-posts-record-quarter-but-expectations-are-now-exceptionally-high-says-fund-manager-145cd3ab?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
+    }
+  ],
+  [
+    {
+      "title": "Britain nationalises British Steel to protect domestic steelmaking",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbW1QSTNLcmtKbnJ3YXBuVW9NclBGZG5oLWNkR1hHNV9PcjZjSXVNdmRYanpnRDZwN0cxemV4TnczUnR6SzQ0Y0tfcjFEWEJDY3g5b2x0OF9UbUhSdHV3Y20ya0E2R1d5MnpybHR3aVMzMGRDeVJoYXdZeFRtQXhxb3RRMDVSWXAxS2xJZUI0bll0VEdQZ2RVdGt3?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "British Steel taken into public ownership to protect 'vital' UK supply",
+      "url": "https://www.bbc.co.uk/news/articles/c5y680w62wno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    }
+  ],
+  [
+    {
+      "title": "Almost Half of House Democrats Vote to End Aid to Israel",
+      "url": "https://www.nytimes.com/2026/07/15/us/politics/democrats-house-israel-vote-aid.html",
       "source": "New York Times",
       "bias": "left-center",
       "domain": "nytimes.com"
     },
     {
-      "title": "Fox News Journalist Gives Chilling Warning After Trump Subpoenas New York Times Reporters",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeDMyRjNMQjA1QkU2Tk5ZRHQyUHdUaHpuTmtoRnBnTUtubEFtZlVmekw2NzlKemNRaTJNYkFKQ1pBRllsVDRZZnpEa05sNkxkN2RZZGs2T1hIbkdQOGh1R0FJeFhLZjN4Yk5sN19UdVk0NUw3RW9uUEY3QXU3eVBBVVhPWndndGRoVTl0cG9QbGFrb2w0X1BMR01SdFk3WGNLYUNN0gGoAUFVX3lxTE5HblVPVlR1YXRKRUgtcHViVFl0UGlqN1ZNQlJsbWJMdmxUbGtVYTd0OXo0N3kzM0hXakp0RkZYLWdYUU5kU04tMzNkaXU2THBfX3prZGlSV3pXMGtmazRSd0VCUjlId01YTVhCZk4xZnhkMHZYbjVmVjRfTVdqMkFydHdTZjkzNTd2azR1dUM5bHFsUmJsRGdEOXBOZGxuSnpkeWxsY0hVOQ?oc=5",
+      "title": "More Than 100 Democrats Vote Against Aid To Israel In Big Symbolic Vote",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYmEwQ1NYUjhmRnpVX2NVUWhxWTRFUU5VX3FrVlZIYVdJSWhKUm44MVhhTHd1RVl0UUZvbnp4TEZiNzdPcVZ0aWxKSkVfYTNjRS0teFhjS0hERTViYlA5MUV5QWlnRGpjbVkxYTNJdXMyS3NtN3VobWpiMUhHRWtjMk5Oa2JUWDkyVWNZbVRnMUpNWG43Qlp3VXBHNERZdEpUNm9OQtIBqgFBVV95cUxQMWNVNzNBUjdfSVQzTU5KWDQ2Zlh4SUp6X0Z6eXdlaXoteXZkRHVPc3RBbTVfYlR5dkQ5OC0tckRWcE80UlFabFg1RmFkWHh1U2ZKc2JJY1ZiVXVxTHlVNF9NYnNRcmdFRFJzZXgxSGtldXg1NzdoLXhKRk5HT3ZzWldKaDZ3aUVsMkZYdlNiY254WlNWOHR0Wm5tWWxjcmt3ZFpsS3pUVWhiZw?oc=5",
       "source": "HuffPost",
       "bias": "left",
       "domain": "huffpost.com"
@@ -293,34 +278,34 @@
   ],
   [
     {
-      "title": "Mexico investigates whether US lied about role in capture of drug lord",
-      "url": "https://www.theguardian.com/world/2026/jul/09/mexico-drug-lord-arrest-sinaloa-cartel-investigation",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
+      "title": "Trump\u2019s intelligence chief nominee won\u2019t say Biden won 2020 election",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/aje-onl-nf_trumps-intel-nominee-wont-say-biden-won-160726?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
     },
     {
-      "title": "Mexican President Blames Biden-Era Policies for Rise in Cartel Violence",
-      "url": "https://www.breitbart.com/border/2026/07/11/mexican-president-blames-biden-era-policies-for-rise-in-cartel-violence/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
+      "title": "Trump's DNI Pick Refuses To Directly Answer Who Won The 2020 Presidential Election",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNEZNbm5ZS0wxTWFRVDhrVjhKUy00TFhPb0dLRVltdEpiU09VdUVXZHNFRUFaVFZ2QnlZTE1yLTNUQm1xNUI1bDVHNGdfT1ZTRHh5T3hZQ3gwUGdYeVVCZFowaDFzM01nclVtOU5YNG5PVnNTUVR6T1lWTlNQNFNqVWRKVmd3dDczaVdGU3FGanAyYzNlZmRGeTlBaDYxZzljSXV1aWhSYUZtdEhiU2wyMThzZ0NpalhDM2twQTNXT0ZNZ9IBxwFBVV95cUxPVEhOS2xaX0h0MFltajJKemVQUzVWSWlnWWVseDNZdnkwTnBLZ25XaUcxU3ppTTZWT0x6eHpyWHFaWXBMVkFfZjFFY1Z1UGRoeUc5R2lMZ3J4R21DRU5zYTF1XzFnZHNENEVxRjhRdjVZMHhWMjBQbWpHLUxTZ05wbmUyWUhfaTZKb2RRcmpjcEpuSlJ0Y0ZyWE9KSl9QMlBhYzZtVWljRFMxRzNuVHNwLVo0OW5ka0pnMkFzT19PVmp2TV8xdXJF?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
     }
   ],
   [
     {
-      "title": "UK judges begin hearing appeal over Trinidad and Tobago anti-gay law",
-      "url": "https://www.theguardian.com/world/2026/jul/08/uk-judges-appeal-trinidad-and-tobago-homophobic-law",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
+      "title": "Coast Guard suspends search for 3 missing after boat capsized in San Francisco",
+      "url": "https://abcnews.com/US/1-missing-17-rescued-after-boat-sinks-alcatraz/story?id=134768432",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
     },
     {
-      "title": "Marlow: Devastating Case Against Tyler Robinson",
-      "url": "https://www.breitbart.com/clips/2026/07/11/marlow-devastating-case-against-tyler-robinson-embarrasses-candace-owens/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
+      "title": "1 dead, 3 missing after boat sinks near Alcatraz Island in San Francisco Bay",
+      "url": "https://www.cbsnews.com/news/boat-rescue-alcatraz-island-san-francisco-bay/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
     }
   ]
 ]

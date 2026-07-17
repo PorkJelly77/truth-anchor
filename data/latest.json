@@ -8,81 +8,11 @@
       "domain": "cnn.com"
     },
     {
-      "title": "China slams Trump\u2019s claims over 2020 US election interference",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/china-slams-trumps-claims-over-2020-us-election-interference?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Key takeaways from Trump's elections speech",
+      "url": "https://abcnews.com/Politics/key-takeaways-trumps-elections-speech/story?id=134835191",
+      "source": "ABC News",
       "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "China dismisses Trump election interference accusations as 'entirely fabricated,' threatens countermeasures",
-      "url": "https://www.foxnews.com/politics/china-dismisses-trump-election-interference-accusations-entirely-fabricated-threatens-countermeasures",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "Fact-checking Trump's claims about election security during his primetime speech",
-      "url": "https://www.cbsnews.com/video/fact-checking-trumps-claims-election-security/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "Trump Teleprompter Operator On Leave After Betting On President's Speeches",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTnQyNGhTVzlWQ2RnZnZyMGJOMGZFdmt1UF9IdUNZYktXMzJrd0hhVWo0dkdNcUd0MDhzdWd1ckItRjBPRU5oZHhxYWxoNXZudkFoc2JnNERuYkFRemhJWF83YWI4NDhKNFZJZUpaRDJOTF9TWDRmeDNBbkpWVHloVkx4NFNRT0JZVjN6T3ctUGd0QdIBlwFBVV95cUxOS3FickdTQnZucHByLWtETm1UdnNlMjVfZXVPV0lBZFNZdUVzMDBwX0RWN2V2dHhORk5jX3dPclBjdzVWUVg3TnBjVERtZnU5WGtLWmxiMkpqc1ViYnRoSHVBeEpIRnpsVDg0bnhadFM1Y2xybTFibjl6UC1ldFhUbFltcVYzVHVMUGVMd3pYQU9mSm1weFFF?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    },
-    {
-      "title": "Trump Admin to Exclude Migrants on Welfare from Green Cards",
-      "url": "https://www.breitbart.com/immigration/2026/07/16/trump-admin-to-exclude-migrants-on-welfare-from-green-cards/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
-    },
-    {
-      "title": "Police round up Hong Kong booksellers as China widens crackdown",
-      "url": "https://www.washingtonpost.com/world/2026/07/15/police-round-up-hong-kong-booksellers-china-widens-crackdown/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
-    },
-    {
-      "title": "Ontario Wildfires Burn On, and New Ones Spring Up",
-      "url": "https://www.nytimes.com/2026/07/17/weather/ontario-wildfires-smoke.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "Defending champion Argentina reaches World Cup final by beating England 2-1",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQTJjclhWdGFhN1RTSlN2Tl9UWjFZRGpyTEF2a3ZIZmJlVEhTb2k5LWdhSTBxTFVjT2VKTzZqTUtGWTJVNnpCd3MtWXlPSEtVZUVySFBZallBVFo2TGZRVjVDRmtZSHcxNTJJZ0JDNEl2NHZMWm1DazNUNC10eF9rZC11b2tBWWhGdURQbjJpYnp4aGN4aFdYNQ?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "Ranch dressing and stuffed raccoons: Some of the World Cup\u2019s biggest winners as Spain and Argentina face off in the final",
-      "url": "https://www.marketwatch.com/story/ranch-dressing-and-stuffed-raccoons-some-of-the-world-cups-biggest-winners-as-spain-and-argentina-face-off-in-the-final-1cf72d0c?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
-    },
-    {
-      "title": "Brenda Fricker, Oscar-winning actress and beloved \u2018Home Alone 2\u2019 Pigeon Lady, dead at 81",
-      "url": "https://pagesix.com/2026/07/17/celebrity-news/brenda-fricker-oscar-winning-actress-and-beloved-home-alone-2-pigeon-lady-dead-at-81/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "Oscar-wining actress Brenda Fricker dies at 81",
-      "url": "https://www.bbc.co.uk/news/articles/c0m70zremezo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
+      "domain": "abcnews.go.com"
     },
     {
       "title": "Takeaways from Trump's primetime speech. And, at least 2 dead in major Texas flooding",
@@ -92,18 +22,25 @@
       "domain": "npr.org"
     },
     {
-      "title": "WATCH:  Pres. Trump addresses the nation on election claims",
-      "url": "https://abcnews.com/video/134832887/",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
+      "title": "Ex-Trump Attorney Lands Damning New Description Of President's Election Obsession",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSkNtUVhvUWVsYUR4Z0MwRWFiZXNyTjlBbzRTMzhBdU5SaVhsRmZaZnVjeEZLVF95eGgxWjBvZlNQZzR5ZHp4TlZWWVc0TURpV2VNYWVmWnNTVHVMRWRNNmR0Vy1NbnFWbUJ5eW8wNnNfRzNrZ0ZBN21VM2ZJeTJ1UWZKOWZIY1Bwd2tXMm1n0gGTAUFVX3lxTE9aSndYUGVLQ25jN1NDYTQ0dFp5LUJMbUVaV3BZa2VsSG40bW9HTy04eGg2OXdmeXdrSGxGeDYxendLRndaWlZMNnpmNGdfVnBrMWJvbGlQT2FYeGlLME91aE1aeWpqcW13eW16TTdXUW5KMEQxMFp0b2thdVFpa2tlTFdFaW1CNlpjbGtkRHFFam0yVQ?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
     },
     {
-      "title": "Trump puts election security at center of Republicans' midterm fight",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPellVNExpdFBaWXp5dlNSTHpOVWRNNUJSRlZHUm1CX2dXVHI0aThrdWpfNmh2T3Q3RERxRWN4dkNzRDFwbUl1OWFYRm9lSjdVaG16cjJLWFI1T29iRV96NXEtclJGZ0tCWm1hcTdaTFhxVTdyS1hKZUczTGs0M2hHbndkQUsxbmlaNEFlZ1d1UkZKSzVObWdLUnhFbmNROXhSeHZGWnRGVUFZS2tTM0tPN1RBLXg?oc=5",
-      "source": "Reuters",
+      "title": "Communist China's Trade Surplus With European Union Hits Record High",
+      "url": "https://www.breitbart.com/europe/2026/07/17/communist-chinas-trade-surplus-with-european-union-hits-record-high/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
+    },
+    {
+      "title": "Burnham confirmed as leader of UK\u2019s governing Labour Party, headed for PM",
+      "url": "https://www.aljazeera.com/news/2026/7/17/burnham-confirmed-as-leader-of-uks-governing-labour-party-headed-for-pm?traffic_source=rss",
+      "source": "Al Jazeera",
       "bias": "center",
-      "domain": "reuters.com"
+      "domain": "aljazeera.com"
     },
     {
       "title": "Mexico asks US state attorneys general to investigate immigrant ICE deaths",
@@ -111,22 +48,27 @@
       "source": "The Guardian",
       "bias": "left-center",
       "domain": "theguardian.com"
-    }
-  ],
-  [
+    },
+    {
+      "title": "Terrifying Surveillance Footage Shows Woman Shielding Child During Russian Strike in Ukraine",
+      "url": "https://nypost.com/video/terrifying-surveillance-footage-shows-woman-shielding-child-during-russian-strike-in-ukraine/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
+      "title": "\u2018Today\u2019 show security guard fired after intruder enters unauthorized area, targets Craig Melvin: report",
+      "url": "https://www.foxnews.com/us/today-show-security-guard-fired-intruder-enters-unauthorized-area-targets-craig-melvin-report",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
     {
       "title": "Iran accuses US of hitting civilian infrastructure",
       "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "bias": "center",
       "domain": "bbc.com"
-    },
-    {
-      "title": "Why is the US attacking southern Iran\u2019s civilian infrastructure?",
-      "url": "https://www.aljazeera.com/news/2026/7/17/why-is-the-us-attacking-southern-irans-civilian-infrastructure?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
     },
     {
       "title": "\"Worst case scenario\" for shippers as U.S. and Iran step up attacks",
@@ -136,68 +78,31 @@
       "domain": "cbsnews.com"
     },
     {
-      "title": "Iran threatens region\u2019s infrastructure as U.S. strikes expand",
-      "url": "https://www.washingtonpost.com/world/2026/07/16/iran-threatens-regions-infrastructure-us-strikes-expand/",
-      "source": "Washington Post",
+      "title": "Big Tech Firms Like Oracle Turn to Bonds to Finance A.I. Data Centers",
+      "url": "https://www.nytimes.com/2026/07/17/business/ai-spending-oracle-stocks-bonds.html",
+      "source": "New York Times",
       "bias": "left-center",
-      "domain": "washingtonpost.com"
+      "domain": "nytimes.com"
     },
     {
-      "title": "U.S. Attacks Bridges, Collapses Tower At Key Port As Iran Campaign Expands",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mQzV3VTdJVldIVXRuSHpseUF6TDRHMThtMmttZ3dtbGwwb01QeFBTRlFNbGZqcUVHUklRWU5wcF9DTVZuYnBPZVFZRk1paWxUNldhSDFXZjRpVHczTF91R3Nxd2Vld3dhbXFXdVdKOHIzQlhqU3g2ZU14RHfSAYIBQVVfeXFMUEotZFczTHJsSzRUUWQzaTZ3VURhTVRWWmpwM2xNX2N6dVBmWDloZmppMkpFR0k0UHJXNk9wMWNRQjlGU01vSVB0b3ViRVppNC1ZNGN2U282MnV4S0MtUV9mWGxEdlJvcFJ3UmhXbjdBQjlnWTU2OWRoSzN4TGFQUE5iZw?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    },
-    {
-      "title": "US hits more bridges in Iran in an expansion of its airstrike campaign",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYXFnZWtOU1NXb01HY2FxbTBsUmJqNDlaa3NORmpyZ0pYVzhSVFZkaUNYTjczY0E1YjhpR1F1OGRoT3dJNnVTMjVuUGJyamVCckJwMi1WY0hJR2NyVGQ0ZDdzbF9LMzgteGZDRGtMd0ZQV211YWF3cHpYLWdhTXZjTXVhTG1zRkRmR3Q1NVdQRWNEb2xhZU0zRTFodmM4ZXc?oc=5",
+      "title": "Heavy smoke from wildfires blankets the US Midwest and Northeast, prompting evacuations",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRlBKTXJISlpyWUt4ZEtzc3B5QzFONXV2bjFhVW1qSGttbU95ODdOalJGcTdZMVd5ZlA2ZFZEZFhYanE5QTNJWjFNR2EzS1NMWFZvbVVQNDhaTVplclBhZzhwUlhQSU9jZmhER2p2aHdZRll3VVBjQWpVcEVjZXlVSzJjTmNPOTlub21rQnl4eHp1TDN1N0Rj?oc=5",
       "source": "Associated Press",
       "bias": "center",
       "domain": "apnews.com"
     },
     {
-      "title": "Iran tells citizens to turn off AC to preserve power grid after US strikes",
-      "url": "https://nypost.com/2026/07/17/world-news/iran-tells-citizens-to-turn-off-ac-to-preserve-power-grid-after-us-strikes/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "U.S. strikes bridges in Iran, Tehran targets U.S. bases in the Gulf",
-      "url": "https://www.npr.org/2026/07/17/g-s1-134158/us-iran-war-updates",
-      "source": "NPR",
+      "title": "How did Canadian wildfire smoke tamp down New England storms?",
+      "url": "https://www.washingtonpost.com/weather/2026/07/15/new-england-was-bracing-severe-weather-then-came-wildfire-smoke/",
+      "source": "Washington Post",
       "bias": "left-center",
-      "domain": "npr.org"
+      "domain": "washingtonpost.com"
     }
   ],
   [
     {
-      "title": "Newly released video shows scene of Jeremy Renner's snowplow accident",
-      "url": "https://www.cnn.com/videos/us/2023/04/18/jeremy-renner-snowplow-accident-bodycam-nc-melas-contd-vpx.cnn",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
-    },
-    {
-      "title": "WATCH:  Oklahoma tree trimming brothers plummet after cable snaps",
-      "url": "https://abcnews.com/video/134799402/",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    },
-    {
-      "title": "Video shows plainclothes ICE officers attempt to detain man at Las Vegas airport",
-      "url": "https://www.cbsnews.com/video/plainclothes-ice-officers-attempt-to-detain-man-las-vegas-airport/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    }
-  ],
-  [
-    {
-      "title": "Sophie Cunningham manages to anger both the left and right with a simple social media post",
-      "url": "https://www.foxnews.com/outkick-sports/sophie-cunningham-manages-anger-left-right-simple-social-media-post",
+      "title": "Transgender Maine Senate candidate sparks online frenzy over response to debate question: 'Can't be serious'",
+      "url": "https://www.foxnews.com/politics/transgender-maine-senate-candidate-sparks-online-frenzy-response-debate-question-cant-be-serious",
       "source": "Fox News",
       "bias": "right",
       "domain": "foxnews.com"
@@ -210,66 +115,112 @@
       "domain": "abcnews.go.com"
     },
     {
-      "title": "Big Tech Firms Like Oracle Turn to Bonds to Finance A.I. Data Centers",
-      "url": "https://www.nytimes.com/2026/07/17/business/ai-spending-oracle-stocks-bonds.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    }
-  ],
-  [
-    {
-      "title": "Five headaches Andy Burnham will have to deal with as PM",
-      "url": "https://www.bbc.co.uk/news/articles/c62122pgjqdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "Who is Andy Burnham, the man becoming Britain's next prime minister?",
-      "url": "https://www.cbsnews.com/news/keir-starmer-resigns-who-is-andy-burnham-likely-next-uk-prime-minister/",
+      "title": "Maine Democratic Senate candidates criticize ICE during debate",
+      "url": "https://www.cbsnews.com/video/maine-democratic-senate-candidates-criticize-ice-during-debate/",
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"
     },
     {
-      "title": "New Prime Minister Faces Old Problems: How to Make Britain\u2019s Economy Grow",
-      "url": "https://www.nytimes.com/2026/07/17/business/britain-andy-burnham-prime-minister.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
+      "title": "Dem trans activist vying to replace candidate Graham Platner for Senate goes viral over absurd debate answer",
+      "url": "https://nypost.com/2026/07/17/us-news/dem-trans-activist-vying-to-replace-candidate-graham-platner-for-senate-goes-viral-over-absurd-debate-answer/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
     }
   ],
   [
     {
-      "title": "Every controversy surrounding Christopher Nolan's 'The Odyssey' from casting to costumes",
-      "url": "https://www.foxnews.com/entertainment/every-controversy-surrounding-christopher-nolans-odyssey-casting-costumes",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
+      "title": "Apple unseats Nvidia to become world's most valuable company as AI bets shift",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ0dxV3BmWDRMVmZLTHI0bWpNR2hCVTVfdWloZGRCdnZxTUZNNnBQMGs1bm9oVGpiZVVtclBiNkIxQjF5NlFJY2JjalR4cTIyVEg1TVAycGZpakdXQUxZWEtZWEdMemFhVXFDX2RPX21HV05QMnpVU0REaFpOYjlUVVROV09RdFFURmdVS1FUeFRRcUtoZHdTd3ZKRjNjWVk?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
     },
+    {
+      "title": "Kalshi says it's not a sportsbook even as World Cup bets surge",
+      "url": "https://www.npr.org/2026/07/17/nx-s1-5884848/kalshi-sports-betting-prediction-markets-draftkings-fanduel-world-cup",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "Netflix is spending big money on sports. Is the company making the right bets?",
+      "url": "https://www.marketwatch.com/story/netflix-is-paying-up-for-costly-sports-rights-is-the-company-making-the-right-bets-9ce54df7?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
+    }
+  ],
+  [
+    {
+      "title": "My Left Foot and Home Alone 2 actress Brenda Fricker dies at 81",
+      "url": "https://www.bbc.co.uk/news/articles/c0m70zremezo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "Brenda Fricker, first Irish actress to win an Oscar for 'My Left Foot,' dies at 81",
+      "url": "https://abcnews.com/Entertainment/wireStory/brenda-fricker-irish-actress-win-oscar-left-foot-134849258",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    },
+    {
+      "title": "Brenda Fricker, Oscar winner who played Pigeon Lady in \"Home Alone 2,\" dies",
+      "url": "https://www.cbsnews.com/news/brenda-fricker-dies-age-81-home-alone-2/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Xi Jinping of China Pitches \u2018Openness\u2019 in Push to Shape the Path of A.I.",
+      "url": "https://www.nytimes.com/2026/07/17/business/xi-jinping-china-ai.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "China\u2019s Xi Jinping launches new AI alliance: What is it?",
+      "url": "https://www.aljazeera.com/news/2026/7/17/chinas-xi-jinping-launches-new-ai-alliance-what-is-it?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    }
+  ],
+  [
     {
       "title": "Christopher Nolan on \u2018The Odyssey\u2019 and IMAX Technical Challenges",
       "url": "https://www.nytimes.com/2026/07/17/movies/the-odyssey-christopher-nolan.html",
       "source": "New York Times",
       "bias": "left-center",
       "domain": "nytimes.com"
+    },
+    {
+      "title": "Anne Hathaway and Matt Damon give inside look at \"The Odyssey\" and challenges during filming",
+      "url": "https://www.cbsnews.com/video/anne-hathaway-and-matt-damon-give-inside-look-at-the-odyssey-and-challenges-during-filming/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
     }
   ],
   [
     {
-      "title": "Iran claims bold attack on US airbase and more top headlines",
-      "url": "https://www.foxnews.com/us/iran-claims-bold-attack-us-airbase-more-top-headlines",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
+      "title": "After years of drone warfare, Ukraine is selling its \u2018blood experience\u2019 to allies",
+      "url": "https://www.washingtonpost.com/world/2026/07/17/after-years-drone-warfare-ukraine-is-selling-its-blood-experience-allies/",
+      "source": "Washington Post",
+      "bias": "left-center",
+      "domain": "washingtonpost.com"
     },
     {
-      "title": "WATCH:  Savannah Bananas debut first-ever song on the ESPYs stage",
-      "url": "https://abcnews.com/video/134820016/",
-      "source": "ABC News",
+      "title": "Ukraine \u2018cuts off\u2019 Crimea from Russia, plunging it into an energy crisis",
+      "url": "https://www.aljazeera.com/news/2026/7/17/ukraine-cuts-off-crimea-from-russia-plunging-it-into-an-energy-crisis?traffic_source=rss",
+      "source": "Al Jazeera",
       "bias": "center",
-      "domain": "abcnews.go.com"
+      "domain": "aljazeera.com"
     }
   ],
   [
@@ -286,38 +237,6 @@
       "source": "Associated Press",
       "bias": "center",
       "domain": "apnews.com"
-    }
-  ],
-  [
-    {
-      "title": "ICE Officer In Maine Shooting Has History Of Violent Behavior, Family And Records Say",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOGtUaDNCR3VqX3QxQ3ZyZElnTTBMSEEtOHdPU0hjNzBjMG8xQjEyZEk4aWF0cDJVRXlCX3llbWtpVHN2bVpoOGZVTTMzMGgtTkV4YzlCSWNrOG5KelNsaGlneWJGUlEwWmd5VEh1Vm1QY3k4MFdVUHdfX0c4UGw5MFQ1aE82OUlGQXpfT1hsZThsbHZlenlrddIBngFBVV95cUxPdDloWXRsUWlpdmx6ZzRvUUVXbnh3bktNd0JxTVpZRjJOVHh4ZlZvRnJ2Wm5BUFVMa1ZYQjlya2dJZXAxMFlYLU5PbGRkMTVIRDVQc19odFJkU3lEc1kzZm8yQnZqMFAwLTUzMzN3cXFTbktHZVpZRzFuQkFnT3U0dlFqQVpRYXR3dHFTaU9FZUk1Q0RtSWxsZUZfZzVEdw?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    },
-    {
-      "title": "Lawmakers demand answers after 'bombshell' report of ICE officer shooting in Maine",
-      "url": "https://abcnews.com/Politics/wireStory/lawmakers-demand-answers-after-bombshell-report-ice-officer-134839280",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    }
-  ],
-  [
-    {
-      "title": "Lettuce supplier for Taco Bell investigated as possible source for cyclosporiasis outbreak",
-      "url": "https://www.cbsnews.com/video/lettuce-supplier-for-taco-bell-investigated-possible-source-cyclosporiasis-outbreak/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "Cyclosporiasis cases linked to lettuce served at some Taco Bell locations: CDC, FDA",
-      "url": "https://abcnews.com/Health/cyclosporiasis-outbreak-linked-shredded-lettuce-served-taco-bell/story?id=134813448",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
     }
   ]
 ]

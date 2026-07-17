@@ -8,89 +8,98 @@
       "domain": "cnn.com"
     },
     {
-      "title": "Trump Threatens Canada With Tariffs for Wildfire Smoke Over U.S.",
-      "url": "https://www.nytimes.com/2026/07/17/weather/wildfire-smoke-canada-us-politics.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "Trump blames Canada for wildfire smoke, says he'll add cost to tariffs",
+      "title": "Trump blames Canada for wildfire smoke, says he will add cost to tariffs",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdXUtel94MS1EWVNOZU1tWW12N1lUWjBTSVBmSTk3bnNGWUd5ellVbVBYZ09LdmozUjVxT0dWbUZkTXU1UEpucm5kblpRd1JQX1Q0NDhEbDZ0dFJUazhCcjlJemk2RHUtMU1PTkdpSHRyZmVJZ01ZTFNyZ1REQkpFc1JLcTUzM2VaaVJqSDdZblNuWjBJTV9tQnZnVG9NSTRHXzJFUHJB?oc=5",
       "source": "Reuters",
       "bias": "center",
       "domain": "reuters.com"
     },
     {
-      "title": "Heavy smoke from wildfires blankets the US Midwest and Northeast, prompting evacuations",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRlBKTXJISlpyWUt4ZEtzc3B5QzFONXV2bjFhVW1qSGttbU95ODdOalJGcTdZMVd5ZlA2ZFZEZFhYanE5QTNJWjFNR2EzS1NMWFZvbVVQNDhaTVplclBhZzhwUlhQSU9jZmhER2p2aHdZRll3VVBjQWpVcEVjZXlVSzJjTmNPOTlub21rQnl4eHp1TDN1N0Rj?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "Iran live updates: US launches more airstrikes on Iran for 7th night, CENTCOM says",
-      "url": "https://abcnews.com/International/live-updates/iran-live-updates-kuwait-reports-attacks-after-latest/?id=134704698",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    },
-    {
-      "title": "Journalist targeted by Iran says U.K.'s crackdown on IRGC is \"the happiest day\"",
-      "url": "https://www.cbsnews.com/news/uk-iran-irgc-national-security-pouria-zeraati-stabbing/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "Mexico asks US state attorneys general to investigate immigrant ICE deaths",
-      "url": "https://www.theguardian.com/us-news/2026/jul/15/mexico-investigate-ice-deaths",
+      "title": "Air quality plummets in 20 US states as smoke from Canadian wildfires spreads",
+      "url": "https://www.theguardian.com/us-news/2026/jul/16/smoke-canadian-wildfires-air-quality",
       "source": "The Guardian",
       "bias": "left-center",
       "domain": "theguardian.com"
     },
     {
-      "title": "US denies Iranian claims it hit civilian infrastructure in latest strikes",
-      "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
+      "title": "Wildfire smoke makes air unhealthy from the US Midwest to East Coast. Officials say stay inside",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd0hyQ29iWXhJWUVoSzJsMlgyQjA4SnMzN0tmb01EUlFOTUU3Nkl2eVQ0UEVjaU1lQXg4MVNfeTNGQ3BDbXdPWlhNanQxQnVZalk3emlXSkk0RHotTXFsYlMwa0VkNVRqRWxVZ2ZsN0o1QTZzSVNudEc5VUNBQ3Rtb18tVXpZSmRxOGRGZDZR?oc=5",
+      "source": "Associated Press",
       "bias": "center",
-      "domain": "bbc.com"
+      "domain": "apnews.com"
     },
     {
-      "title": "Report: U.S. Airstrikes Expand to Bridges, Railroads, and Airports in Southern Iran",
-      "url": "https://www.breitbart.com/middle-east/2026/07/17/report-u-s-airstrikes-expand-bridges-railroads-airports-southern-iran/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
-    },
-    {
-      "title": "Trump DHS threatens federal funding cutoff for states that refuse voter-roll security push",
-      "url": "https://www.foxnews.com/politics/trump-dhs-threatens-federal-funding-cutoff-states-refuse-voter-roll-security-push",
+      "title": "Poor air quality due to wildfires forces logisitcal changes at several MLB games, including postponement",
+      "url": "https://www.foxnews.com/sports/poor-air-quality-wildfires-forces-logistical-changes-several-mlb-games-including-postponement",
       "source": "Fox News",
       "bias": "right",
       "domain": "foxnews.com"
     },
     {
-      "title": "Police round up Hong Kong booksellers as China widens crackdown",
-      "url": "https://www.washingtonpost.com/world/2026/07/15/police-round-up-hong-kong-booksellers-china-widens-crackdown/",
+      "title": "Dark day for the UK as Andy Burnham doubles down on disaster",
+      "url": "https://nypost.com/2026/07/17/opinion/dark-day-for-the-uk-andy-burnham-doubles-down-on-disaster/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
+      "title": "Toxic wildfire smoke chokes major US cities: Latest",
+      "url": "https://abcnews.com/US/canada-wildfire-smoke-brings-unhealthy-air-quality-dozen/story?id=134845214",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    },
+    {
+      "title": "Trump doubles down on stolen election claims, accuses China of meddling",
+      "url": "https://www.cbsnews.com/video/trump-doubles-down-on-stolen-election-claims/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Iran threatens region\u2019s infrastructure as U.S. strikes expand",
+      "url": "https://www.washingtonpost.com/world/2026/07/16/iran-threatens-regions-infrastructure-us-strikes-expand/",
       "source": "Washington Post",
       "bias": "left-center",
       "domain": "washingtonpost.com"
     },
     {
-      "title": "'You Gotta Love This': Joe Scarborough Spots Damning Detail In Trump's Doc Dump",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZFB4a1ZaM0FtWlBFMUhISHNEdjFVS1dhQWNPeHhodUhWVlpkWktTbHlYZHJyc1JlenNzWHJoN3lMcXlmQnA5SDZPTWhJUDhpeEl2bm1IMW5KM2JsRFZQcEZydkdud0YtVy11dFBVWmJWa0V3V3BYQW9DNTdfdzVKSVZGZVFxdUstX05Hc0o4TXlFNzB4Um5aeHJSZFJpOW5XODBRQndmalhwYllsNEtzb2ZKV3llOFhz0gG-AUFVX3lxTE1tZEFubTQtczd2anl0OU9rbFV6QkpGUEJNdVhLNnpwMnBXeUJ0aGlMdXpiN1psTlpPUkdkRWhiNlEyWDRpR0xuWEpoampTRmlRUEhlUjFRajdYQU45Um1HNTJNTnk4ZEFQRUc5RFRwNTZ5NzYzYTd3bzlHMFNwVTZtUmdmeDlISXU5V2x1UURIdG1NeFpJZUpMSThMYlY1a2hDcTVpZENHSmg0QVB4VnQ4bmlobDJqRGprbUFOTGc?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    },
-    {
-      "title": "Top IRS lawyer to resign post amid disagreements with Trump administration",
-      "url": "https://www.aljazeera.com/news/2026/7/17/top-irs-lawyer-to-resign-post-amid-disagreements-with-trump-administration?traffic_source=rss",
+      "title": "US launches seventh straight night of strikes on Iran",
+      "url": "https://www.aljazeera.com/news/2026/7/17/us-launches-seventh-straight-night-of-strikes-on-iran?traffic_source=rss",
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
     },
+    {
+      "title": "China signals possible return of U.S. trade privileges for Hong Kong",
+      "url": "https://www.npr.org/2026/07/17/g-s1-134269/china-signals-possible-return-of-u-s-trade-privileges-for-hong-kong",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "Nolte: \u2018The Odyssey\u2019 Opens to Massive $17.5 Million Thursday Night",
+      "url": "https://www.breitbart.com/entertainment/2026/07/17/nolte-the-odyssey-opens-to-massive-17-5-million-thursday-night/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
+    },
+    {
+      "title": "Dozens of Wildfires Are Suddenly Burning in Oregon",
+      "url": "https://www.nytimes.com/2026/07/17/weather/oregon-wildfires-smoke-canada.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "The Trump Speech Republicans Are Pretending Didn\u2019t Happen",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLUFzMnBBNVZReXFTbkFfaVkxa3dIUWR6UXRoYlNvUlNwNEVxVTlDWDBrUU5XclUxQWdwbzdXc0RLaVhvZ0VuUU1mZ2pRaFBxUGVMMGJ3OF9OQndKRkZ4dGdBMF9VWG5yNnVGT0VQWThIa1lWZ2xQX245U1NZNlotck01UVowcUNVMU9ZeDZRS3FiZTY1NEdHbGxWRTVoRUNVRWFEStIBqgFBVV95cUxNQmlBRGV6elNiTWIyQUc2S21BYWRGbV9mZXFqcE1CcFl3Ulp4WGl1OGlMclFsWks3MHlyM2tXbWVpbmd4SVdudGtMWXoxTXdRSTlJck5IZWpQNlprRERieDRVQ3ZGWnZtdEdqVkNxTTctWnREMFdtQ0hHcWFLaG1iamlXUjdCVGU2eG9sd25LckRtdUN4dzVBbVRLVG5LTjliYjhfTGIwU0V4UQ?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    }
+  ],
+  [
     {
       "title": "Taylor Farms to recall iceberg lettuce that may be the cause of the cyclospora outbreak",
       "url": "https://www.marketwatch.com/story/taylor-farms-to-recall-produce-that-may-be-the-cause-of-the-cyclospora-outbreak-report-e2c4cc0b?mod=mw_rss_topstories",
@@ -99,11 +108,76 @@
       "domain": "wsj.com"
     },
     {
+      "title": "CDC and FDA link lettuce at Taco Bell in five states to cyclospora outbreak",
+      "url": "https://www.theguardian.com/us-news/2026/jul/17/cyclospora-lettuce-taco-bell",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "Cyclosporiasis outbreak traced to lettuce from Mexico used by Taco Bell",
+      "url": "https://www.cbsnews.com/news/cyclosporiasis-outbreak-taco-bell-lettuce-mexico/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "What to know about Taylor Farms amid cyclosporiasis outbreak",
+      "url": "https://abcnews.com/GMA/News/taylor-farms-amid-cyclosporiasis-outbreak/story?id=134846473",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    },
+    {
+      "title": "Iceberg lettuce at Taco Bell linked to cyclospora outbreak in 5 states",
+      "url": "https://www.npr.org/2026/07/17/nx-s1-5897509/lettuce-taco-bell-mexico-cyclospora-outbreak",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "Lettuce At Taco Bell In 5 States Confirmed As A Source Of Diarrhea-Causing Parasite",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQzZ5aUpVM0laS016ZFEzaUJjWHpaamViNHAwRzBrMFBDRmRMT3VWTURRMVlDdG83X0NSYWw4RkZ1azNLV0s0NnNGVlNtUHh5emoxbER2TXJ0Snhlam9TdVFwYXlTNU9sQVk2M3EzNlVva0dMaDNYQkNWTnVjcDBQOWx5MHV6V0JISHZoeHJzRHXSAZYBQVVfeXFMTmQxYnEzT1pfWHNZdHZfcVRkeEdTaUVCZnZ6NDhWMU1keXM5TG1sTEdWS0t6OGRMOXFFQUs4Ul9kd21McTUyVFduMEx6YWJrWllJdURweUYzYU5PLW9iWmluWXJZVmZwbzRpNzR6b1JjUFAwQ1Rna0Z3QXhJdDh2YlBSVGE4dURMVXpSVjJHdU1OYW8xZmZn?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    }
+  ],
+  [
+    {
+      "title": "White House defends Argentina team over Falklands banner",
+      "url": "https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "\u2018Malvinas are Argentinian\u2019: World Cup holders celebrate win over England with Falklands banner",
+      "url": "https://www.theguardian.com/football/2026/jul/15/malvinas-is-argentinian-world-cup-holders-celebrate-win-over-england-with-banner",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "Argentina takes on Spain in 2026 World Cup men's final",
+      "url": "https://www.cbsnews.com/video/argentina-takes-spain-2026-world-cup-mens-final/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
       "title": "Spain could make World Cup history: The first to win men's and women's trophies back-to-back",
       "url": "https://www.npr.org/2026/07/17/g-s1-134232/spain-world-cup-history-women-men",
       "source": "NPR",
       "bias": "left-center",
       "domain": "npr.org"
+    },
+    {
+      "title": "Tackling Messi \u2018huge challenge\u2019 for Spain in World Cup final: Merino",
+      "url": "https://www.aljazeera.com/sports/2026/7/17/tackling-messi-huge-challenge-for-spain-in-world-cup-final-merino?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
     }
   ],
   [
@@ -131,15 +205,15 @@
   ],
   [
     {
-      "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges",
-      "url": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html",
+      "title": "Newly released video shows scene of Jeremy Renner's snowplow accident",
+      "url": "https://www.cnn.com/videos/us/2023/04/18/jeremy-renner-snowplow-accident-bodycam-nc-melas-contd-vpx.cnn",
       "source": "CNN",
       "bias": "left",
       "domain": "cnn.com"
     },
     {
-      "title": "Alabama mom charged with murder after toddler bound, left to suffocate for 12 hours: cops",
-      "url": "https://www.foxnews.com/us/alabama-mom-charged-murder-toddler-bound-left-suffocate-12-hours-cops",
+      "title": "Teen brawl inside In-N-Out sends customers running during monsoon storm, video shows",
+      "url": "https://www.foxnews.com/us/teen-brawl-in-n-out-sends-customers-running-monsoon-storm-video-shows",
       "source": "Fox News",
       "bias": "right",
       "domain": "foxnews.com"
@@ -147,18 +221,18 @@
   ],
   [
     {
-      "title": "Meta, Anthropic in talks for potential $10 billion compute lease deal, NYT reports",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS2NqN2VtZFNDLWpDUGxnTXlpZmdWRmI3QlJyeTZSS2cwOEdyVEVGY0NGd3F4UGdqYkVoTjVaUWR0bzJVcW8yY0N1dG1zUnl0UUVDa2dKYVhKU2F5OWJPTWFfSGdZWlRfMjZZdEVxUTRiVDE1LXhMSjR0a0FOMFItVHA3V3FTYlVjU0Mzcy12VG9JbVlORGF2bXBFa1BIUjBNaHR6ZnBn?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
       "title": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal",
       "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
       "source": "New York Times",
       "bias": "left-center",
       "domain": "nytimes.com"
+    },
+    {
+      "title": "Meta, Anthropic in talks for potential $10 billion compute lease deal, source says",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS2NqN2VtZFNDLWpDUGxnTXlpZmdWRmI3QlJyeTZSS2cwOEdyVEVGY0NGd3F4UGdqYkVoTjVaUWR0bzJVcW8yY0N1dG1zUnl0UUVDa2dKYVhKU2F5OWJPTWFfSGdZWlRfMjZZdEVxUTRiVDE1LXhMSjR0a0FOMFItVHA3V3FTYlVjU0Mzcy12VG9JbVlORGF2bXBFa1BIUjBNaHR6ZnBn?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
     }
   ],
   [
@@ -179,22 +253,6 @@
   ],
   [
     {
-      "title": "The 'ultimate all-round sportsman' - Garfield Sobers could do it all",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/c2xx42dle4go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "All-time West Indies cricket great Garfield Sobers dies aged 89",
-      "url": "https://www.aljazeera.com/sports/2026/7/17/all-time-west-indies-cricket-great-garfield-sobers-dies-aged-89?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    }
-  ],
-  [
-    {
       "title": "EU proposes slowing down cuts to carbon emissions for businesses",
       "url": "https://www.bbc.co.uk/news/articles/ckgv0zd497zo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -207,6 +265,38 @@
       "source": "The Guardian",
       "bias": "left-center",
       "domain": "theguardian.com"
+    }
+  ],
+  [
+    {
+      "title": "Stocks Sink on Anxiety About Tech and A.I. Spending",
+      "url": "https://www.nytimes.com/2026/07/17/business/stocks-ai-tech-wall-street.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Meet Kimi K3, the newest Chinese AI model haunting Silicon Valley",
+      "url": "https://www.marketwatch.com/story/meet-kimi-k3-the-newest-chinese-ai-model-haunting-silicon-valley-755ed738?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
+    }
+  ],
+  [
+    {
+      "title": "LA\u2019s 100-year-old water mains are bursting \u2014 councilmember blames years of neglect",
+      "url": "https://nypost.com/2026/07/17/us-news/west-hollywood-water-main-break-exposes-las-aging-infrastructure/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
+      "title": "WATCH:  Water main break triggers sinkhole in West Hollywood",
+      "url": "https://abcnews.com/video/134843285/",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
     }
   ]
 ]

@@ -8,22 +8,15 @@
       "domain": "cnn.com"
     },
     {
-      "title": "DHS reveals staggering number of potential non-citizens registered to vote in California",
-      "url": "https://nypost.com/2026/07/17/us-news/trump-admin-claims-california-may-have-190k-non-citizens-on-voter-rolls/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
+      "title": "Police round up Hong Kong booksellers as China widens crackdown",
+      "url": "https://www.washingtonpost.com/world/2026/07/15/police-round-up-hong-kong-booksellers-china-widens-crackdown/",
+      "source": "Washington Post",
+      "bias": "left-center",
+      "domain": "washingtonpost.com"
     },
     {
-      "title": "Watch Live: DHS Secretary Mullin Addresses Trump's Election Integrity Revelations",
-      "url": "https://www.breitbart.com/politics/2026/07/17/watch-live-dhs-secretary-mullin-addresses-trumps-election-integrity-revelations/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
-    },
-    {
-      "title": "Trump\u2019s Obsession With Relitigating the 2020 Election Carries a Cost for Democracy",
-      "url": "https://www.nytimes.com/2026/07/17/us/politics/trump-elections-politics.html",
+      "title": "Trump Brings Full Weight of Government to Bolster False Election Claims",
+      "url": "https://www.nytimes.com/2026/07/17/us/politics/trump-government-election-claims.html",
       "source": "New York Times",
       "bias": "left-center",
       "domain": "nytimes.com"
@@ -50,18 +43,32 @@
       "domain": "apnews.com"
     },
     {
-      "title": "FOX World Cup announcer says Trump's appearance at final is 'fun, unique thing' despite potential backlash",
-      "url": "https://www.foxnews.com/sports/fox-world-cup-announcer-says-trumps-appearance-final-fun-unique-thing-despite-potential-backlash",
-      "source": "Fox News",
+      "title": "Mark Carney Deflects Blame on Canada Wildfire Failures: 'Climate Change Is Everyone's Responsibility'",
+      "url": "https://www.breitbart.com/environment/2026/07/17/mark-carney-deflects-blame-on-canada-wildfire-failures-climate-change-is-everyones-responsibility/",
+      "source": "Breitbart",
       "bias": "right",
-      "domain": "foxnews.com"
+      "domain": "breitbart.com"
     },
     {
-      "title": "Iran threatens region\u2019s infrastructure as U.S. strikes expand",
-      "url": "https://www.washingtonpost.com/world/2026/07/16/iran-threatens-regions-infrastructure-us-strikes-expand/",
-      "source": "Washington Post",
+      "title": "Iceberg lettuce at Taco Bell linked to cyclospora outbreak in 5 states",
+      "url": "https://www.npr.org/2026/07/17/nx-s1-5897509/lettuce-taco-bell-mexico-cyclospora-outbreak",
+      "source": "NPR",
       "bias": "left-center",
-      "domain": "washingtonpost.com"
+      "domain": "npr.org"
+    },
+    {
+      "title": "US lettuce supplier Taylor Farms to recall ingredients linked to parasite outbreak, Bloomberg News reports",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWktLMXhqdm1jU0Z4UVdKbWswc1hLbWxrQkdkeGFuT3Y5R29Ccm5fOXFseWVTak1ya3NkT0lFc0ZTRUFhamxUX0l1NkpqV0JFRXk4QVUxTkswaEFfYUVLcjU0eGk2SENmTkJRdXZhTGQtdkhkcHh3VXZoMHFvYlhsYlpaa25jOWQ4dWo0RHNxaTBIUnFfQkhpQkN3RjRDTHRITTR3VHEwV1oyandPZk5CNXVQVE1jcEFYLVZTSkpjZ0hLNEZOc3ZXQndPYVg3ekpORFlpeVhUTQ?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Harrowing footage shows rescue crew airlift young girl, family, dogs as deadly Texas flooding kills at least two",
+      "url": "https://nypost.com/2026/07/17/us-news/texas-flooding-rescue-crew-airlifts-girl-family-dogs-in-dramatic-footage/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
     },
     {
       "title": "\"Worst case scenario\" for shippers as U.S. and Iran step up attacks",
@@ -71,69 +78,48 @@
       "domain": "cbsnews.com"
     },
     {
-      "title": "The U.S.-Iran battle over the Strait of Hormuz raises risks for global waterways",
-      "url": "https://www.npr.org/2026/07/17/nx-s1-5884849/us-iran-strait-hormuz-global-shipping-risk",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    },
-    {
-      "title": "Iran accuses US of hitting civilian infrastructure",
+      "title": "US denies Iranian claims it hit civilian infrastructure in latest strikes",
       "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "bias": "center",
       "domain": "bbc.com"
     },
     {
-      "title": "Satellite images show damage inside Iran\u2019s Bushehr nuclear power plant",
-      "url": "https://www.aljazeera.com/news/2026/7/17/satellite-images-show-damage-inside-irans-bushehr-nuclear-power-plant?traffic_source=rss",
+      "title": "Can the US and Iran reach a lasting deal to end the conflict?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/17/can-the-us-and-iran-reach-a-lasting-deal-to-end-the-conflict?traffic_source=rss",
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
     },
     {
-      "title": "Why Trump\u2019s speech on U.S. elections could be bad for markets",
-      "url": "https://www.marketwatch.com/story/why-trumps-speech-on-u-s-elections-could-be-bad-for-markets-e617dc64?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
-    },
-    {
-      "title": "Ex-Trump Attorney Lands Damning New Description Of President's Election Obsession",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSkNtUVhvUWVsYUR4Z0MwRWFiZXNyTjlBbzRTMzhBdU5SaVhsRmZaZnVjeEZLVF95eGgxWjBvZlNQZzR5ZHp4TlZWWVc0TURpV2VNYWVmWnNTVHVMRWRNNmR0Vy1NbnFWbUJ5eW8wNnNfRzNrZ0ZBN21VM2ZJeTJ1UWZKOWZIY1Bwd2tXMm1n0gGTAUFVX3lxTE9aSndYUGVLQ25jN1NDYTQ0dFp5LUJMbUVaV3BZa2VsSG40bW9HTy04eGg2OXdmeXdrSGxGeDYxendLRndaWlZMNnpmNGdfVnBrMWJvbGlQT2FYeGlLME91aE1aeWpqcW13eW16TTdXUW5KMEQxMFp0b2thdVFpa2tlTFdFaW1CNlpjbGtkRHFFam0yVQ?oc=5",
+      "title": "Trump Teleprompter Operator On Leave After Betting On President's Speeches",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTnQyNGhTVzlWQ2RnZnZyMGJOMGZFdmt1UF9IdUNZYktXMzJrd0hhVWo0dkdNcUd0MDhzdWd1ckItRjBPRU5oZHhxYWxoNXZudkFoc2JnNERuYkFRemhJWF83YWI4NDhKNFZJZUpaRDJOTF9TWDRmeDNBbkpWVHloVkx4NFNRT0JZVjN6T3ctUGd0QdIBlwFBVV95cUxOS3FickdTQnZucHByLWtETm1UdnNlMjVfZXVPV0lBZFNZdUVzMDBwX0RWN2V2dHhORk5jX3dPclBjdzVWUVg3TnBjVERtZnU5WGtLWmxiMkpqc1ViYnRoSHVBeEpIRnpsVDg0bnhadFM1Y2xybTFibjl6UC1ldFhUbFltcVYzVHVMUGVMd3pYQU9mSm1weFFF?oc=5",
       "source": "HuffPost",
       "bias": "left",
       "domain": "huffpost.com"
+    },
+    {
+      "title": "Truth Social plan to sell early access to Trump posts \u2018makes me want to puke,\u2019 CNBC reporter fumes",
+      "url": "https://www.foxnews.com/media/truth-social-plan-sell-early-access-trump-posts-makes-want-puke-cnbc-reporter-fumes",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
     }
   ],
   [
     {
-      "title": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal",
-      "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "China\u2019s Xi Jinping launches new AI alliance: What is it?",
-      "url": "https://www.aljazeera.com/news/2026/7/17/chinas-xi-jinping-launches-new-ai-alliance-what-is-it?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "Report: China's 'Kimi K3' AI Model Matches Performance of Top American Systems",
-      "url": "https://www.breitbart.com/tech/2026/07/17/report-chinas-kimi-k3-ai-model-matches-performance-of-top-american-systems/",
-      "source": "Breitbart",
+      "title": "Fanatics Fest crowd goes crazy after LeBron James utters phrase often linked to team trying to sign him",
+      "url": "https://www.foxnews.com/sports/fanatics-fest-crowd-goes-crazy-lebron-james-utters-phrase-often-linked-team-trying-sign-him",
+      "source": "Fox News",
       "bias": "right",
-      "domain": "breitbart.com"
+      "domain": "foxnews.com"
     },
     {
-      "title": "Mexico asks US state attorneys general to investigate immigrant ICE deaths",
-      "url": "https://www.theguardian.com/us-news/2026/jul/15/mexico-investigate-ice-deaths",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
+      "title": "Notable shift emerges in LeBron James sweepstakes in latest next team odds",
+      "url": "https://nypost.com/2026/07/17/betting/notable-shift-emerges-in-lebron-james-sweepstakes-in-latest-next-team-odds/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
     },
     {
       "title": "Trump's team says 'no children' died from USAID cuts. Consider these 3 cases",
@@ -141,6 +127,13 @@
       "source": "NPR",
       "bias": "left-center",
       "domain": "npr.org"
+    },
+    {
+      "title": "Mexico asks US state attorneys general to investigate immigrant ICE deaths",
+      "url": "https://www.theguardian.com/us-news/2026/jul/15/mexico-investigate-ice-deaths",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
     },
     {
       "title": "Iran releases U.S. citizen in goodwill gesture, Trump says",
@@ -162,114 +155,26 @@
       "source": "HuffPost",
       "bias": "left",
       "domain": "huffpost.com"
-    },
-    {
-      "title": "Dem-run \u2018Dear White Staffers\u2019 X account joins calls for ICE to kill anyone in Epstein files",
-      "url": "https://nypost.com/2026/07/17/us-news/dem-run-dear-white-staffers-x-account-joins-calls-for-ice-to-kill-anyone-in-epstein-files/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
     }
   ],
   [
     {
-      "title": "Burnham finalising cabinet ahead of becoming PM on Monday",
-      "url": "https://www.bbc.co.uk/news/articles/c5y300l2zvno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "Fighting The Ghosts of Britain's Past: New Prime Minister Defines Himself as Anti-Thatcher Leader",
-      "url": "https://www.breitbart.com/europe/2026/07/17/ghosts-of-britains-past-new-pm-burnham-self-identifies-as-anti-thatcher/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
-    },
-    {
-      "title": "Burnham confirmed as leader of UK\u2019s governing Labour Party, headed for PM",
-      "url": "https://www.aljazeera.com/news/2026/7/17/burnham-confirmed-as-leader-of-uks-governing-labour-party-headed-for-pm?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "Big Tech Firms Like Oracle Turn to Bonds to Finance A.I. Data Centers",
-      "url": "https://www.nytimes.com/2026/07/17/business/ai-spending-oracle-stocks-bonds.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "Photos: When the World Cup came to town",
-      "url": "https://www.npr.org/sections/the-picture-show/2026/07/17/g-s1-133556/world-cup-watch-party-photos",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    },
-    {
-      "title": "SpaceX postponed a crucial launch \u2014 and now its stock is sliding further below the IPO price",
-      "url": "https://www.marketwatch.com/story/spacex-postponed-a-crucial-launch-now-its-stock-is-set-to-slide-even-further-below-the-ipo-price-143adfe0?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
-    }
-  ],
-  [
-    {
-      "title": "US lettuce supplier Taylor Farms to recall ingredients linked to parasite outbreak, Bloomberg News reports",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWktLMXhqdm1jU0Z4UVdKbWswc1hLbWxrQkdkeGFuT3Y5R29Ccm5fOXFseWVTak1ya3NkT0lFc0ZTRUFhamxUX0l1NkpqV0JFRXk4QVUxTkswaEFfYUVLcjU0eGk2SENmTkJRdXZhTGQtdkhkcHh3VXZoMHFvYlhsYlpaa25jOWQ4dWo0RHNxaTBIUnFfQkhpQkN3RjRDTHRITTR3VHEwV1oyandPZk5CNXVQVE1jcEFYLVZTSkpjZ0hLNEZOc3ZXQndPYVg3ekpORFlpeVhUTQ?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "Cyclosporiasis outbreak traced to lettuce from Mexico used by Taco Bell",
-      "url": "https://www.cbsnews.com/news/cyclosporiasis-outbreak-taco-bell-lettuce-mexico/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "Lettuce At Taco Bell In 5 States Confirmed As Source Of A Diarrhea-Causing Parasite Outbreak",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQzZ5aUpVM0laS016ZFEzaUJjWHpaamViNHAwRzBrMFBDRmRMT3VWTURRMVlDdG83X0NSYWw4RkZ1azNLV0s0NnNGVlNtUHh5emoxbER2TXJ0Snhlam9TdVFwYXlTNU9sQVk2M3EzNlVva0dMaDNYQkNWTnVjcDBQOWx5MHV6V0JISHZoeHJzRHXSAZYBQVVfeXFMTmQxYnEzT1pfWHNZdHZfcVRkeEdTaUVCZnZ6NDhWMU1keXM5TG1sTEdWS0t6OGRMOXFFQUs4Ul9kd21McTUyVFduMEx6YWJrWllJdURweUYzYU5PLW9iWmluWXJZVmZwbzRpNzR6b1JjUFAwQ1Rna0Z3QXhJdDh2YlBSVGE4dURMVXpSVjJHdU1OYW8xZmZn?oc=5",
-      "source": "HuffPost",
+      "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges",
+      "url": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html",
+      "source": "CNN",
       "bias": "left",
-      "domain": "huffpost.com"
+      "domain": "cnn.com"
     },
     {
-      "title": "Lettuce at Taco Bell in 5 states confirmed as a source of diarrhea-causing parasite",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMGRkT2laLXQ4SXI1cjFYeDBkOC04RmVieUZZVHljejdCM3RVWFBCSFJFU0Eya0REWjFMczBKT21RTUlEa3hVZkg2cDVrTmg4UEZOaVIyQlNPYUZmaFBrQWlYRFJUZk5KZmJYVUFfNHBKaDZyRHZCU3NaS0t3LVVMNGl6ZW8tSUR5LUY4VXN4VkIzVy1oRVRLQjUzMjI?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "Taylor Farms to recall produce that may be the cause of the cyclospora outbreak: report",
-      "url": "https://www.marketwatch.com/story/taylor-farms-to-recall-produce-that-may-be-the-cause-of-the-cyclospora-outbreak-report-e2c4cc0b?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
-    }
-  ],
-  [
-    {
-      "title": "AEW star Kenny Omega blasts social media user over Charlie Kirk comment",
-      "url": "https://www.foxnews.com/sports/aew-star-kenny-omega-blasts-social-media-user-charlie-kirk-comment",
+      "title": "Texas dentist accused of fatal mistakes after 4-year-old dies during dental procedure",
+      "url": "https://www.foxnews.com/us/texas-dentist-accused-fatal-mistakes-4-year-old-dies-dental-procedure",
       "source": "Fox News",
       "bias": "right",
       "domain": "foxnews.com"
     },
     {
-      "title": "Calling an American a \u2018Yank\u2019 at work in Scotland is racial harassment: court",
-      "url": "https://nypost.com/2026/07/17/us-news/calling-an-american-a-yank-at-work-in-scotland-is-racial-harassment-court/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "'The Odyssey' Cast Mercilessly Mocked Over Rap Summarizing the Film: 'Unbelievable Levels of Cringe'",
-      "url": "https://www.breitbart.com/entertainment/2026/07/17/the-odyssey-cast-mercilessly-mocked-over-rap-summarizing-the-film-unbelievable-levels-of-cringe/",
+      "title": "Elon Musk's SpaceX Scrubs Starship Test Flight Due to Engine Ignition Failure",
+      "url": "https://www.breitbart.com/tech/2026/07/17/elon-musks-spacex-scrubs-starship-test-flight-due-to-engine-ignition-failure/",
       "source": "Breitbart",
       "bias": "right",
       "domain": "breitbart.com"
@@ -277,50 +182,11 @@
   ],
   [
     {
-      "title": "Zelensky ousts popular defense minister, an architect of Ukraine\u2019s drone program",
-      "url": "https://www.washingtonpost.com/world/2026/07/16/zelensky-ousts-popular-defense-minister-an-architect-ukraines-drone-program/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
-    },
-    {
-      "title": "Ukrainians protest Zelenskyy\u2019s ouster of his popular defense minister",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORnYzOW5nRHgwakl3NXZGMXVna2ZFN21CaTM1LVpqNDQ4Q3NhSVBzMnZBX3AybWtfN3NmUWFZU0R4SFA0ek8wSDZTWTI1akhCV2dnNWxTb0plVkZ2RnhSRmFFNkVuSG9GOXhzWHhCcEdLRzhrRlUtcUlScFlLenRVQmtGSE9rVm9CdEpKdy1DamVvU2JHU2NIRV9OMnJWSGR0NENIeDFaNkVpeGlVNUJTRGs1RQ?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "Protests in Ukraine after Zelenskyy fires popular defense minister",
-      "url": "https://www.cbsnews.com/video/protests-in-ukraine-after-zelenskyy-fires-popular-defense-minister-fedorov/",
+      "title": "Strong earthquake hits Mexico-Guatemala border, tsunami alert lifted",
+      "url": "https://www.cbsnews.com/news/earthquake-mexico-guatemala-tsunami-alert/",
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"
-    }
-  ],
-  [
-    {
-      "title": "Man buried in NYC pauper\u2019s grave after hospital\u2019s \u2018careless\u2019 error left loved ones unable to find him: suit",
-      "url": "https://nypost.com/2026/07/17/us-news/hospital-spelling-error-sends-missing-man-to-hart-island-grave/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "A 13-year-old dies after participating in a Benadryl TikTok 'challenge'",
-      "url": "https://www.cnn.com/2023/04/18/us/benadryl-tiktok-challenge-teen-death-wellness/index.html",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
-    }
-  ],
-  [
-    {
-      "title": "Strong quake hits Mexican coast near Guatemala, triggers tsunami threat",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdHJ6aE83OVlCb0JKd0VjVGtyRDhVNFBabUQydmNHVVNSMVZPYjdBd0RMQnpKWHdsR3Y4SDJ1VVZwWHkxTVN3ZTY3Wjd5WURKTndxUDl4M1Y1bGNGcVR1eXJWekRmREczcE5aOTlBaGhINTlBSjI1bHgzYWlLNkNMSzZSWm5waXZTRGhtZ2tKUV9tek9lbVlFazlEQ1paZGtDaGZ3Q0VlWkVVMEU?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
     },
     {
       "title": "7.3 earthquake hits Mexico-Guatemala border with no immediate damage reported",
@@ -328,15 +194,22 @@
       "source": "ABC News",
       "bias": "center",
       "domain": "abcnews.go.com"
+    },
+    {
+      "title": "Strong quake off Mexican coast rattles Guatemala and El Salvador, but leaves no damage",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdHJ6aE83OVlCb0JKd0VjVGtyRDhVNFBabUQydmNHVVNSMVZPYjdBd0RMQnpKWHdsR3Y4SDJ1VVZwWHkxTVN3ZTY3Wjd5WURKTndxUDl4M1Y1bGNGcVR1eXJWekRmREczcE5aOTlBaGhINTlBSjI1bHgzYWlLNkNMSzZSWm5waXZTRGhtZ2tKUV9tek9lbVlFazlEQ1paZGtDaGZ3Q0VlWkVVMEU?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
     }
   ],
   [
     {
-      "title": "My Left Foot and Home Alone 2 actress Brenda Fricker dies at 81",
-      "url": "https://www.bbc.co.uk/news/articles/c0m70zremezo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
+      "title": "Brenda Fricker, Oscar-winning Irish actress, dies aged 81",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd2lONWZmSjE1OVlwUkxKcGM0X0R3NkZ5ZVJRNUFmTXBMdXI5UmdlS2Z4NnVCRGRVeUFVRnI1VDlsTnVwemtRblFvU1NtM0tKM2RRT0RQb0QtRzZnRjZhenZpdEJqM3ZtUl9ZdXVwMGR2eWFFRWhrcnU3NzVmbzZlNGZDUmxXMjJ4WGRpdFFMRklkNG84dks0aG13QUhuYVplY2Jz?oc=5",
+      "source": "Reuters",
       "bias": "center",
-      "domain": "bbc.com"
+      "domain": "reuters.com"
     },
     {
       "title": "Brenda Fricker, Oscar winner who played Pigeon Lady in \"Home Alone 2,\" dies",
@@ -344,6 +217,141 @@
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"
+    },
+    {
+      "title": "My Left Foot and Home Alone 2 actress Brenda Fricker dies at 81",
+      "url": "https://www.bbc.co.uk/news/articles/c0m70zremezo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    }
+  ],
+  [
+    {
+      "title": "Jamie Foxx remains hospitalized nearly a week after 'medical complication'",
+      "url": "https://www.cnn.com/2023/04/17/entertainment/jamie-foxx-remains-hospitalized/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
+    },
+    {
+      "title": "\u201890 Day Fianc\u00e9\u2019 star posts new photo of daughter in hospital as he gives hopeful update on medical emergency",
+      "url": "https://pagesix.com/2026/07/17/celebrity-news/90-day-fiance-star-armando-rubio-gives-update-on-daughter-hannah-in-hospital/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    }
+  ],
+  [
+    {
+      "title": "Jennifer Siebel Newsom dodges question on husband Gavin's presidential aspirations",
+      "url": "https://www.foxnews.com/media/jennifer-siebel-newsom-dodges-question-husband-gavins-presidential-aspirations",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Newsom's \"competitive bid\" #Diapergate deal wasn't. California's budget includes dozens of similar no-bid exemptions.",
+      "url": "https://www.cbsnews.com/news/california-diapergate-non-competitive-exemptions-buried-in-budget/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    }
+  ],
+  [
+    {
+      "title": "WATCH: Minnesota fraud scandal takes absurd new twist as veteran blows whistle",
+      "url": "https://www.foxnews.com/politics/minnesota-fraud-scandal-takes-absurd-new-twist-veteran-blows-whistle",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "WATCH:  What would happen if daylight saving time became permanent?",
+      "url": "https://abcnews.com/video/134852225/",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    }
+  ],
+  [
+    {
+      "title": "Meta, Anthropic in talks for potential $10 billion compute lease deal, NYT reports",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS2NqN2VtZFNDLWpDUGxnTXlpZmdWRmI3QlJyeTZSS2cwOEdyVEVGY0NGd3F4UGdqYkVoTjVaUWR0bzJVcW8yY0N1dG1zUnl0UUVDa2dKYVhKU2F5OWJPTWFfSGdZWlRfMjZZdEVxUTRiVDE1LXhMSjR0a0FOMFItVHA3V3FTYlVjU0Mzcy12VG9JbVlORGF2bXBFa1BIUjBNaHR6ZnBn?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Xi Jinping of China Pitches \u2018Openness\u2019 in Push to Shape the Path of A.I.",
+      "url": "https://www.nytimes.com/2026/07/17/business/xi-jinping-china-ai.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    }
+  ],
+  [
+    {
+      "title": "Apple unseats Nvidia to become world's most valuable company as AI bets shift",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ0dxV3BmWDRMVmZLTHI0bWpNR2hCVTVfdWloZGRCdnZxTUZNNnBQMGs1bm9oVGpiZVVtclBiNkIxQjF5NlFJY2JjalR4cTIyVEg1TVAycGZpakdXQUxZWEtZWEdMemFhVXFDX2RPX21HV05QMnpVU0REaFpOYjlUVVROV09RdFFURmdVS1FUeFRRcUtoZHdTd3ZKRjNjWVk?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Apple regains top spot as world\u2019s most valuable company",
+      "url": "https://www.aljazeera.com/economy/2026/7/17/apple-regains-top-spot-as-worlds-most-valuable-company?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    }
+  ],
+  [
+    {
+      "title": "Zoox recalls self-driving cars because they may not detect smoke",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd0xycFYzWjNSc1J6Vlg5RWViLXFGR0VYem5HYWphVnVURmtUWDZ4MVcyMDVKaFkzNndzWlhYTmczMHBIU1JqX0hralMwTl9PRURGcDJjbzBfSDFnM0IyaHotUWk4SWdGYTZGT2d4T1pEMmhja3A2NkpNRnhsRE05aXoxdnJMc0E4aml4dkk3VUdYNHctcDJKVFEtWUpIU3RmSzYtRW9ObGh3UQ?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Amazon\u2019s Zoox recalls self-driving vehicles amid emergency response issues",
+      "url": "https://www.aljazeera.com/news/2026/7/17/amazons-zoox-recalls-self-driving-vehicles-amid-emergency-response-issues?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    }
+  ],
+  [
+    {
+      "title": "The 'ultimate all-round sportsman' - Garfield Sobers could do it all",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/c2xx42dle4go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "All-time West Indies cricket great Garfield Sobers dies aged 89",
+      "url": "https://www.aljazeera.com/sports/2026/7/17/all-time-west-indies-cricket-great-garfield-sobers-dies-aged-89?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    }
+  ],
+  [
+    {
+      "title": "EU proposes slowing down cuts to carbon emissions for businesses",
+      "url": "https://www.bbc.co.uk/news/articles/ckgv0zd497zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "UK aid cuts \u2018reduce bilateral support to some African countries by 90%\u2019",
+      "url": "https://www.theguardian.com/politics/2026/jul/16/uk-aid-cuts-bilateral-support-african-countries",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
     }
   ],
   [
@@ -364,22 +372,6 @@
   ],
   [
     {
-      "title": "Pakistani forces kill 24 militants in border raids near Afghanistan",
-      "url": "https://www.npr.org/2026/07/17/g-s1-134175/pakistani-forces-kill-24-militants-in-border-raids-near-afghanistan",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    },
-    {
-      "title": "Israeli attacks on Gaza kill 14, including mourners attending funeral",
-      "url": "https://www.aljazeera.com/news/2026/7/17/israeli-attacks-on-gaza-kill-14-including-mourners-attending-funeral?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    }
-  ],
-  [
-    {
       "title": "After years of drone warfare, Ukraine is selling its \u2018blood experience\u2019 to allies",
       "url": "https://www.washingtonpost.com/world/2026/07/17/after-years-drone-warfare-ukraine-is-selling-its-blood-experience-allies/",
       "source": "Washington Post",
@@ -387,24 +379,8 @@
       "domain": "washingtonpost.com"
     },
     {
-      "title": "Ukraine \u2018cuts off\u2019 Crimea from Russia, plunging it into an energy crisis",
-      "url": "https://www.aljazeera.com/news/2026/7/17/ukraine-cuts-off-crimea-from-russia-plunging-it-into-an-energy-crisis?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    }
-  ],
-  [
-    {
-      "title": "Amazon sued after teen injured in school bus crash involving driver with history of drug use, violations",
-      "url": "https://nypost.com/2026/07/17/business/amazon-sued-after-teen-injured-in-school-bus-crash-involving-driver-with-history-of-drug-use-violations/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "Uganda school bus crash kills 20 children and 1 adult",
-      "url": "https://www.aljazeera.com/news/2026/7/17/uganda-school-bus-crash-kills-20-children-and-1-adult?traffic_source=rss",
+      "title": "Iranian forces: missiles and drones fired at US targets in Gulf States",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/iranian-forces-missiles-and-drones-fired-at-us-targets-in-gulf-states?traffic_source=rss",
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"

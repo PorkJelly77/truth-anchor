@@ -8,13 +8,6 @@
       "domain": "cnn.com"
     },
     {
-      "title": "Trump blames Canada for wildfire smoke, says he will add cost to tariffs",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdXUtel94MS1EWVNOZU1tWW12N1lUWjBTSVBmSTk3bnNGWUd5ellVbVBYZ09LdmozUjVxT0dWbUZkTXU1UEpucm5kblpRd1JQX1Q0NDhEbDZ0dFJUazhCcjlJemk2RHUtMU1PTkdpSHRyZmVJZ01ZTFNyZ1REQkpFc1JLcTUzM2VaaVJqSDdZblNuWjBJTV9tQnZnVG9NSTRHXzJFUHJB?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
       "title": "Air quality plummets in 20 US states as smoke from Canadian wildfires spreads",
       "url": "https://www.theguardian.com/us-news/2026/jul/16/smoke-canadian-wildfires-air-quality",
       "source": "The Guardian",
@@ -22,39 +15,25 @@
       "domain": "theguardian.com"
     },
     {
-      "title": "Wildfire smoke makes air unhealthy from the US Midwest to East Coast. Officials say stay inside",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd0hyQ29iWXhJWUVoSzJsMlgyQjA4SnMzN0tmb01EUlFOTUU3Nkl2eVQ0UEVjaU1lQXg4MVNfeTNGQ3BDbXdPWlhNanQxQnVZalk3emlXSkk0RHotTXFsYlMwa0VkNVRqRWxVZ2ZsN0o1QTZzSVNudEc5VUNBQ3Rtb18tVXpZSmRxOGRGZDZR?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
+      "title": "Most Forest Fires in Canada Are Simply Impossible to Put Out",
+      "url": "https://www.nytimes.com/2026/07/18/world/canada/wildfires-canada-fire-fighting.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
     },
     {
-      "title": "Poor air quality due to wildfires forces logisitcal changes at several MLB games, including postponement",
-      "url": "https://www.foxnews.com/sports/poor-air-quality-wildfires-forces-logistical-changes-several-mlb-games-including-postponement",
-      "source": "Fox News",
+      "title": "Michigan Congresswoman Announces Devastating Personal News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQb1hVU3NIVEd6ZzZSS1dHcXIzTDN2WWtLTmJLdEg0Ml9Qa3o5NEl6alBoVXR6akpfcGJDY3ZKMnZ5U3BVTG5jOXU5NnJVM19GZFdCWnl4aHk4SlRoMldidEVZakdtblM5WmR4U19RNXhiaFIxRmxYb0htZnB1clpuRWx4SU9BZjNoQm1kZXB2UTBmMjA?oc=5",
+      "source": "Daily Wire",
       "bias": "right",
-      "domain": "foxnews.com"
+      "domain": "dailywire.com"
     },
     {
-      "title": "Dark day for the UK as Andy Burnham doubles down on disaster",
-      "url": "https://nypost.com/2026/07/17/opinion/dark-day-for-the-uk-andy-burnham-doubles-down-on-disaster/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "Toxic wildfire smoke chokes major US cities: Latest",
-      "url": "https://abcnews.com/US/canada-wildfire-smoke-brings-unhealthy-air-quality-dozen/story?id=134845214",
+      "title": "Iran live updates: US launches more airstrikes on Iran for 7th night, CENTCOM says",
+      "url": "https://abcnews.com/International/live-updates/iran-live-updates-kuwait-reports-attacks-after-latest/?id=134704698",
       "source": "ABC News",
       "bias": "center",
       "domain": "abcnews.go.com"
-    },
-    {
-      "title": "Trump doubles down on stolen election claims, accuses China of meddling",
-      "url": "https://www.cbsnews.com/video/trump-doubles-down-on-stolen-election-claims/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
     },
     {
       "title": "Iran threatens region\u2019s infrastructure as U.S. strikes expand",
@@ -64,48 +43,122 @@
       "domain": "washingtonpost.com"
     },
     {
-      "title": "US launches seventh straight night of strikes on Iran",
-      "url": "https://www.aljazeera.com/news/2026/7/17/us-launches-seventh-straight-night-of-strikes-on-iran?traffic_source=rss",
+      "title": "3 islands help control access to the Strait of Hormuz. They\u2019re in the crosshairs of the Iran war",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX0dxUnpMQ3dvWjBrLUFIRFdwSzktYjU4TWdRT0hENTROVFhGQ0FESU9zRGlsc1BNZ3FJZTI4bTczLWJHcGoxZ2I1OGZObENrVWkxa185YVhIQjhqMEFKcGE1aTdPUzd0WFdGT1N2OEV5anB5YTRLdGd5bmltdklvLTI4TUdqMnVlNTJUcmJEUXRvMldlZk52R0pINHZKTHg2?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Ukrainian drone attacks on Russia kill at least 8, injure over 60",
+      "url": "https://www.cbsnews.com/news/ukraine-russia-war-drone-attacks-wildberries/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Ukrainian drone attacks kill seven warehouse workers in Russia, spark fire at Moscow region oil depot",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdy1tV0VCdllFYU1ydXJTWE1YbmM3TlZIYU5yLTZSQ243TVZacXFXc3lzVmxBMEtHNzJLS1RfWEk2bGViWHgxdVBaUjVjN0tZV1dDS1VXN3BvVTZsMW1PeENJbVNrOUZXVHY1UHUxLV9HVVlodFdhQnczQldxd0QtTWh1a2RwR3EteTVINHhfM0hpZlh2SGZyUS1RZlo1cDR6WXZlVHNDU0tHUEtsUFlwRkg5cGpJT2JrY09mQUZIalVfRmtG?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Ukrainian drone attacks on Russia kill at least 8, wound dozens",
+      "url": "https://www.aljazeera.com/news/2026/7/18/ukrainian-drone-attacks-on-russia-kill-at-least-8-wound-dozens?traffic_source=rss",
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
     },
     {
-      "title": "China signals possible return of U.S. trade privileges for Hong Kong",
-      "url": "https://www.npr.org/2026/07/17/g-s1-134269/china-signals-possible-return-of-u-s-trade-privileges-for-hong-kong",
+      "title": "Russian online retail warehouses hit by deadly Ukrainian strikes",
+      "url": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions",
+      "url": "https://www.npr.org/2026/07/18/nx-s1-5898963/8-killed-and-more-than-60-wounded-in-ukrainian-drone-attack-on-russian-regions",
       "source": "NPR",
       "bias": "left-center",
       "domain": "npr.org"
     },
     {
-      "title": "Nolte: \u2018The Odyssey\u2019 Opens to Massive $17.5 Million Thursday Night",
-      "url": "https://www.breitbart.com/entertainment/2026/07/17/nolte-the-odyssey-opens-to-massive-17-5-million-thursday-night/",
+      "title": "BetMGM bonus code NYPMAX1550: Get up to $1,550 in bonuses for World Cup third-place game",
+      "url": "https://nypost.com/2026/07/18/betting/betmgm-bonus-code-nypmax1550-get-up-to-1550-in-bonuses-for-world-cup-third-place-game/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
+      "title": "World Series champion Mookie Betts says athletes shouldn't be seen as political figures: 'We go out and play'",
+      "url": "https://www.foxnews.com/sports/world-series-champion-mookie-betts-athletes-political-figures-go-out-play",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Jim Jordan Warns Canada's Censorship Push Could Come for Americans Next",
+      "url": "https://www.breitbart.com/politics/2026/07/17/jim-jordan-canada-censorship-surveillance-americans/",
       "source": "Breitbart",
       "bias": "right",
       "domain": "breitbart.com"
-    },
-    {
-      "title": "Dozens of Wildfires Are Suddenly Burning in Oregon",
-      "url": "https://www.nytimes.com/2026/07/17/weather/oregon-wildfires-smoke-canada.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "The Trump Speech Republicans Are Pretending Didn\u2019t Happen",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLUFzMnBBNVZReXFTbkFfaVkxa3dIUWR6UXRoYlNvUlNwNEVxVTlDWDBrUU5XclUxQWdwbzdXc0RLaVhvZ0VuUU1mZ2pRaFBxUGVMMGJ3OF9OQndKRkZ4dGdBMF9VWG5yNnVGT0VQWThIa1lWZ2xQX245U1NZNlotck01UVowcUNVMU9ZeDZRS3FiZTY1NEdHbGxWRTVoRUNVRWFEStIBqgFBVV95cUxNQmlBRGV6elNiTWIyQUc2S21BYWRGbV9mZXFqcE1CcFl3Ulp4WGl1OGlMclFsWks3MHlyM2tXbWVpbmd4SVdudGtMWXoxTXdRSTlJck5IZWpQNlprRERieDRVQ3ZGWnZtdEdqVkNxTTctWnREMFdtQ0hHcWFLaG1iamlXUjdCVGU2eG9sd25LckRtdUN4dzVBbVRLVG5LTjliYjhfTGIwU0V4UQ?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
     }
   ],
   [
     {
-      "title": "Taylor Farms to recall iceberg lettuce that may be the cause of the cyclospora outbreak",
-      "url": "https://www.marketwatch.com/story/taylor-farms-to-recall-produce-that-may-be-the-cause-of-the-cyclospora-outbreak-report-e2c4cc0b?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
+      "title": "Incoming UK PM Andy Burnham rejects Thatcher-era policies, signals leftward shift",
+      "url": "https://www.foxnews.com/world/incoming-uk-pm-andy-burnham-rejects-thatcher-era-policies-signals-leftward-shift",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Andy Burnham is declared leader of UK\u2019s Labour Party, pledges to restore hope",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWU05U1otVzNHSXktaWJjX1BBYkdvQTRvb1B1bGZGUUVPcDhTYlA3alczTGszRlMxUi1GN09pbkE0Wjd0c19GbEpzaHRPUGc5a0FIZkRldVplV083LXdfcktDbHZzZk5yTVMwMXpaaU5TYkFTOUhKT2NwWlhMb1FpNTJteURBbGIxd3MzUHZwZUY5WUFhaDNJaTFzMUdvVzJN?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Burnham to announce plans for new North Sea oil and gas drilling",
+      "url": "https://www.bbc.co.uk/news/articles/c935yx2z9d4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    }
+  ],
+  [
+    {
+      "title": "Police shift fasting Indian activist to hospital against his will",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaG5mUHd5MG1YMndrXy15VXBUWVJKb01USzh0czVERjBmSXAteG5DeW4yV2xZVlpFX3EwT0pOWU9EV29GX2N6enc3WUZTNnlTbDNYajdHTldxRXR1SjU5UXJLdVJaTFlUcUhBUS0xNXBzWGxNMTRXN3l4ZUprT3ZlMGNXT2lWZldkWTc2Z2p1UDJ5SjdPQVRIdThXcDhnTGNGZ2lZQ1NR?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Indian police forcibly hospitalize a prominent Cockroach Party activist on hunger strike",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQTBCbG1NUHJfOEZtSWI3WGx3M2RuWDJHMjNsZDdwZ0YybW1yeWQ5QmFHTWtFcXhzWktqS2ZURGg1eDIzOXZXMWFGRTB5WVljWk1zc0ZQLTBsSHZnME81ZjhQelVzVV9ZLWllX1Y3RzVJWUNXR0dVNVVvNHpmcUYxM1ZmblR4Y1BPUnpSOG83OEd4OFEyZW1Qal9rdF9SSkt3Y0s1a0QyMlVWRWxueVNmV0d4SkFkWHM?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Indian police forcibly hospitalise activist after 20-day hunger strike",
+      "url": "https://www.aljazeera.com/news/2026/7/18/indian-police-forcibly-hospitalise-activist-after-20-day-hunger-strike?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    }
+  ],
+  [
+    {
+      "title": "Lettuce at Taco Bell in 5 states confirmed as a source of diarrhea-causing parasite",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMGRkT2laLXQ4SXI1cjFYeDBkOC04RmVieUZZVHljejdCM3RVWFBCSFJFU0Eya0REWjFMczBKT21RTUlEa3hVZkg2cDVrTmg4UEZOaVIyQlNPYUZmaFBrQWlYRFJUZk5KZmJYVUFfNHBKaDZyRHZCU3NaS0t3LVVMNGl6ZW8tSUR5LUY4VXN4VkIzVy1oRVRLQjUzMjI?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
     },
     {
       "title": "CDC and FDA link lettuce at Taco Bell in five states to cyclospora outbreak",
@@ -113,27 +166,6 @@
       "source": "The Guardian",
       "bias": "left-center",
       "domain": "theguardian.com"
-    },
-    {
-      "title": "Cyclosporiasis outbreak traced to lettuce from Mexico used by Taco Bell",
-      "url": "https://www.cbsnews.com/news/cyclosporiasis-outbreak-taco-bell-lettuce-mexico/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "What to know about Taylor Farms amid cyclosporiasis outbreak",
-      "url": "https://abcnews.com/GMA/News/taylor-farms-amid-cyclosporiasis-outbreak/story?id=134846473",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    },
-    {
-      "title": "Iceberg lettuce at Taco Bell linked to cyclospora outbreak in 5 states",
-      "url": "https://www.npr.org/2026/07/17/nx-s1-5897509/lettuce-taco-bell-mexico-cyclospora-outbreak",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
     },
     {
       "title": "Lettuce At Taco Bell In 5 States Confirmed As A Source Of Diarrhea-Causing Parasite",
@@ -145,36 +177,47 @@
   ],
   [
     {
-      "title": "White House defends Argentina team over Falklands banner",
-      "url": "https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
+      "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges",
+      "url": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
     },
     {
-      "title": "\u2018Malvinas are Argentinian\u2019: World Cup holders celebrate win over England with Falklands banner",
-      "url": "https://www.theguardian.com/football/2026/jul/15/malvinas-is-argentinian-world-cup-holders-celebrate-win-over-england-with-banner",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
+      "title": "Birth tourism crackdown expands as House chairman raises criminal conspiracy case",
+      "url": "https://www.foxnews.com/politics/birth-tourism-controversy-explodes-house-chairman-eyes-criminal-conspiracy-probe",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Florida man who allegedly lured women with dating app could have more victims: authorities",
+      "url": "https://www.foxnews.com/us/florida-man-allegedly-lured-women-dating-app-could-have-more-victims-authorities",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
     },
     {
-      "title": "Argentina takes on Spain in 2026 World Cup men's final",
-      "url": "https://www.cbsnews.com/video/argentina-takes-spain-2026-world-cup-mens-final/",
+      "title": "2 kidnapped Forest Service workers safe after being zip-tied, held at gunpoint",
+      "url": "https://www.cbsnews.com/news/us-forest-service-workers-kidnapped-california/",
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"
+    }
+  ],
+  [
+    {
+      "title": "India's Skyroot launches Vikram-1 in first private orbital rocket mission",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMUZqeXJNOXVSbW4yeUF2ZXdzY1Z4cWpPal9WRzI4RXYtYUdpR0s0WjdkNVZsRXpBMmFmRktTYTdDUE1CZG95dnQ3bkJLZzZDTlp6X05FVzBINmthbkhHaVhfUDRHTENxM2k1bzlvYjJ5aWU3TkljLWJNZVh0TXpPd3dIYlo5Qjg3bjAxZUdOelBXT0RwMWx4bmxxcUdTanpSRldzT2JFamRYcUhRcmVwVGtYTQ?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
     },
     {
-      "title": "Spain could make World Cup history: The first to win men's and women's trophies back-to-back",
-      "url": "https://www.npr.org/2026/07/17/g-s1-134232/spain-world-cup-history-women-men",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    },
-    {
-      "title": "Tackling Messi \u2018huge challenge\u2019 for Spain in World Cup final: Merino",
-      "url": "https://www.aljazeera.com/sports/2026/7/17/tackling-messi-huge-challenge-for-spain-in-world-cup-final-merino?traffic_source=rss",
+      "title": "India achieves milestone with launch of first private-sector orbital rocket",
+      "url": "https://www.aljazeera.com/news/2026/7/18/india-achieves-milestone-with-launch-of-first-private-sector-orbital-rocket?traffic_source=rss",
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
@@ -182,12 +225,21 @@
   ],
   [
     {
-      "title": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
+      "title": "Zohran Mamdani Knows He Has Political Capital. And He Intends to Spend It.",
+      "url": "https://www.nytimes.com/2026/07/18/magazine/zohran-mamdani-interview.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
     },
+    {
+      "title": "Mamdani in \u2018active conversation\u2019 about whether he can arrest Benjamin Netanyahu when Israel PM visits NYC",
+      "url": "https://nypost.com/2026/07/18/us-news/zohran-mamdani-in-talks-over-arresting-benjamin-netanyahu-when-israel-pm-visits-nyc/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    }
+  ],
+  [
     {
       "title": "Zelensky ousts popular defense minister, an architect of Ukraine\u2019s drone program",
       "url": "https://www.washingtonpost.com/world/2026/07/16/zelensky-ousts-popular-defense-minister-an-architect-ukraines-drone-program/",
@@ -205,98 +257,18 @@
   ],
   [
     {
-      "title": "Newly released video shows scene of Jeremy Renner's snowplow accident",
-      "url": "https://www.cnn.com/videos/us/2023/04/18/jeremy-renner-snowplow-accident-bodycam-nc-melas-contd-vpx.cnn",
-      "source": "CNN",
+      "title": "Hegseth announces new policy to test troops for low testosterone",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObTNKMkFpaHdHamw2cHlBYVk1ZUtPUF9rQ0NvUWJpR0U1VURBYmlKVjMwdGdJLWtZX0xfYXlrbDEyeV9ad0I5VTdfVHc0TEtNdEsyYWl3Wjg5QTFCd0dITUxBTldPSGtNTzVrVENxN3hFTWdzN0ctanF6SmVYS2JHdGVxQThsS01vYTlnMGF4aFJXRkZlcVdaWVlDbThqTzdhMWdNSDY5NA?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "\u2018The View\u2019 Reacts To Pete Hegseth\u2019s Testosterone Test Plan \u2014 And 1 Host Hits Below The Belt",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWmE0QkJQNUEwc1lGZUZ6a1l3cjRiX2ZoVDdrQ24ya0ptd0tGTy1CWFhtZHUzM1oteGlJQUJxUnk5a2t1X094SXFhYVFNSUlGQnliSGxYbUxtMWd1OXVhX1plZy1RNVUyVzV3aTJETG5hY19QdjBHTjY4aHd6NFZLMkt3UUJUa0NFVDRJQUFqckV1Tzlud0FfNGRBdGtxQdIBowFBVV95cUxQUXRDWWZabjFsRF9CRnRFdVJiYTdmdWpSSXFjQjgwSGpsUkdMSGJsVWxJRVBLZUNXRm5rRmJ4UWN4dHdZb3Y5X2xjWkhQd1pKMXpaQ2ZwMUU0anhuTVFJRjh0V0hDalVfNTFfWDdlTWdjdFZnZ01zMU5hVUFNbFhrZkFTN21KY2U5Z3FRX3RIdEtiOXozTDN2aXNlVFMtMG15bVFF?oc=5",
+      "source": "HuffPost",
       "bias": "left",
-      "domain": "cnn.com"
-    },
-    {
-      "title": "Teen brawl inside In-N-Out sends customers running during monsoon storm, video shows",
-      "url": "https://www.foxnews.com/us/teen-brawl-in-n-out-sends-customers-running-monsoon-storm-video-shows",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    }
-  ],
-  [
-    {
-      "title": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal",
-      "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "Meta, Anthropic in talks for potential $10 billion compute lease deal, source says",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS2NqN2VtZFNDLWpDUGxnTXlpZmdWRmI3QlJyeTZSS2cwOEdyVEVGY0NGd3F4UGdqYkVoTjVaUWR0bzJVcW8yY0N1dG1zUnl0UUVDa2dKYVhKU2F5OWJPTWFfSGdZWlRfMjZZdEVxUTRiVDE1LXhMSjR0a0FOMFItVHA3V3FTYlVjU0Mzcy12VG9JbVlORGF2bXBFa1BIUjBNaHR6ZnBn?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    }
-  ],
-  [
-    {
-      "title": "Magnitude 7.4 earthquake strikes Puerto Madero, Mexico, USGS says",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVExlaTA3d0tQOTlrdTNudjNYUlluQXVPNFFFRl9zMkFhYVJNbFgyT2NtY2p5S3RtNEJuQ3dTMmlHMzBtRXJQdUMyLV9SUm1XTlNQaDg4QmUxdVBKUnpGVWs4YTNiTDh0UFltMnV2ejRuMFJPcHhmQUZSRG5xMGJTVkhpcm84V05ya3g4YnRtNmhnQlhYX1FwbzZvUG9mZ2thVkdmVHV6UGZzdk5oaXlKYzdDakZ6ODk5dWFv?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "Strong earthquake hits Mexico-Guatemala border, tsunami alert lifted",
-      "url": "https://www.cbsnews.com/news/earthquake-mexico-guatemala-tsunami-alert/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    }
-  ],
-  [
-    {
-      "title": "EU proposes slowing down cuts to carbon emissions for businesses",
-      "url": "https://www.bbc.co.uk/news/articles/ckgv0zd497zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "UK aid cuts \u2018reduce bilateral support to some African countries by 90%\u2019",
-      "url": "https://www.theguardian.com/politics/2026/jul/16/uk-aid-cuts-bilateral-support-african-countries",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    }
-  ],
-  [
-    {
-      "title": "Stocks Sink on Anxiety About Tech and A.I. Spending",
-      "url": "https://www.nytimes.com/2026/07/17/business/stocks-ai-tech-wall-street.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "Meet Kimi K3, the newest Chinese AI model haunting Silicon Valley",
-      "url": "https://www.marketwatch.com/story/meet-kimi-k3-the-newest-chinese-ai-model-haunting-silicon-valley-755ed738?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
-    }
-  ],
-  [
-    {
-      "title": "LA\u2019s 100-year-old water mains are bursting \u2014 councilmember blames years of neglect",
-      "url": "https://nypost.com/2026/07/17/us-news/west-hollywood-water-main-break-exposes-las-aging-infrastructure/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "WATCH:  Water main break triggers sinkhole in West Hollywood",
-      "url": "https://abcnews.com/video/134843285/",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
+      "domain": "huffpost.com"
     }
   ]
 ]

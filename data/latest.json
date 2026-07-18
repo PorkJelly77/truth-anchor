@@ -1,39 +1,46 @@
 [
   [
     {
-      "title": "Millions in the US could face massive consequences unless McCarthy can navigate out of a debt trap he set for Biden",
-      "url": "https://www.cnn.com/2023/04/18/politics/mccarthy-biden-debt-ceiling/index.html",
+      "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
       "source": "CNN",
       "bias": "left",
       "domain": "cnn.com"
     },
     {
-      "title": "Air quality improving in northeast, while wildfire smoke hangs over midwest",
-      "url": "https://www.npr.org/2026/07/18/nx-s1-5899009/us-canada-wildfire-smoke",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
+      "title": "Michigan Congresswoman Announces Devastating Personal News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQb1hVU3NIVEd6ZzZSS1dHcXIzTDN2WWtLTmJLdEg0Ml9Qa3o5NEl6alBoVXR6akpfcGJDY3ZKMnZ5U3BVTG5jOXU5NnJVM19GZFdCWnl4aHk4SlRoMldidEVZakdtblM5WmR4U19RNXhiaFIxRmxYb0htZnB1clpuRWx4SU9BZjNoQm1kZXB2UTBmMjA?oc=5",
+      "source": "Daily Wire",
+      "bias": "right",
+      "domain": "dailywire.com"
     },
     {
-      "title": "Thunderstorms disrupt Spain and Argentina World Cup final training plans",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcllXN3YzeXo4YUFCdW1ESDRPdERuckZyZkEwSmoxR2NmQUlpb2Z4U2U1dXNGMmo1cDRobVRYWjhjNWxKUEExbTdRamtnNkF5SHMxdnBkbVl6OC1mYUhxal92OEhXRmtqYV8yT3NFazM0MS11MzBwbGJMUHpzS2U0ZmU2dmwwTDQweC1FcWZsSU9OYlU0ZUJISzlFd3BGcDJTUWQxTVpUQ2o0d3hrWlZXV2dPbUk3TlBP?oc=5",
-      "source": "Reuters",
+      "title": "New York Times Columnist Taunts 'Impotent' Trump In Takedown Of Election Speech",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcE02a25OZThiM21yRk9FNGZRYkRkRHNjTU5KQU1UZFNVQUxOS3ZiQlgyU3EzYU9aQUt5N2FYa0hXNW1xWkF0VkhGZW5JYzE1WlAybnRyaVY0QWE4ZG5QZTRKYnQyQkliSmpNdm9kMUw3dWt3R3RYRXphMlRFYjJNdE9tNElMNlVlcEtj0gGQAUFVX3lxTE4yc2lvMjg5OTVLYnMxMWMzeTlrbktpaVFEOW5XbVpqTkljZjRvYjMxV21BLVlEbWlqSzVCTnV3ZVlxRDZXb01zb0xySE93Ry1aZmdkd25CVlRQdnpTT0xmdzUwYks0Q3FKdlR1akRKVHFkX3AtWWhxa3AtUWVTSDE5bmtPZnYzcVM2Uy1kS19OcA?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    },
+    {
+      "title": "World Cup final tickets near $2.3m mark on FIFA\u2019s resale platform",
+      "url": "https://www.aljazeera.com/sports/2026/7/18/world-cup-final-tickets-near-2-3m-mark-on-fifas-resale-platform?traffic_source=rss",
+      "source": "Al Jazeera",
       "bias": "center",
-      "domain": "reuters.com"
+      "domain": "aljazeera.com"
     },
     {
-      "title": "Iran live updates: Iran says US violated MOU, says its suspending commitments",
+      "title": "Iran live updates: US launches airstrikes after deadly attack on troops in Jordan",
       "url": "https://abcnews.com/International/live-updates/iran-live-updates-kuwait-reports-attacks-after-latest/?id=134704698",
       "source": "ABC News",
       "bias": "center",
       "domain": "abcnews.go.com"
     },
     {
-      "title": "Cindy Burbank, Nebraska\u2019s Democratic Senate Nominee, Files to Withdraw From Race",
-      "url": "https://www.nytimes.com/2026/07/18/us/politics/nebraska-senate-race-democrat-withdraw.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
+      "title": "Furious Trump launches revenge attacks on Iran after Islamic Republic kills 2 American servicemembers",
+      "url": "https://nypost.com/2026/07/18/us-news/trump-mourns-death-of-american-soldiers-killed-by-iran/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
     },
     {
       "title": "Iran threatens region\u2019s infrastructure as U.S. strikes expand",
@@ -41,6 +48,13 @@
       "source": "Washington Post",
       "bias": "left-center",
       "domain": "washingtonpost.com"
+    },
+    {
+      "title": "U.S. launches 8th night of strikes on Iran after Iranian attack kills 2 U.S. soldiers",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-attacks-persian-gulf/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
     },
     {
       "title": "Two US troops killed and one missing after Iranian attack in Jordan",
@@ -57,13 +71,6 @@
       "domain": "apnews.com"
     },
     {
-      "title": "Why has the \u2018ceasefire\u2019 in Gaza failed to stop Israel\u2019s attacks?",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/7/18/why-has-the-ceasefire-in-gaza-failed-to-stop-israels-attacks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
       "title": "Nolte: \u2018The Odyssey\u2019 Launches Best Live-Action Opening of Year with $120M",
       "url": "https://www.breitbart.com/entertainment/2026/07/18/nolte-odyssey-launches-best-live-action-opening-year-120m/",
       "source": "Breitbart",
@@ -71,18 +78,18 @@
       "domain": "breitbart.com"
     },
     {
-      "title": "Canadian wildfire smoke ignites cross-border feud over Ottawa's 'willful negligence'",
-      "url": "https://www.foxnews.com/world/canadian-wildfire-smoke-ignites-cross-border-feud-over-ottawas-willful-negligence",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
+      "title": "Air quality improving in Northeast, while wildfire smoke hangs over Midwest",
+      "url": "https://www.npr.org/2026/07/18/nx-s1-5899009/us-canada-wildfire-smoke",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
     },
     {
-      "title": "Northeast, Mid-Atlantic under tornadoes and flood risk as wildfire smoke lingers",
-      "url": "https://www.cbsnews.com/news/severe-weather-wildfire-smoke-northeast/",
-      "source": "CBS News",
+      "title": "Why Jordan Is Becoming a New Focus in the U.S.-Iran War",
+      "url": "https://www.nytimes.com/2026/07/18/world/middleeast/iran-war-jordan-attacks.html",
+      "source": "New York Times",
       "bias": "left-center",
-      "domain": "cbsnews.com"
+      "domain": "nytimes.com"
     },
     {
       "title": "Uganda calls for travel restrictions to be lifted after last Ebola patient discharged",
@@ -92,50 +99,20 @@
       "domain": "theguardian.com"
     },
     {
-      "title": "RFK Jr. Claims Trump Has \u2018Encyclopedic Mind\u2019 After Heated Text Fight With Progressive Actor",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNM2N6V1dGbS0zb19IdGxibG5jMG5ibmhtSlZTMnBNWkcxbHB1U29CMm9kMldOT3QxWU00VlpORkhrNmk1UnVZZVdPQU5UZ0JhWFhIWVUzbUtSRnczdjNNSVIyVUNFR2V2Z1JrTjlKUXhoblNoQ2dmRUxsdmp6V1hKbFBMTV8xYkVSZUVHMjlqRG13aFdkT0drN0RKRUYxLThWMDlDbWdHbUdRQXkxSFI2LTkwMnltVHFheU81MlJYQdIBxAFBVV95cUxPOWhxZ3ZrQnc1MHkxRk1mYXJNZ01lZU9tUy01RGE4XzVqS1psSlZIMVBrLTh3S0FxQWhfZnBkNXY2XzN5Q2RodlNlSHZCY0VyZml5ekdaeGJQdVdNOGZPbDFlR0lCSVlSOGctNGpkYnNMNlowUUtTY1hLUm9Qcm1fYWozUWhRMFZtVERiRmJTZ09XZHFhS2czQTZwZjFoRTN4NUw2YkJvMmxrMHVNVVdMbGdnRG5Kb1NwYm1TTlAtWDhsODIz?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    },
-    {
-      "title": "Kevin Durant shockingly ignores Lionel Messi, Argentina soccer team at Fanatics Fest",
-      "url": "https://nypost.com/2026/07/18/sports/kevin-durant-snubs-lionel-messi-argentina-soccer-players-at-fanatics-fest/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    }
-  ],
-  [
-    {
-      "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
-      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
-    },
-    {
-      "title": "Australia updates travel advice for Laos as charges announced over mass methanol poisoning",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/17/distillery-owner-could-face-only-three-months-in-jail-over-alleged-poisoning-australian-teenagers",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    },
-    {
-      "title": "Michigan Congresswoman Announces Devastating Personal News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQb1hVU3NIVEd6ZzZSS1dHcXIzTDN2WWtLTmJLdEg0Ml9Qa3o5NEl6alBoVXR6akpfcGJDY3ZKMnZ5U3BVTG5jOXU5NnJVM19GZFdCWnl4aHk4SlRoMldidEVZakdtblM5WmR4U19RNXhiaFIxRmxYb0htZnB1clpuRWx4SU9BZjNoQm1kZXB2UTBmMjA?oc=5",
-      "source": "Daily Wire",
-      "bias": "right",
-      "domain": "dailywire.com"
-    }
-  ],
-  [
-    {
-      "title": "Britain's Kerr breaks 27-year mile world record in London",
-      "url": "https://www.bbc.co.uk/sport/athletics/articles/cx2jl1wge2po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
+      "title": "Next UK prime minister Andy Burnham drops digital ID scheme",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaGJLeDRDSGE0WjZOdlRMbmlmc0poc3lZWk1Ncm15azFtZDR4blhGSURIdFpQTHg0UHdIMjU5QjIwYkRrdHhDdnA4YVVTdmhlLThUbk5zUkVWQkx5a1BNcWZsaWFVLTR5dXNHT2hYbXFyVlJVLWc2TlY0Vm0tV0xBQm5wcEw5SUpDMGFsV0pvUEdqTzFnNUZHZHBCSjFKOVZOelRmd2xlVQ?oc=5",
+      "source": "Reuters",
       "bias": "center",
-      "domain": "bbc.com"
+      "domain": "reuters.com"
+    }
+  ],
+  [
+    {
+      "title": "Britain's Kerr smashes long-standing world mile record",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNXp5Tjk0QmhtSXBoYnNsYTl2bUlVTzdtSDVveWtwLTYwOEJDbzVWSG9XSExHS2hETUFqTnRmRW9ZMzE5ZFFsdUx3ZENDTXpCY3pTVE5pSi1SMjlPUTFUdW9HUnBreHozX2kwcFE4dlJHYTV5QldyV3E2bWphS096OU1QVWJtRHZuRlF0Q3hPMmthdzM2cUE?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
     },
     {
       "title": "Josh Kerr of Britain breaks 27-year-old world record in the mile",
@@ -150,22 +127,29 @@
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"
+    },
+    {
+      "title": "Britain's Kerr breaks 27-year mile world record in London",
+      "url": "https://www.bbc.co.uk/sport/athletics/articles/cx2jl1wge2po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
     }
   ],
   [
     {
-      "title": "Iran's Supreme Leader says US breaches show Trump's signature is 'worthless'",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdzdnRWcydkxHbFRjbEdiRnZnMUFwclQ1N3ZwZTVHbWRKMTFNb21ldHhfNDRBaFF1VmRoRHpUTFJlREVhc0MwZUExOUlxcWlvejU0X256Q2J4MzE0QTVaWG42WGpMS0NVcWNzOXJqX1RQRjh1czFncm1DM2ZfWm9xT0pkSWxLeDZ2ZU1mOE9KQy1JMGFyMlRCamNBSjVWNExTUkRTNXVvX0w1YWREaXJCMmNVUXVZR2oxVlBLd0lWdnB1WFUt?oc=5",
-      "source": "Reuters",
+      "title": "Why you should care about the third-place play-off",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cly5we2lgq4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "bias": "center",
-      "domain": "reuters.com"
+      "domain": "bbc.com"
     },
     {
-      "title": "Iran supreme leader warns of \u2018unforgettable lessons\u2019 if US attacks continue",
-      "url": "https://www.aljazeera.com/news/2026/7/18/iran-supreme-leader-warns-of-unforgettable-lessons-if-us-attacks-continue?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
+      "title": "Does a third-place game actually provide any consolation? It\u2019s complicated",
+      "url": "https://nypost.com/2026/07/18/sports/does-a-third-place-game-actually-provide-any-consolation/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
     }
   ],
   [
@@ -186,6 +170,22 @@
   ],
   [
     {
+      "title": "West Hollywood bookstore beloved by A-listers shares gut-wrenching update after water main break",
+      "url": "https://nypost.com/2026/07/18/us-news/book-soup-in-west-hollywood-closed-indefinitely-after-water-main-break/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
+      "title": "WATCH:  Water main break triggers sinkhole in West Hollywood",
+      "url": "https://abcnews.com/video/134843285/",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    }
+  ],
+  [
+    {
       "title": "AP Exclusive: ICE officer in Maine shooting has history of violent behavior, family and records say",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMWZZSmE5RWNWUzM2S3Exb2trNkFqQm9mQ3BubjB1dGxxV19mQXZpQlM2REg3S01uVjczUDFxVmhIcDFmX3lOQ3pEWDVXZVJSa1pqRlI3S21kZEczY084M0ZjYWlfbGl0Q2xtYXFteTVVSS0xZlYtYk9NTVllTm5nazVnSS1vSEFmNUp1bktXcXlaWXdXS0FOOS16bFk1RmRqR1p1MDVUSmliVHkycHE3Xw?oc=5",
       "source": "Associated Press",
@@ -202,22 +202,6 @@
   ],
   [
     {
-      "title": "Hegseth announces new policy to test troops for low testosterone",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObTNKMkFpaHdHamw2cHlBYVk1ZUtPUF9rQ0NvUWJpR0U1VURBYmlKVjMwdGdJLWtZX0xfYXlrbDEyeV9ad0I5VTdfVHc0TEtNdEsyYWl3Wjg5QTFCd0dITUxBTldPSGtNTzVrVENxN3hFTWdzN0ctanF6SmVYS2JHdGVxQThsS01vYTlnMGF4aFJXRkZlcVdaWVlDbThqTzdhMWdNSDY5NA?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "\u2018The View\u2019 Reacts To Pete Hegseth\u2019s Testosterone Test Plan \u2014 And 1 Host Hits Below The Belt",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWmE0QkJQNUEwc1lGZUZ6a1l3cjRiX2ZoVDdrQ24ya0ptd0tGTy1CWFhtZHUzM1oteGlJQUJxUnk5a2t1X094SXFhYVFNSUlGQnliSGxYbUxtMWd1OXVhX1plZy1RNVUyVzV3aTJETG5hY19QdjBHTjY4aHd6NFZLMkt3UUJUa0NFVDRJQUFqckV1Tzlud0FfNGRBdGtxQdIBowFBVV95cUxQUXRDWWZabjFsRF9CRnRFdVJiYTdmdWpSSXFjQjgwSGpsUkdMSGJsVWxJRVBLZUNXRm5rRmJ4UWN4dHdZb3Y5X2xjWkhQd1pKMXpaQ2ZwMUU0anhuTVFJRjh0V0hDalVfNTFfWDdlTWdjdFZnZ01zMU5hVUFNbFhrZkFTN21KY2U5Z3FRX3RIdEtiOXozTDN2aXNlVFMtMG15bVFF?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    }
-  ],
-  [
-    {
       "title": "Cuba edges toward breakdown as power cuts and US meddling push society to brink",
       "url": "https://www.theguardian.com/world/2026/jul/18/cuba-edges-toward-breakdown-as-power-cuts-and-us-meddling-push-society-to-brink",
       "source": "The Guardian",
@@ -230,6 +214,22 @@
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Taylor Farms pulls iceberg lettuce linked to cyclosporiasis outbreak",
+      "url": "https://www.cbsnews.com/news/taylor-farms-pulls-iceberg-lettuce/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Taylor Farms recalls lettuce in 27 states amid cyclosporiasis outbreak: What to know",
+      "url": "https://abcnews.com/GMA/News/taylor-farms-amid-cyclosporiasis-outbreak/story?id=134846473",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
     }
   ]
 ]

@@ -15,18 +15,32 @@
       "domain": "dailywire.com"
     },
     {
-      "title": "Why you should care about the third-place play-off",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cly5we2lgq4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
+      "title": "Wildfires Continue To Burn in Ontario, Canada, Sending Smoke to U.S. Cities",
+      "url": "https://www.nytimes.com/2026/07/18/world/canada/ontario-wildfires-smoke-thunder-bay-canada.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
     },
     {
-      "title": "Will smokey skies affect the much-anticipated World Cup Final in New Jersey?",
-      "url": "https://nypost.com/2026/07/18/us-news/will-smokey-skies-affect-the-much-anticipated-world-cup-final-in-new-jersey/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
+      "title": "Ontario premier says Trump's criticism of Canada's efforts to stop wildfires is 'absolutely unacceptable'",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdWRlX0x0cFY3NTVYVE1pbHVGQmZEYkVfLUtJZEZEamlnRk5HemRkckV5RjhRaUhoYVltcWRWcWZDZ2JyNUVFa3B2TW8welVMVFJiUkx4MDVLdlBpaUNNZUJlNGJkSDI4Q1JQcXJQZjFFcVA1N2V3TXJVWFFIc1M3TzdpWVRtcWI4M1ZiWHAyd3RER1I2UEN1U1hRM3dncnNCWjJkeWxlRzZValRldFNXb2FfbmFHMEFLWWpGUmxwVzJWUQ?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Air quality improving in northeast, while wildfire smoke hangs over midwest",
+      "url": "https://www.npr.org/2026/07/18/nx-s1-5899009/us-canada-wildfire-smoke",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "Air quality warnings remain in place across US as wildfire smoke continues to swathe country",
+      "url": "https://www.theguardian.com/world/2026/jul/18/air-quality-warnings-canada-wildfires",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
     },
     {
       "title": "Iran live updates: Iran says US violated MOU, says its suspending commitments",
@@ -36,13 +50,6 @@
       "domain": "abcnews.go.com"
     },
     {
-      "title": "3 islands help control access to the Strait of Hormuz. They\u2019re in the crosshairs of the Iran war",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX0dxUnpMQ3dvWjBrLUFIRFdwSzktYjU4TWdRT0hENTROVFhGQ0FESU9zRGlsc1BNZ3FJZTI4bTczLWJHcGoxZ2I1OGZObENrVWkxa185YVhIQjhqMEFKcGE1aTdPUzd0WFdGT1N2OEV5anB5YTRLdGd5bmltdklvLTI4TUdqMnVlNTJUcmJEUXRvMldlZk52R0pINHZKTHg2?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
       "title": "Iran threatens region\u2019s infrastructure as U.S. strikes expand",
       "url": "https://www.washingtonpost.com/world/2026/07/16/iran-threatens-regions-infrastructure-us-strikes-expand/",
       "source": "Washington Post",
@@ -50,25 +57,18 @@
       "domain": "washingtonpost.com"
     },
     {
-      "title": "8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions",
-      "url": "https://www.npr.org/2026/07/18/nx-s1-5898963/8-killed-and-more-than-60-wounded-in-ukrainian-drone-attack-on-russian-regions",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
+      "title": "3 islands help control access to the Strait of Hormuz. They\u2019re in the crosshairs of the Iran war",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX0dxUnpMQ3dvWjBrLUFIRFdwSzktYjU4TWdRT0hENTROVFhGQ0FESU9zRGlsc1BNZ3FJZTI4bTczLWJHcGoxZ2I1OGZObENrVWkxa185YVhIQjhqMEFKcGE1aTdPUzd0WFdGT1N2OEV5anB5YTRLdGd5bmltdklvLTI4TUdqMnVlNTJUcmJEUXRvMldlZk52R0pINHZKTHg2?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
     },
     {
-      "title": "Rep Ralph Norman enters South Carolina Senate race despite Trump's endorsement of Darline Graham",
-      "url": "https://www.foxnews.com/politics/rep-ralph-norman-enters-south-carolina-senate-race-despite-trumps-endorsement-tim-scott",
-      "source": "Fox News",
+      "title": "Nolte: \u2018The Odyssey\u2019 Launches Best Live-Action Opening of Year with $120M",
+      "url": "https://www.breitbart.com/entertainment/2026/07/18/nolte-odyssey-launches-best-live-action-opening-year-120m/",
+      "source": "Breitbart",
       "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "Uganda calls for travel restrictions to be lifted after last Ebola patient discharged",
-      "url": "https://www.theguardian.com/global-development/2026/jul/16/uganda-travel-restrictions-last-ebola-patient-discharged",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
+      "domain": "breitbart.com"
     },
     {
       "title": "Rapper Boosie Badazz Paid $600,000 To Get Trump To Pardon Him. It Didn't End Well.",
@@ -78,78 +78,39 @@
       "domain": "huffpost.com"
     },
     {
-      "title": "A Very British CPAC: Few, if Any, Costumes and Not Much Trump",
-      "url": "https://www.nytimes.com/2026/07/18/world/europe/cpac-great-britain-farage.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "Farage Warns Britain Set to Become 'Third-World Country' Under Establishment Uniparty Government",
-      "url": "https://www.breitbart.com/europe/2026/07/18/farage-warns-britain-will-become-a-third-world-country-under-establishment-uniparty-government/",
-      "source": "Breitbart",
+      "title": "Bengals\u2019 Dalton Risner, wife lose baby after 16 weeks in heartbreaking update",
+      "url": "https://nypost.com/2026/07/18/sports/bengals-dalton-risner-wife-lose-baby-after-16-weeks-in-heartbreaking-update/",
+      "source": "New York Post",
       "bias": "right",
-      "domain": "breitbart.com"
+      "domain": "nypost.com"
     },
     {
-      "title": "Plumes of smoke rise over Kuwait after repeated Iranian attacks",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/plumes-of-smoke-rise-over-kuwait-after-repeated-iranian-attacks?traffic_source=rss",
+      "title": "New York\u2019s Mamdani says looking into Netanyahu arrest during city visit",
+      "url": "https://www.aljazeera.com/news/2026/7/18/new-yorks-mamdani-says-looking-into-netanyahu-arrest-during-city-visit?traffic_source=rss",
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
     },
     {
-      "title": "Maps show wildfire smoke forecast, air quality alerts in swath of U.S.",
-      "url": "https://www.cbsnews.com/news/wildfires-smoke-millions-exposed-midwest-northeast-us/",
+      "title": "Why you should care about the third-place play-off",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cly5we2lgq4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "Canadian wildfire smoke ignites cross-border feud over Ottawa's 'willful negligence'",
+      "url": "https://www.foxnews.com/world/canadian-wildfire-smoke-ignites-cross-border-feud-over-ottawas-willful-negligence",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Northeast, Mid-Atlantic under tornadoes and flood risk as wildfire smoke lingers",
+      "url": "https://www.cbsnews.com/news/severe-weather-wildfire-smoke-northeast/",
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"
-    },
-    {
-      "title": "Canada prepares to evacuate Ontario community as wildfire smoke chokes US",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdWRlX0x0cFY3NTVYVE1pbHVGQmZEYkVfLUtJZEZEamlnRk5HemRkckV5RjhRaUhoYVltcWRWcWZDZ2JyNUVFa3B2TW8welVMVFJiUkx4MDVLdlBpaUNNZUJlNGJkSDI4Q1JQcXJQZjFFcVA1N2V3TXJVWFFIc1M3TzdpWVRtcWI4M1ZiWHAyd3RER1I2UEN1U1hRM3dncnNCWjJkeWxlRzZValRldFNXb2FfbmFHMEFLWWpGUmxwVzJWUQ?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    }
-  ],
-  [
-    {
-      "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges",
-      "url": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
-    },
-    {
-      "title": "ICE detention center employee arrested for shooting protester in Colorado",
-      "url": "https://www.cbsnews.com/video/ice-detention-center-employee-arrested-for-shooting-protester-in-colorado/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "Colorado ICE Detention Center Worker Arrested On Suspicion Of Shooting Protester",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcHRGTHZLb2RhclladVZpOEo2WVFCSkotZHJtTmxKQkFvYU5hOW93eXJPcE9rRUNPeENXMEZlaGpqa0pBMFFrc25IZG1QQmd6eC1CUWRMZE1YYzd2cktsSjZOQ09rQUtfSXFVTm1PaG95Y3RVSmMtbm5uSTVsdGFuQVY1Z0xrYVN4U2JmWVRzYXVmM0hkNXBQVnNJc2V3YWxQcjZ3QnRDZHkwU1lyUWM5cVF2WEMwVDItblZ1UHRfZXZBdUVzOWhybU9FWWp2Ti1yQTBpbtIB2gFBVV95cUxPeFJVdF9aWEN5cHN2Qkw5QS1sTG9HOWFXZExlV05uWjAxNXNuMUxFbTdFV29UcEJyWFM1YlJsclI3c0JyUTc1Mk45VlhzekowWFZmVlVaUGdYaEw1THBjT0QzVzJBYU4wSFkzeTBudnZEd3FNUnp0dXdnWW5sQzlMQU5fOE9zcXVNTzlqUTE5bkwtekE3MjRxRUwxdWhKamttRDZmMjY4R2p6OHEwcmsyZ3BDc2JGS0ZVS0RVd0VQVXhKbTYzN0tfdjhNanhwNHBaSUtVemZGSGUxZw?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    }
-  ],
-  [
-    {
-      "title": "China says it will take measures on UK's nationalisation of British Steel",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMHlTMmdjMVZFUTF5SFhUeGV1Tlp2b294MVdtNXg0Q3BSMnEtNEd0eF9TQmx6LWVEclNYc3NBNjYtbm9NT2VyVE1yMWZhZ0k2WGRFQXpjYzlsNEFuTC1tYVB4QjBHMjhVOVdJLTE0a2RtYjMza29jTWJBcnRsdUlnOWhrUTQyLVRkeGc4cU14YmhrX1praE9LQ0libUxwcEZPd1VhRHZwNmQwdHB0UU1LNnFhWXY?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "China warns UK over British Steel nationalisation, demands fair resolution",
-      "url": "https://www.aljazeera.com/news/2026/7/18/china-warns-uk-over-british-steel-nationalisation-demands-fair-resolution?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
     }
   ],
   [
@@ -170,18 +131,18 @@
   ],
   [
     {
-      "title": "Are you silently freaking out about retirement? It may not be as bad as you think.",
-      "url": "https://www.marketwatch.com/story/silently-freaking-out-about-retirement-why-it-may-not-be-as-bad-as-you-think-3175d0e1?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
+      "title": "Britain's Kerr breaks 27-year mile world record in London",
+      "url": "https://www.bbc.co.uk/sport/athletics/articles/cx2jl1wge2po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
     },
     {
-      "title": "D'oh! I can't believe I did that! Graceful ways to handle awkward moments",
-      "url": "https://www.npr.org/2026/07/18/nx-s1-5896217/how-to-respond-in-awkward-moments",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
+      "title": "UK\u2019s Josh Kerr smashes longstanding world mile record in London",
+      "url": "https://www.aljazeera.com/sports/2026/7/18/uks-josh-kerr-smashes-longstanding-world-mile-record-in-london?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
     }
   ],
   [
@@ -214,6 +175,22 @@
       "source": "HuffPost",
       "bias": "left",
       "domain": "huffpost.com"
+    }
+  ],
+  [
+    {
+      "title": "Cuba edges toward breakdown as power cuts and US meddling push society to brink",
+      "url": "https://www.theguardian.com/world/2026/jul/18/cuba-edges-toward-breakdown-as-power-cuts-and-us-meddling-push-society-to-brink",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "1 dead, 3 missing after boat sinks near Alcatraz Island in San Francisco Bay",
+      "url": "https://www.cbsnews.com/news/boat-rescue-alcatraz-island-san-francisco-bay/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
     }
   ]
 ]

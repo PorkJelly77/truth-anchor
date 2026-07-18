@@ -1,32 +1,11 @@
 [
   [
     {
-      "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
-      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+      "title": "Millions in the US could face massive consequences unless McCarthy can navigate out of a debt trap he set for Biden",
+      "url": "https://www.cnn.com/2023/04/18/politics/mccarthy-biden-debt-ceiling/index.html",
       "source": "CNN",
       "bias": "left",
       "domain": "cnn.com"
-    },
-    {
-      "title": "Michigan Congresswoman Announces Devastating Personal News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQb1hVU3NIVEd6ZzZSS1dHcXIzTDN2WWtLTmJLdEg0Ml9Qa3o5NEl6alBoVXR6akpfcGJDY3ZKMnZ5U3BVTG5jOXU5NnJVM19GZFdCWnl4aHk4SlRoMldidEVZakdtblM5WmR4U19RNXhiaFIxRmxYb0htZnB1clpuRWx4SU9BZjNoQm1kZXB2UTBmMjA?oc=5",
-      "source": "Daily Wire",
-      "bias": "right",
-      "domain": "dailywire.com"
-    },
-    {
-      "title": "Wildfires Continue To Burn in Ontario, Canada, Sending Smoke to U.S. Cities",
-      "url": "https://www.nytimes.com/2026/07/18/world/canada/ontario-wildfires-smoke-thunder-bay-canada.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "Ontario premier says Trump's criticism of Canada's efforts to stop wildfires is 'absolutely unacceptable'",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdWRlX0x0cFY3NTVYVE1pbHVGQmZEYkVfLUtJZEZEamlnRk5HemRkckV5RjhRaUhoYVltcWRWcWZDZ2JyNUVFa3B2TW8welVMVFJiUkx4MDVLdlBpaUNNZUJlNGJkSDI4Q1JQcXJQZjFFcVA1N2V3TXJVWFFIc1M3TzdpWVRtcWI4M1ZiWHAyd3RER1I2UEN1U1hRM3dncnNCWjJkeWxlRzZValRldFNXb2FfbmFHMEFLWWpGUmxwVzJWUQ?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
     },
     {
       "title": "Air quality improving in northeast, while wildfire smoke hangs over midwest",
@@ -36,11 +15,11 @@
       "domain": "npr.org"
     },
     {
-      "title": "Air quality warnings remain in place across US as wildfire smoke continues to swathe country",
-      "url": "https://www.theguardian.com/world/2026/jul/18/air-quality-warnings-canada-wildfires",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
+      "title": "Thunderstorms disrupt Spain and Argentina World Cup final training plans",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcllXN3YzeXo4YUFCdW1ESDRPdERuckZyZkEwSmoxR2NmQUlpb2Z4U2U1dXNGMmo1cDRobVRYWjhjNWxKUEExbTdRamtnNkF5SHMxdnBkbVl6OC1mYUhxal92OEhXRmtqYV8yT3NFazM0MS11MzBwbGJMUHpzS2U0ZmU2dmwwTDQweC1FcWZsSU9OYlU0ZUJISzlFd3BGcDJTUWQxTVpUQ2o0d3hrWlZXV2dPbUk3TlBP?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
     },
     {
       "title": "Iran live updates: Iran says US violated MOU, says its suspending commitments",
@@ -50,11 +29,25 @@
       "domain": "abcnews.go.com"
     },
     {
+      "title": "Cindy Burbank, Nebraska\u2019s Democratic Senate Nominee, Files to Withdraw From Race",
+      "url": "https://www.nytimes.com/2026/07/18/us/politics/nebraska-senate-race-democrat-withdraw.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
       "title": "Iran threatens region\u2019s infrastructure as U.S. strikes expand",
       "url": "https://www.washingtonpost.com/world/2026/07/16/iran-threatens-regions-infrastructure-us-strikes-expand/",
       "source": "Washington Post",
       "bias": "left-center",
       "domain": "washingtonpost.com"
+    },
+    {
+      "title": "Two US troops killed and one missing after Iranian attack in Jordan",
+      "url": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
     },
     {
       "title": "3 islands help control access to the Strait of Hormuz. They\u2019re in the crosshairs of the Iran war",
@@ -64,39 +57,18 @@
       "domain": "apnews.com"
     },
     {
-      "title": "Nolte: \u2018The Odyssey\u2019 Launches Best Live-Action Opening of Year with $120M",
-      "url": "https://www.breitbart.com/entertainment/2026/07/18/nolte-odyssey-launches-best-live-action-opening-year-120m/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
-    },
-    {
-      "title": "Rapper Boosie Badazz Paid $600,000 To Get Trump To Pardon Him. It Didn't End Well.",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZTNQOExmY2NWeG5CY3BCWmhTY3cxZHJYZjF4VG1WM0p4dmIxcGxaTFpRcnhSTjhna2kxSFNVU05CbTYxV1k2V0dXUmc0VGVDcVVTT3VGdmdnZldlV3NBVk42aUR5Q1hPQUJsSTlnYW5uaXQzT0dKWXFGb2dyWVp2eUxhT2IzVXM0RHlmMkd3MFdvcVdlQ2Y1b0pUMUJ0d3Ex0gGmAUFVX3lxTE1uVU1xSU1CZUVYSmotVWswanVuY1dTdmhDc05GdFM3S2dTR3VUS0dwT08yOGpUVW1nZmdVaFRJUEtybkllYVFzQ2RhWGtnTkU3WC01Y3RwYkx4czlORHFoclV1ODlLWW1XeFVQYjhBZjR3cU5Bc3VMNUx0X1NVMG1YUjgxWkphVFByQUtYREEtMmR1cmwyMGtCQXUtZ0ZBQnhhcDh4NXc?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    },
-    {
-      "title": "Bengals\u2019 Dalton Risner, wife lose baby after 16 weeks in heartbreaking update",
-      "url": "https://nypost.com/2026/07/18/sports/bengals-dalton-risner-wife-lose-baby-after-16-weeks-in-heartbreaking-update/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "New York\u2019s Mamdani says looking into Netanyahu arrest during city visit",
-      "url": "https://www.aljazeera.com/news/2026/7/18/new-yorks-mamdani-says-looking-into-netanyahu-arrest-during-city-visit?traffic_source=rss",
+      "title": "Why has the \u2018ceasefire\u2019 in Gaza failed to stop Israel\u2019s attacks?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/18/why-has-the-ceasefire-in-gaza-failed-to-stop-israels-attacks?traffic_source=rss",
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
     },
     {
-      "title": "Why you should care about the third-place play-off",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cly5we2lgq4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
+      "title": "Nolte: \u2018The Odyssey\u2019 Launches Best Live-Action Opening of Year with $120M",
+      "url": "https://www.breitbart.com/entertainment/2026/07/18/nolte-odyssey-launches-best-live-action-opening-year-120m/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
     },
     {
       "title": "Canadian wildfire smoke ignites cross-border feud over Ottawa's 'willful negligence'",
@@ -111,22 +83,50 @@
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"
+    },
+    {
+      "title": "Uganda calls for travel restrictions to be lifted after last Ebola patient discharged",
+      "url": "https://www.theguardian.com/global-development/2026/jul/16/uganda-travel-restrictions-last-ebola-patient-discharged",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "RFK Jr. Claims Trump Has \u2018Encyclopedic Mind\u2019 After Heated Text Fight With Progressive Actor",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNM2N6V1dGbS0zb19IdGxibG5jMG5ibmhtSlZTMnBNWkcxbHB1U29CMm9kMldOT3QxWU00VlpORkhrNmk1UnVZZVdPQU5UZ0JhWFhIWVUzbUtSRnczdjNNSVIyVUNFR2V2Z1JrTjlKUXhoblNoQ2dmRUxsdmp6V1hKbFBMTV8xYkVSZUVHMjlqRG13aFdkT0drN0RKRUYxLThWMDlDbWdHbUdRQXkxSFI2LTkwMnltVHFheU81MlJYQdIBxAFBVV95cUxPOWhxZ3ZrQnc1MHkxRk1mYXJNZ01lZU9tUy01RGE4XzVqS1psSlZIMVBrLTh3S0FxQWhfZnBkNXY2XzN5Q2RodlNlSHZCY0VyZml5ekdaeGJQdVdNOGZPbDFlR0lCSVlSOGctNGpkYnNMNlowUUtTY1hLUm9Qcm1fYWozUWhRMFZtVERiRmJTZ09XZHFhS2czQTZwZjFoRTN4NUw2YkJvMmxrMHVNVVdMbGdnRG5Kb1NwYm1TTlAtWDhsODIz?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    },
+    {
+      "title": "Kevin Durant shockingly ignores Lionel Messi, Argentina soccer team at Fanatics Fest",
+      "url": "https://nypost.com/2026/07/18/sports/kevin-durant-snubs-lionel-messi-argentina-soccer-players-at-fanatics-fest/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
     }
   ],
   [
     {
-      "title": "Burnham to announce plans for new North Sea oil and gas drilling",
-      "url": "https://www.bbc.co.uk/news/articles/c935yx2z9d4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
+      "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
     },
     {
-      "title": "Andy Burnham is declared leader of UK\u2019s Labour Party, pledges to restore hope",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWU05U1otVzNHSXktaWJjX1BBYkdvQTRvb1B1bGZGUUVPcDhTYlA3alczTGszRlMxUi1GN09pbkE0Wjd0c19GbEpzaHRPUGc5a0FIZkRldVplV083LXdfcktDbHZzZk5yTVMwMXpaaU5TYkFTOUhKT2NwWlhMb1FpNTJteURBbGIxd3MzUHZwZUY5WUFhaDNJaTFzMUdvVzJN?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
+      "title": "Australia updates travel advice for Laos as charges announced over mass methanol poisoning",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/17/distillery-owner-could-face-only-three-months-in-jail-over-alleged-poisoning-australian-teenagers",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "Michigan Congresswoman Announces Devastating Personal News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQb1hVU3NIVEd6ZzZSS1dHcXIzTDN2WWtLTmJLdEg0Ml9Qa3o5NEl6alBoVXR6akpfcGJDY3ZKMnZ5U3BVTG5jOXU5NnJVM19GZFdCWnl4aHk4SlRoMldidEVZakdtblM5WmR4U19RNXhiaFIxRmxYb0htZnB1clpuRWx4SU9BZjNoQm1kZXB2UTBmMjA?oc=5",
+      "source": "Daily Wire",
+      "bias": "right",
+      "domain": "dailywire.com"
     }
   ],
   [
@@ -138,8 +138,31 @@
       "domain": "bbc.com"
     },
     {
-      "title": "UK\u2019s Josh Kerr smashes longstanding world mile record in London",
-      "url": "https://www.aljazeera.com/sports/2026/7/18/uks-josh-kerr-smashes-longstanding-world-mile-record-in-london?traffic_source=rss",
+      "title": "Josh Kerr of Britain breaks 27-year-old world record in the mile",
+      "url": "https://www.npr.org/2026/07/18/nx-s1-5899057/josh-kerr-mile-world-record-time",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "Men's mile record broken for first time since 1999",
+      "url": "https://www.cbsnews.com/news/mens-mile-record-broken-first-time-since-1999-josh-kerr/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Iran's Supreme Leader says US breaches show Trump's signature is 'worthless'",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdzdnRWcydkxHbFRjbEdiRnZnMUFwclQ1N3ZwZTVHbWRKMTFNb21ldHhfNDRBaFF1VmRoRHpUTFJlREVhc0MwZUExOUlxcWlvejU0X256Q2J4MzE0QTVaWG42WGpMS0NVcWNzOXJqX1RQRjh1czFncm1DM2ZfWm9xT0pkSWxLeDZ2ZU1mOE9KQy1JMGFyMlRCamNBSjVWNExTUkRTNXVvX0w1YWREaXJCMmNVUXVZR2oxVlBLd0lWdnB1WFUt?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Iran supreme leader warns of \u2018unforgettable lessons\u2019 if US attacks continue",
+      "url": "https://www.aljazeera.com/news/2026/7/18/iran-supreme-leader-warns-of-unforgettable-lessons-if-us-attacks-continue?traffic_source=rss",
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
@@ -147,18 +170,34 @@
   ],
   [
     {
-      "title": "Zelensky ousts popular defense minister, an architect of Ukraine\u2019s drone program",
-      "url": "https://www.washingtonpost.com/world/2026/07/16/zelensky-ousts-popular-defense-minister-an-architect-ukraines-drone-program/",
-      "source": "Washington Post",
+      "title": "Boosie Lobbied for a Trump Pardon. It Never Came. He Wants a Refund.",
+      "url": "https://www.nytimes.com/2026/07/18/us/boosie-badazz-pardon-lawsuit.html",
+      "source": "New York Times",
       "bias": "left-center",
-      "domain": "washingtonpost.com"
+      "domain": "nytimes.com"
     },
     {
-      "title": "Ukrainians protest Zelenskyy\u2019s ouster of his popular defense minister",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORnYzOW5nRHgwakl3NXZGMXVna2ZFN21CaTM1LVpqNDQ4Q3NhSVBzMnZBX3AybWtfN3NmUWFZU0R4SFA0ek8wSDZTWTI1akhCV2dnNWxTb0plVkZ2RnhSRmFFNkVuSG9GOXhzWHhCcEdLRzhrRlUtcUlScFlLenRVQmtGSE9rVm9CdEpKdy1DamVvU2JHU2NIRV9OMnJWSGR0NENIeDFaNkVpeGlVNUJTRGs1RQ?oc=5",
+      "title": "Rapper Boosie Badazz Paid $600,000 To Get Trump To Pardon Him. It Didn't End Well.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZTNQOExmY2NWeG5CY3BCWmhTY3cxZHJYZjF4VG1WM0p4dmIxcGxaTFpRcnhSTjhna2kxSFNVU05CbTYxV1k2V0dXUmc0VGVDcVVTT3VGdmdnZldlV3NBVk42aUR5Q1hPQUJsSTlnYW5uaXQzT0dKWXFGb2dyWVp2eUxhT2IzVXM0RHlmMkd3MFdvcVdlQ2Y1b0pUMUJ0d3Ex0gGmAUFVX3lxTE1uVU1xSU1CZUVYSmotVWswanVuY1dTdmhDc05GdFM3S2dTR3VUS0dwT08yOGpUVW1nZmdVaFRJUEtybkllYVFzQ2RhWGtnTkU3WC01Y3RwYkx4czlORHFoclV1ODlLWW1XeFVQYjhBZjR3cU5Bc3VMNUx0X1NVMG1YUjgxWkphVFByQUtYREEtMmR1cmwyMGtCQXUtZ0ZBQnhhcDh4NXc?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    }
+  ],
+  [
+    {
+      "title": "AP Exclusive: ICE officer in Maine shooting has history of violent behavior, family and records say",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMWZZSmE5RWNWUzM2S3Exb2trNkFqQm9mQ3BubjB1dGxxV19mQXZpQlM2REg3S01uVjczUDFxVmhIcDFmX3lOQ3pEWDVXZVJSa1pqRlI3S21kZEczY084M0ZjYWlfbGl0Q2xtYXFteTVVSS0xZlYtYk9NTVllTm5nazVnSS1vSEFmNUp1bktXcXlaWXdXS0FOOS16bFk1RmRqR1p1MDVUSmliVHkycHE3Xw?oc=5",
       "source": "Associated Press",
       "bias": "center",
       "domain": "apnews.com"
+    },
+    {
+      "title": "ICE officer in Maine shooting has history of violent behavior, relatives say",
+      "url": "https://www.cbsnews.com/news/ice-shooting-maine-officer-history-violent-behavior/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
     }
   ],
   [

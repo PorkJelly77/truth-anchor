@@ -1,6 +1,164 @@
 [
   [
     {
+      "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges",
+      "url": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
+    },
+    {
+      "title": "US blitzes Iranian missile depots, air defenses on 8th consecutive night of strikes after two servicemembers killed in Jordan",
+      "url": "https://nypost.com/2026/07/19/world-news/us-blitzes-iranian-missile-depots-air-defenses-on-8th-consecutive-night-of-strikes-after-two-servicemembers-killed-in-jordan/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
+      "title": "Russia Batters Kyiv in Overnight Attack",
+      "url": "https://www.nytimes.com/2026/07/19/world/europe/russia-ukraine-strikes.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Deadly overnight Russian attack on Ukraine targets the capital",
+      "url": "https://www.npr.org/2026/07/19/nx-s1-5899518/russia-attack-kyiv",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "Russia launches major ballistic missile attack on Kyiv",
+      "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "Iran live updates: Kuwait, Bahrain report Iranian attacks following latest US strikes",
+      "url": "https://abcnews.com/International/live-updates/iran-live-updates-kuwait-reports-attacks-after-latest/?id=134704698",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    },
+    {
+      "title": "Iranian strike damages a Kuwait desalination plant, exposing water vulnerability in dry Mideast",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRGVJbndDX0t6eVRMcXVhUEtKLVlUYmJZeG5yYWNja0VPdU9nYTRuN25NeVRYcGNhaU5YT1poZW5LN2ZxUHRXaFhOZnp5Y2V6YnpUdWxaWUEyZlMzc2M0c1lIaUxIMmVpMkwza1NUSXAtbkhZNmYyekcxaFJTNmdTckhQamhyNHEyM2JickFyUFNMOVVLM1F5WVFkUlFmdHJIMVd3LWFJTmw?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Sick: Mamdani Coughs into Hand -- Standing Next to Mask-Wearing Activist",
+      "url": "https://www.breitbart.com/clips/2026/07/18/sick-mamdani-coughs-into-hand-standing-next-to-mask-wearing-activist/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
+    },
+    {
+      "title": "Lebanon's Aoun to meet Trump at White House, hoping to generate pressure on Israel",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOU4yVVlYeXdhdDFTY0pNZUZjSzRvWE1mWi1NcF9MVUI5Y3N3aTRrRzU2RnpCc2tzVV9LS21EQ1RPdUFDN0VnVURKZ0V5RTFScVUtTElSUlp3VU1xZE45UWY3ZmV6cnFmeEVFSE4yMEZ5UVFmVEFwczBtRzdoS3dyUGszV2V3anJEOTBOQ3l0bS16aU0zeU8tYUdwSzRBenlEZmVVT2oxNjZCU21mbkRzN1JIakN4UnoxRlpJWjVCNA?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "How to watch Argentina vs Spain: Live stream the 2026 FIFA World Cup final match",
+      "url": "https://www.foxnews.com/sports/how-watch-argentina-vs-spain-live-stream-2026-fifa-world-cup-final-match",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "A look back at the 2022 FIFA World Cup final",
+      "url": "https://www.cbsnews.com/news/revisiting-2022-world-cup-final-argentina-france/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Saka\u2019s Hat Trick Lifts England Past Mbapp\u00e9 And France 6-4 In Wild World Cup Third-Place Game",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdEJoUU1XQTVRdlBvT2NjWHNyOFpPTWtrMEJpakUzU0EzTTNmNEhrdnlUVmRlblNkTUlqZlhvZU96LWxIVE54ZWtyelZEY0VHVzB3bDdaNnlmSlFUeDh0ektRZzREdHl0Y2JFellaNTVYcWhPSmZ5VV9nSmpqcmd6RHZwQmtYYmJtcXfSAY8BQVVfeXFMUFcwSHkzMGdOT3kzQzcwUDZTNXhaN0hqZzlpNFFjMWZrUFhsZ3BfcW9CZGdKX05nRWxlOTV6LUNHSDZqZGo1emZzTEotYVNfMThDRThTTTlrcnFmVzZFcFlSeDJWbkcyTUYwcmQzVmJBa1hQM2x1c29Bdm5NX21rekVEWENPTkZKX20zSnlZQzg?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    },
+    {
+      "title": "World Cup 2026 final: Closing ceremony and half-time show \u2013 what to know",
+      "url": "https://www.aljazeera.com/sports/2026/7/19/world-cup-2026-final-closing-ceremony-and-half-time-show-what-to-know?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "Andy Burnham prepares to lead Britain \u2014 and face Trump",
+      "url": "https://www.washingtonpost.com/world/2026/07/19/andy-burnham-prepares-become-uk-prime-minister-deal-with-trump/",
+      "source": "Washington Post",
+      "bias": "left-center",
+      "domain": "washingtonpost.com"
+    },
+    {
+      "title": "UK aid cuts \u2018reduce bilateral support to some African countries by 90%\u2019",
+      "url": "https://www.theguardian.com/politics/2026/jul/16/uk-aid-cuts-bilateral-support-african-countries",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    }
+  ],
+  [
+    {
+      "title": "Andrew, Tristan Tate arrested in Miami as UK seeks extradition on expanded rape, trafficking charges",
+      "url": "https://www.foxnews.com/us/andrew-tristan-tate-arrested-miami-uk-seeks-extradition-expanded-rape-trafficking-charges",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "US Marshals arrest 'hypermasculine' social media stars Andrew and Tristan Tate, UK seeks extradition",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaWVrU0l3eHVCZkRkTjBUdmF1LW5OdTRDTl9wWHZEV1ZGQm9Ha0VsQVVzM2NnY1RZbzh4QUVrT3lVMmlHZjBEWFZYQllmeWVKWm5TVnRJNTVqVDJvOGJRMURxaEVSYzlLMVNTd3FtRDZZSVFUeWFWNFhmV1EyaFRyNWp1RHdXdzNIWWxneTJsZlY3M2oxZWI1MzlVSDhtQlliS1NoeUZZU0p6bWhPNHU4RzBFLUVvZU03ODllRg?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Andrew, Tristan Tate arrested in US after British prosecutors bring new charges",
+      "url": "https://abcnews.com/US/andrew-tristan-tate-arrested-miami-after-british-prosecutors/story?id=134883878",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    },
+    {
+      "title": "Tate brothers arrested in US as further UK charges take total to 59",
+      "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "Social media influencers Andrew and Tristan Tate arrested in Miami, US Marshals Service tells AP",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSlRKR0VSSTVCX0pVeXhoWlpNOVNsWXB3XzRSX3N4M3dFb1dkZDRtbFJHVDVxUHhWSHJicTRDMnp1SGhhSFRUZmtjeExvT0tUUEQwOUNMT081V1Zlc0NWWTBHMHJEVVQydjBaOU91ZmtSVFF5ekFoWmVmN1RnRHMzTk1PVkJ0bEM2ejh3cE0xSVozbmZXU0lzaDRHZ1pHbDNy?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Social Media Influencers Andrew And Tristan Tate Arrested In Miami, U.S. Marshals Service Tells AP",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS21OUE9EQm81R0YzQUZvN05tcTl3b3VNVXVDMzd1VGRlYjh1NmRTX2NQTTJ0MlVGYnJpVklMQUFvM1d1ZGFuSjYyVlFJb0tyLWZXdnVpa2RTYmQ3OEF3a1FDaHVpWXNWbTF2ZGhzeGc4bVlwNHh0VWlDLUJYbnZEZjZHdFQ3SnRfT2tJR9IBkgFBVV95cUxQT29kVGdQSUY4aC1DVUl5M1Z0dkFDS0wxZjNpZ0IzakpPTkUtTmZPU1hvYVNkS3laem9IQ3g4cjhvUHd6Y00wUWZKN0hMZ1lQRXBOdnlqQmZNSF96Vi1wVDR5ZHdxRmo4Y2FNR3RINmVqczV0QVFpa25vM2l6eDNWUmR0clB1OEVnVkp1b3FkMU5GUQ?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    },
+    {
+      "title": "The Tate brothers are arrested in Miami, U.S. Marshals Service tells AP",
+      "url": "https://www.npr.org/2026/07/18/g-s1-134475/tate-brothers-arrested-miami",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    }
+  ],
+  [
+    {
       "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
       "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
       "source": "CNN",
@@ -8,60 +166,43 @@
       "domain": "cnn.com"
     },
     {
+      "title": "Australia updates travel advice for Laos as charges announced over mass methanol poisoning",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/17/distillery-owner-could-face-only-three-months-in-jail-over-alleged-poisoning-australian-teenagers",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    },
+    {
       "title": "Michigan Congresswoman Announces Devastating Personal News",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQb1hVU3NIVEd6ZzZSS1dHcXIzTDN2WWtLTmJLdEg0Ml9Qa3o5NEl6alBoVXR6akpfcGJDY3ZKMnZ5U3BVTG5jOXU5NnJVM19GZFdCWnl4aHk4SlRoMldidEVZakdtblM5WmR4U19RNXhiaFIxRmxYb0htZnB1clpuRWx4SU9BZjNoQm1kZXB2UTBmMjA?oc=5",
       "source": "Daily Wire",
       "bias": "right",
       "domain": "dailywire.com"
-    },
+    }
+  ],
+  [
     {
-      "title": "New York Times Columnist Taunts 'Impotent' Trump In Takedown Of Election Speech",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcE02a25OZThiM21yRk9FNGZRYkRkRHNjTU5KQU1UZFNVQUxOS3ZiQlgyU3EzYU9aQUt5N2FYa0hXNW1xWkF0VkhGZW5JYzE1WlAybnRyaVY0QWE4ZG5QZTRKYnQyQkliSmpNdm9kMUw3dWt3R3RYRXphMlRFYjJNdE9tNElMNlVlcEtj0gGQAUFVX3lxTE4yc2lvMjg5OTVLYnMxMWMzeTlrbktpaVFEOW5XbVpqTkljZjRvYjMxV21BLVlEbWlqSzVCTnV3ZVlxRDZXb01zb0xySE93Ry1aZmdkd25CVlRQdnpTT0xmdzUwYks0Q3FKdlR1akRKVHFkX3AtWWhxa3AtUWVTSDE5bmtPZnYzcVM2Uy1kS19OcA?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    },
-    {
-      "title": "World Cup final tickets near $2.3m mark on FIFA\u2019s resale platform",
-      "url": "https://www.aljazeera.com/sports/2026/7/18/world-cup-final-tickets-near-2-3m-mark-on-fifas-resale-platform?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "Iran live updates: US launches airstrikes after deadly attack on troops in Jordan",
-      "url": "https://abcnews.com/International/live-updates/iran-live-updates-kuwait-reports-attacks-after-latest/?id=134704698",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    },
-    {
-      "title": "Furious Trump launches revenge attacks on Iran after Islamic Republic kills 2 American servicemembers",
-      "url": "https://nypost.com/2026/07/18/us-news/trump-mourns-death-of-american-soldiers-killed-by-iran/",
-      "source": "New York Post",
+      "title": "Mamdani doubles down on democratic socialism while insisting Wall Street, business leaders can work with him",
+      "url": "https://www.foxnews.com/politics/mamdani-doubles-down-democratic-socialism-insisting-wall-street-business-leaders-work-him",
+      "source": "Fox News",
       "bias": "right",
-      "domain": "nypost.com"
+      "domain": "foxnews.com"
     },
     {
-      "title": "Iran threatens region\u2019s infrastructure as U.S. strikes expand",
-      "url": "https://www.washingtonpost.com/world/2026/07/16/iran-threatens-regions-infrastructure-us-strikes-expand/",
-      "source": "Washington Post",
+      "title": "Black and Latino Leaders Ask: What Do Socialist Wins Mean for New York?",
+      "url": "https://www.nytimes.com/2026/07/19/nyregion/black-latino-leaders-dsa-nyc.html",
+      "source": "New York Times",
       "bias": "left-center",
-      "domain": "washingtonpost.com"
-    },
+      "domain": "nytimes.com"
+    }
+  ],
+  [
     {
-      "title": "U.S. launches 8th night of strikes on Iran after Iranian attack kills 2 U.S. soldiers",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-attacks-persian-gulf/",
-      "source": "CBS News",
+      "title": "A Modest Proposal for the Strait Dispute: A Shared Pact Among Gulf States",
+      "url": "https://www.nytimes.com/2026/07/19/world/middleeast/strait-hormuz-iran.html",
+      "source": "New York Times",
       "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "Two US troops killed and one missing after Iranian attack in Jordan",
-      "url": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
+      "domain": "nytimes.com"
     },
     {
       "title": "3 islands help control access to the Strait of Hormuz. They\u2019re in the crosshairs of the Iran war",
@@ -69,167 +210,22 @@
       "source": "Associated Press",
       "bias": "center",
       "domain": "apnews.com"
-    },
+    }
+  ],
+  [
     {
-      "title": "Nolte: \u2018The Odyssey\u2019 Launches Best Live-Action Opening of Year with $120M",
-      "url": "https://www.breitbart.com/entertainment/2026/07/18/nolte-odyssey-launches-best-live-action-opening-year-120m/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
-    },
-    {
-      "title": "Air quality improving in Northeast, while wildfire smoke hangs over Midwest",
-      "url": "https://www.npr.org/2026/07/18/nx-s1-5899009/us-canada-wildfire-smoke",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    },
-    {
-      "title": "Why Jordan Is Becoming a New Focus in the U.S.-Iran War",
-      "url": "https://www.nytimes.com/2026/07/18/world/middleeast/iran-war-jordan-attacks.html",
+      "title": "Vance Remarks on Epstein and Israel Echo Conspiracy Theories",
+      "url": "https://www.nytimes.com/2026/07/18/us/vances-epstein-israel-conspiracy-theories.html",
       "source": "New York Times",
       "bias": "left-center",
       "domain": "nytimes.com"
     },
     {
-      "title": "Uganda calls for travel restrictions to be lifted after last Ebola patient discharged",
-      "url": "https://www.theguardian.com/global-development/2026/jul/16/uganda-travel-restrictions-last-ebola-patient-discharged",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    },
-    {
-      "title": "Next UK prime minister Andy Burnham drops digital ID scheme",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaGJLeDRDSGE0WjZOdlRMbmlmc0poc3lZWk1Ncm15azFtZDR4blhGSURIdFpQTHg0UHdIMjU5QjIwYkRrdHhDdnA4YVVTdmhlLThUbk5zUkVWQkx5a1BNcWZsaWFVLTR5dXNHT2hYbXFyVlJVLWc2TlY0Vm0tV0xBQm5wcEw5SUpDMGFsV0pvUEdqTzFnNUZHZHBCSjFKOVZOelRmd2xlVQ?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    }
-  ],
-  [
-    {
-      "title": "Britain's Kerr smashes long-standing world mile record",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNXp5Tjk0QmhtSXBoYnNsYTl2bUlVTzdtSDVveWtwLTYwOEJDbzVWSG9XSExHS2hETUFqTnRmRW9ZMzE5ZFFsdUx3ZENDTXpCY3pTVE5pSi1SMjlPUTFUdW9HUnBreHozX2kwcFE4dlJHYTV5QldyV3E2bWphS096OU1QVWJtRHZuRlF0Q3hPMmthdzM2cUE?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "Josh Kerr of Britain breaks 27-year-old world record in the mile",
-      "url": "https://www.npr.org/2026/07/18/nx-s1-5899057/josh-kerr-mile-world-record-time",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    },
-    {
-      "title": "Men's mile record broken for first time since 1999",
-      "url": "https://www.cbsnews.com/news/mens-mile-record-broken-first-time-since-1999-josh-kerr/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "Britain's Kerr breaks 27-year mile world record in London",
-      "url": "https://www.bbc.co.uk/sport/athletics/articles/cx2jl1wge2po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    }
-  ],
-  [
-    {
-      "title": "Why you should care about the third-place play-off",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cly5we2lgq4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "Does a third-place game actually provide any consolation? It\u2019s complicated",
-      "url": "https://nypost.com/2026/07/18/sports/does-a-third-place-game-actually-provide-any-consolation/",
-      "source": "New York Post",
+      "title": "Vance Tells Joe Rogan Trump Team \u2018Mishandled\u2019 Epstein Case, Alleges Intel Ties",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZVU5ZENiVjVKM3lsQlU1NFdsYzVJdm1UaGJ0MFR3ZlcyMXRCakVCd3NBb0ZkTHRnUWYyWHl2WVU2VDhmb2h4SGV4U0g5Vk9QZ0dzZnNMYVdNOHc0dGNhUzY1ZzU1Z0ppYzFPSTI1Nkp1Q3pJYTh5NnZZZ0sybHJMbncyV1RQTlEzd2NIVTAyeEF3c3k1Q3Ayb3F2SkxvelplWTNKenZZS2dyZw?oc=5",
+      "source": "Daily Wire",
       "bias": "right",
-      "domain": "nypost.com"
-    }
-  ],
-  [
-    {
-      "title": "Boosie Lobbied for a Trump Pardon. It Never Came. He Wants a Refund.",
-      "url": "https://www.nytimes.com/2026/07/18/us/boosie-badazz-pardon-lawsuit.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "Rapper Boosie Badazz Paid $600,000 To Get Trump To Pardon Him. It Didn't End Well.",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZTNQOExmY2NWeG5CY3BCWmhTY3cxZHJYZjF4VG1WM0p4dmIxcGxaTFpRcnhSTjhna2kxSFNVU05CbTYxV1k2V0dXUmc0VGVDcVVTT3VGdmdnZldlV3NBVk42aUR5Q1hPQUJsSTlnYW5uaXQzT0dKWXFGb2dyWVp2eUxhT2IzVXM0RHlmMkd3MFdvcVdlQ2Y1b0pUMUJ0d3Ex0gGmAUFVX3lxTE1uVU1xSU1CZUVYSmotVWswanVuY1dTdmhDc05GdFM3S2dTR3VUS0dwT08yOGpUVW1nZmdVaFRJUEtybkllYVFzQ2RhWGtnTkU3WC01Y3RwYkx4czlORHFoclV1ODlLWW1XeFVQYjhBZjR3cU5Bc3VMNUx0X1NVMG1YUjgxWkphVFByQUtYREEtMmR1cmwyMGtCQXUtZ0ZBQnhhcDh4NXc?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    }
-  ],
-  [
-    {
-      "title": "West Hollywood bookstore beloved by A-listers shares gut-wrenching update after water main break",
-      "url": "https://nypost.com/2026/07/18/us-news/book-soup-in-west-hollywood-closed-indefinitely-after-water-main-break/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "WATCH:  Water main break triggers sinkhole in West Hollywood",
-      "url": "https://abcnews.com/video/134843285/",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    }
-  ],
-  [
-    {
-      "title": "AP Exclusive: ICE officer in Maine shooting has history of violent behavior, family and records say",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMWZZSmE5RWNWUzM2S3Exb2trNkFqQm9mQ3BubjB1dGxxV19mQXZpQlM2REg3S01uVjczUDFxVmhIcDFmX3lOQ3pEWDVXZVJSa1pqRlI3S21kZEczY084M0ZjYWlfbGl0Q2xtYXFteTVVSS0xZlYtYk9NTVllTm5nazVnSS1vSEFmNUp1bktXcXlaWXdXS0FOOS16bFk1RmRqR1p1MDVUSmliVHkycHE3Xw?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "ICE officer in Maine shooting has history of violent behavior, relatives say",
-      "url": "https://www.cbsnews.com/news/ice-shooting-maine-officer-history-violent-behavior/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    }
-  ],
-  [
-    {
-      "title": "Cuba edges toward breakdown as power cuts and US meddling push society to brink",
-      "url": "https://www.theguardian.com/world/2026/jul/18/cuba-edges-toward-breakdown-as-power-cuts-and-us-meddling-push-society-to-brink",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    },
-    {
-      "title": "1 dead, 3 missing after boat sinks near Alcatraz Island in San Francisco Bay",
-      "url": "https://www.cbsnews.com/news/boat-rescue-alcatraz-island-san-francisco-bay/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    }
-  ],
-  [
-    {
-      "title": "Taylor Farms pulls iceberg lettuce linked to cyclosporiasis outbreak",
-      "url": "https://www.cbsnews.com/news/taylor-farms-pulls-iceberg-lettuce/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "Taylor Farms recalls lettuce in 27 states amid cyclosporiasis outbreak: What to know",
-      "url": "https://abcnews.com/GMA/News/taylor-farms-amid-cyclosporiasis-outbreak/story?id=134846473",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
+      "domain": "dailywire.com"
     }
   ]
 ]

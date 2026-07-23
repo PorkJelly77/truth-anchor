@@ -1,32 +1,18 @@
 [
   [
     {
+      "title": "Millions in the US could face massive consequences unless McCarthy can navigate out of a debt trap he set for Biden",
+      "url": "https://www.cnn.com/2023/04/18/politics/mccarthy-biden-debt-ceiling/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
+    },
+    {
       "title": "Canada cancels joint bridge-opening celebration with US amid trade tensions",
       "url": "https://www.theguardian.com/us-news/2026/jul/21/gordie-howe-bridge-opening-celebration-canceled",
       "source": "The Guardian",
       "bias": "left-center",
       "domain": "theguardian.com"
-    },
-    {
-      "title": "The Treasury market touches a worrying milestone not seen since 2007",
-      "url": "https://www.marketwatch.com/story/the-treasury-market-is-on-the-verge-of-a-worrying-milestone-not-seen-since-2007-81158082?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
-    },
-    {
-      "title": "Hegseth estimates Iran war has cost $37.5 billion as he defends funding request at fiery hearing",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQVJsdVVWc2lUSjJITE9ZTGlTc3lROG83MjZFVm1Bb1R3VndpbWxyUTAtdGpITlFVYzZ6S1g3em4wbGxtS0d4VG1EdjVSYno0S3VYSF9VS01ROE91WF91Wjh6VzFsLUU4Y1VObEZsVGNrVzFLNm9HOTViMVZOR3JnZFEySmZINjBSWEstT3hRUnI1LVpkVXRRRVFVaG40R3lkbmdGX25n?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "House passes Pentagon funding bill and a blueprint to unlock new dollars for Iran war",
-      "url": "https://www.npr.org/2026/07/22/nx-s1-5903130/house-vote-iran-war-funding-reconciliation",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
     },
     {
       "title": "Trump Repeated This 1 Phrase As An Interview Grew More Tense \u2014 Experts Say It's A Power Move",
@@ -36,53 +22,11 @@
       "domain": "huffpost.com"
     },
     {
-      "title": "Caitlin Clark proves there's no NBA 2K27 cover curse as Fever set franchise scoring record",
-      "url": "https://www.foxnews.com/outkick-sports/caitlin-clark-proves-no-nba-2k27-cover-curse-fever-set-franchise-scoring-record",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "Caitlin Clark picks up seventh technical foul of season \u2014 and is one away from a suspension",
-      "url": "https://nypost.com/2026/07/22/sports/caitlin-clark-picks-up-seventh-technical-foul-of-season/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "Zelensky Talks Peace with Trump Envoys Witkoff and Kushner",
-      "url": "https://www.breitbart.com/politics/2026/07/22/zelensky-talks-peace-with-trump-envoys-witkoff-and-kushner/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
-    },
-    {
-      "title": "Why is Zelensky firing top leaders as Ukraine\u2019s outlook improves?",
-      "url": "https://www.washingtonpost.com/world/2026/07/22/why-is-zelensky-firing-top-leaders-ukraines-outlook-improves/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
-    },
-    {
-      "title": "House committee urges DOJ to charge former Trump prosecutor Jack Smith",
-      "url": "https://www.cbsnews.com/news/house-committee-jack-smith-criminal-referral-doj/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "'What was their crime?': BBC visits Iran school where strike killed 120 children",
-      "url": "https://www.bbc.co.uk/news/articles/cewrx0ldlkko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
+      "title": "Iran, Houthis strike tankers as US bombing continues: What\u2019s the latest?",
+      "url": "https://www.aljazeera.com/news/2026/7/23/iran-houthis-strike-tankers-as-us-bombing-continues-whats-the-latest?traffic_source=rss",
+      "source": "Al Jazeera",
       "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "A 13-year-old dies after participating in a Benadryl TikTok 'challenge'",
-      "url": "https://www.cnn.com/2023/04/18/us/benadryl-tiktok-challenge-teen-death-wellness/index.html",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
+      "domain": "aljazeera.com"
     },
     {
       "title": "Massachusetts House Passes Bill That Would Loosen Late-Term Abortion Rules",
@@ -92,25 +36,81 @@
       "domain": "nytimes.com"
     },
     {
-      "title": "House passes bill that would ban members from buying stock",
-      "url": "https://abcnews.com/Politics/house-passes-bill-ban-members-buying-stock/story?id=135001297",
+      "title": "LIVE:  ABC News Live",
+      "url": "https://abcnews.com/video/41463246/",
       "source": "ABC News",
       "bias": "center",
       "domain": "abcnews.go.com"
     },
     {
-      "title": "Saudi Arabia and US agree to landmark nuclear deal for civilian purposes",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/saudi-arabia-and-us-agree-to-landmark-nuclear-deal-for-civilian-purposes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
+      "title": "The bull market faces higher likelihood of a Fed rate hike as Iran crisis intensifies",
+      "url": "https://www.marketwatch.com/story/the-bull-market-faces-higher-likelihood-of-a-fed-rate-hike-as-iran-crisis-intensifies-58f268e8?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
     },
     {
-      "title": "US says it reaches nuclear power deal with Saudi Arabia",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVmNoNGFQY1hnSmFSaGF2eUNXYTdjYzIwdnNKTDF6cHVLeGg1UXdHYVk0UkhLUFVRYzF2LVVPc0toR2JzS2V2Q1BZR2JCcU1FUGFfTjFHU3ZzVlpZcUV2T09oaTZtdEp6cHdzZmdoQW1jckU3RjRZbnFfY1AxeTRpUXFRQXEyTV85ejNndHRTNFdJbHlNa2xDQkU3VEhkTUR0dXNrdHZmUGZUanl3N1d2aE1Ncw?oc=5",
+      "title": "US and Saudi Arabia sign new nuclear agreement that could pave way for kingdom to enrich uranium",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdDRmekNIWVdEU2pkNF83UDRQMVY2V2xlTkNHcTlvcURWRGlVZmhZbUdqbUVwWUYzbHUzMkg4US1FMS1XNUt0R2w2VGN2OXIxNFFxeWdXVDBoNFZHME1XZzI0bUJIakphQ1paM2FMeEFURDdUWmJKQW9JU1dPclU0aXVqTm81VG10WEpySXBTNGhJdVRzc1pvUlZnQnhOcmZTRkJVWA?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "US signs landmark nuclear deal with Saudi Arabia",
+      "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "'New York Times' alleges White House abuses legal system to intimidate reporters",
+      "url": "https://www.npr.org/2026/07/23/nx-s1-5903854/trump-new-air-force-one-nyt-subpoenas",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "House committee urges DOJ to charge former Trump prosecutor Jack Smith",
+      "url": "https://www.cbsnews.com/news/house-committee-jack-smith-criminal-referral-doj/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Zelensky Talks Peace with Trump Envoys Witkoff and Kushner",
+      "url": "https://www.breitbart.com/politics/2026/07/22/zelensky-talks-peace-with-trump-envoys-witkoff-and-kushner/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
+    },
+    {
+      "title": "Hasan Piker tells Mamdani to \u2018shut the f\u2014 up\u2019 over cautious messaging, claims mayor needs to be more \u2018bold\u2019",
+      "url": "https://nypost.com/2026/07/23/media/hasan-piker-tells-mamdani-to-shut-the-f-up-over-cautious-messaging-claims-mayor-needs-to-be-more-bold/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
+      "title": "Caitlin Clark proves there's no NBA 2K27 cover curse as Fever set franchise scoring record",
+      "url": "https://www.foxnews.com/outkick-sports/caitlin-clark-proves-no-nba-2k27-cover-curse-fever-set-franchise-scoring-record",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "EU envoys agree 21st sanctions package against Russia targeting banks",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbDk5Tmt4am9MUUVyY0V1RGRnbm5hbE5TcDJqTDJuRXlmaVpOdVJuN2VRYXIwaUwyRU9UdDN0b3N1eGMxS0NlelNjWmhqemJfN252N2QyVTBNSU9QSHcxbmwySkRnQk5XSDZLdXEwNEVTbEhmMDJNdFpuM2RvcjItMGJwVF9JMElIekt4TEtjSlF0dXBJMG5XUkw3ZHg1aVdRX2paMnRBdkFWcHlCbW5zU1NWWDRpazZtQjJfTWlQMnZ5cDN1dE5J?oc=5",
       "source": "Reuters",
       "bias": "center",
       "domain": "reuters.com"
+    },
+    {
+      "title": "Why is Zelensky firing top leaders as Ukraine\u2019s outlook improves?",
+      "url": "https://www.washingtonpost.com/world/2026/07/22/why-is-zelensky-firing-top-leaders-ukraines-outlook-improves/",
+      "source": "Washington Post",
+      "bias": "left-center",
+      "domain": "washingtonpost.com"
     }
   ],
   [
@@ -134,16 +134,16 @@
       "source": "Fox News",
       "bias": "right",
       "domain": "foxnews.com"
+    },
+    {
+      "title": "Long Island lunatic stabs beloved homeless man to death before leaving body on side of busy expressway: police",
+      "url": "https://nypost.com/2026/07/23/us-news/long-island-man-joseph-norton-charged-with-murder-after-chasing-down-beloved-homeless-man-timothy-stark-and-stabbing-him-to-death-off-lie/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
     }
   ],
   [
-    {
-      "title": "Firm hacked by rogue OpenAI models says it is 'a wake up call'",
-      "url": "https://www.bbc.co.uk/news/articles/cdrvy3pn3r0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
     {
       "title": "OpenAI blamed a hacking event on its AI models gone rogue. Here is what to know",
       "url": "https://www.npr.org/2026/07/23/g-s1-135085/openai-hacking-ai-models",
@@ -157,19 +157,10 @@
       "source": "ABC News",
       "bias": "center",
       "domain": "abcnews.go.com"
-    }
-  ],
-  [
-    {
-      "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
-      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
     },
     {
-      "title": "Judge approves a $1.5B Anthropic settlement over pirated books used to train the Claude chatbot",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYTZ6VGQyajZtTWlFeVhiZkpmTnFLSG5jbU1Gb2llZndJZjByTC01SjVLS1R0Z1FTSTRmeDM4VUJ0X1VIby10bVBNU2QtRHpoZFE5MFlPMG43aURMUjNvMEN4WkZsUXBZdFRlci12MTlqbkRJX0VtcW9paUFuc3N1YTR5bXlIUldYcE9QWmR2TkFyTkV3aFFUQXZXMUxJYUptQmwxdEpmU2NtdDBELWsxTnhR?oc=5",
+      "title": "OpenAI blamed a hacking event on its AI models going rogue. Here are some things to know",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN0ZGYzhuOEtIRWR3Qk12WWIxdWpvSlpqMTFHZktaT2lqRGYzOVJNT3pScks4a2x0N2pUTWdJYUtUQzZTOVpQMDE5SGRSLXRlOV9XcWZqdDVUQzdPTmxFVWZUVjZ5a2lFdFdWOWVrVjlRSXF0ZWNzcGwzWFRBSW5USUhLZDVoVmVTR2VTTjhaMlhhRi02SDdpOQ?oc=5",
       "source": "Associated Press",
       "bias": "center",
       "domain": "apnews.com"
@@ -177,34 +168,34 @@
   ],
   [
     {
-      "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges",
-      "url": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
+      "title": "Five security personnel killed in attack in Thailand's south",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeU5aLXdWekFjU1haYnkxWEY0LWlFLXQ2cllDaTJFZW5GOUFoNDE1Ny13bEpZUmdLYnpzSDM3NkMxLWRSWEdwUEc0dUlKdlp5c3lRSVVsZzdDNVY5Y25peEpWMW8xM2I4cVVycVNNWXY0LU1pcEF5S1czVmd2ZjdKOFVORFVyVDFSME1rSW5qcjJDY0VJSS1TdkZZNHlmUFBENGdzTzRyRnd1UmRZ?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
     },
     {
-      "title": "Rep. Ayanna Pressley speaks out after teen found shot dead at husband\u2019s Boston property",
-      "url": "https://nypost.com/2026/07/23/us-news/rep-ayanna-pressley-speaks-out-after-teen-found-shot-dead-at-husbands-boston-property/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
+      "title": "BBC visits Iran school where strike killed 120 children",
+      "url": "https://www.bbc.co.uk/news/articles/cewrx0ldlkko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
     }
   ],
   [
     {
-      "title": "Independent autopsy 'inconclusive' on cause of death for 18-year-old Nolan Wells in Mississippi",
-      "url": "https://www.npr.org/2026/07/22/nx-s1-5902909/independent-autopsy-inconclusive-on-cause-of-death-for-18-year-old-nolan-wells-in-mississippi",
-      "source": "NPR",
+      "title": "Former Head of All-Girls School Indicted, Accused of Ignoring Abuse Reports",
+      "url": "https://www.nytimes.com/2026/07/22/us/head-of-miss-halls-school-indicted.html",
+      "source": "New York Times",
       "bias": "left-center",
-      "domain": "npr.org"
+      "domain": "nytimes.com"
     },
     {
-      "title": "Independent autopsy of Nolan Wells finds \u2018undetermined\u2019 cause of death",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa3NjNHh0SFlFRTZaU0hrbWNwT2lJMjRxaHZvVkIxNTM3M0N1NGpYd2pxQTFlVlo1dm8tcklsa1pEYlpCd3IwQXVEYTJGNk5EV090aG02WmYxN1pldzBnTGIzZGxNU1duSWdmeDRUYTRXcl9VYW0wVkZhNEZKTVJGNUNGV2NuVGtQVEtLaDk3N3NGc0EwMnVTLWZkd3pZODlCU0o2WGNOS3VYdw?oc=5",
-      "source": "Associated Press",
+      "title": "WATCH:  David Muir shares elementary school students' surprise to teacher on wedding day",
+      "url": "https://abcnews.com/video/134966300/",
+      "source": "ABC News",
       "bias": "center",
-      "domain": "apnews.com"
+      "domain": "abcnews.go.com"
     }
   ],
   [
@@ -225,31 +216,15 @@
   ],
   [
     {
-      "title": "Death of Moroccan man in Italian police custody sparks protests, violence",
-      "url": "https://www.washingtonpost.com/world/2026/07/21/death-moroccan-man-italian-police-custody-sparks-protests-violence/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
-    },
-    {
-      "title": "Abderrahim Fakir\u2019s death has reignited Italy\u2019s police accountability debate",
-      "url": "https://www.aljazeera.com/news/2026/7/23/why-abderrahim-fakirs-death-reignited-italys-police-accountability-debate?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    }
-  ],
-  [
-    {
-      "title": "Israel building earthen barrier in Gaza to entrench division of the enclave",
-      "url": "https://www.aljazeera.com/news/2026/7/23/israel-building-earthen-barrier-in-gaza-to-entrench-division-of-the-enclave?traffic_source=rss",
+      "title": "Will the war on Iran affect ASEAN\u2019s efforts to tackle regional issues?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/23/will-the-war-on-iran-affect-aseans-efforts-to-tackle-regional-issues?traffic_source=rss",
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
     },
     {
-      "title": "Israel is building a miles-long earthen barrier inside Gaza, entrenching its division",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQnFjRG9PSm5GWnF5QTZ5WjJuaTVVYmRLanZNMElEUzZjT2xGSjJNZE5QS3hoRC1OMldqOVNWOTFWRkgxazY0NmNHN1FhX0RBV2ZNNHdJNk4wUUJBNHlySm83WkY1MUhZZ2NlS1JQU1dKUWh5VDZXRDd4eDVCYkZyVTh2SjJfNGMtc25zRk90R3ZKc3h1bTNJd1JWenM1UUl5QWpV?oc=5",
+      "title": "Southeast Asia\u2019s top diplomats hold security talks in Manila as US-Iran fighting rages",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQT2Jmd09QX1pBX2d0cExqNVg5MXZFNUpfQ2o2bmJIRGlPTmFoY2dkYXVIb2J1YTVvSXR0SjBBQzUyQk5KRVo5RXB5aXpXWkIyN25RS1lOa3RVOW9vQVphRzZuLWx3YTd1OW16NDNrUHFXQzhhanNmM0tUZkFleUU3NzN5bXlMSC1CLVFhRldYemM4aFNkVzBGVkxxcXFIU0RUaVBsSw?oc=5",
       "source": "Associated Press",
       "bias": "center",
       "domain": "apnews.com"
@@ -257,7 +232,23 @@
   ],
   [
     {
-      "title": "Tropical Storm Bertha makes landfall on Gulf Coast. See its path.",
+      "title": "A Pastor Asked ChatGPT For Medical Advice. It Didn\u2019t End Well.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU1RPZXZEYUV6eHpkel9Vd0o2RmFKVWUtVUQzLXdQQmkxc3p4Mmplc3J3WXRwTHU4bnBLSnE5VFVVMUtKY1JmTTQzdXoxSXQyUnpXZ2dqS3pfY1V4SXhJcVVQOVVHYzRxNVI3ZldEejkxem9OaWhLUlFQaDAyS2FJWkVZaFBXaUxzNXR4N2pxTERWS1I4?oc=5",
+      "source": "Daily Wire",
+      "bias": "right",
+      "domain": "dailywire.com"
+    },
+    {
+      "title": "Pastor sues OpenAI alleging ChatGPT's medical advice nearly killed him",
+      "url": "https://www.cbsnews.com/news/chatgpt-dangerous-medical-advice-openai-lawsuit/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Tropical Storm Bertha moves off Louisiana, heads for Texas. See its path.",
       "url": "https://www.cbsnews.com/news/tropical-storm-bertha-gulf-coast-maps-path/",
       "source": "CBS News",
       "bias": "left-center",

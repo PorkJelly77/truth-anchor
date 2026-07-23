@@ -1,67 +1,32 @@
 [
   [
     {
-      "title": "Millions in the US could face massive consequences unless McCarthy can navigate out of a debt trap he set for Biden",
-      "url": "https://www.cnn.com/2023/04/18/politics/mccarthy-biden-debt-ceiling/index.html",
+      "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
       "source": "CNN",
       "bias": "left",
       "domain": "cnn.com"
     },
     {
-      "title": "Global oil prices top $100 after Houthis claim strikes on Saudi Arabian tankers",
-      "url": "https://www.marketwatch.com/story/oil-nears-100-a-barrel-after-houthis-claim-strikes-on-saudi-arabian-tankers-4d9949c2?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
-    },
-    {
-      "title": "US energy shares gain as Houthi tanker attacks push Brent to $100",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZlRHcUR2VXh4anpDQXJzTGNBWm9WejRCbGI5bFQ5clg4R3BjQlF0a3FET3lDdGpMblZUajFaMmtWVjNLWDMwTWdYQ2xBbU1RaDdYeTB2QnZOZjRuc25ZZ2NuLXdUZ2hLZnp5SXZzSkRUNzB1MnpMNGZhWUFnOTk3Z1NDaF8zVXVsM0M1UDl6Wk0ySTJCUmxlNFl2eWdpRXd6d0dnaXQxTWhXc2xRdURr?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "House passes Iran war powers resolution as four Republicans join Dems to rebuke Trump",
-      "url": "https://nypost.com/2026/07/23/us-news/house-passes-iran-war-powers-resolution-as-four-republicans-join-dems-to-rebuke-trump/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "Republicans urge Justice Department to investigate former prosecutor Jack Smith",
-      "url": "https://www.npr.org/2026/07/23/g-s1-135121/republicans-justice-department-jack-smith",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    },
-    {
-      "title": "For South Korea, U.S.-Saudi Nuclear Deal Exposes a Double Standard",
-      "url": "https://www.nytimes.com/2026/07/23/world/asia/us-saudi-nuclear-deal-south-korea.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "Which Middle East nations have nuclear programmes, and how were they built?",
-      "url": "https://www.aljazeera.com/news/2026/7/23/which-middle-east-nations-have-nuclear-programmes-and-how-were-they-built?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "Zelensky Talks Peace with Trump Envoys Witkoff and Kushner",
-      "url": "https://www.breitbart.com/politics/2026/07/22/zelensky-talks-peace-with-trump-envoys-witkoff-and-kushner/",
+      "title": "Petition Calls on Burnham to Reinstate Margaret Thatcher Portrait to 10 Downing Street",
+      "url": "https://www.breitbart.com/europe/2026/07/23/petition-calls-on-burnham-to-reinstate-margaret-thatcher-portrait-to-10-downing-street/",
       "source": "Breitbart",
       "bias": "right",
       "domain": "breitbart.com"
     },
     {
-      "title": "Why is Zelensky firing top leaders as Ukraine\u2019s outlook improves?",
-      "url": "https://www.washingtonpost.com/world/2026/07/22/why-is-zelensky-firing-top-leaders-ukraines-outlook-improves/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
+      "title": "Lebanon Latest: President Aoun visits White House to discuss Hezbollah",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/lebanon-latest-president-aoun-visits-white-house-to-discuss-hezbollah-2?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "Global oil tops $100 after Houthis strike Saudi tankers and Trump threatens \u2018military punishment\u2019 on Iran",
+      "url": "https://www.marketwatch.com/story/oil-nears-100-a-barrel-after-houthis-claim-strikes-on-saudi-arabian-tankers-4d9949c2?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
     },
     {
       "title": "Trump threatens Iran and Houthis amid signs of U.S. military buildup",
@@ -71,11 +36,60 @@
       "domain": "cbsnews.com"
     },
     {
-      "title": "FIRST ON FOX: White House reveals who\u2019s joining Trump at correspondents\u2019 dinner \u2014 and who can\u2019t attend",
-      "url": "https://www.foxnews.com/politics/first-fox-white-house-reveals-whos-joining-trump-correspondents-dinner-who-cant-attend",
+      "title": "US House votes to halt Iran war, in another symbolic rebuke of Trump",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZUpXN3hsMGcyQU16bVZOVDBoaDBOZnoxQmtaei1FUkdrQ1p2VnJfaldQV3RxRUxZbFJSbU9IZzRvTHdYZVB1b2I4RV80aVAxNGJjRmFoZ2RmTTgxOXluWUdqclhVVUxYMlNrclV3NTNrV3hwQkd2YmNWN0hUS1U3c0V4aTZXcG1keVNKS2JVcU9zNTBVZmhsSVJsUlpzM1FKZGc4QzVWaFduYVpCcF9QMA?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Trump Prepares Yet Another Strategy to Resurrect Global Tariffs",
+      "url": "https://www.nytimes.com/2026/07/23/business/economy/trump-tariffs.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Canada cancels joint bridge-opening celebration with US amid trade tensions",
+      "url": "https://www.theguardian.com/us-news/2026/jul/21/gordie-howe-bridge-opening-celebration-canceled",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "Republicans fall in line with Trump on Iran war despite rising costs and US death toll",
+      "url": "https://www.foxnews.com/politics/republicans-fall-line-trump-iran-war-despite-rising-costs-us-death-toll",
       "source": "Fox News",
       "bias": "right",
       "domain": "foxnews.com"
+    },
+    {
+      "title": "Republicans urge Justice Department to investigate former prosecutor Jack Smith",
+      "url": "https://www.npr.org/2026/07/23/g-s1-135121/republicans-justice-department-jack-smith",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "House Republicans Refer Jack Smith To Justice Department For Prosecution",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVzAySzRXY0JRbzlYSWZpSWZPNUNUY01EZVVJMS1hMXBxQk1ENS1fSzJ0WGkxNVJmZlJtamRtZnh0SVQ3RllvNnUyZVdSUWQwcmIxZjRFQlV5NkJvd3c1ZGppbWx2eXZsSkdsWGZWS0ZTVUhvT2d2UFBzR3JwY3hKVU5OOGxTcmZhdUMxaVR1UnFObGls0gGaAUFVX3lxTE01WEFVTzdaeEkxSmRiM2s5N25aaXJjTlRyT3RUVzlGS0M0TGR3aFd6Tjl1VHgwNzdwenhrSmhxTFZ5M2FvYnY1eEV3NTd6UEZoMThCTEloaGRjS2xKTE5vaHhiaHhrbFdYVkl0eE0yN3pSUjhGN1hfeUh6QVBPODJuOGJlNVY3NDhwZnp6elFWUDFRVUFTYkJEa0E?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    },
+    {
+      "title": "Why is Zelensky firing top leaders as Ukraine\u2019s outlook improves?",
+      "url": "https://www.washingtonpost.com/world/2026/07/22/why-is-zelensky-firing-top-leaders-ukraines-outlook-improves/",
+      "source": "Washington Post",
+      "bias": "left-center",
+      "domain": "washingtonpost.com"
+    },
+    {
+      "title": "Saudis must recognise Israel for nuclear deal, says Trump",
+      "url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
     },
     {
       "title": "Independent autopsy of Nolan Wells finds \u2018undetermined\u2019 cause of death",
@@ -85,42 +99,69 @@
       "domain": "apnews.com"
     },
     {
-      "title": "Oil Hits $100 After Houthi Attack On Saudi Tankers Worsens Oil Supply Disruption",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNY0lMT3FDVWh4QWsybzhjd21vdlJmR2VCZURnZUY5UUlxNlgzUTNWQVVsRmVrX2xLOEJkVEVuY2h0U0hDLVVqWHBtdDNEMC13NGpvbkU4ak5VS0czLWZOQ0F0TEZ2SGFEX1JJRFZNS1JsdVczYWE3TmI4b2dlWVRVYjA1aWdxTFFuRnBtRFY3N25fOUY4cVFvNVJzY1B3UnPSAaQBQVVfeXFMTjU0Yl95ellPZHNiOHY4S2hDQmhwMk9FRUVjT243NENmdzJtRVdHYnZEUUR0TURkRzBRM3NmeXZfc0oyR0kxM2hUQWRNSExsbGs3bXduVDVSVFdvZjl2QTkxQjd5b2dnT1owTU1PdmdQaGE5bkhka2ZCYklFQkZQV3JkckhVeWFGZzdEeDB2NndCTGRLLU9CMTk2OW5uWHdxaHlKZlk?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
+      "title": "WATCH:  Women go online to share post-divorce glow-ups",
+      "url": "https://abcnews.com/video/134979351/",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    }
+  ],
+  [
+    {
+      "title": "Why I Sought Out a Taliban Commander I Had Fought",
+      "url": "https://www.nytimes.com/2026/07/23/world/asia/taliban-afghanistan-marine.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
     },
     {
-      "title": "Oil prices hit $100 for the first time since May",
-      "url": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
+      "title": "Total solar eclipse books out hotels two years in advance in New Zealand city",
+      "url": "https://www.theguardian.com/world/2026/jul/23/total-solar-eclipse-new-zealand-2028-dunedin",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "In a first, Chinese woman wins the prestigious Fields Medal",
+      "url": "https://www.npr.org/2026/07/23/g-s1-135032/in-a-first-chinese-woman-wins-the-prestigious-fields-medal",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    }
+  ],
+  [
+    {
+      "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQclM4V2JONWFuTXYzY1IyV29PSWlsVjRFMnF4SzhxNl83UHduNTZWVTRSLThVYkZJUFZCc1FLQTRoY3RJUHE0MFdUN0ZwelhkWFlGdFRBOUxRdkNtVkpJTGNkZTE5NmZfOUJkSWtSQnFKb2Q3ZjNvZ0NGYXY3MG96LVpCS1FvVXFmMDc3aU5tZFgwaDZTRW5XdGw1QkVnOTNvSUg2aHVVRFJNRHpDbHI3c1cybmpsTlp4NEh5b0tn?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Alphabet and Tesla shares plunge as runaway AI spending spooks investors",
+      "url": "https://nypost.com/2026/07/23/business/alphabet-and-tesla-shares-plunge-as-runaway-ai-spending-spooks-investors/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    }
+  ],
+  [
+    {
+      "title": "Gary Lineker among millionaires asking Andy Burnham to tax them more",
+      "url": "https://www.bbc.co.uk/news/articles/cvgjp79m42go?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "bias": "center",
       "domain": "bbc.com"
     },
     {
-      "title": "LIVE:  ABC News Live",
-      "url": "https://abcnews.com/video/41463246/",
-      "source": "ABC News",
+      "title": "More than 100 UK millionaires ask new PM Andy Burnham to tax them more",
+      "url": "https://www.aljazeera.com/news/2026/7/23/more-than-100-uk-millionaires-ask-new-pm-andy-burnham-to-tax-them-more?traffic_source=rss",
+      "source": "Al Jazeera",
       "bias": "center",
-      "domain": "abcnews.go.com"
-    },
-    {
-      "title": "Canada cancels joint bridge-opening celebration with US amid trade tensions",
-      "url": "https://www.theguardian.com/us-news/2026/jul/21/gordie-howe-bridge-opening-celebration-canceled",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
+      "domain": "aljazeera.com"
     }
   ],
   [
-    {
-      "title": "Google hit with $1 billion EU fine, in 'constructive' talks to avoid more penalties",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYkZ0Y296UnBOaHhsNXpXR29WRHJXSjJvOHFZYzBQSW04Z3FfZk9TcWU0Ty15TGEtUUZpeElDN0E5SmlpcV9GT0txMnBPV19HZkR5TDJEQ1NiX2VEcVB2UVY0c3FTZEZIRkRIODhwUVRrLTl0THB4U2R2QjhnekhtWDFkSk80ajd1a0VENUlSNW1ja09GeVpDc2N6b25GMG5tQVlMMw?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
     {
       "title": "Google Hit With $1 Billion Fine By EU Over Search Engine Practices",
       "url": "https://www.nytimes.com/2026/07/23/business/google-eu-fine-search-competition.html",
@@ -134,86 +175,19 @@
       "source": "HuffPost",
       "bias": "left",
       "domain": "huffpost.com"
-    },
-    {
-      "title": "EU hits Google with new $1bn fine, saying it broke digital antitrust rules",
-      "url": "https://www.aljazeera.com/news/2026/7/23/eu-hits-google-with-new-1bn-fine-saying-it-broke-digital-antitrust-rules?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "Google fined \u20ac890m by EU for favouring its own apps over rivals",
-      "url": "https://www.bbc.co.uk/news/articles/cevmenngkzpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
     }
   ],
   [
     {
-      "title": "Newly released video shows scene of Jeremy Renner's snowplow accident",
-      "url": "https://www.cnn.com/videos/us/2023/04/18/jeremy-renner-snowplow-accident-bodycam-nc-melas-contd-vpx.cnn",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
-    },
-    {
-      "title": "Bodycam shows Connecticut officer repeatedly ordering bat-wielding suspect to stop before fatal shooting",
-      "url": "https://www.foxnews.com/us/bodycam-shows-connecticut-officer-repeatedly-ordering-bat-wielding-suspect-stop-fatal-shooting",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "India: Leopard Bursts into Liquor Store, Attacks Employee",
-      "url": "https://www.breitbart.com/asia/2026/07/22/india-leopard-bursts-into-liquor-store-attacks-employee/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
-    }
-  ],
-  [
-    {
-      "title": "Why health officials do not have a good handle on the current Ebola outbreak",
-      "url": "https://www.npr.org/2026/07/23/g-s1-134959/ebola-outbreak-democratic-republic-congo",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    },
-    {
-      "title": "Health worker monitored for Ebola in London hospital after working in DRC",
-      "url": "https://www.theguardian.com/world/2026/jul/21/health-worker-being-monitored-for-ebola-in-london-hospital-after-working-in-drc",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    },
-    {
-      "title": "Ebola death toll in DR Congo surpasses 1,000",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/ebola-death-toll-in-dr-congo-surpasses-1000?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "OpenAI blamed a hacking event on its AI models going rogue. Here are some things to know",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN0ZGYzhuOEtIRWR3Qk12WWIxdWpvSlpqMTFHZktaT2lqRGYzOVJNT3pScks4a2x0N2pUTWdJYUtUQzZTOVpQMDE5SGRSLXRlOV9XcWZqdDVUQzdPTmxFVWZUVjZ5a2lFdFdWOWVrVjlRSXF0ZWNzcGwzWFRBSW5USUhLZDVoVmVTR2VTTjhaMlhhRi02SDdpOQ?oc=5",
+      "source": "Associated Press",
       "bias": "center",
-      "domain": "aljazeera.com"
-    }
-  ],
-  [
-    {
-      "title": "Secret Service suspends agent accused of leaking JD Vance\u2019s travel details",
-      "url": "https://nypost.com/2026/07/23/us-news/secret-service-suspends-agent-accused-of-leaking-jd-vances-travel-details/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
+      "domain": "apnews.com"
     },
     {
-      "title": "Member of Vance's Secret Service detail under investigation for leaking",
-      "url": "https://www.cbsnews.com/news/jd-vance-secret-service-detail-leak-investigation/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "Member of Vance's protective detail subject of investigation, Secret Service says",
-      "url": "https://abcnews.com/Politics/member-vances-protective-detail-subject-investigation-secret-service/story?id=135019453",
+      "title": "WATCH:  OpenAI says AI models went rogue during testing, triggering 'unprecedented' breach",
+      "url": "https://abcnews.com/video/134998285/",
       "source": "ABC News",
       "bias": "center",
       "domain": "abcnews.go.com"
@@ -221,50 +195,34 @@
   ],
   [
     {
-      "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
-      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
-    },
-    {
-      "title": "Judge questions difference between Hegseth's testosterone policy and transgender care for troops",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORGRnZTNVTkRXOVQtU1ZVaFhVVm5jZk1PcWxWeFZ1am42UEtITzMzS2FoUjRlbkVpNU5MVlY2T3hMS013SXdmUXpBYjVyT3NZUm1WOVZoNlh6dks1cFluYkFKTFo1YUtqNVJsMXh2XzJCd0lDTm10WW5XbDNFaGlKMzdEVjVSTnNaZnZiaFU0bVYxbWdOdnBjTTJVVUxVaXlIejJObWp0N3VVZUwtMVRESUZ4NExzSWlsQ1NBTXUxZGE?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    }
-  ],
-  [
-    {
-      "title": "How are companies, governments responding to the OpenAI hack?",
-      "url": "https://www.aljazeera.com/news/2026/7/23/how-are-companies-governments-responding-to-the-openai-hack?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "OpenAI says its AI technology acted on its own in an 'unprecedented' hack of another company",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWGF1TU12c0lBby0xOWkwb3VudWxHZXgxVHJ2REdXZV8tQW11RmZYMEVNVnVrMW1SY1NMTzA1aDN0ZFp1cjVTYlk0S0lVcnZES0tiOVgzV3ZaaDFKSllERVhWTFlaV0pyWk9UMGxkTHRhUmFNTzJkYXJnbjNOZmg4UHIyeWk4Q0NRUHQwZjNnclZLTXc?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    }
-  ],
-  [
-    {
-      "title": "Amish Shah wins Democratic congressional primary in Arizona, a blow to the party establishment",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUkpzSEhsbUE1cDB2WkpvZlp2QjN2V2FPSFQyTFJHUmNheldVS050ZmZPRlVVay0yVmRtcWNXZEtpNmVoSElZRllZQzhta3AwSVZpNG9SQ0dkN056TkpIX0FGSEE0RTQ3MnVBMHREMllmVXRxUDU5T3BRdk5lY1c5Qk1aM0NNWEFjMUh3aDBvRktUcXNnMXFmXy0zM0FVbWxQaENQeXRB?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "Amish Shah Wins Democratic Primary In Arizona",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMlhaMUlzM19PbmNfZndyRjc1c2tXaVhNUndybFg4ZjZwRzZfbkNqelVkeXlyaDg1dXBxYTIzd1lDbWozTDNTMkhPOHJOUzlETGJ4ZTZ6bFNjcExjZGZDZ2JEdmpnSVBmQjR6dTR3amw0WjZYdUNqbFdlOUNCclZyRU9SWnYzTlBubEZIYXFiT05peTNiZms4Wjl6ZHNRNmpCWV9GR3NYY2dUcDVVLUlWS3JvbW02Z9IBuwFBVV95cUxNVEloZWF6MmJEaDA2ejZTaEE2RGxuRldtMHh6SmFmQ2xwWFJnTjB5VWNSem9LenFnNjduRmlWeDBNc3JEN3R1UWxEeDRrYmtlZHFmRjNwSVFwajJqUGJ2XzhSLWkxNklGZFJGcVdRMy0xRGgyXzQyQzNkSF9QYVlRaFZGQXlkV2F2eUFsN1FlaVB5a2U3dVlJWWJuZGhoRGE2Q3ZFQ09ZUV9qR0pGWHo1TDA4V3c2TVh6aWxr?oc=5",
+      "title": "Tropical Storm Bertha Makes Landfall In Louisiana And Moves Toward Texas",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWFBkN0dvOTJBOGlsYndIMFE2a2RUU094NHZES0RiZU9HaTY0Mk9IZUNCYndPRWd1ZEU1c2EydzNuRDFlYkNVS1pMZ09qS0s4QVp4aGFhZWtrdnBYeWJIMFlKWWpJQ0NsVlZYRm1rS2lLM3l6U1dBSHliZDZUT3lweTNUSzhZTExocnFmOUxHOWNhNUg4b1FF0gGcAUFVX3lxTE11ZVBHU2FEWUFKUmFwX2djTG8tUGJsbEdUUEpkekZwdkdJVjM4UEN2LVhGT2pud1JtQTVVelRDT2hUMDg0RUFibFZMcTQ0UGp0d0huUnFKTGJKd2FPN3RQQm52dGpiZDRBSlBLLXUzTEp3SXVEU05OamQ1UHNPRm5WeG9fTjRaYlBGWXhUVTV1dGhBZG9YbkZOSGxWcg?oc=5",
       "source": "HuffPost",
       "bias": "left",
       "domain": "huffpost.com"
+    },
+    {
+      "title": "Tropical Storm Bertha moves off Louisiana, heads for Texas. See its path.",
+      "url": "https://www.cbsnews.com/news/tropical-storm-bertha-gulf-coast-maps-path/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    }
+  ],
+  [
+    {
+      "title": "British woman jailed in Hong Kong for blackmail after accusing banker of rape",
+      "url": "https://www.theguardian.com/world/2026/jul/22/british-woman-jailed-hong-kong-false-allegations",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "Vance Boelter gets 2 life terms and more in Minnesota lawmaker shootings",
+      "url": "https://www.cbsnews.com/news/vance-boelter-minnesota-lawmaker-shootings-sentencing/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
     }
   ]
 ]

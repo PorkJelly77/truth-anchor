@@ -1,160 +1,162 @@
 [
   [
     {
-      "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges",
-      "url": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
+      "title": "Canada cancels joint bridge-opening celebration with US amid trade tensions",
+      "url": "https://www.theguardian.com/us-news/2026/jul/21/gordie-howe-bridge-opening-celebration-canceled",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
     },
     {
-      "title": "US blitzes Iranian missile depots, air defenses on 8th consecutive night of strikes after two servicemembers killed in Jordan",
-      "url": "https://nypost.com/2026/07/19/world-news/us-blitzes-iranian-missile-depots-air-defenses-on-8th-consecutive-night-of-strikes-after-two-servicemembers-killed-in-jordan/",
+      "title": "The Treasury market touches a worrying milestone not seen since 2007",
+      "url": "https://www.marketwatch.com/story/the-treasury-market-is-on-the-verge-of-a-worrying-milestone-not-seen-since-2007-81158082?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
+    },
+    {
+      "title": "Hegseth estimates Iran war has cost $37.5 billion as he defends funding request at fiery hearing",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQVJsdVVWc2lUSjJITE9ZTGlTc3lROG83MjZFVm1Bb1R3VndpbWxyUTAtdGpITlFVYzZ6S1g3em4wbGxtS0d4VG1EdjVSYno0S3VYSF9VS01ROE91WF91Wjh6VzFsLUU4Y1VObEZsVGNrVzFLNm9HOTViMVZOR3JnZFEySmZINjBSWEstT3hRUnI1LVpkVXRRRVFVaG40R3lkbmdGX25n?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "House passes Pentagon funding bill and a blueprint to unlock new dollars for Iran war",
+      "url": "https://www.npr.org/2026/07/22/nx-s1-5903130/house-vote-iran-war-funding-reconciliation",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "Trump Repeated This 1 Phrase As An Interview Grew More Tense \u2014 Experts Say It's A Power Move",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV3JRb2pwMUpiRTBKN1NaaFVBY0VnQ0hMTlUzTmxVVW0tdU5uNi1kRExOU3FYMkRYSnd5RlFSbjRUREJkeFFzWWp2aUJOQVJVV3g2U1V1TnhjendvRFFUcVVpMkhNUXR6YWpDV3hsWG1BMXpWOThEZ3N3VE9JT0VucHpMdmlvUWRSTzVoQWozTHZFVnpIdl94eHp1R0nSAaIBQVVfeXFMTlgzdEFUSWJieVVHa2dJdzlwVTNNUmYyZG9Ia0hRR3prVExYbzFjc0poLUExNzRUclBsUmVEX05xWGthY2hrRlhQb2dlQko2UzUyZTIzX1lrR2k1Nmk0by04TGRVSmlpSW9WMlpNdVRNbjk0OTNxSGtLQkxtTGwycVM0X1ExNDhVZ05IUUJRUGN3UUlEMmxDYUJOS3otRGU2UmZR?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    },
+    {
+      "title": "Caitlin Clark proves there's no NBA 2K27 cover curse as Fever set franchise scoring record",
+      "url": "https://www.foxnews.com/outkick-sports/caitlin-clark-proves-no-nba-2k27-cover-curse-fever-set-franchise-scoring-record",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Caitlin Clark picks up seventh technical foul of season \u2014 and is one away from a suspension",
+      "url": "https://nypost.com/2026/07/22/sports/caitlin-clark-picks-up-seventh-technical-foul-of-season/",
       "source": "New York Post",
       "bias": "right",
       "domain": "nypost.com"
     },
     {
-      "title": "Russia Batters Kyiv in Overnight Attack",
-      "url": "https://www.nytimes.com/2026/07/19/world/europe/russia-ukraine-strikes.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "Deadly overnight Russian attack on Ukraine targets the capital",
-      "url": "https://www.npr.org/2026/07/19/nx-s1-5899518/russia-attack-kyiv",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    },
-    {
-      "title": "Russia launches major ballistic missile attack on Kyiv",
-      "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "Iran live updates: Kuwait, Bahrain report Iranian attacks following latest US strikes",
-      "url": "https://abcnews.com/International/live-updates/iran-live-updates-kuwait-reports-attacks-after-latest/?id=134704698",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    },
-    {
-      "title": "Iranian strike damages a Kuwait desalination plant, exposing water vulnerability in dry Mideast",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRGVJbndDX0t6eVRMcXVhUEtKLVlUYmJZeG5yYWNja0VPdU9nYTRuN25NeVRYcGNhaU5YT1poZW5LN2ZxUHRXaFhOZnp5Y2V6YnpUdWxaWUEyZlMzc2M0c1lIaUxIMmVpMkwza1NUSXAtbkhZNmYyekcxaFJTNmdTckhQamhyNHEyM2JickFyUFNMOVVLM1F5WVFkUlFmdHJIMVd3LWFJTmw?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "Sick: Mamdani Coughs into Hand -- Standing Next to Mask-Wearing Activist",
-      "url": "https://www.breitbart.com/clips/2026/07/18/sick-mamdani-coughs-into-hand-standing-next-to-mask-wearing-activist/",
+      "title": "Zelensky Talks Peace with Trump Envoys Witkoff and Kushner",
+      "url": "https://www.breitbart.com/politics/2026/07/22/zelensky-talks-peace-with-trump-envoys-witkoff-and-kushner/",
       "source": "Breitbart",
       "bias": "right",
       "domain": "breitbart.com"
     },
     {
-      "title": "Lebanon's Aoun to meet Trump at White House, hoping to generate pressure on Israel",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOU4yVVlYeXdhdDFTY0pNZUZjSzRvWE1mWi1NcF9MVUI5Y3N3aTRrRzU2RnpCc2tzVV9LS21EQ1RPdUFDN0VnVURKZ0V5RTFScVUtTElSUlp3VU1xZE45UWY3ZmV6cnFmeEVFSE4yMEZ5UVFmVEFwczBtRzdoS3dyUGszV2V3anJEOTBOQ3l0bS16aU0zeU8tYUdwSzRBenlEZmVVT2oxNjZCU21mbkRzN1JIakN4UnoxRlpJWjVCNA?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "How to watch Argentina vs Spain: Live stream the 2026 FIFA World Cup final match",
-      "url": "https://www.foxnews.com/sports/how-watch-argentina-vs-spain-live-stream-2026-fifa-world-cup-final-match",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "A look back at the 2022 FIFA World Cup final",
-      "url": "https://www.cbsnews.com/news/revisiting-2022-world-cup-final-argentina-france/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "Saka\u2019s Hat Trick Lifts England Past Mbapp\u00e9 And France 6-4 In Wild World Cup Third-Place Game",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdEJoUU1XQTVRdlBvT2NjWHNyOFpPTWtrMEJpakUzU0EzTTNmNEhrdnlUVmRlblNkTUlqZlhvZU96LWxIVE54ZWtyelZEY0VHVzB3bDdaNnlmSlFUeDh0ektRZzREdHl0Y2JFellaNTVYcWhPSmZ5VV9nSmpqcmd6RHZwQmtYYmJtcXfSAY8BQVVfeXFMUFcwSHkzMGdOT3kzQzcwUDZTNXhaN0hqZzlpNFFjMWZrUFhsZ3BfcW9CZGdKX05nRWxlOTV6LUNHSDZqZGo1emZzTEotYVNfMThDRThTTTlrcnFmVzZFcFlSeDJWbkcyTUYwcmQzVmJBa1hQM2x1c29Bdm5NX21rekVEWENPTkZKX20zSnlZQzg?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    },
-    {
-      "title": "World Cup 2026 final: Closing ceremony and half-time show \u2013 what to know",
-      "url": "https://www.aljazeera.com/sports/2026/7/19/world-cup-2026-final-closing-ceremony-and-half-time-show-what-to-know?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "Andy Burnham prepares to lead Britain \u2014 and face Trump",
-      "url": "https://www.washingtonpost.com/world/2026/07/19/andy-burnham-prepares-become-uk-prime-minister-deal-with-trump/",
+      "title": "Why is Zelensky firing top leaders as Ukraine\u2019s outlook improves?",
+      "url": "https://www.washingtonpost.com/world/2026/07/22/why-is-zelensky-firing-top-leaders-ukraines-outlook-improves/",
       "source": "Washington Post",
       "bias": "left-center",
       "domain": "washingtonpost.com"
     },
     {
-      "title": "UK aid cuts \u2018reduce bilateral support to some African countries by 90%\u2019",
-      "url": "https://www.theguardian.com/politics/2026/jul/16/uk-aid-cuts-bilateral-support-african-countries",
-      "source": "The Guardian",
+      "title": "House committee urges DOJ to charge former Trump prosecutor Jack Smith",
+      "url": "https://www.cbsnews.com/news/house-committee-jack-smith-criminal-referral-doj/",
+      "source": "CBS News",
       "bias": "left-center",
-      "domain": "theguardian.com"
-    }
-  ],
-  [
-    {
-      "title": "Andrew, Tristan Tate arrested in Miami as UK seeks extradition on expanded rape, trafficking charges",
-      "url": "https://www.foxnews.com/us/andrew-tristan-tate-arrested-miami-uk-seeks-extradition-expanded-rape-trafficking-charges",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
+      "domain": "cbsnews.com"
     },
     {
-      "title": "US Marshals arrest 'hypermasculine' social media stars Andrew and Tristan Tate, UK seeks extradition",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaWVrU0l3eHVCZkRkTjBUdmF1LW5OdTRDTl9wWHZEV1ZGQm9Ha0VsQVVzM2NnY1RZbzh4QUVrT3lVMmlHZjBEWFZYQllmeWVKWm5TVnRJNTVqVDJvOGJRMURxaEVSYzlLMVNTd3FtRDZZSVFUeWFWNFhmV1EyaFRyNWp1RHdXdzNIWWxneTJsZlY3M2oxZWI1MzlVSDhtQlliS1NoeUZZU0p6bWhPNHU4RzBFLUVvZU03ODllRg?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "Andrew, Tristan Tate arrested in US after British prosecutors bring new charges",
-      "url": "https://abcnews.com/US/andrew-tristan-tate-arrested-miami-after-british-prosecutors/story?id=134883878",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    },
-    {
-      "title": "Tate brothers arrested in US as further UK charges take total to 59",
-      "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
+      "title": "'What was their crime?': BBC visits Iran school where strike killed 120 children",
+      "url": "https://www.bbc.co.uk/news/articles/cewrx0ldlkko?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "bias": "center",
       "domain": "bbc.com"
     },
     {
-      "title": "Social media influencers Andrew and Tristan Tate arrested in Miami, US Marshals Service tells AP",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSlRKR0VSSTVCX0pVeXhoWlpNOVNsWXB3XzRSX3N4M3dFb1dkZDRtbFJHVDVxUHhWSHJicTRDMnp1SGhhSFRUZmtjeExvT0tUUEQwOUNMT081V1Zlc0NWWTBHMHJEVVQydjBaOU91ZmtSVFF5ekFoWmVmN1RnRHMzTk1PVkJ0bEM2ejh3cE0xSVozbmZXU0lzaDRHZ1pHbDNy?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "Social Media Influencers Andrew And Tristan Tate Arrested In Miami, U.S. Marshals Service Tells AP",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS21OUE9EQm81R0YzQUZvN05tcTl3b3VNVXVDMzd1VGRlYjh1NmRTX2NQTTJ0MlVGYnJpVklMQUFvM1d1ZGFuSjYyVlFJb0tyLWZXdnVpa2RTYmQ3OEF3a1FDaHVpWXNWbTF2ZGhzeGc4bVlwNHh0VWlDLUJYbnZEZjZHdFQ3SnRfT2tJR9IBkgFBVV95cUxQT29kVGdQSUY4aC1DVUl5M1Z0dkFDS0wxZjNpZ0IzakpPTkUtTmZPU1hvYVNkS3laem9IQ3g4cjhvUHd6Y00wUWZKN0hMZ1lQRXBOdnlqQmZNSF96Vi1wVDR5ZHdxRmo4Y2FNR3RINmVqczV0QVFpa25vM2l6eDNWUmR0clB1OEVnVkp1b3FkMU5GUQ?oc=5",
-      "source": "HuffPost",
+      "title": "A 13-year-old dies after participating in a Benadryl TikTok 'challenge'",
+      "url": "https://www.cnn.com/2023/04/18/us/benadryl-tiktok-challenge-teen-death-wellness/index.html",
+      "source": "CNN",
       "bias": "left",
-      "domain": "huffpost.com"
+      "domain": "cnn.com"
     },
     {
-      "title": "The Tate brothers are arrested in Miami, U.S. Marshals Service tells AP",
-      "url": "https://www.npr.org/2026/07/18/g-s1-134475/tate-brothers-arrested-miami",
+      "title": "Massachusetts House Passes Bill That Would Loosen Late-Term Abortion Rules",
+      "url": "https://www.nytimes.com/2026/07/22/us/massachusetts-late-term-abortion-rules.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "House passes bill that would ban members from buying stock",
+      "url": "https://abcnews.com/Politics/house-passes-bill-ban-members-buying-stock/story?id=135001297",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    },
+    {
+      "title": "Saudi Arabia and US agree to landmark nuclear deal for civilian purposes",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/saudi-arabia-and-us-agree-to-landmark-nuclear-deal-for-civilian-purposes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "US says it reaches nuclear power deal with Saudi Arabia",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVmNoNGFQY1hnSmFSaGF2eUNXYTdjYzIwdnNKTDF6cHVLeGg1UXdHYVk0UkhLUFVRYzF2LVVPc0toR2JzS2V2Q1BZR2JCcU1FUGFfTjFHU3ZzVlpZcUV2T09oaTZtdEp6cHdzZmdoQW1jckU3RjRZbnFfY1AxeTRpUXFRQXEyTV85ejNndHRTNFdJbHlNa2xDQkU3VEhkTUR0dXNrdHZmUGZUanl3N1d2aE1Ncw?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    }
+  ],
+  [
+    {
+      "title": "Newly released video shows scene of Jeremy Renner's snowplow accident",
+      "url": "https://www.cnn.com/videos/us/2023/04/18/jeremy-renner-snowplow-accident-bodycam-nc-melas-contd-vpx.cnn",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
+    },
+    {
+      "title": "India: Leopard Bursts into Liquor Store, Attacks Employee",
+      "url": "https://www.breitbart.com/asia/2026/07/22/india-leopard-bursts-into-liquor-store-attacks-employee/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
+    },
+    {
+      "title": "Bear caught on camera perched atop New Mexico utility pole before reportedly suffering fatal electrocution",
+      "url": "https://www.foxnews.com/us/bear-caught-camera-perched-atop-new-mexico-utility-pole-before-reportedly-suffering-fatal-electrocution",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Firm hacked by rogue OpenAI models says it is 'a wake up call'",
+      "url": "https://www.bbc.co.uk/news/articles/cdrvy3pn3r0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "OpenAI blamed a hacking event on its AI models gone rogue. Here is what to know",
+      "url": "https://www.npr.org/2026/07/23/g-s1-135085/openai-hacking-ai-models",
       "source": "NPR",
       "bias": "left-center",
       "domain": "npr.org"
+    },
+    {
+      "title": "WATCH:  OpenAI says AI models went rogue during testing, triggering 'unprecedented' breach",
+      "url": "https://abcnews.com/video/134998285/",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
     }
   ],
   [
@@ -166,47 +168,8 @@
       "domain": "cnn.com"
     },
     {
-      "title": "Australia updates travel advice for Laos as charges announced over mass methanol poisoning",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/17/distillery-owner-could-face-only-three-months-in-jail-over-alleged-poisoning-australian-teenagers",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    },
-    {
-      "title": "Michigan Congresswoman Announces Devastating Personal News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQb1hVU3NIVEd6ZzZSS1dHcXIzTDN2WWtLTmJLdEg0Ml9Qa3o5NEl6alBoVXR6akpfcGJDY3ZKMnZ5U3BVTG5jOXU5NnJVM19GZFdCWnl4aHk4SlRoMldidEVZakdtblM5WmR4U19RNXhiaFIxRmxYb0htZnB1clpuRWx4SU9BZjNoQm1kZXB2UTBmMjA?oc=5",
-      "source": "Daily Wire",
-      "bias": "right",
-      "domain": "dailywire.com"
-    }
-  ],
-  [
-    {
-      "title": "Mamdani doubles down on democratic socialism while insisting Wall Street, business leaders can work with him",
-      "url": "https://www.foxnews.com/politics/mamdani-doubles-down-democratic-socialism-insisting-wall-street-business-leaders-work-him",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "Black and Latino Leaders Ask: What Do Socialist Wins Mean for New York?",
-      "url": "https://www.nytimes.com/2026/07/19/nyregion/black-latino-leaders-dsa-nyc.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    }
-  ],
-  [
-    {
-      "title": "A Modest Proposal for the Strait Dispute: A Shared Pact Among Gulf States",
-      "url": "https://www.nytimes.com/2026/07/19/world/middleeast/strait-hormuz-iran.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "3 islands help control access to the Strait of Hormuz. They\u2019re in the crosshairs of the Iran war",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX0dxUnpMQ3dvWjBrLUFIRFdwSzktYjU4TWdRT0hENTROVFhGQ0FESU9zRGlsc1BNZ3FJZTI4bTczLWJHcGoxZ2I1OGZObENrVWkxa185YVhIQjhqMEFKcGE1aTdPUzd0WFdGT1N2OEV5anB5YTRLdGd5bmltdklvLTI4TUdqMnVlNTJUcmJEUXRvMldlZk52R0pINHZKTHg2?oc=5",
+      "title": "Judge approves a $1.5B Anthropic settlement over pirated books used to train the Claude chatbot",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYTZ6VGQyajZtTWlFeVhiZkpmTnFLSG5jbU1Gb2llZndJZjByTC01SjVLS1R0Z1FTSTRmeDM4VUJ0X1VIby10bVBNU2QtRHpoZFE5MFlPMG43aURMUjNvMEN4WkZsUXBZdFRlci12MTlqbkRJX0VtcW9paUFuc3N1YTR5bXlIUldYcE9QWmR2TkFyTkV3aFFUQXZXMUxJYUptQmwxdEpmU2NtdDBELWsxTnhR?oc=5",
       "source": "Associated Press",
       "bias": "center",
       "domain": "apnews.com"
@@ -214,18 +177,98 @@
   ],
   [
     {
-      "title": "Vance Remarks on Epstein and Israel Echo Conspiracy Theories",
-      "url": "https://www.nytimes.com/2026/07/18/us/vances-epstein-israel-conspiracy-theories.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
+      "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges",
+      "url": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
     },
     {
-      "title": "Vance Tells Joe Rogan Trump Team \u2018Mishandled\u2019 Epstein Case, Alleges Intel Ties",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZVU5ZENiVjVKM3lsQlU1NFdsYzVJdm1UaGJ0MFR3ZlcyMXRCakVCd3NBb0ZkTHRnUWYyWHl2WVU2VDhmb2h4SGV4U0g5Vk9QZ0dzZnNMYVdNOHc0dGNhUzY1ZzU1Z0ppYzFPSTI1Nkp1Q3pJYTh5NnZZZ0sybHJMbncyV1RQTlEzd2NIVTAyeEF3c3k1Q3Ayb3F2SkxvelplWTNKenZZS2dyZw?oc=5",
-      "source": "Daily Wire",
+      "title": "Rep. Ayanna Pressley speaks out after teen found shot dead at husband\u2019s Boston property",
+      "url": "https://nypost.com/2026/07/23/us-news/rep-ayanna-pressley-speaks-out-after-teen-found-shot-dead-at-husbands-boston-property/",
+      "source": "New York Post",
       "bias": "right",
-      "domain": "dailywire.com"
+      "domain": "nypost.com"
+    }
+  ],
+  [
+    {
+      "title": "Independent autopsy 'inconclusive' on cause of death for 18-year-old Nolan Wells in Mississippi",
+      "url": "https://www.npr.org/2026/07/22/nx-s1-5902909/independent-autopsy-inconclusive-on-cause-of-death-for-18-year-old-nolan-wells-in-mississippi",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "Independent autopsy of Nolan Wells finds \u2018undetermined\u2019 cause of death",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa3NjNHh0SFlFRTZaU0hrbWNwT2lJMjRxaHZvVkIxNTM3M0N1NGpYd2pxQTFlVlo1dm8tcklsa1pEYlpCd3IwQXVEYTJGNk5EV090aG02WmYxN1pldzBnTGIzZGxNU1duSWdmeDRUYTRXcl9VYW0wVkZhNEZKTVJGNUNGV2NuVGtQVEtLaDk3N3NGc0EwMnVTLWZkd3pZODlCU0o2WGNOS3VYdw?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Latest combat deaths show risk has shifted to troops far from Iran\u2019s borders",
+      "url": "https://www.washingtonpost.com/national-security/2026/07/21/troops-killed-iranian-attacks-were-tasked-with-defending-bases-incoming-strikes/",
+      "source": "Washington Post",
+      "bias": "left-center",
+      "domain": "washingtonpost.com"
+    },
+    {
+      "title": "Trump appears to downplay Iran war deaths, comparing them to other conflicts",
+      "url": "https://abcnews.com/Politics/trump-appears-downplay-iran-war-deaths-social-posts/story?id=134983380",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    }
+  ],
+  [
+    {
+      "title": "Death of Moroccan man in Italian police custody sparks protests, violence",
+      "url": "https://www.washingtonpost.com/world/2026/07/21/death-moroccan-man-italian-police-custody-sparks-protests-violence/",
+      "source": "Washington Post",
+      "bias": "left-center",
+      "domain": "washingtonpost.com"
+    },
+    {
+      "title": "Abderrahim Fakir\u2019s death has reignited Italy\u2019s police accountability debate",
+      "url": "https://www.aljazeera.com/news/2026/7/23/why-abderrahim-fakirs-death-reignited-italys-police-accountability-debate?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    }
+  ],
+  [
+    {
+      "title": "Israel building earthen barrier in Gaza to entrench division of the enclave",
+      "url": "https://www.aljazeera.com/news/2026/7/23/israel-building-earthen-barrier-in-gaza-to-entrench-division-of-the-enclave?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "Israel is building a miles-long earthen barrier inside Gaza, entrenching its division",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQnFjRG9PSm5GWnF5QTZ5WjJuaTVVYmRLanZNMElEUzZjT2xGSjJNZE5QS3hoRC1OMldqOVNWOTFWRkgxazY0NmNHN1FhX0RBV2ZNNHdJNk4wUUJBNHlySm83WkY1MUhZZ2NlS1JQU1dKUWh5VDZXRDd4eDVCYkZyVTh2SjJfNGMtc25zRk90R3ZKc3h1bTNJd1JWenM1UUl5QWpV?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Tropical Storm Bertha makes landfall on Gulf Coast. See its path.",
+      "url": "https://www.cbsnews.com/news/tropical-storm-bertha-gulf-coast-maps-path/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "WATCH:  Tornado damage from Kentucky to New Jersey",
+      "url": "https://abcnews.com/video/134975379/",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
     }
   ]
 ]

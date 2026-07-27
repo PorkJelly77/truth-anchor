@@ -8,13 +8,6 @@
       "domain": "wsj.com"
     },
     {
-      "title": "Seattle Food Festival Shooting: What to Know",
-      "url": "https://www.nytimes.com/2026/07/27/us/seattle-shooting-suspect-victims-what-happened.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
       "title": "WATCH:  Daredevils scale and jump from Space Needle in Seattle",
       "url": "https://abcnews.com/video/135105974/",
       "source": "ABC News",
@@ -22,46 +15,25 @@
       "domain": "abcnews.go.com"
     },
     {
-      "title": "Berlin Pride attacker served time for trying to join ISIS, officials say",
-      "url": "https://www.cbsnews.com/news/berlin-lgbtq-pride-christopher-street-attack-ramming-suspect-search-germany/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "Anger, shock and grief - questions remain in the wake of the Berlin Pride attack",
-      "url": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "U.S. pauses attacks on Iran for a second straight day and Tehran does too",
-      "url": "https://www.npr.org/2026/07/26/g-s1-135593/us-pauses-attacks-iran-second-day-tehran",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    },
-    {
-      "title": "3 Dead, 4 Wounded In Mass Shooting Near Seattle\u2019s Iconic Space Needle",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN1F2QXZ2R2JQWkxvYkhNNnl4ZFRJbTFuWHNZYnNvLVFIRWFfSWNYY1M4OUNNN2VmRUREZ0N2ZWNSRGRSSkJhWWdqcXlOLTdOb2xMazFtYmZiVDZPVWJKM1JtRjR2d3U0QVQwamlzVjd6V21JTVp5VEtxaWlXb202ZzF3VE51cVJDeTA4bzV1VUJLVkcxWlBj0gGcAUFVX3lxTE5hRVdkdVN0VEtXdG9hRy1lU1A4VG1wYTZhTE5NbGZwc3ZCS0hpNlJZU2hfbTdGWWlLRHEyN2s1VklOaVVxaEF2alFILXEza1VWdXBIMk00cGdCSURfWGlxS0pjcDZQNTYxaUtmOHYwMmpEdkVFTHg4VWotWEtaYUNYMmZCazdJUWZObWR4UkdNSmRXT1ZjZUFHMmpSbg?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    },
-    {
-      "title": "Three killed in suspected shootout in US city of Seattle, police say",
-      "url": "https://www.aljazeera.com/news/2026/7/27/three-killed-in-suspected-shootout-in-us-city-of-seattle-police-say?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
       "title": "Trump Gives Saudi Arabia Ultimatum Before He Signs Major Nuclear Deal",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUk1STDcwcjdxUldBMnlMYk95Wno0T0stWDhONm9aelhySXBHaDBITHNaTTRGTUMxZzYySVd2T3dscjRvaXY4Z1lyT2dUX3RYQ3hQTkxPbm1YbXEyWFliY25KMUQ0LTlFclFUVzRhRTl6QTBndVhKalRibGctOVZBNVMwRzJzNm1ta2hOeFRWZjZCVGppZG9vVl9uYXBJbnlYaFE?oc=5",
       "source": "Daily Wire",
       "bias": "right",
       "domain": "dailywire.com"
+    },
+    {
+      "title": "Wildfire Smoke Chokes Skies in Spain and France",
+      "url": "https://www.nytimes.com/2026/07/25/world/europe/wildfires-photos-spain-france.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Tadej Poga\u010dar of Slovenia wins the 2026 Tour de France, his fifth victory in the race",
+      "url": "https://www.npr.org/2026/07/26/nx-s1-5908503/tadej-pogacar-tour-de-france-2026-winner-wildfires",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
     },
     {
       "title": "Iran says it still controls strait, not seeking talks, after Trump halts bombing",
@@ -92,6 +64,27 @@
       "domain": "cnn.com"
     },
     {
+      "title": "Anger, shock and grief - questions remain in the wake of the Berlin Pride attack",
+      "url": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "Three killed in suspected shootout in US city of Seattle, police say",
+      "url": "https://www.aljazeera.com/news/2026/7/27/three-killed-in-suspected-shootout-in-us-city-of-seattle-police-say?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "3 Dead, 4 Wounded In Mass Shooting Near Seattle\u2019s Iconic Space Needle",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN1F2QXZ2R2JQWkxvYkhNNnl4ZFRJbTFuWHNZYnNvLVFIRWFfSWNYY1M4OUNNN2VmRUREZ0N2ZWNSRGRSSkJhWWdqcXlOLTdOb2xMazFtYmZiVDZPVWJKM1JtRjR2d3U0QVQwamlzVjd6V21JTVp5VEtxaWlXb202ZzF3VE51cVJDeTA4bzV1VUJLVkcxWlBj0gGcAUFVX3lxTE5hRVdkdVN0VEtXdG9hRy1lU1A4VG1wYTZhTE5NbGZwc3ZCS0hpNlJZU2hfbTdGWWlLRHEyN2s1VklOaVVxaEF2alFILXEza1VWdXBIMk00cGdCSURfWGlxS0pjcDZQNTYxaUtmOHYwMmpEdkVFTHg4VWotWEtaYUNYMmZCazdJUWZObWR4UkdNSmRXT1ZjZUFHMmpSbg?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    },
+    {
       "title": "Newborn Abandoned in Indianapolis, Police Search for Mother",
       "url": "https://www.breitbart.com/crime/2026/07/26/newborn-abandoned-in-indianapolis-police-search-for-mother/",
       "source": "Breitbart",
@@ -106,45 +99,15 @@
       "domain": "theguardian.com"
     },
     {
+      "title": "ICE plans to target Haitians as their Temporary Protected Status ends, sources say",
+      "url": "https://www.cbsnews.com/video/ice-plans-to-target-haitians-as-their-temporary-protected-status-ends-sources-say/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
       "title": "OpenAI says its AI technology acted on its own in an 'unprecedented' hack of another company",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWGF1TU12c0lBby0xOWkwb3VudWxHZXgxVHJ2REdXZV8tQW11RmZYMEVNVnVrMW1SY1NMTzA1aDN0ZFp1cjVTYlk0S0lVcnZES0tiOVgzV3ZaaDFKSllERVhWTFlaV0pyWk9UMGxkTHRhUmFNTzJkYXJnbjNOZmg4UHIyeWk4Q0NRUHQwZjNnclZLTXc?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    }
-  ],
-  [
-    {
-      "title": "How wildfires in France and Spain might affect your travel plans",
-      "url": "https://www.bbc.co.uk/news/articles/ce3qv0ggndno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "Wildfire Smoke Chokes Skies in Spain and France",
-      "url": "https://www.nytimes.com/2026/07/25/world/europe/wildfires-photos-spain-france.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "Wildfires in southwest Europe: What we know so far",
-      "url": "https://www.aljazeera.com/news/2026/7/27/wildfires-in-southwest-europe-what-we-know-so-far?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "Tadej Poga\u010dar of Slovenia wins the 2026 Tour de France, his fifth victory in the race",
-      "url": "https://www.npr.org/2026/07/26/nx-s1-5908503/tadej-pogacar-tour-de-france-2026-winner-wildfires",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    },
-    {
-      "title": "Wildfires in France drive 250,000 people from their homes and creep toward wine city of Bordeaux",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNczhHX2xpd0c1SE9SNVh5TW5kN1ZsajJkTUhnRE5zYmJLbGd3X1B6bFJJUEVRTUxQV2ZWRWVIWnBnZ0liQS1ESHJaTVFZZlBwWkNKVXRQNklpVVdkUG9xaXZRZFFLX0lBTUE3b3FUNnpGSE1CZDRHSDB1cjFOeWpYbFlwNXFianFabGVNTnpaODRhbkNkcXUzcklfN0NsWFk?oc=5",
       "source": "Associated Press",
       "bias": "center",
       "domain": "apnews.com"
@@ -228,6 +191,22 @@
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Behind LeBron James' move to the 76ers and his chances for another NBA title",
+      "url": "https://www.cbsnews.com/video/behind-lebron-james-move-to-the-76ers-and-his-chances-for-another-nba-title/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "WATCH:  Philly goes wild for LeBron",
+      "url": "https://abcnews.com/video/135091185/",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
     }
   ]
 ]

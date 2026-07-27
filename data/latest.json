@@ -1,8 +1,57 @@
 [
   [
     {
-      "title": "Bryan Kohberger, Convicted in Idaho College Killings, Seeks to Take Back Guilty Plea",
-      "url": "https://www.nytimes.com/2026/07/27/us/bryan-kohberger-idaho-college-deaths.html",
+      "title": "Fauci Diaries: Anthony Fauci Ran to Obama for PR Help, Obama Called Trump a 'Hopeless Idiot... Pathological Liar'",
+      "url": "https://www.breitbart.com/politics/2026/07/27/fauci-diaries-anthony-fauci-ran-to-obama-for-pr-help-obama-called-trump-a-hopeless-idiot-pathological-liar/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
+    },
+    {
+      "title": "WATCH:  Daredevils scale and jump from Space Needle in Seattle",
+      "url": "https://abcnews.com/video/135105974/",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    },
+    {
+      "title": "3 Dead, 4 Wounded In Mass Shooting Near Seattle\u2019s Iconic Space Needle",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN1F2QXZ2R2JQWkxvYkhNNnl4ZFRJbTFuWHNZYnNvLVFIRWFfSWNYY1M4OUNNN2VmRUREZ0N2ZWNSRGRSSkJhWWdqcXlOLTdOb2xMazFtYmZiVDZPVWJKM1JtRjR2d3U0QVQwamlzVjd6V21JTVp5VEtxaWlXb202ZzF3VE51cVJDeTA4bzV1VUJLVkcxWlBj0gGcAUFVX3lxTE5hRVdkdVN0VEtXdG9hRy1lU1A4VG1wYTZhTE5NbGZwc3ZCS0hpNlJZU2hfbTdGWWlLRHEyN2s1VklOaVVxaEF2alFILXEza1VWdXBIMk00cGdCSURfWGlxS0pjcDZQNTYxaUtmOHYwMmpEdkVFTHg4VWotWEtaYUNYMmZCazdJUWZObWR4UkdNSmRXT1ZjZUFHMmpSbg?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    },
+    {
+      "title": "Chargers face key questions on OL ahead of season with big expectations",
+      "url": "https://nypost.com/2026/07/27/sports/chargers-position-battles-during-training-camp-involve-backup-left-guard-safety-te/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
+      "title": "Commanders fire tight ends coach Ben Steele following DWI arrest last month",
+      "url": "https://www.foxnews.com/sports/commanders-fire-tight-ends-coach-ben-steele-following-dwi-arrest-last-month",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Bridge connecting Canada and U.S. opens after Trump tried to block it",
+      "url": "https://www.washingtonpost.com/nation/2026/07/27/gordie-howe-bridge-between-canada-us-opens-after-trump-tried-block-it/",
+      "source": "Washington Post",
+      "bias": "left-center",
+      "domain": "washingtonpost.com"
+    },
+    {
+      "title": "Trump\u2019s border czar says vetting of ICE officer is under internal review after Maine shooting",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPclZfRHpWQkl6d3ZBSGJfNFhpTTM5b3VYU180eG1RaWZISEVzQktrTkZzenhsb1FzZ0FqVkQ5VVltbDN4SkRqM1UzNUJCMURCeTNzWW9kRVlLcTI1T3RjN0VmZm9CblZaQklZaWtyblF0VmQ0TFhaWWpjUENKdXRhOXpfNFJzMVNhYkx5U0RZcDdRblV4WHNLOXYteFJZZkU?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Case to Be Dropped Against Labor Leader David Huerta in L.A. Immigration Raid",
+      "url": "https://www.nytimes.com/2026/07/27/us/david-huerta-charges-dismiss-la-immigration-raids.html",
       "source": "New York Times",
       "bias": "left-center",
       "domain": "nytimes.com"
@@ -15,18 +64,11 @@
       "domain": "cnn.com"
     },
     {
-      "title": "British woman jailed in Hong Kong for blackmail after accusing banker of rape",
-      "url": "https://www.theguardian.com/world/2026/jul/22/british-woman-jailed-hong-kong-false-allegations",
-      "source": "The Guardian",
+      "title": "Bryan Kohberger challenges conviction in Idaho murders",
+      "url": "https://www.cbsnews.com/news/bryan-kohberger-petition-idaho-murders-conviction/",
+      "source": "CBS News",
       "bias": "left-center",
-      "domain": "theguardian.com"
-    },
-    {
-      "title": "Mystery of headless woman drained of blood deepens in California",
-      "url": "https://nypost.com/2026/07/27/us-news/investigators-searching-for-clues-in-cold-case-of-headless-woman/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
+      "domain": "cbsnews.com"
     },
     {
       "title": "Man jailed for abduction and rape of girl, 15, in Edinburgh basement",
@@ -36,32 +78,25 @@
       "domain": "bbc.com"
     },
     {
-      "title": "Nolte: Disastrous CEO Julie Masino Out at Cracker Barrel",
-      "url": "https://www.breitbart.com/politics/2026/07/27/nolte-disastrous-ceo-julie-masino-out-at-cracker-barrel/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
-    },
-    {
-      "title": "Wife Of Kansas City Chiefs Coach Is Shot At Home; Son Charged: Reports",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaWJiMkVNZHZrS1JKeE9PUWhrck9oNVdsZktzMWpiWWMyYWt0T2k4Nm1KQi1PcmJ0bVRzeFZqUkNTM3cwaklrc3A4T3VWbk40SWppME5aMXNnVTRGanBPdnQ1NDVJcW1WOUN2RVRYY0tyQ2JjdU5RV3UxTF9uTzBGZlJLR3ozQmt5VWJsZdIBkgFBVV95cUxQOFMxZlpiNEk2TE5ZUGFsN1oybDZjbUk1LXkyYTNUeUt1NEZvMkxBaFNIOWxkZ3RmbmVJeDctQ2VIVWYwaU1fUFZiRXdmZlAxaEs5UjBNSWxwbHRubVBOVFZQNHFUa1VNRm15ejFmT0JhUEtNZEszQ2lNYXNoWHhzY3pnYnl5bERReHZYcngxTjluUQ?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    },
-    {
-      "title": "Michigan dad shot wife, six kids then set family home ablaze in murder-suicide, sheriff says",
-      "url": "https://www.foxnews.com/us/michigan-dad-shot-wife-six-kids-set-family-home-ablaze-murder-suicide-sheriff-says",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "Live Updates: Trial begins for Lindsay Clancy in murders of her 3 kids",
-      "url": "https://www.cbsnews.com/live-updates/lindsay-clancy-trial-live-updates-patrick-clancy/",
-      "source": "CBS News",
+      "title": "British woman jailed in Hong Kong for blackmail after accusing banker of rape",
+      "url": "https://www.theguardian.com/world/2026/jul/22/british-woman-jailed-hong-kong-false-allegations",
+      "source": "The Guardian",
       "bias": "left-center",
-      "domain": "cbsnews.com"
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "Hakeem Jeffries puts affordability at centre of Democrats\u2019 midterm campaign",
+      "url": "https://www.aljazeera.com/economy/2026/7/27/hakeem-jeffries-puts-affordability-at-centre-of-democrats-midterm-campaign?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "\u2018I know what he wants to do,\u2019 Trump says of Fed\u2019s Warsh, as president presses for rate cuts",
+      "url": "https://www.marketwatch.com/story/i-know-what-he-wants-to-do-trump-says-of-feds-warsh-as-president-presses-for-rate-cuts-edaa115e?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
     },
     {
       "title": "3 dead in mass shooting in Seattle. And, U.S. and Iran pause fighting",
@@ -69,48 +104,6 @@
       "source": "NPR",
       "bias": "left-center",
       "domain": "npr.org"
-    },
-    {
-      "title": "Airstrikes have paused and talks are pressing forward. But can the US and Iran take the off-ramp?",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNDJld2dfWkJobEFGdjZJaUQ0LThjRlJfcDFXSVc4dEwxMjhmeVB4QVVqcFVTV3B3RGRFV2NHWmpQdWsyVEx6ckxOdWVXcXcyRmpuejVER2R2alBhTEIyRlhGaHkyUXRQSjNKQ1kySDR4dHZvdm9LTWxMMXZUZ3p1ZUJqOE1WS1VNYlpKalF0NWdsVTdWZ3c0ZGRB?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "WATCH:  Daredevils scale and jump from Space Needle in Seattle",
-      "url": "https://abcnews.com/video/135105974/",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    },
-    {
-      "title": "Berlin Terrorist Attacker Shot And Killed By Police",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdFVQS0FYa1pFMUFWcnRMUVJjU1doYmFMcUgxbWthWlpucE9BZGk3ZzExVnNqUy13WnhVMmZfRFJkQmg4c0tFZU03aHpRMFQwUjZyZjNmTTNvY2NFcTVPaWNHZzdFQkhpaExjeC1BU2tZYUptY2x4M3R6djNvZVhwby10a2ZaRVdseGc?oc=5",
-      "source": "Daily Wire",
-      "bias": "right",
-      "domain": "dailywire.com"
-    },
-    {
-      "title": "Houthis claim attack on Saudi oil refinery as Iran war widens to Red Sea",
-      "url": "https://www.washingtonpost.com/world/2026/07/25/houthis-claim-attack-saudi-oil-refinery-iran-war-widens-red-sea/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
-    },
-    {
-      "title": "Saudi Arabia defends against drone strikes from \u2018Iran-backed\u2019 groups",
-      "url": "https://www.aljazeera.com/news/2026/7/27/saudi-arabia-defends-against-drone-strikes-from-iran-backed-groups?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "Trump says US is talking with Iran right now",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZzhaOE5EZkZWdTRDZlhoaTUwempUc3g2QnpqSDAxM0hCeVNCZ190UDZTcmJTU2pWSHBXWTAzaFdtclJqR0VyZUN6NTVLakxmTHdSdk5PRXRhalZwNEhQSDlRSXQ3LUoxa003SWVvVEJpMjFGV2IxSGJjVWg0VHROY0pqVUROT0RxNmJRYTdrN1F4bndKa19vd051VzhwTHM?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
     }
   ],
   [
@@ -145,11 +138,11 @@
   ],
   [
     {
-      "title": "Savannah Guthrie delivers 'very specific' message to mom's kidnapper 25 weeks after her abduction",
-      "url": "https://www.foxnews.com/us/savannah-guthrie-delivers-very-specific-message-moms-kidnapper-25-weeks-after-abduction",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
+      "title": "'Do the right thing': Savannah Guthrie makes another plea to mom's kidnappers",
+      "url": "https://www.bbc.co.uk/news/articles/c5y4grv7pp8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
     },
     {
       "title": "Savannah Guthrie urges captors to 'make the right choice,' return mother",
@@ -168,54 +161,143 @@
   ],
   [
     {
-      "title": "Healthy diet too expensive for one in three people globally, UN report finds",
-      "url": "https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
+      "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
     },
     {
-      "title": "The biggest weather risk for homeowners? It's no longer hurricanes.",
-      "url": "https://www.cbsnews.com/news/climate-change-severe-homeowner-insurance-first-street/",
-      "source": "CBS News",
+      "title": "Authors wary of content ownership despite court ruling on Anthropic case",
+      "url": "https://www.npr.org/2026/07/27/nx-s1-5904606/authors-wary-of-content-ownership-despite-court-ruling-on-anthropic-case",
+      "source": "NPR",
       "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "11 People Charged with Deaths of 7 Migrants Locked in Rail Car near Texas Border",
-      "url": "https://www.breitbart.com/border/2026/07/27/11-people-charged-with-deaths-of-7-migrants-locked-in-rail-car-near-texas-border/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
+      "domain": "npr.org"
     }
   ],
   [
     {
-      "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
-      "url": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
+      "title": "Trans influencer breaks silence after Trump's comparison to CNN anchor at WHCA Dinner",
+      "url": "https://www.foxnews.com/politics/trans-influencer-breaks-silence-trump-comparison-cnn-anchor-whca-dinner",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Trump Tried To Mock Dylan Mulvaney In Public. Her Response Wasn't What Anyone Expected.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSFZzcUp1cWV2SzdhNHFQU3NoOW5JWHVEOF9tVGF1Y1lSTlBiWWhVOVBtb29UbTZwc05WQTBGc2VPRWVndzY5ZVAtVDYtT0lCUTRzd0UxeDZoeEdmZDJqMEZOem9wMFp4bEFwMzZzanI0WWY3Q0xQUm5VQWNfbzU1aTlWRGhKeWZydC03NG0xM2F0dFBIenlDZXUtUVlRNlZIeEJ1LWxJandoaEZBdmhSYVduU2JGSTduZGM0YVNxWDl5TW1OZUdj?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    }
+  ],
+  [
+    {
+      "title": "WNBA responds to questions about missing USA 250 patch at All-Star Game but dodges key details",
+      "url": "https://www.foxnews.com/outkick-sports/wnba-responds-questions-missing-usa-250-patch-all-star-game-dodges-key-details",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "The best looks from the WNBA All-Star Weekend 2026: Caitlin Clark, Azzi Fudd and more",
+      "url": "https://pagesix.com/video/the-best-looks-from-the-wnba-all-star-weekend-2026-caitlin-clark-azzi-fudd-and-more/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    }
+  ],
+  [
+    {
+      "title": "Trump says US is talking with Iran right now",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZzhaOE5EZkZWdTRDZlhoaTUwempUc3g2QnpqSDAxM0hCeVNCZ190UDZTcmJTU2pWSHBXWTAzaFdtclJqR0VyZUN6NTVLakxmTHdSdk5PRXRhalZwNEhQSDlRSXQ3LUoxa003SWVvVEJpMjFGV2IxSGJjVWg0VHROY0pqVUROT0RxNmJRYTdrN1F4bndKa19vd051VzhwTHM?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Trump says U.S. will \"go back to doing what we were doing\" if Iran talks stall",
+      "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-strait-of-hormuz-talks-oman/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Zelensky visit sends clear message of support for Ukraine, Burnham says",
+      "url": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "bias": "center",
       "domain": "bbc.com"
     },
     {
-      "title": "Iran: Currently no negotiations with the US",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/iran-currently-no-negotiations-with-the-us?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
+      "title": "Zelensky is first foreign leader to visit Burnham, U.K.\u2019s new prime minister",
+      "url": "https://www.washingtonpost.com/world/2026/07/27/zelensky-is-first-foreign-leader-visit-burnham-uks-new-prime-minister/",
+      "source": "Washington Post",
+      "bias": "left-center",
+      "domain": "washingtonpost.com"
     }
   ],
   [
     {
-      "title": "The Fed\u2019s New Chairman Faces His Biggest Test Yet",
-      "url": "https://www.nytimes.com/2026/07/27/business/the-feds-new-chairman-faces-his-biggest-test-yet.html",
+      "title": "Carly Simon reveals Parkinson's diagnosis",
+      "url": "https://www.bbc.co.uk/news/articles/c5y3gymn6p6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "Carly Simon Says She Chose To Leave The Spotlight After Parkinson\u2019s Disease, Cancer Diagnosis",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ2NvSkl3QWRoYmx5MC1BVFlFRFFHd2o4cE1aUTMwOTFXT0diYTBlYnZIYzFveE5vZkZPbTZ0dXE4ZS1fdkxaRUEtZXdpdzBMSmpIbFNaUklra0pYb2pfZjFHWjdYbUtkamExdjJhX2lzaGFSZ09qVWpwM1pOWHNtUTlEcVo1SjRiTW90T0tYN3dqbjdsODB4amFsNV9HZ2dCaXk0bzJwWVHSAa4BQVVfeXFMTV9TYWxMaGVGUWUyZnhMWjZIV0Q0LWptdzhmbkFrOTNLOFlqWG1oOGlnd0drUXRQYjJ6Vl9PU3FvMjRvLURJb0syWVREa1pzWDltNWJuYVNpWXFyZHF6R3gxakY3dlFSZ1hHcTRBVVlCVEkwRGlGc2pSSFZaV21RNm05NTZORGFWQ3lkU2Njbzl4UjY5STRPMVU4N2xsU0JtQ1dnbi1hZUpxRkR3aFFB?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    }
+  ],
+  [
+    {
+      "title": "Can a Progressive Win in a Purple State? Abdul El-Sayed Wants to Find Out.",
+      "url": "https://www.nytimes.com/2026/07/27/us/politics/el-sayed-michigan-senate.html",
       "source": "New York Times",
       "bias": "left-center",
       "domain": "nytimes.com"
     },
     {
-      "title": "Will mortgage rates improve after this week's Fed meeting?",
-      "url": "https://www.cbsnews.com/news/will-mortgage-rates-improve-after-july-2026-fed-meeting/",
+      "title": "Kalshi attacks a Wisconsin law banning election bets as 'voter suppression'",
+      "url": "https://www.npr.org/2026/07/27/nx-s1-5905360/kalshi-wisconsin-election-betting-prediction-markets",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    }
+  ],
+  [
+    {
+      "title": "For 44 years, this investor held aces in the long-bond game. He just folded.",
+      "url": "https://www.marketwatch.com/story/for-44-years-this-investor-held-aces-in-the-long-bond-game-he-just-folded-dcd39375?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
+    },
+    {
+      "title": "Here's how much interest a $25,000 1-year CD will earn if opened now",
+      "url": "https://www.cbsnews.com/news/how-much-interest-25000-1-year-cd-will-earn-july-2026/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Lindsay Clancy goes on trial over whether postpartum psychosis drove her to kill her 3 children",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRWstVHNZZzJRaTcyQnh5SW5TbVBkM0pxMmRBTUR5VWFqVGRTMmRSdTQ2UjJSZUJIRF9FZldiTGZQeE5YdjFYOTFMS1UyNUlidWMzVkc4c3Juc0NQYnBucVA4VzdtRW9fVUZNR0lGRzExOHNVY0h2dS1KVEJhYjl3aW9lcnNCODdTbFczVDdlS2pIX0hSSG9ZeEF4cHB6TDBBdDN1dWNTaW04R3dD?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Lindsay Clancy now on trial in murder of her 3 children in Massachusetts",
+      "url": "https://www.cbsnews.com/live-updates/lindsay-clancy-trial-live-updates-patrick-clancy/",
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"

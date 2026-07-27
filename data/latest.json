@@ -1,11 +1,74 @@
 [
   [
     {
-      "title": "Strategist\u2019s mathematical formula for Trump\u2019s \u2018TACOs\u2019 borne out by weekend ceasefire",
-      "url": "https://www.marketwatch.com/story/strategists-mathematical-formula-for-trumps-tacos-borne-out-by-weekend-ceasefire-9459c85d?mod=mw_rss_topstories",
+      "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges",
+      "url": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
+    },
+    {
+      "title": "Pregnant Woman Among Three Injured in Paris 'Allah Commanded Me' Stabbing Spree",
+      "url": "https://www.breitbart.com/europe/2026/07/27/pregnant-woman-among-three-injured-in-paris-allah-commanded-me-stabbing-spree/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
+    },
+    {
+      "title": "Two Russian men jailed in Angola for terrorism and spying",
+      "url": "https://www.theguardian.com/world/2026/jul/23/two-russian-men-jailed-angola-terrorism-and-spying",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "Congress Budgeted Billions for Big Transit Projects. Trump Isn\u2019t Spending It.",
+      "url": "https://www.nytimes.com/2026/07/27/upshot/transit-projects-trump.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Mets trot out a Korean pop star with an amazing windup for first pitch duties, Wemby plays soccer & Rosie",
+      "url": "https://www.foxnews.com/outkick-sports/mets-trot-korean-pop-star-amazing-windup-first-pitch-duties-wemby-plays-soccer-rosie",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Houthis claim attack on Saudi oil refinery as Iran war widens to Red Sea",
+      "url": "https://www.washingtonpost.com/world/2026/07/25/houthis-claim-attack-saudi-oil-refinery-iran-war-widens-red-sea/",
+      "source": "Washington Post",
+      "bias": "left-center",
+      "domain": "washingtonpost.com"
+    },
+    {
+      "title": "Oil price dives as US and Iran pause attacks",
+      "url": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "Oil prices see largest one-day declines in two months after U.S. and Iran pause strikes",
+      "url": "https://www.marketwatch.com/story/oil-prices-see-largest-one-day-declines-in-two-months-amid-pause-in-strikes-d819160a?mod=mw_rss_topstories",
       "source": "Wall Street Journal",
       "bias": "center-right",
       "domain": "wsj.com"
+    },
+    {
+      "title": "Police search for second suspect following Seattle food festival shooting that killed 3",
+      "url": "https://nypost.com/2026/07/27/us-news/police-search-for-second-suspect-following-seattle-food-festival-shooting-that-killed-3/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
+      "title": "3 Dead, 4 Wounded In Mass Shooting Near Seattle\u2019s Iconic Space Needle",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN1F2QXZ2R2JQWkxvYkhNNnl4ZFRJbTFuWHNZYnNvLVFIRWFfSWNYY1M4OUNNN2VmRUREZ0N2ZWNSRGRSSkJhWWdqcXlOLTdOb2xMazFtYmZiVDZPVWJKM1JtRjR2d3U0QVQwamlzVjd6V21JTVp5VEtxaWlXb202ZzF3VE51cVJDeTA4bzV1VUJLVkcxWlBj0gGcAUFVX3lxTE5hRVdkdVN0VEtXdG9hRy1lU1A4VG1wYTZhTE5NbGZwc3ZCS0hpNlJZU2hfbTdGWWlLRHEyN2s1VklOaVVxaEF2alFILXEza1VWdXBIMk00cGdCSURfWGlxS0pjcDZQNTYxaUtmOHYwMmpEdkVFTHg4VWotWEtaYUNYMmZCazdJUWZObWR4UkdNSmRXT1ZjZUFHMmpSbg?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
     },
     {
       "title": "WATCH:  Daredevils scale and jump from Space Needle in Seattle",
@@ -22,11 +85,18 @@
       "domain": "dailywire.com"
     },
     {
-      "title": "Wildfire Smoke Chokes Skies in Spain and France",
-      "url": "https://www.nytimes.com/2026/07/25/world/europe/wildfires-photos-spain-france.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
+      "title": "Honduras\u2019s Hernandez returns home after Trump pardon: How it happened",
+      "url": "https://www.aljazeera.com/news/2026/7/27/hondurass-hernandez-returns-home-after-trump-pardon-how-it-happened?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "Wildfires in France drive 250,000 people from their homes and creep toward wine city of Bordeaux",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNczhHX2xpd0c1SE9SNVh5TW5kN1ZsajJkTUhnRE5zYmJLbGd3X1B6bFJJUEVRTUxQV2ZWRWVIWnBnZ0liQS1ESHJaTVFZZlBwWkNKVXRQNklpVVdkUG9xaXZRZFFLX0lBTUE3b3FUNnpGSE1CZDRHSDB1cjFOeWpYbFlwNXFianFabGVNTnpaODRhbkNkcXUzcklfN0NsWFk?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
     },
     {
       "title": "Tadej Poga\u010dar of Slovenia wins the 2026 Tour de France, his fifth victory in the race",
@@ -36,110 +106,79 @@
       "domain": "npr.org"
     },
     {
-      "title": "Iran says it still controls strait, not seeking talks, after Trump halts bombing",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYTcyMDhXSXVNVFp4QlpqSGdQc3ZqaFN0c1hYSml1ZWhZS1FXbVN1Ql8zYUllVkpETjdMbXNRWUV3eHVqZWFnYnlBY1pvTzQ0WGNESmRyOGhCaFU4dEZwQXptVEV6Q19xb2FBVGxuLWFmUUZ0c0hjRFAzZXJMN2RYd0diYnJQM1M0Ylp6NWp1M0NBMFlFWi1scUNFRGtJblVFUEJzWF9iRTY3QXY4OFZuWmM4Rk01NFF6REllM0NpSEVXVmd3OFc5bnc0ZFM?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "Houthis claim attack on Saudi oil refinery as Iran war widens to Red Sea",
-      "url": "https://www.washingtonpost.com/world/2026/07/25/houthis-claim-attack-saudi-oil-refinery-iran-war-widens-red-sea/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
-    },
-    {
-      "title": "EXCLUSIVE: Trump admin fast-tracks asylum cases, bypassing interviews to slash backlog",
-      "url": "https://www.foxnews.com/politics/exclusive-trump-admin-fast-tracks-asylum-cases-bypassing-interviews-slash-backlog",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges",
-      "url": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
-    },
-    {
-      "title": "Anger, shock and grief - questions remain in the wake of the Berlin Pride attack",
-      "url": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "Three killed in suspected shootout in US city of Seattle, police say",
-      "url": "https://www.aljazeera.com/news/2026/7/27/three-killed-in-suspected-shootout-in-us-city-of-seattle-police-say?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "3 Dead, 4 Wounded In Mass Shooting Near Seattle\u2019s Iconic Space Needle",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN1F2QXZ2R2JQWkxvYkhNNnl4ZFRJbTFuWHNZYnNvLVFIRWFfSWNYY1M4OUNNN2VmRUREZ0N2ZWNSRGRSSkJhWWdqcXlOLTdOb2xMazFtYmZiVDZPVWJKM1JtRjR2d3U0QVQwamlzVjd6V21JTVp5VEtxaWlXb202ZzF3VE51cVJDeTA4bzV1VUJLVkcxWlBj0gGcAUFVX3lxTE5hRVdkdVN0VEtXdG9hRy1lU1A4VG1wYTZhTE5NbGZwc3ZCS0hpNlJZU2hfbTdGWWlLRHEyN2s1VklOaVVxaEF2alFILXEza1VWdXBIMk00cGdCSURfWGlxS0pjcDZQNTYxaUtmOHYwMmpEdkVFTHg4VWotWEtaYUNYMmZCazdJUWZObWR4UkdNSmRXT1ZjZUFHMmpSbg?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    },
-    {
-      "title": "Newborn Abandoned in Indianapolis, Police Search for Mother",
-      "url": "https://www.breitbart.com/crime/2026/07/26/newborn-abandoned-in-indianapolis-police-search-for-mother/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
-    },
-    {
-      "title": "Two Russian men jailed in Angola for terrorism and spying",
-      "url": "https://www.theguardian.com/world/2026/jul/23/two-russian-men-jailed-angola-terrorism-and-spying",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    },
-    {
-      "title": "ICE plans to target Haitians as their Temporary Protected Status ends, sources say",
-      "url": "https://www.cbsnews.com/video/ice-plans-to-target-haitians-as-their-temporary-protected-status-ends-sources-say/",
+      "title": "U.S. mom and kids trapped by French wildfire: \"Such an unstable situation\"",
+      "url": "https://www.cbsnews.com/news/wildfires-france-spain-heat-wave-forecast/",
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"
     },
     {
-      "title": "OpenAI says its AI technology acted on its own in an 'unprecedented' hack of another company",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWGF1TU12c0lBby0xOWkwb3VudWxHZXgxVHJ2REdXZV8tQW11RmZYMEVNVnVrMW1SY1NMTzA1aDN0ZFp1cjVTYlk0S0lVcnZES0tiOVgzV3ZaaDFKSllERVhWTFlaV0pyWk9UMGxkTHRhUmFNTzJkYXJnbjNOZmg4UHIyeWk4Q0NRUHQwZjNnclZLTXc?oc=5",
-      "source": "Associated Press",
+      "title": "French police arrest man after he attacked three women with knives in Paris",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOEFRMnRXTk9qd0Njd2t4WFlNMHo4dnpYSnNrRTJWN012eTNJeWF6aXFsbEZBS2ZJdnFCRjFDLXQ0UXBYSkNqUFVpc0dBb1RZRWYzNjkyTjgyX29OakUteHdpYk1yWGZrMzFaMklMSEg2NWpMZUlQR1pPa0pXNFlqcG9iNi1VekE0dncwQXN1SlVCSGZ5Rnc?oc=5",
+      "source": "Reuters",
       "bias": "center",
-      "domain": "apnews.com"
+      "domain": "reuters.com"
     }
   ],
   [
     {
-      "title": "The war on data centers jeopardizes our economy and national security",
-      "url": "https://www.foxnews.com/opinion/war-data-centers-jeopardizes-economy-national-security",
+      "title": "Millions in the US could face massive consequences unless McCarthy can navigate out of a debt trap he set for Biden",
+      "url": "https://www.cnn.com/2023/04/18/politics/mccarthy-biden-debt-ceiling/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
+    },
+    {
+      "title": "'Holy F**king Cringe': Trump White House Ripped Over 'Weird Embarrassing Crap' Video",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ05BWGdNMXhsa2hJZjZUazZaUHJzNk9LT2tWYWxGdEx1TVM3MVNGM3FoNWRBWGVxejQwMnpmYXYxa0VkdmV6a0dBMTZVdWdYUF9EWEdEdTRva2xUUlJ1aXh6VzRyZzBSdDNxMFJoX3N6aEhCcGpKN3BQMXpPc0lxQVU1cHV4YnFQZGJYdNIBkgFBVV95cUxOWUhIQlp1ZlRVLUdBQ2JSeld3dlZDemVCRjg1TkVjQWphN1RLWVNPX1dfSmlEcXJ6a2xYbGFoUG9wb1BsNklXUWRtOEI5YS0yZHV6WFBJRUtwVm45QUJuYm9TV2lFU2dOeThIYWd6bXJQeGxBeXFJRzh0bC1IdEpUckZZbWNlS1dDZVV6X2hTRXg5dw?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    }
+  ],
+  [
+    {
+      "title": "'You're So Vain' singer Carly Simon says Parkinson's and cancer diagnoses kept her from public eye",
+      "url": "https://www.foxnews.com/entertainment/youre-so-vain-singer-carly-simon-parkinsons-cancer-diagnoses-kept-public-eye",
       "source": "Fox News",
       "bias": "right",
       "domain": "foxnews.com"
     },
     {
-      "title": "5 Things to Know About Meta\u2019s Giant Data Center in Louisiana",
-      "url": "https://www.nytimes.com/2026/07/27/business/5-things-to-know-about-metas-giant-data-center-in-louisiana.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
+      "title": "Carly Simon reveals Parkinson's diagnosis",
+      "url": "https://www.bbc.co.uk/news/articles/c5y3gymn6p6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
     }
   ],
   [
     {
-      "title": "Would you choose \u00a350,000 over the chance of \u00a31m?",
-      "url": "https://www.bbc.co.uk/news/articles/cn0njd4e2evo?at_medium=RSS&at_campaign=rss",
+      "title": "Millions see leaked copy of The Odyssey movie on X",
+      "url": "https://www.bbc.co.uk/news/articles/c1m1ev5j3m2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "bias": "center",
       "domain": "bbc.com"
     },
     {
-      "title": "Would you take $65,000 today, or flip a coin for a chance to win $1.3 million?",
-      "url": "https://www.marketwatch.com/story/would-you-take-65-000-today-or-flip-a-coin-for-a-chance-to-win-1-3-million-d134961a?mod=mw_rss_topstories",
+      "title": "Christopher Nolan Says Ending of Homer's 'Odyssey' Is Too 'Misogynistic' to Adapt Faithfully",
+      "url": "https://www.breitbart.com/entertainment/2026/07/27/christopher-nolan-says-ending-of-homers-odyssey-is-too-misogynistic-to-adapt-faithfully/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
+    }
+  ],
+  [
+    {
+      "title": "Explore New York City\u2019s Layered Histories for the 250th Anniversary of the U.S.",
+      "url": "https://www.nytimes.com/2026/07/25/nyregion/nyc-history-america-250-clues.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Do I need to hire a broker to find an apartment in New York City?",
+      "url": "https://www.marketwatch.com/story/do-i-need-to-hire-a-broker-to-find-an-apartment-in-new-york-city-f5f9cf34?mod=mw_rss_topstories",
       "source": "Wall Street Journal",
       "bias": "center-right",
       "domain": "wsj.com"
@@ -159,54 +198,6 @@
       "source": "NPR",
       "bias": "left-center",
       "domain": "npr.org"
-    }
-  ],
-  [
-    {
-      "title": "Israeli forces storm multiple West Bank towns, settler violence worsens",
-      "url": "https://www.aljazeera.com/news/2026/7/27/israeli-forces-storm-multiple-west-bank-towns-settler-violence-worsens?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "UNESCO adds France's D-Day landing beaches, Greece's Mount Olympus to World Heritage List",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWXRWNmVBUThCWWRVOVdHcUt3Z29oeV8wdzYtV1F4WTFIeHM0VWo4M083UWxteEpsaDhIUEJpQjhNcl90RlJhYU94UjdhdzZ2VXNTRUhxUnU3ekoyUHd5eGVwamoyc0VwZkRsR3hCazdyRktMcXdLbTVrQ0FaQnNMUGhyU2ZYRXBIakJsRFFoUUlqaE43M3kyT3JhTTFUUzRZOS1uU1ZR?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    }
-  ],
-  [
-    {
-      "title": "British woman jailed in Hong Kong for blackmail after accusing banker of rape",
-      "url": "https://www.theguardian.com/world/2026/jul/22/british-woman-jailed-hong-kong-false-allegations",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    },
-    {
-      "title": "Remains found by kayakers identified as woman missing since 1985",
-      "url": "https://www.cbsnews.com/news/remains-found-kayakers-florida-identified-woman-vanished-1985/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    }
-  ],
-  [
-    {
-      "title": "Behind LeBron James' move to the 76ers and his chances for another NBA title",
-      "url": "https://www.cbsnews.com/video/behind-lebron-james-move-to-the-76ers-and-his-chances-for-another-nba-title/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "WATCH:  Philly goes wild for LeBron",
-      "url": "https://abcnews.com/video/135091185/",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
     }
   ]
 ]

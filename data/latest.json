@@ -1,78 +1,71 @@
 [
   [
     {
-      "title": "Fauci Diaries: Anthony Fauci Ran to Obama for PR Help, Obama Called Trump a 'Hopeless Idiot... Pathological Liar'",
-      "url": "https://www.breitbart.com/politics/2026/07/27/fauci-diaries-anthony-fauci-ran-to-obama-for-pr-help-obama-called-trump-a-hopeless-idiot-pathological-liar/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
+      "title": "Nvidia\u2019s potential new deal with OpenAI would revive a spooky tech-bubble habit, analyst warns",
+      "url": "https://www.marketwatch.com/story/nvidias-potential-new-deal-with-openai-would-revive-a-spooky-tech-bubble-habit-analyst-warns-ae34ed64?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
     },
     {
-      "title": "WATCH:  Daredevils scale and jump from Space Needle in Seattle",
-      "url": "https://abcnews.com/video/135105974/",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    },
-    {
-      "title": "3 Dead, 4 Wounded In Mass Shooting Near Seattle\u2019s Iconic Space Needle",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN1F2QXZ2R2JQWkxvYkhNNnl4ZFRJbTFuWHNZYnNvLVFIRWFfSWNYY1M4OUNNN2VmRUREZ0N2ZWNSRGRSSkJhWWdqcXlOLTdOb2xMazFtYmZiVDZPVWJKM1JtRjR2d3U0QVQwamlzVjd6V21JTVp5VEtxaWlXb202ZzF3VE51cVJDeTA4bzV1VUJLVkcxWlBj0gGcAUFVX3lxTE5hRVdkdVN0VEtXdG9hRy1lU1A4VG1wYTZhTE5NbGZwc3ZCS0hpNlJZU2hfbTdGWWlLRHEyN2s1VklOaVVxaEF2alFILXEza1VWdXBIMk00cGdCSURfWGlxS0pjcDZQNTYxaUtmOHYwMmpEdkVFTHg4VWotWEtaYUNYMmZCazdJUWZObWR4UkdNSmRXT1ZjZUFHMmpSbg?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    },
-    {
-      "title": "Chargers face key questions on OL ahead of season with big expectations",
-      "url": "https://nypost.com/2026/07/27/sports/chargers-position-battles-during-training-camp-involve-backup-left-guard-safety-te/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "Commanders fire tight ends coach Ben Steele following DWI arrest last month",
-      "url": "https://www.foxnews.com/sports/commanders-fire-tight-ends-coach-ben-steele-following-dwi-arrest-last-month",
+      "title": "Senate clears way for Trump's top spy as key anti-terror program remains in limbo",
+      "url": "https://www.foxnews.com/politics/senate-clears-way-trumps-top-spy-key-anti-terror-program-remains-limbo",
       "source": "Fox News",
       "bias": "right",
       "domain": "foxnews.com"
     },
     {
-      "title": "Bridge connecting Canada and U.S. opens after Trump tried to block it",
-      "url": "https://www.washingtonpost.com/nation/2026/07/27/gordie-howe-bridge-between-canada-us-opens-after-trump-tried-block-it/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
-    },
-    {
-      "title": "Trump\u2019s border czar says vetting of ICE officer is under internal review after Maine shooting",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPclZfRHpWQkl6d3ZBSGJfNFhpTTM5b3VYU180eG1RaWZISEVzQktrTkZzenhsb1FzZ0FqVkQ5VVltbDN4SkRqM1UzNUJCMURCeTNzWW9kRVlLcTI1T3RjN0VmZm9CblZaQklZaWtyblF0VmQ0TFhaWWpjUENKdXRhOXpfNFJzMVNhYkx5U0RZcDdRblV4WHNLOXYteFJZZkU?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "Case to Be Dropped Against Labor Leader David Huerta in L.A. Immigration Raid",
-      "url": "https://www.nytimes.com/2026/07/27/us/david-huerta-charges-dismiss-la-immigration-raids.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "A 13-year-old dies after participating in a Benadryl TikTok 'challenge'",
-      "url": "https://www.cnn.com/2023/04/18/us/benadryl-tiktok-challenge-teen-death-wellness/index.html",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
-    },
-    {
-      "title": "Bryan Kohberger challenges conviction in Idaho murders",
-      "url": "https://www.cbsnews.com/news/bryan-kohberger-petition-idaho-murders-conviction/",
+      "title": "Races to watch with 99 days until midterms",
+      "url": "https://www.cbsnews.com/video/races-to-watch-99-days-until-midterms/",
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"
     },
     {
-      "title": "Man jailed for abduction and rape of girl, 15, in Edinburgh basement",
-      "url": "https://www.bbc.co.uk/news/articles/c141x6lp8p4o?at_medium=RSS&at_campaign=rss",
+      "title": "Prosecutors Seek To Drop Charge Against Labor Leader Arrested At Immigration Raid",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdlBSSGV3dmczOWtKcFhUTFYtc0VEZzAxTW1UZ09vc0VGYUhVNFk5bVY5Q01pODlJVG5YdU0wa0ZqZXA1OVJOUTNMTld3SmczX1ZaQlJCNWF5dzJJd2JKTmpoTUZ0eDZiaDBmRVRxUVJrRlZVM201dVhYTmdHbFJoUzg2U3Bwb3NnckVWQjNzbzJISW1wQ2pR0gGcAUFVX3lxTE9aUnNEXzRQZWpMNEdQWjRscXJoeHZUcGRfVG9rSU9rRzc3UTM4WGpjMC1RekoxRTBVcXJTemdwUnotUEdqVWxaTkkxSUJPM1BQV3BKRXVXRjRYd0FaOWF4MEhZVnNMbEZsOHpaNmFlX183UXZRXzlVMHdzVHVQVGhtMlJkU1Qya01QWTU3dmNjUzB5ZTVsV3dxNDBTRQ?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    },
+    {
+      "title": "Iran Focuses Attacks on Saudi Arabia and Red Sea Shipping Lanes",
+      "url": "https://www.breitbart.com/middle-east/2026/07/27/iran-focuses-attacks-on-saudi-arabia-and-red-sea-shipping-lanes/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
+    },
+    {
+      "title": "Airstrikes have paused and talks are pressing forward. But can the US and Iran take the off-ramp?",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNDJld2dfWkJobEFGdjZJaUQ0LThjRlJfcDFXSVc4dEwxMjhmeVB4QVVqcFVTV3B3RGRFV2NHWmpQdWsyVEx6ckxOdWVXcXcyRmpuejVER2R2alBhTEIyRlhGaHkyUXRQSjNKQ1kySDR4dHZvdm9LTWxMMXZUZ3p1ZUJqOE1WS1VNYlpKalF0NWdsVTdWZ3c0ZGRB?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "After Watching Luxury Cars Drag Race, Trump Blames High Costs on Biden",
+      "url": "https://www.nytimes.com/2026/07/27/us/politics/trump-michigan-speech-tariffs.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Just one in three Americans back Iran war, most unsure of Trump's goals, Reuters/Ipsos poll finds",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcmJEaUc4b0UwWHY1NzlsOHBDa2Zfb1dpai1kUnc5Z1k3cTgxVUlTUVVUY20tNnZzMGR2MWtwWU9RbEloZWZEWXctMFdOMWt2S0ZVbHFKUlBWRXIxby1pcEFtNjRBM0VVUDRZNVJ2ZE1uVHdhampTelpoX3Brd0M0X0xiQjltcTF2MHNtcTNWLU5talJGOTNZbGhQbUtwRnZiZDctMVFiMS02am5VVXFvNHJtNDFEQTBURzVCM01R?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "D4vd murder case: Singer to stand trial on charges over 14-year-old girl's death",
+      "url": "https://abcnews.com/US/d4vd-murder-case-singer-stand-trial-charges-14/story?id=135032550",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    },
+    {
+      "title": "US singer D4vd to go on trial for murder in death of 14-year-old",
+      "url": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "bias": "center",
       "domain": "bbc.com"
@@ -85,22 +78,29 @@
       "domain": "theguardian.com"
     },
     {
-      "title": "Hakeem Jeffries puts affordability at centre of Democrats\u2019 midterm campaign",
-      "url": "https://www.aljazeera.com/economy/2026/7/27/hakeem-jeffries-puts-affordability-at-centre-of-democrats-midterm-campaign?traffic_source=rss",
+      "title": "A 13-year-old dies after participating in a Benadryl TikTok 'challenge'",
+      "url": "https://www.cnn.com/2023/04/18/us/benadryl-tiktok-challenge-teen-death-wellness/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
+    },
+    {
+      "title": "Heat staffer\u2019s mistake to blame for premature LeBron James YouTube presser",
+      "url": "https://nypost.com/2026/07/27/sports/heat-staffers-mistake-to-blame-for-lebron-james-youtube-presser/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
+      "title": "Shot fired outside US consulate in Canada for second time this year",
+      "url": "https://www.aljazeera.com/news/2026/7/27/shot-fired-outside-us-consulate-in-canada-for-second-time-this-year?traffic_source=rss",
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
     },
     {
-      "title": "\u2018I know what he wants to do,\u2019 Trump says of Fed\u2019s Warsh, as president presses for rate cuts",
-      "url": "https://www.marketwatch.com/story/i-know-what-he-wants-to-do-trump-says-of-feds-warsh-as-president-presses-for-rate-cuts-edaa115e?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
-    },
-    {
-      "title": "3 dead in mass shooting in Seattle. And, U.S. and Iran pause fighting",
-      "url": "https://www.npr.org/2026/07/27/g-s1-135621/up-first-newsletter-mass-shooting-seattle-iran-us-war-democrats-senate-midterms",
+      "title": "Platner energized Maine's Democrats. Jackson's challenge will be to keep them engaged",
+      "url": "https://www.npr.org/2026/07/27/nx-s1-5902276/platner-energized-maines-democrats-jacksons-challenge-will-be-to-keep-them-engaged",
       "source": "NPR",
       "bias": "left-center",
       "domain": "npr.org"
@@ -122,8 +122,8 @@
       "domain": "npr.org"
     },
     {
-      "title": "Heat From France\u2019s Wildfires Creates a \u2018Fire Cloud,\u2019 or Pyrocumulonimbus",
-      "url": "https://www.nytimes.com/2026/07/27/world/europe/pyrocumulonimbus-fire-cloud-france-wildfires.html",
+      "title": "Hundreds of Thousands Evacuate as Fires Tear Through Europe",
+      "url": "https://www.nytimes.com/2026/07/27/briefing/france-spain-fires-daylight-saving-time.html",
       "source": "New York Times",
       "bias": "left-center",
       "domain": "nytimes.com"
@@ -138,86 +138,31 @@
   ],
   [
     {
-      "title": "'Do the right thing': Savannah Guthrie makes another plea to mom's kidnappers",
-      "url": "https://www.bbc.co.uk/news/articles/c5y4grv7pp8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "Savannah Guthrie urges captors to 'make the right choice,' return mother",
-      "url": "https://abcnews.com/US/savannah-guthrie-urges-captors-make-choice-return-mother/story?id=135127701",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    },
-    {
-      "title": "Savannah Guthrie asks alleged kidnappers to \"do the right thing\" in new video",
-      "url": "https://www.cbsnews.com/news/savannah-guthrie-plea-missing-mother-nancy-guthrie/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    }
-  ],
-  [
-    {
-      "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
-      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+      "title": "Newly released video shows scene of Jeremy Renner's snowplow accident",
+      "url": "https://www.cnn.com/videos/us/2023/04/18/jeremy-renner-snowplow-accident-bodycam-nc-melas-contd-vpx.cnn",
       "source": "CNN",
       "bias": "left",
       "domain": "cnn.com"
     },
     {
-      "title": "Authors wary of content ownership despite court ruling on Anthropic case",
-      "url": "https://www.npr.org/2026/07/27/nx-s1-5904606/authors-wary-of-content-ownership-despite-court-ruling-on-anthropic-case",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    }
-  ],
-  [
-    {
-      "title": "Trans influencer breaks silence after Trump's comparison to CNN anchor at WHCA Dinner",
-      "url": "https://www.foxnews.com/politics/trans-influencer-breaks-silence-trump-comparison-cnn-anchor-whca-dinner",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "Trump Tried To Mock Dylan Mulvaney In Public. Her Response Wasn't What Anyone Expected.",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSFZzcUp1cWV2SzdhNHFQU3NoOW5JWHVEOF9tVGF1Y1lSTlBiWWhVOVBtb29UbTZwc05WQTBGc2VPRWVndzY5ZVAtVDYtT0lCUTRzd0UxeDZoeEdmZDJqMEZOem9wMFp4bEFwMzZzanI0WWY3Q0xQUm5VQWNfbzU1aTlWRGhKeWZydC03NG0xM2F0dFBIenlDZXUtUVlRNlZIeEJ1LWxJandoaEZBdmhSYVduU2JGSTduZGM0YVNxWDl5TW1OZUdj?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    }
-  ],
-  [
-    {
-      "title": "WNBA responds to questions about missing USA 250 patch at All-Star Game but dodges key details",
-      "url": "https://www.foxnews.com/outkick-sports/wnba-responds-questions-missing-usa-250-patch-all-star-game-dodges-key-details",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "The best looks from the WNBA All-Star Weekend 2026: Caitlin Clark, Azzi Fudd and more",
-      "url": "https://pagesix.com/video/the-best-looks-from-the-wnba-all-star-weekend-2026-caitlin-clark-azzi-fudd-and-more/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    }
-  ],
-  [
-    {
-      "title": "Trump says US is talking with Iran right now",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZzhaOE5EZkZWdTRDZlhoaTUwempUc3g2QnpqSDAxM0hCeVNCZ190UDZTcmJTU2pWSHBXWTAzaFdtclJqR0VyZUN6NTVLakxmTHdSdk5PRXRhalZwNEhQSDlRSXQ3LUoxa003SWVvVEJpMjFGV2IxSGJjVWg0VHROY0pqVUROT0RxNmJRYTdrN1F4bndKa19vd051VzhwTHM?oc=5",
-      "source": "Reuters",
+      "title": "Video shows man subdued after stabbing three women in Paris",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/video-shows-man-subdued-after-stabbing-three-women-in-paris?traffic_source=rss",
+      "source": "Al Jazeera",
       "bias": "center",
-      "domain": "reuters.com"
+      "domain": "aljazeera.com"
+    }
+  ],
+  [
+    {
+      "title": "Toddler crawls through White House fence, prompts Secret Service response",
+      "url": "https://www.cnn.com/2023/04/18/politics/white-house-toddler/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
     },
     {
-      "title": "Trump says U.S. will \"go back to doing what we were doing\" if Iran talks stall",
-      "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-strait-of-hormuz-talks-oman/",
+      "title": "Taylor Farms CEO pressed by lawmaker over cyclospora outbreak",
+      "url": "https://www.cbsnews.com/news/taylor-farms-cyclospora-outbreak-white-house-investigation/",
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"
@@ -225,18 +170,18 @@
   ],
   [
     {
-      "title": "Zelensky visit sends clear message of support for Ukraine, Burnham says",
-      "url": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
+      "title": "Trump administration asks Supreme Court to allow mail-in ballot restrictions",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVWVWam9GVkNmbGFsV0plOXlJbHY3WWxnVGJGR2tsTGJkblZQTUd0SzdLdXBtMEthYUN1Uk01eWpZNEl4SllCTUpYQVhCT2o0WE9vLUkwUWd0blB3QTVXY3FkbkdmUHFTUnJnMHJrUHdIdHlMQXNiWXd5R3pjNnRrQjBlbWlESlpVc19jWV9wVUhabGM1WS04Z0trcUl3Q2UxdzI4VHhaQmgteWhzc2pRN241dU1wQQ?oc=5",
+      "source": "Reuters",
       "bias": "center",
-      "domain": "bbc.com"
+      "domain": "reuters.com"
     },
     {
-      "title": "Zelensky is first foreign leader to visit Burnham, U.K.\u2019s new prime minister",
-      "url": "https://www.washingtonpost.com/world/2026/07/27/zelensky-is-first-foreign-leader-visit-burnham-uks-new-prime-minister/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
+      "title": "Trump asks US Supreme Court to allow mail-in voting restrictions",
+      "url": "https://www.aljazeera.com/news/2026/7/27/trump-asks-us-supreme-court-to-allow-mail-in-voting-restrictions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
     }
   ],
   [
@@ -257,47 +202,31 @@
   ],
   [
     {
-      "title": "Can a Progressive Win in a Purple State? Abdul El-Sayed Wants to Find Out.",
-      "url": "https://www.nytimes.com/2026/07/27/us/politics/el-sayed-michigan-senate.html",
+      "title": "Comey Seeks Dismissal of Charges Accusing Him of Threatening Trump",
+      "url": "https://www.nytimes.com/2026/07/27/us/politics/comey-seeks-dismissal-of-charges.html",
       "source": "New York Times",
       "bias": "left-center",
       "domain": "nytimes.com"
     },
     {
-      "title": "Kalshi attacks a Wisconsin law banning election bets as 'voter suppression'",
-      "url": "https://www.npr.org/2026/07/27/nx-s1-5905360/kalshi-wisconsin-election-betting-prediction-markets",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    }
-  ],
-  [
-    {
-      "title": "For 44 years, this investor held aces in the long-bond game. He just folded.",
-      "url": "https://www.marketwatch.com/story/for-44-years-this-investor-held-aces-in-the-long-bond-game-he-just-folded-dcd39375?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
-    },
-    {
-      "title": "Here's how much interest a $25,000 1-year CD will earn if opened now",
-      "url": "https://www.cbsnews.com/news/how-much-interest-25000-1-year-cd-will-earn-july-2026/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    }
-  ],
-  [
-    {
-      "title": "Lindsay Clancy goes on trial over whether postpartum psychosis drove her to kill her 3 children",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRWstVHNZZzJRaTcyQnh5SW5TbVBkM0pxMmRBTUR5VWFqVGRTMmRSdTQ2UjJSZUJIRF9FZldiTGZQeE5YdjFYOTFMS1UyNUlidWMzVkc4c3Juc0NQYnBucVA4VzdtRW9fVUZNR0lGRzExOHNVY0h2dS1KVEJhYjl3aW9lcnNCODdTbFczVDdlS2pIX0hSSG9ZeEF4cHB6TDBBdDN1dWNTaW04R3dD?oc=5",
+      "title": "Comey says seashells post was political speech - not a threat - as he presses to dismiss charges",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZkZTUldHTGdCc2s2RDZwVzg4ZWhYWGNnX2tuSzNpZW9rRTlNMUVDZ0RyLTk4Z2hrb0FMcEEtQ0FRbzhEUVNOUzY2VGpfSXlXU3l0Q0M4dkhOaHdIZG9NbkZQTWtiWkxxMlhNSkduZEhrS2o2bFRXbS1Qa2VMTW5qR1AwemZEUUZkYm11MHVQSDllbEZqYk4yVDFZQnlqQmlSdFM1SXRkbWRGUQ?oc=5",
       "source": "Associated Press",
       "bias": "center",
       "domain": "apnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Wife Of Kansas City Chiefs Coach Is Shot At Home; Son Charged: Reports",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaWJiMkVNZHZrS1JKeE9PUWhrck9oNVdsZktzMWpiWWMyYWt0T2k4Nm1KQi1PcmJ0bVRzeFZqUkNTM3cwaklrc3A4T3VWbk40SWppME5aMXNnVTRGanBPdnQ1NDVJcW1WOUN2RVRYY0tyQ2JjdU5RV3UxTF9uTzBGZlJLR3ozQmt5VWJsZdIBkgFBVV95cUxQOFMxZlpiNEk2TE5ZUGFsN1oybDZjbUk1LXkyYTNUeUt1NEZvMkxBaFNIOWxkZ3RmbmVJeDctQ2VIVWYwaU1fUFZiRXdmZlAxaEs5UjBNSWxwbHRubVBOVFZQNHFUa1VNRm15ejFmT0JhUEtNZEszQ2lNYXNoWHhzY3pnYnl5bERReHZYcngxTjluUQ?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
     },
     {
-      "title": "Lindsay Clancy now on trial in murder of her 3 children in Massachusetts",
-      "url": "https://www.cbsnews.com/live-updates/lindsay-clancy-trial-live-updates-patrick-clancy/",
+      "title": "Chiefs assistant coach Eric Bieniemy's son charged in shooting of his mother",
+      "url": "https://www.cbsnews.com/news/chiefs-assistant-eric-bieniemy-son-charged-shooting-mother-virginia/",
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"

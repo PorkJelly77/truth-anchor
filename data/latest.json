@@ -1,18 +1,18 @@
 [
   [
     {
-      "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges",
-      "url": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html",
+      "title": "Bryan Kohberger, Convicted in Idaho College Killings, Seeks to Take Back Guilty Plea",
+      "url": "https://www.nytimes.com/2026/07/27/us/bryan-kohberger-idaho-college-deaths.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "A 13-year-old dies after participating in a Benadryl TikTok 'challenge'",
+      "url": "https://www.cnn.com/2023/04/18/us/benadryl-tiktok-challenge-teen-death-wellness/index.html",
       "source": "CNN",
       "bias": "left",
       "domain": "cnn.com"
-    },
-    {
-      "title": "Tennessee woman accused of turning traffic stop into a show for passing drivers by allegedly exposing herself",
-      "url": "https://www.foxnews.com/outkick-culture/tennessee-woman-accused-turning-traffic-stop-show-passing-drivers-allegedly-exposing-herself",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
     },
     {
       "title": "British woman jailed in Hong Kong for blackmail after accusing banker of rape",
@@ -22,6 +22,13 @@
       "domain": "theguardian.com"
     },
     {
+      "title": "Mystery of headless woman drained of blood deepens in California",
+      "url": "https://nypost.com/2026/07/27/us-news/investigators-searching-for-clues-in-cold-case-of-headless-woman/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
       "title": "Man jailed for abduction and rape of girl, 15, in Edinburgh basement",
       "url": "https://www.bbc.co.uk/news/articles/c141x6lp8p4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -29,25 +36,32 @@
       "domain": "bbc.com"
     },
     {
-      "title": "Nolte: Trump-hating \u2018Reacher\u2019 Star Alan Ritchson Self-sabotaged His Box Office Bomb \u2018Motor City\u2019",
-      "url": "https://www.breitbart.com/entertainment/2026/07/27/nolte-trump-hating-reacher-star-alan-ritchson-self-sabotaged-his-box-office-bomb-motor-city/",
+      "title": "Nolte: Disastrous CEO Julie Masino Out at Cracker Barrel",
+      "url": "https://www.breitbart.com/politics/2026/07/27/nolte-disastrous-ceo-julie-masino-out-at-cracker-barrel/",
       "source": "Breitbart",
       "bias": "right",
       "domain": "breitbart.com"
     },
     {
-      "title": "Mamdani names all NYC property owners who could be hit with new pied-\u00e0-terre tax",
-      "url": "https://nypost.com/2026/07/27/us-news/mamdani-names-all-nyc-property-owners-who-could-be-hit-with-new-pied-a-terre-tax/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
+      "title": "Wife Of Kansas City Chiefs Coach Is Shot At Home; Son Charged: Reports",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaWJiMkVNZHZrS1JKeE9PUWhrck9oNVdsZktzMWpiWWMyYWt0T2k4Nm1KQi1PcmJ0bVRzeFZqUkNTM3cwaklrc3A4T3VWbk40SWppME5aMXNnVTRGanBPdnQ1NDVJcW1WOUN2RVRYY0tyQ2JjdU5RV3UxTF9uTzBGZlJLR3ozQmt5VWJsZdIBkgFBVV95cUxQOFMxZlpiNEk2TE5ZUGFsN1oybDZjbUk1LXkyYTNUeUt1NEZvMkxBaFNIOWxkZ3RmbmVJeDctQ2VIVWYwaU1fUFZiRXdmZlAxaEs5UjBNSWxwbHRubVBOVFZQNHFUa1VNRm15ejFmT0JhUEtNZEszQ2lNYXNoWHhzY3pnYnl5bERReHZYcngxTjluUQ?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
     },
     {
-      "title": "Merz vows response to Berlin Pride attack amid outcry over suspect",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUExZQjk3OWkyNjBYQXhSNTQ2c0NNZ0paeEpQMmljVVNJTlBTU2ZIcVIxVndVc0hiM1VacE80ZUhyQ0FBWGxLYTY1bkZQOFNOYk1MdWJvM2hLcnlrSC1Zc2F6OEJja1kxTkJaYVlTel9fS18tMEhYcFJSTXFraGdvcWxOR0lxdEQ5X0hZM1VvRGtYVkdUYkFBT2F1elFEN2p6UVMzR04tVGs0RVJIM2ZyRW1B?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
+      "title": "Michigan dad shot wife, six kids then set family home ablaze in murder-suicide, sheriff says",
+      "url": "https://www.foxnews.com/us/michigan-dad-shot-wife-six-kids-set-family-home-ablaze-murder-suicide-sheriff-says",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Live Updates: Trial begins for Lindsay Clancy in murders of her 3 kids",
+      "url": "https://www.cbsnews.com/live-updates/lindsay-clancy-trial-live-updates-patrick-clancy/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
     },
     {
       "title": "3 dead in mass shooting in Seattle. And, U.S. and Iran pause fighting",
@@ -57,8 +71,8 @@
       "domain": "npr.org"
     },
     {
-      "title": "US and Iran pause their attacks after days of escalation",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd1ZkcWRJbVdJX0lWSFo1TGFnSDdhUkFQbHZ1ZGlHVUp0b1BwbEZ0SHVPNGY2NS12NmQ3c3dpbjNVVG5qXzJvUDh6NGVSQnFkS2hEQ1BNbi1jUV9nN1lhUHF5MVlrRVpHdURweU9hTnZPTUYxSFVYaklYeWhlTURTQWJteG5acjYybFplamI2XzlJSW5RbktF?oc=5",
+      "title": "Airstrikes have paused and talks are pressing forward. But can the US and Iran take the off-ramp?",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNDJld2dfWkJobEFGdjZJaUQ0LThjRlJfcDFXSVc4dEwxMjhmeVB4QVVqcFVTV3B3RGRFV2NHWmpQdWsyVEx6ckxOdWVXcXcyRmpuejVER2R2alBhTEIyRlhGaHkyUXRQSjNKQ1kySDR4dHZvdm9LTWxMMXZUZ3p1ZUJqOE1WS1VNYlpKalF0NWdsVTdWZ3c0ZGRB?oc=5",
       "source": "Associated Press",
       "bias": "center",
       "domain": "apnews.com"
@@ -78,20 +92,6 @@
       "domain": "dailywire.com"
     },
     {
-      "title": "U.S.-Iran war appears to pause as Trump gives \"diplomacy a chance\"",
-      "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-strait-of-hormuz-talks-oman/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "Iran Says It Still Controls Strait, Not Seeking Talks, After Trump Halts Bombing",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNU2JaYnVrT29HZnJfa3BmRVpyaWhDU2w1WUU0SHFhbzIwYkdzc1kxUUJoMWlfWmp2WmFwOEljbUNhamdSM0dMTTlDa2plU1gtem5KQi1fS1hjeGlWcnpVaUZuNlI0cmZFNGZvMDhmUGlrTTY5dkJOUVZDbkpaTk1LRV9lNHNzQdIBiwFBVV95cUxObDdvNHVWY3VqdHM2bmtuVDd4UkpuTkNvSXR2TWVMTFZCbWR6ZW5DdmNmTjZZNi1uZUpBakRhZmNLUC0xMFRQYVZYWXRrWlAxWkoxUVkyb1RjR3h3QnZMY2ktLUprZnU2dXp5a3JZRURZTVhyaVhEN3R1U3VHaVZsYnhrdFVLdkFKNXVN?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    },
-    {
       "title": "Houthis claim attack on Saudi oil refinery as Iran war widens to Red Sea",
       "url": "https://www.washingtonpost.com/world/2026/07/25/houthis-claim-attack-saudi-oil-refinery-iran-war-widens-red-sea/",
       "source": "Washington Post",
@@ -99,73 +99,94 @@
       "domain": "washingtonpost.com"
     },
     {
-      "title": "Why a new war in Yemen could be different for the Houthis",
-      "url": "https://www.aljazeera.com/news/2026/7/27/why-a-new-war-in-yemen-could-be-different-for-the-houthis?traffic_source=rss",
+      "title": "Saudi Arabia defends against drone strikes from \u2018Iran-backed\u2019 groups",
+      "url": "https://www.aljazeera.com/news/2026/7/27/saudi-arabia-defends-against-drone-strikes-from-iran-backed-groups?traffic_source=rss",
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
     },
     {
-      "title": "Congress Budgeted Billions for Big Transit Projects. Trump Isn\u2019t Spending It.",
-      "url": "https://www.nytimes.com/2026/07/27/upshot/transit-projects-trump.html",
+      "title": "Trump says US is talking with Iran right now",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZzhaOE5EZkZWdTRDZlhoaTUwempUc3g2QnpqSDAxM0hCeVNCZ190UDZTcmJTU2pWSHBXWTAzaFdtclJqR0VyZUN6NTVLakxmTHdSdk5PRXRhalZwNEhQSDlRSXQ3LUoxa003SWVvVEJpMjFGV2IxSGJjVWg0VHROY0pqVUROT0RxNmJRYTdrN1F4bndKa19vd051VzhwTHM?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    }
+  ],
+  [
+    {
+      "title": "Devastating European wildfires in maps - and how they're being tackled",
+      "url": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "France continues to fight devastating wildfires, while progress is made in Spain",
+      "url": "https://www.npr.org/2026/07/27/nx-s1-5909107/france-spain-wildfires-updates",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "Heat From France\u2019s Wildfires Creates a \u2018Fire Cloud,\u2019 or Pyrocumulonimbus",
+      "url": "https://www.nytimes.com/2026/07/27/world/europe/pyrocumulonimbus-fire-cloud-france-wildfires.html",
       "source": "New York Times",
       "bias": "left-center",
       "domain": "nytimes.com"
-    }
-  ],
-  [
-    {
-      "title": "Andy Reid reacts after Eric Bieniemy\u2019s wife allegedly shot by couple\u2019s son",
-      "url": "https://nypost.com/2026/07/27/sports/andy-reid-reacts-after-eric-bieniemys-wife-allegedly-shot-by-son/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
     },
     {
-      "title": "Chiefs assistant coach Eric Bieniemy's son charged in shooting of his mother",
-      "url": "https://www.cbsnews.com/news/chiefs-assistant-eric-bieniemy-son-charged-shooting-mother-virginia/",
-      "source": "CBS News",
+      "title": "Thousands of lightning strikes trigger fresh wildfires in western Canada",
+      "url": "https://www.theguardian.com/world/2026/jul/24/thousands-of-lightning-strikes-trigger-fresh-wildfires-in-western-canada",
+      "source": "The Guardian",
       "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "Wife Of Kansas City Chiefs Coach Is Shot At Home; Son Charged: Reports",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaWJiMkVNZHZrS1JKeE9PUWhrck9oNVdsZktzMWpiWWMyYWt0T2k4Nm1KQi1PcmJ0bVRzeFZqUkNTM3cwaklrc3A4T3VWbk40SWppME5aMXNnVTRGanBPdnQ1NDVJcW1WOUN2RVRYY0tyQ2JjdU5RV3UxTF9uTzBGZlJLR3ozQmt5VWJsZdIBkgFBVV95cUxQOFMxZlpiNEk2TE5ZUGFsN1oybDZjbUk1LXkyYTNUeUt1NEZvMkxBaFNIOWxkZ3RmbmVJeDctQ2VIVWYwaU1fUFZiRXdmZlAxaEs5UjBNSWxwbHRubVBOVFZQNHFUa1VNRm15ejFmT0JhUEtNZEszQ2lNYXNoWHhzY3pnYnl5bERReHZYcngxTjluUQ?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
+      "domain": "theguardian.com"
     }
   ],
   [
     {
-      "title": "McConnell out of hospital, still not 'medically cleared' to return to Senate",
-      "url": "https://www.foxnews.com/politics/mcconnell-out-hospital-still-not-medically-cleared-return-senate",
+      "title": "Savannah Guthrie delivers 'very specific' message to mom's kidnapper 25 weeks after her abduction",
+      "url": "https://www.foxnews.com/us/savannah-guthrie-delivers-very-specific-message-moms-kidnapper-25-weeks-after-abduction",
       "source": "Fox News",
       "bias": "right",
       "domain": "foxnews.com"
     },
     {
-      "title": "McConnell still in rehabilitation facility, to miss upcoming Kentucky political event",
-      "url": "https://abcnews.com/Politics/mcconnell-rehabilitation-facility-miss-upcoming-kentucky-political-event/story?id=135123335",
+      "title": "Savannah Guthrie urges captors to 'make the right choice,' return mother",
+      "url": "https://abcnews.com/US/savannah-guthrie-urges-captors-make-choice-return-mother/story?id=135127701",
       "source": "ABC News",
       "bias": "center",
       "domain": "abcnews.go.com"
+    },
+    {
+      "title": "Savannah Guthrie asks alleged kidnappers to \"do the right thing\" in new video",
+      "url": "https://www.cbsnews.com/news/savannah-guthrie-plea-missing-mother-nancy-guthrie/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
     }
   ],
   [
     {
-      "title": "International Criminal Court faces challenging search for new prosecutor",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVzRiR0stWi1SRmhCOWFEVXZxVGY4RDMtT21FY1NZSVhEcXRhTEFUX3JEc3J5UzU4azJTQm4yb1ZEWFJzb014NmVBaGc4MUVJOS1wWG9xQXpDTlZ3TGp5cXphM0FGbmVvMWZpdG50a284VjI5QXA5RjFzUk94bmJjYXljRWx4N19La05UUURyYlhtV0o0eF95M05fX2lDcTAzOXJKYU9LdGU1R1NhMW8w?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
+      "title": "Healthy diet too expensive for one in three people globally, UN report finds",
+      "url": "https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
     },
     {
-      "title": "Why Venezuela is leaving the ICC",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/why-venezuela-is-leaving-the-icc?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
+      "title": "The biggest weather risk for homeowners? It's no longer hurricanes.",
+      "url": "https://www.cbsnews.com/news/climate-change-severe-homeowner-insurance-first-street/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "11 People Charged with Deaths of 7 Migrants Locked in Rail Car near Texas Border",
+      "url": "https://www.breitbart.com/border/2026/07/27/11-people-charged-with-deaths-of-7-migrants-locked-in-rail-car-near-texas-border/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
     }
   ],
   [
@@ -186,34 +207,18 @@
   ],
   [
     {
-      "title": "Can a Progressive Win in a Purple State? Abdul El-Sayed Wants to Find Out.",
-      "url": "https://www.nytimes.com/2026/07/27/us/politics/el-sayed-michigan-senate.html",
+      "title": "The Fed\u2019s New Chairman Faces His Biggest Test Yet",
+      "url": "https://www.nytimes.com/2026/07/27/business/the-feds-new-chairman-faces-his-biggest-test-yet.html",
       "source": "New York Times",
       "bias": "left-center",
       "domain": "nytimes.com"
     },
     {
-      "title": "Kalshi attacks a Wisconsin law banning election bets as 'voter suppression'",
-      "url": "https://www.npr.org/2026/07/27/nx-s1-5905360/kalshi-wisconsin-election-betting-prediction-markets",
-      "source": "NPR",
+      "title": "Will mortgage rates improve after this week's Fed meeting?",
+      "url": "https://www.cbsnews.com/news/will-mortgage-rates-improve-after-july-2026-fed-meeting/",
+      "source": "CBS News",
       "bias": "left-center",
-      "domain": "npr.org"
-    }
-  ],
-  [
-    {
-      "title": "More health workers strike as Ebola cases in Congo near 3,000, including over 1,300 deaths",
-      "url": "https://nypost.com/2026/07/27/world-news/more-health-workers-strike-as-ebola-cases-in-congo-near-3000-including-over-1300-deaths/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "Health worker monitored for Ebola in London hospital after working in DRC",
-      "url": "https://www.theguardian.com/world/2026/jul/21/health-worker-being-monitored-for-ebola-in-london-hospital-after-working-in-drc",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
+      "domain": "cbsnews.com"
     }
   ]
 ]

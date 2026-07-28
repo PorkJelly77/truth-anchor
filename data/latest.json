@@ -8,18 +8,18 @@
       "domain": "cnn.com"
     },
     {
-      "title": "Zelenskyy has a 'good meeting' with Trump at the White House as he seeks more cooperation with US",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMU5TRHpCaF9Hc1F1eFc0TFVZZGprSGhQTmtnTTRGS01XUkR1aGluZlNRbjctNG5rMUdVYkVxc0g0c1BwOVd0T0M3SDZzUXVFd1loLUxtRk1hcms1bnhmTk1GRmcyQk9kbHJycTJKM0ZNOGJ0b2FTUnZTTUdWNm0yNEFQRno3NUppMEl3RlZrYW83bGlnZXB2aWh1aE9POWo4Q0tjOWJkT2xTejd0Umw3aA?oc=5",
-      "source": "Associated Press",
+      "title": "Protests in DC against Netanyahu\u2019s meeting with Trump",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/protests-in-dc-against-netanyahus-meeting-with-trump?traffic_source=rss",
+      "source": "Al Jazeera",
       "bias": "center",
-      "domain": "apnews.com"
+      "domain": "aljazeera.com"
     },
     {
-      "title": "Trump, Zelenskiy discussed Patriot deal before funeral of Ukraine ally",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWGk2X1JJZzZpZWtUVWl4ZGlwQVRxMHVRV3BIYWRPdUxDZmlJYl9tSU01RVdiVWcwZ21YT3dXeklnU0x5NEJZQjh5M2xYRnRLcVY5T3pndF9CQW5PQTMzcVd6ZFZvRWh0eEFfbzhDV2x0Z1A0dkZlWkFmSlBzc05qaGJfTmpRR2pka3dPeFJ0OGg2azFQc05WR3VtVURRME0zVDdndk1VanBMRm9ISzNfQm5oTnZmQkVuNHZCYzI0dmFobWtI?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
+      "title": "Senators Forge a Deal on Graham\u2019s Bill to Advance Russia Sanctions",
+      "url": "https://www.nytimes.com/2026/07/28/us/politics/senators-russia-sanctions-bill-graham.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
     },
     {
       "title": "'A true American original': Trump eulogizes Sen. Lindsey Graham at Washington funeral",
@@ -29,11 +29,25 @@
       "domain": "abcnews.go.com"
     },
     {
-      "title": "Leaders gather in Washington to pay their final tributes to Lindsey Graham",
-      "url": "https://www.npr.org/2026/07/28/nx-s1-5909232/lindsey-graham-funeral",
-      "source": "NPR",
+      "title": "Trump calls Graham \"beloved friend\" and \"American original\" in eulogy",
+      "url": "https://www.cbsnews.com/live-updates/lindsey-graham-funeral-trump-washington-dc/",
+      "source": "CBS News",
       "bias": "left-center",
-      "domain": "npr.org"
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Trump reflects on infamous phone-number stunt that sparked friendship with Graham",
+      "url": "https://www.foxnews.com/politics/trump-reflects-infamous-phone-number-stunt-sparked-friendship-graham",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Kaitlan Collins Reveals What It Was Like In The Room During Trump's Rambling WHCD Speech",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRXBZRDdQQjlEVXptb24wRGRJVzAtREVxS1NLeVgta2tGY3pMZzlSMVJfdVpENzQyQUM5Q3B5T3pHQ2V0Mjk4b29nYV9fNWp2Mi1RSE9iQURBRldGS3ZINGRKNnlhSzJNNWVmY2xNdnhBei1jcFJ1NFBwUzFBeUZKUkVfSG5yUGdxNXRIbzZUMUxRSlBsWXRZLURFanlqSTTSAaQBQVVfeXFMTWR5akItWDRBcnRTY01DUXd0TFFGNG82UUVxRWE2TV9jME9TSmh0RjkyQ0lzV0VQa1FEOEE4OVFheGlaMlRERjZmSkxrZlhkMzh0ZWtqWTg4QnNOVUtER2FsbUpobGNlM0lrQXZGVmpiSFN4bVpWU255UzljOXZ3UFBmcnc3MmFXdXBvSFBkb0hERk1YWERHTk01eVVZUzBRQXV0dmY?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
     },
     {
       "title": "Russia closes window for dissent as Ukraine\u2019s attacks stir public dismay",
@@ -43,32 +57,39 @@
       "domain": "washingtonpost.com"
     },
     {
-      "title": "Can Burnham's vision for Manchester's schools really work for the rest of England?",
-      "url": "https://www.bbc.co.uk/news/articles/c79gevrvgddo?at_medium=RSS&at_campaign=rss",
+      "title": "Global oil prices settle at a 2-week low, as Trump meets with Netanyahu to discuss Iran war",
+      "url": "https://www.marketwatch.com/story/oil-prices-decline-further-after-trump-claims-deep-talks-are-underway-with-iran-167a5393?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
+    },
+    {
+      "title": "Uefa and PM criticise Infantino World Cup plan",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "bias": "center",
       "domain": "bbc.com"
     },
     {
-      "title": "Trump meets Netanyahu as his threat to resume strikes looms over Iran",
-      "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-strait-of-hormuz-talks-oman/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
+      "title": "FIFA plans to sell stakes in $20 billion subsidiary to run World Cup, angering UEFA",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOczNVeVJYcGRvd24xY2dWaXlLOFplX3pMM2ZFaTlmQjRuYWlDTXdGOVUyQURPMzE4MlplUExmT1U4Rjd1ckhqdy1BenRRYThBRWEyajFlZ1M4NUU1ajVHOHg0d3VCYTA4VWlXSWJfU0xIT3FodlhfZlRqb01ZWUY4aWRBLWhHUXJ6bW9IdkdJWEM1RGRXMzlWUXJtNW9QWUlnWEFfUnhxQ3RxdlpVbFlVT0xqbw?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
     },
     {
-      "title": "Iran expert brands Islamic Center of England Iran's 'UK office,' urges immediate closure",
-      "url": "https://www.foxnews.com/world/iran-expert-brands-islamic-center-england-irans-uk-office-urges-immediate-closure",
-      "source": "Fox News",
+      "title": "Why Kate Cassidy is removing one of her Liam Payne tribute tattoos",
+      "url": "https://pagesix.com/2026/07/28/style/kate-cassidy-removes-her-liam-payne-444-hand-tattoo/",
+      "source": "New York Post",
       "bias": "right",
-      "domain": "foxnews.com"
+      "domain": "nypost.com"
     },
     {
-      "title": "Trump Loved Graham, Not So Much His Beloved Senate",
-      "url": "https://www.nytimes.com/2026/07/28/us/politics/trump-graham-senate.html",
-      "source": "New York Times",
+      "title": "Two Russian men jailed in Angola for terrorism and spying",
+      "url": "https://www.theguardian.com/world/2026/jul/23/two-russian-men-jailed-angola-terrorism-and-spying",
+      "source": "The Guardian",
       "bias": "left-center",
-      "domain": "nytimes.com"
+      "domain": "theguardian.com"
     },
     {
       "title": "Tajikistan Punishing Citizens for 'Alien' Islamic Headscarves and Beards",
@@ -78,41 +99,34 @@
       "domain": "breitbart.com"
     },
     {
-      "title": "Canadians spent $3.3bn less on travel to US in 2025 after Trump\u2019s return to office",
-      "url": "https://www.theguardian.com/world/2026/jul/28/canadians-us-travel-drop-trump",
-      "source": "The Guardian",
+      "title": "Keiko Fujimori is inaugurated as Peru's president following a narrow election victory",
+      "url": "https://www.npr.org/2026/07/28/nx-s1-5910830/peru-president-keiko-fujimori-inaugurated",
+      "source": "NPR",
       "bias": "left-center",
-      "domain": "theguardian.com"
-    },
-    {
-      "title": "Malaysian foreign minister calls for review of UNHCR\u2019s presence",
-      "url": "https://www.aljazeera.com/news/2026/7/28/malaysian-foreign-minister-calls-for-review-of-unhcrs-presence?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
+      "domain": "npr.org"
     }
   ],
   [
     {
-      "title": "Deaths feared after \u2018many people\u2019 trapped inside Japanese shopping centre following earthquake \u2013 live updates",
-      "url": "https://www.theguardian.com/world/live/2026/jul/28/people-trapped-japan-earthquake-kumamoto-aeon-shopping-centre-mall-latest-news-updates",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
+      "title": "Landon Donovan says soccer has arrived in America after record-breaking World Cup summer",
+      "url": "https://www.foxnews.com/sports/landon-donovan-soccer-arrived-america-record-breaking-world-cup-summer",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
     },
     {
-      "title": "Uganda declares end to Ebola outbreak",
-      "url": "https://www.aljazeera.com/news/2026/7/28/uganda-declares-end-to-ebola-outbreak?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "US Open offering fans fine-dining experiences alongside world-class tennis",
+      "url": "https://nypost.com/2026/07/28/business/us-open-offering-fans-fine-dining-experiences-alongside-world-class-tennis/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
+      "title": "Brazil recalls ambassador after Argentina\u2019s President Milei insults government officials",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZWdjNy1NZHVGNHVGNUpBdUYtZkdwM3VrZ3NZWFg4OC1yMzh0aWs1eUFyTHdWT0NtWlpENFRGWGRWN0ladGpPYldPaU1lVmMwdGZiWjhab18xRjZ4N3BMWldPQnNNTlNPVTNXa0tsUGxyejNBTDVjWV9iQllJcjJ2MXM2ZzVMcXlyRmxrNUczaklvdDVBQVpja1dGbXpUU3VkM1N0RDFn?oc=5",
+      "source": "Associated Press",
       "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "Powerful earthquake strikes southern Japan; dozens reported missing",
-      "url": "https://www.washingtonpost.com/world/2026/07/28/powerful-earthquake-strikes-southern-japan-causing-destruction/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
+      "domain": "apnews.com"
     },
     {
       "title": "WATCH:  Hundreds of thousands forced to evacuate in Europe from raging wildfires",
@@ -122,32 +136,90 @@
       "domain": "abcnews.go.com"
     },
     {
-      "title": "Photos: Spain and France's battle record wildfires",
+      "title": "Photos: Spain and France battle record wildfires",
       "url": "https://www.npr.org/2026/07/28/g-s1-135880/photos-spain-france-wildfires-climate-change",
       "source": "NPR",
       "bias": "left-center",
       "domain": "npr.org"
     },
     {
-      "title": "France and Spain Race to Contain Fires Before Some Areas Reach 104 Degrees",
-      "url": "https://www.nytimes.com/2026/07/28/world/europe/wildfires-france-spain.html",
-      "source": "New York Times",
+      "title": "Deaths feared after \u2018many people\u2019 trapped inside Japanese shopping centre following earthquake \u2013 as it happened",
+      "url": "https://www.theguardian.com/world/live/2026/jul/28/people-trapped-japan-earthquake-kumamoto-aeon-shopping-centre-mall-latest-news-updates",
+      "source": "The Guardian",
       "bias": "left-center",
-      "domain": "nytimes.com"
+      "domain": "theguardian.com"
     },
     {
-      "title": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
-      "url": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
+      "title": "People trapped and injured after powerful earthquake strikes Japan",
+      "url": "https://www.cbsnews.com/news/strong-earthquake-with-7-1-magnitude-strikes-southern-japan-tsunami-alert-issued/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Powerful earthquake strikes southern Japan; dozens reported missing",
+      "url": "https://www.washingtonpost.com/world/2026/07/28/powerful-earthquake-strikes-southern-japan-causing-destruction/",
+      "source": "Washington Post",
+      "bias": "left-center",
+      "domain": "washingtonpost.com"
+    },
+    {
+      "title": "The moment Tuesday's powerful earthquake hit Japan",
+      "url": "https://www.bbc.co.uk/news/videos/cvg7v55gxnqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "bias": "center",
       "domain": "bbc.com"
     },
     {
-      "title": "France orders 4,000 more evacuated as fires displace a third of a million across southwest Europe",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVnhUbUtjWkcxODdfUXBpS0ZJWl9mVXhtNGd6WnIzVzd6c3lRQWNzaGVHalE3Y0xyOVdpSEtrQXVHcUUzZTVNQ2ZPZmJhcWx3Vzg1WlIzNk9xY2lBTjl3TzlOX3hPQU5RNS0taGcwUHRZYVh4Z3VyYWJoMnpaTkVGdnBZZ0NNUkMySFcxYUk0Qk92aU0ycFJiMk9kdmVSSDQ?oc=5",
-      "source": "Associated Press",
+      "title": "Many feared dead from 7.1-magnitude quake in Kumamoto, Japan",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/aje-onl-nf_many-feared-dead-from-7-280726?traffic_source=rss",
+      "source": "Al Jazeera",
       "bias": "center",
-      "domain": "apnews.com"
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "Powerful Quake Hits Southern Japan, Deaths Feared In Shopping Mall Explosion",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZzNwaHVkekVjS25FcnB2alo2VjlPNkRPSnA3SUJwRjFTRWRTT2RyU0NHeG5KdnBFRUhjYUNiWklVLTdHdU5YQldfM2ZTVFFRYm1rMHU3MnUyamtaQXY4aEZnWWphaXdIbmdTdGkzNWpSMU5uWEtROWlzZ3lPWEFsU09fS0p3NkdoSEUtVUZB0gGTAUFVX3lxTFA0cTlKTUVDRlNXQ1F6WGlwd1BEUnBvbFJ6R29vaGJDbkloNThiMXJyUkNmSl8wQ1QySEk2RUhqS1hMQkxYTGV6NmpRb1lBLXpoS1NRX0xJbUNIeDVGQmtnU0o2eUJySnBjV29IeGVzN3lZSE00QXBaYTVtdzZwTlZrR3FlSG5xcUdwUE1uYU9BcjdoNA?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    },
+    {
+      "title": "Destroyed Aeon mall had just reopened for 'fresh start' a decade on from deadly quake",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOTNEZDg0aWZzN0ZYb3N2UWhpWHZhNGQ5ZUZTWXNhLU8xNzRZVjQ1b2RVem9iaWlXZXRGbTBTVXMxOFpCSkxfbmtyRlRBRzRlWUplamNodzJsVUZ4bnVPRThuOFI1SHltRnI2WXZyQ29kRXdIZjUxZ2pwWkZjVG03ZEwyX2R1dE1aa1RWQ0RJdVJzeUdfYjBfNlJ4bTZjdGpLMV9zYVBKUXZNV2lvNmFzV1d2aEtndkQydjJUNm9FR1dEWm5faG5KSkxB?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "ICE Arrests Surge at Airports, Opening New Front in Deportation Drive",
+      "url": "https://www.nytimes.com/2026/07/28/us/ice-arrests-airports-visa-overstay.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    }
+  ],
+  [
+    {
+      "title": "Newly released video shows scene of Jeremy Renner's snowplow accident",
+      "url": "https://www.cnn.com/videos/us/2023/04/18/jeremy-renner-snowplow-accident-bodycam-nc-melas-contd-vpx.cnn",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
+    },
+    {
+      "title": "Torrent of water floods the streets of Los Angeles again \u2014 as another sinkhole opens up",
+      "url": "https://nypost.com/2026/07/28/us-news/torrent-of-water-floods-the-streets-of-los-angeles-again-as-another-sinkhole-opens-up/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
+      "title": "Nasdaq-100 is on the edge of correction territory as semiconductor stocks take another beating",
+      "url": "https://www.marketwatch.com/story/nasdaq-100-is-on-the-edge-of-correction-territory-as-semiconductor-stocks-take-another-beating-580d3ee7?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
     }
   ],
   [
@@ -171,29 +243,52 @@
       "source": "NPR",
       "bias": "left-center",
       "domain": "npr.org"
-    },
-    {
-      "title": "Here's how much interest a $10,000 3-month CD will earn savers right now",
-      "url": "https://www.cbsnews.com/news/how-much-interest-10000-3-month-cd-earn-savers-july-2026/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
     }
   ],
   [
     {
-      "title": "Drunk repeat offender called a 'ticking time-bomb' before 80-mph boating collision killed woman: prosecutors",
-      "url": "https://www.foxnews.com/us/drunk-repeat-offender-called-ticking-time-bomb-80-mph-boating-collision-killed-woman-prosecutors",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
+      "title": "Ukraine\u2019s Strike on an Iranian Ship Could Bring Two Wars Closer",
+      "url": "https://www.nytimes.com/2026/07/28/world/middleeast/iran-ukraine-ship-strikes-caspian.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
     },
     {
-      "title": "Mom of murdered Melina Frattolin reveals daughter was afraid to take trip with dad before she was killed",
-      "url": "https://nypost.com/2026/07/28/us-news/melina-frattolins-mom-reveals-daughter-was-afraid-to-take-trip-with-dad-before-she-was-killed/",
+      "title": "Kyiv warns Iran against escalation after Ukraine\u2019s Caspian Sea attack",
+      "url": "https://www.aljazeera.com/news/2026/7/28/kyiv-warns-iran-against-escalation-after-ukraines-caspian-sea-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "Russian ballistic strike kills 10 after Ukraine\u2019s Zelenskyy hosts US company making Patriots",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTlE2STgwdVN5dUc0Q2lkZnltSW9jWjJKV3dNVU5JSFNVM19xS2ZCd0NvNXFqMXBDNnlRaUc4WWRPZk45RjduRmU0M0dSR25IN2ljbGowcmNoeUhCc1FoZEJLcjNJaFo1VUo0US10Ny1OX1l3ckpZcFBoRHlOcVJMN0pXR0lZS0UxSVlGT1dZbU16c3ZpckpFbDZFZnBfc2lJc0RMaENtc1J6UFZ0STNv?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Bryan Kohberger\u2019s bid to reverse guilty plea hangs on a \u2018clump of hair\u2019 found in victim\u2019s hand \u2014 here\u2019s why it\u2019s \u2018grasping at straws\u2019",
+      "url": "https://nypost.com/2026/07/28/us-news/bryan-kohbergers-appeal-hangs-on-a-clump-of-hair-found-in-victims-hand/",
       "source": "New York Post",
       "bias": "right",
       "domain": "nypost.com"
+    },
+    {
+      "title": "Americans face higher back-to-school costs. Here's what's pricier.",
+      "url": "https://www.cbsnews.com/news/back-to-school-supply-lunch-costs-tariffs/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Healthy diet too expensive for one in three people globally, UN report finds",
+      "url": "https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
     }
   ],
   [
@@ -230,15 +325,15 @@
   ],
   [
     {
-      "title": "Aide Who Had Affair With Newsom 20 Years Ago Details Her Experience",
-      "url": "https://www.nytimes.com/2026/07/28/us/gavin-newsom-ruby-rippey-affair.html",
+      "title": "Iran Hangs Protesters as Executions Surge, Rights Groups Say",
+      "url": "https://www.nytimes.com/2026/07/28/world/middleeast/iran-hanging-protesters.html",
       "source": "New York Times",
       "bias": "left-center",
       "domain": "nytimes.com"
     },
     {
-      "title": "Gavin Newsom\u2019s ex-mistress admits she wet the bed on their first night together",
-      "url": "https://nypost.com/2026/07/28/us-news/gavin-newsoms-ex-mistress-ruby-rippey-admits-wetting-the-bed/",
+      "title": "\u2018Dishonorable!\u2019 Crowd yells as Iran holds public hanging for two protesters at site of anti-regime rally",
+      "url": "https://nypost.com/2026/07/28/world-news/dishonorable-crowd-yells-as-iran-holds-public-hanging-for-two-protesters-at-site-of-anti-regime-rally/",
       "source": "New York Post",
       "bias": "right",
       "domain": "nypost.com"
@@ -246,18 +341,34 @@
   ],
   [
     {
-      "title": "Hilaria Baldwin talks \u2018Nation\u2019s Dumbest\u2019 & whether she\u2019d ever join \u2018Real Housewives\u2019 on VRT",
-      "url": "https://pagesix.com/video/hilaria-baldwin-talks-nations-dumbest-whether-shed-ever-join-real-housewives-on-vrt/",
+      "title": "CBS News\u2019 Norah O\u2019Donnell, NYT columnist to join this fall\u2019s lineup of \u201860 Minutes\u2019 correspondents",
+      "url": "https://nypost.com/2026/07/28/business/cbs-news-norah-odonnell-among-new-correspondents-joining-60-minutes/",
       "source": "New York Post",
       "bias": "right",
       "domain": "nypost.com"
     },
     {
-      "title": "WATCH:  Why Gen Z is choosing to go analog in a digital era",
-      "url": "https://abcnews.com/video/135135049/",
-      "source": "ABC News",
+      "title": "\"60 Minutes\" announces new correspondents and contributors",
+      "url": "https://www.cbsnews.com/news/60-minutes-ross-douthat-sebastian-junger-gianna-toboni-trevor-phillips/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Lindsay Clancy goes on trial over whether postpartum psychosis drove her to kill her 3 children",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRWstVHNZZzJRaTcyQnh5SW5TbVBkM0pxMmRBTUR5VWFqVGRTMmRSdTQ2UjJSZUJIRF9FZldiTGZQeE5YdjFYOTFMS1UyNUlidWMzVkc4c3Juc0NQYnBucVA4VzdtRW9fVUZNR0lGRzExOHNVY0h2dS1KVEJhYjl3aW9lcnNCODdTbFczVDdlS2pIX0hSSG9ZeEF4cHB6TDBBdDN1dWNTaW04R3dD?oc=5",
+      "source": "Associated Press",
       "bias": "center",
-      "domain": "abcnews.go.com"
+      "domain": "apnews.com"
+    },
+    {
+      "title": "The Lindsay Clancy Case: A Family Tragedy on Trial | Case by Case",
+      "url": "https://www.cbsnews.com/video/the-lindsay-clancy-case-a-family-tragedy-on-trial-case-by-case/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
     }
   ],
   [
@@ -274,6 +385,22 @@
       "source": "Breitbart",
       "bias": "right",
       "domain": "breitbart.com"
+    }
+  ],
+  [
+    {
+      "title": "Apalachee High School shooter sentenced to life without parole",
+      "url": "https://www.cbsnews.com/news/apalachee-high-school-shooter-colt-gray-life-sentence-without-parole/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Teen sentenced to life without parole for deadly mass shooting at his high school",
+      "url": "https://abcnews.com/US/teen-colt-gray-sentenced-life-parole-deadly-mass/story?id=135156780",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
     }
   ]
 ]

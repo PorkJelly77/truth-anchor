@@ -1,25 +1,67 @@
 [
   [
     {
-      "title": "Nvidia\u2019s potential new deal with OpenAI would revive a spooky tech-bubble habit, analyst warns",
-      "url": "https://www.marketwatch.com/story/nvidias-potential-new-deal-with-openai-would-revive-a-spooky-tech-bubble-habit-analyst-warns-ae34ed64?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
+      "title": "Netanyahu and Zelenskyy to push their agendas at White House meetings with Trump",
+      "url": "https://abcnews.com/Politics/netanyahu-zelenskyy-push-agendas-white-house-meetings-trump/story?id=135123010",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
     },
     {
-      "title": "Senate clears way for Trump's top spy as key anti-terror program remains in limbo",
-      "url": "https://www.foxnews.com/politics/senate-clears-way-trumps-top-spy-key-anti-terror-program-remains-limbo",
-      "source": "Fox News",
+      "title": "McFarland: 'Best Solution' Is 'Slow-Rolling Regime Change' Through Economy in Iran, Trump, Bibi Disagree on Regime Change",
+      "url": "https://www.breitbart.com/clips/2026/07/27/mcfarland-best-solution-is-slow-rolling-regime-change-in-iran-trump-bibi-disagree-on-that/",
+      "source": "Breitbart",
       "bias": "right",
-      "domain": "foxnews.com"
+      "domain": "breitbart.com"
     },
     {
-      "title": "Races to watch with 99 days until midterms",
-      "url": "https://www.cbsnews.com/video/races-to-watch-99-days-until-midterms/",
+      "title": "Zinedine Zidane confirmed as new France manager",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cpd741qn2y9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "Russia closes window for dissent as Ukraine\u2019s attacks stir public dismay",
+      "url": "https://www.washingtonpost.com/world/2026/07/28/russia-squashes-dissent-ahead-election-public-anger-grows-over-war/",
+      "source": "Washington Post",
+      "bias": "left-center",
+      "domain": "washingtonpost.com"
+    },
+    {
+      "title": "Trump Backs New Iran Talks but It\u2019s Unclear What He Hopes to Achieve This Time",
+      "url": "https://www.nytimes.com/2026/07/27/us/politics/trump-iran-talks-negotiations.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Trump says U.S. will \"go back to doing what we were doing\" if Iran talks stall",
+      "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-strait-of-hormuz-talks-oman/",
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"
+    },
+    {
+      "title": "France braces for fourth major heatwave as crews tackle Bordeaux blaze",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX1VLMWJINXpZb0N6cFdyQXdEelhlNE1Sd2tVbGJ4Y0lBd0dYa2ZRRmlneU9MSmNEaXFhd2lWazY3V05wU0hjTnh4M280VzNBblI0LUt4cUt2eElCQ1RzbjlXVE90ODFfX0ctdUIwWlZJdjhEV1pLejRfNlFGSTRKWnRBdlFmUEFseU82OVRtVlMydkNzb053aklaeE5aTVEzMGxsLVNWMUNTQnVXT0c2eEpmVDUzd3ZKbTFPVw?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Trump\u2019s border czar says vetting of ICE officer is under internal review after Maine shooting",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPclZfRHpWQkl6d3ZBSGJfNFhpTTM5b3VYU180eG1RaWZISEVzQktrTkZzenhsb1FzZ0FqVkQ5VVltbDN4SkRqM1UzNUJCMURCeTNzWW9kRVlLcTI1T3RjN0VmZm9CblZaQklZaWtyblF0VmQ0TFhaWWpjUENKdXRhOXpfNFJzMVNhYkx5U0RZcDdRblV4WHNLOXYteFJZZkU?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Lindsey Graham's final mission nears finish line as world leaders gather to honor him",
+      "url": "https://www.foxnews.com/politics/lindsey-grahams-final-mission-nears-finish-line-world-leaders-gather-honor-him",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
     },
     {
       "title": "Prosecutors Seek To Drop Charge Against Labor Leader Arrested At Immigration Raid",
@@ -29,78 +71,105 @@
       "domain": "huffpost.com"
     },
     {
-      "title": "Iran Focuses Attacks on Saudi Arabia and Red Sea Shipping Lanes",
-      "url": "https://www.breitbart.com/middle-east/2026/07/27/iran-focuses-attacks-on-saudi-arabia-and-red-sea-shipping-lanes/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
-    },
-    {
-      "title": "Airstrikes have paused and talks are pressing forward. But can the US and Iran take the off-ramp?",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNDJld2dfWkJobEFGdjZJaUQ0LThjRlJfcDFXSVc4dEwxMjhmeVB4QVVqcFVTV3B3RGRFV2NHWmpQdWsyVEx6ckxOdWVXcXcyRmpuejVER2R2alBhTEIyRlhGaHkyUXRQSjNKQ1kySDR4dHZvdm9LTWxMMXZUZ3p1ZUJqOE1WS1VNYlpKalF0NWdsVTdWZ3c0ZGRB?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "After Watching Luxury Cars Drag Race, Trump Blames High Costs on Biden",
-      "url": "https://www.nytimes.com/2026/07/27/us/politics/trump-michigan-speech-tariffs.html",
-      "source": "New York Times",
+      "title": "Trump shattered ethics norms. Will voters trust Democrats to fix them?",
+      "url": "https://www.npr.org/2026/07/28/nx-s1-5869808/family-trump-profit-corruption-voters-ethics-democrats",
+      "source": "NPR",
       "bias": "left-center",
-      "domain": "nytimes.com"
+      "domain": "npr.org"
     },
     {
-      "title": "Just one in three Americans back Iran war, most unsure of Trump's goals, Reuters/Ipsos poll finds",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcmJEaUc4b0UwWHY1NzlsOHBDa2Zfb1dpai1kUnc5Z1k3cTgxVUlTUVVUY20tNnZzMGR2MWtwWU9RbEloZWZEWXctMFdOMWt2S0ZVbHFKUlBWRXIxby1pcEFtNjRBM0VVUDRZNVJ2ZE1uVHdhampTelpoX3Brd0M0X0xiQjltcTF2MHNtcTNWLU5talJGOTNZbGhQbUtwRnZiZDctMVFiMS02am5VVXFvNHJtNDFEQTBURzVCM01R?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "D4vd murder case: Singer to stand trial on charges over 14-year-old girl's death",
-      "url": "https://abcnews.com/US/d4vd-murder-case-singer-stand-trial-charges-14/story?id=135032550",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    },
-    {
-      "title": "US singer D4vd to go on trial for murder in death of 14-year-old",
-      "url": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "British woman jailed in Hong Kong for blackmail after accusing banker of rape",
-      "url": "https://www.theguardian.com/world/2026/jul/22/british-woman-jailed-hong-kong-false-allegations",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    },
-    {
-      "title": "A 13-year-old dies after participating in a Benadryl TikTok 'challenge'",
-      "url": "https://www.cnn.com/2023/04/18/us/benadryl-tiktok-challenge-teen-death-wellness/index.html",
+      "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges",
+      "url": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html",
       "source": "CNN",
       "bias": "left",
       "domain": "cnn.com"
     },
     {
-      "title": "Heat staffer\u2019s mistake to blame for premature LeBron James YouTube presser",
-      "url": "https://nypost.com/2026/07/27/sports/heat-staffers-mistake-to-blame-for-lebron-james-youtube-presser/",
+      "title": "Iran hangs 2 men convicted of killing 4 police officers in January protests",
+      "url": "https://nypost.com/2026/07/28/world-news/iran-hangs-2-men-convicted-of-killing-4-police-officers-in-january-protests/",
       "source": "New York Post",
       "bias": "right",
       "domain": "nypost.com"
     },
     {
-      "title": "Shot fired outside US consulate in Canada for second time this year",
-      "url": "https://www.aljazeera.com/news/2026/7/27/shot-fired-outside-us-consulate-in-canada-for-second-time-this-year?traffic_source=rss",
+      "title": "Illegal Who Murdered Beloved Restaurant Owner Sentenced To Prison",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUXJYd043NURYY3BQX0dOZ0ZrLUVmY0hERmFFemMwX2lLOE9PdlV1NnRNTlUyaDlLQ194NVFUWGh3UV9sTGYzWklOT29NTUJOdmdzM1c2b3RzSzNkVXVKOVFEalkzbUVYOG9ZZUJ0SzJMYXZtekhuSWc1UVZoZkl5OUNGUWhYbUd2ZHowemo5dFNYLUpzMGxwWDk4LUs?oc=5",
+      "source": "Daily Wire",
+      "bias": "right",
+      "domain": "dailywire.com"
+    },
+    {
+      "title": "Two Russian men jailed in Angola for terrorism and spying",
+      "url": "https://www.theguardian.com/world/2026/jul/23/two-russian-men-jailed-angola-terrorism-and-spying",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "Netanyahu in the White House: What\u2019s on the agenda and what\u2019s next?",
+      "url": "https://www.aljazeera.com/news/2026/7/28/netanyahu-in-the-white-house-whats-on-the-agenda-and-whats-next?traffic_source=rss",
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
+    }
+  ],
+  [
+    {
+      "title": "Dems clash over AIPAC money, \u2018ogre\u2019 attack and electability during crucial Senate debate",
+      "url": "https://www.foxnews.com/politics/dems-clash-aipac-money-ogre-attack-electability-crucial-senate-debate",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
     },
     {
-      "title": "Platner energized Maine's Democrats. Jackson's challenge will be to keep them engaged",
-      "url": "https://www.npr.org/2026/07/27/nx-s1-5902276/platner-energized-maines-democrats-jacksons-challenge-will-be-to-keep-them-engaged",
+      "title": "In Michigan Senate Democratic debate, Stevens and El-Sayed spar over outside spending",
+      "url": "https://www.cbsnews.com/news/michigan-senate-democratic-final-debate-haley-stevens-abdul-el-sayed/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "New Jersey Democrat Defends Piker's 'America Deserved 9/11': 'I Still Love the Guy'",
+      "url": "https://www.breitbart.com/politics/2026/07/27/adam-hamawy-defends-hasan-piker-america-deserved-9-11/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
+    }
+  ],
+  [
+    {
+      "title": "Major earthquake hits Japan's Kyushu region",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQREx4N194TTNIVm1ocmk3TEpxZ3hPSVpKQ2dwdEpuOTZNVXNsWVNjX1pjSGhkTHh6M01iWFZQeENTQ09KTHNQSzl0TzdwWGJqN2lrMmV2Vng4Z19ISUZWM1l3NXU1U2ptMENYZVRqSzd5Y0pLelAtOHJHZ19jbm5IdXhmYjhuekNDLW9aV1BvQUtUTTlLOWZhemRNSF81MS1LSXYybms2UGliMzhHaW14SW52V2ZOZw?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Strong 7.1 magnitude earthquake strikes southern Japan",
+      "url": "https://www.cbsnews.com/news/strong-earthquake-with-7-1-magnitude-strikes-southern-japan-tsunami-alert-issued/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Magnitude 7.1 earthquake rocks Japan as tsunami advisory issued",
+      "url": "https://abcnews.com/International/magnitude-71-earthquake-rocks-japan-tsunami-warning-issued/story?id=135143882",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    }
+  ],
+  [
+    {
+      "title": "Republican and Democratic coalitions put to the test in unusual elections on Tuesday",
+      "url": "https://www.foxnews.com/politics/republican-democratic-coalitions-test-unusual-elections-tuesday",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Yes, it's possible to save money while paying off credit card debt. Here's how",
+      "url": "https://www.npr.org/2026/07/28/nx-s1-5866642/yes-its-possible-to-save-money-while-paying-off-credit-card-debt-heres-how",
       "source": "NPR",
       "bias": "left-center",
       "domain": "npr.org"
@@ -108,29 +177,63 @@
   ],
   [
     {
-      "title": "Devastating European wildfires in maps - and how they're being tackled",
-      "url": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
+      "title": "Lindsay Clancy\u2019s ex-husband details \u2018big spiral\u2019 as expert says one part \u2018scared me\u2019 in mom\u2019s murder trial",
+      "url": "https://www.foxnews.com/us/lindsay-clancy-ex-husband-details-big-spiral-expert-says-one-part-scared-mom-murder-trial",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
     },
     {
-      "title": "France continues to fight devastating wildfires, while progress is made in Spain",
-      "url": "https://www.npr.org/2026/07/27/nx-s1-5909107/france-spain-wildfires-updates",
+      "title": "Lindsay Clancy now on trial in murder of her 3 children in Massachusetts",
+      "url": "https://www.cbsnews.com/live-updates/lindsay-clancy-trial-live-updates-patrick-clancy/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    }
+  ],
+  [
+    {
+      "title": "3 dead in mass shooting in Seattle. And, U.S. and Iran pause fighting",
+      "url": "https://www.npr.org/2026/07/27/g-s1-135621/up-first-newsletter-mass-shooting-seattle-iran-us-war-democrats-senate-midterms",
       "source": "NPR",
       "bias": "left-center",
       "domain": "npr.org"
     },
     {
-      "title": "Hundreds of Thousands Evacuate as Fires Tear Through Europe",
-      "url": "https://www.nytimes.com/2026/07/27/briefing/france-spain-fires-daylight-saving-time.html",
-      "source": "New York Times",
+      "title": "Suspect among 3 killed in Seattle shooting; teen arrested, 3rd suspect sought",
+      "url": "https://www.cbsnews.com/news/seattle-shooting-bite-of-seattle/",
+      "source": "CBS News",
       "bias": "left-center",
-      "domain": "nytimes.com"
+      "domain": "cbsnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Conor McGregor teases \u2018last dance\u2019 UFC fight for potential injury return",
+      "url": "https://nypost.com/2026/07/28/sports/conor-mcgregor-teases-last-dance-ufc-fight-for-potential-injury-return/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
     },
     {
-      "title": "Thousands of lightning strikes trigger fresh wildfires in western Canada",
-      "url": "https://www.theguardian.com/world/2026/jul/24/thousands-of-lightning-strikes-trigger-fresh-wildfires-in-western-canada",
+      "title": "Conor McGregor calls for third UFC fight against Max Holloway in 2027",
+      "url": "https://www.aljazeera.com/sports/2026/7/28/conor-mcgregor-calls-for-third-ufc-fight-against-max-holloway-in-2027?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    }
+  ],
+  [
+    {
+      "title": "ICE extends lease on Texas detention centre where three migrants died",
+      "url": "https://www.aljazeera.com/news/2026/7/28/ice-extends-lease-on-texas-detention-centre-where-three-migrants-died?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "Healthy diet too expensive for one in three people globally, UN report finds",
+      "url": "https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds",
       "source": "The Guardian",
       "bias": "left-center",
       "domain": "theguardian.com"
@@ -138,98 +241,18 @@
   ],
   [
     {
-      "title": "Newly released video shows scene of Jeremy Renner's snowplow accident",
-      "url": "https://www.cnn.com/videos/us/2023/04/18/jeremy-renner-snowplow-accident-bodycam-nc-melas-contd-vpx.cnn",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
-    },
-    {
-      "title": "Video shows man subdued after stabbing three women in Paris",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/video-shows-man-subdued-after-stabbing-three-women-in-paris?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    }
-  ],
-  [
-    {
-      "title": "Toddler crawls through White House fence, prompts Secret Service response",
-      "url": "https://www.cnn.com/2023/04/18/politics/white-house-toddler/index.html",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
-    },
-    {
-      "title": "Taylor Farms CEO pressed by lawmaker over cyclospora outbreak",
-      "url": "https://www.cbsnews.com/news/taylor-farms-cyclospora-outbreak-white-house-investigation/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    }
-  ],
-  [
-    {
-      "title": "Trump administration asks Supreme Court to allow mail-in ballot restrictions",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVWVWam9GVkNmbGFsV0plOXlJbHY3WWxnVGJGR2tsTGJkblZQTUd0SzdLdXBtMEthYUN1Uk01eWpZNEl4SllCTUpYQVhCT2o0WE9vLUkwUWd0blB3QTVXY3FkbkdmUHFTUnJnMHJrUHdIdHlMQXNiWXd5R3pjNnRrQjBlbWlESlpVc19jWV9wVUhabGM1WS04Z0trcUl3Q2UxdzI4VHhaQmgteWhzc2pRN241dU1wQQ?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "Trump asks US Supreme Court to allow mail-in voting restrictions",
-      "url": "https://www.aljazeera.com/news/2026/7/27/trump-asks-us-supreme-court-to-allow-mail-in-voting-restrictions?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    }
-  ],
-  [
-    {
-      "title": "Carly Simon reveals Parkinson's diagnosis",
-      "url": "https://www.bbc.co.uk/news/articles/c5y3gymn6p6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "Carly Simon Says She Chose To Leave The Spotlight After Parkinson\u2019s Disease, Cancer Diagnosis",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ2NvSkl3QWRoYmx5MC1BVFlFRFFHd2o4cE1aUTMwOTFXT0diYTBlYnZIYzFveE5vZkZPbTZ0dXE4ZS1fdkxaRUEtZXdpdzBMSmpIbFNaUklra0pYb2pfZjFHWjdYbUtkamExdjJhX2lzaGFSZ09qVWpwM1pOWHNtUTlEcVo1SjRiTW90T0tYN3dqbjdsODB4amFsNV9HZ2dCaXk0bzJwWVHSAa4BQVVfeXFMTV9TYWxMaGVGUWUyZnhMWjZIV0Q0LWptdzhmbkFrOTNLOFlqWG1oOGlnd0drUXRQYjJ6Vl9PU3FvMjRvLURJb0syWVREa1pzWDltNWJuYVNpWXFyZHF6R3gxakY3dlFSZ1hHcTRBVVlCVEkwRGlGc2pSSFZaV21RNm05NTZORGFWQ3lkU2Njbzl4UjY5STRPMVU4N2xsU0JtQ1dnbi1hZUpxRkR3aFFB?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    }
-  ],
-  [
-    {
-      "title": "Comey Seeks Dismissal of Charges Accusing Him of Threatening Trump",
-      "url": "https://www.nytimes.com/2026/07/27/us/politics/comey-seeks-dismissal-of-charges.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "Comey says seashells post was political speech - not a threat - as he presses to dismiss charges",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZkZTUldHTGdCc2s2RDZwVzg4ZWhYWGNnX2tuSzNpZW9rRTlNMUVDZ0RyLTk4Z2hrb0FMcEEtQ0FRbzhEUVNOUzY2VGpfSXlXU3l0Q0M4dkhOaHdIZG9NbkZQTWtiWkxxMlhNSkduZEhrS2o2bFRXbS1Qa2VMTW5qR1AwemZEUUZkYm11MHVQSDllbEZqYk4yVDFZQnlqQmlSdFM1SXRkbWRGUQ?oc=5",
+      "title": "LeBron James is heading to the Philadelphia 76ers, saying it will be his \u2018last decision\u2019",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNnp5bzdEd2lWTjZUQnFQdnV1ZTlQOWNBcU11RFRFSmtIY0JJUmpmZ0NFOG5VZUZna0xhVUdXTjRIeHRyQXd0b3lQV2dISXdUWUZCemRPWXFOR00zLVhnX3lmQWFrSHkxX0ZFWDZHaHN2T1NmeHlfR0RIWUtVczdkX0MzaGM?oc=5",
       "source": "Associated Press",
       "bias": "center",
       "domain": "apnews.com"
-    }
-  ],
-  [
-    {
-      "title": "Wife Of Kansas City Chiefs Coach Is Shot At Home; Son Charged: Reports",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaWJiMkVNZHZrS1JKeE9PUWhrck9oNVdsZktzMWpiWWMyYWt0T2k4Nm1KQi1PcmJ0bVRzeFZqUkNTM3cwaklrc3A4T3VWbk40SWppME5aMXNnVTRGanBPdnQ1NDVJcW1WOUN2RVRYY0tyQ2JjdU5RV3UxTF9uTzBGZlJLR3ozQmt5VWJsZdIBkgFBVV95cUxQOFMxZlpiNEk2TE5ZUGFsN1oybDZjbUk1LXkyYTNUeUt1NEZvMkxBaFNIOWxkZ3RmbmVJeDctQ2VIVWYwaU1fUFZiRXdmZlAxaEs5UjBNSWxwbHRubVBOVFZQNHFUa1VNRm15ejFmT0JhUEtNZEszQ2lNYXNoWHhzY3pnYnl5bERReHZYcngxTjluUQ?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
     },
     {
-      "title": "Chiefs assistant coach Eric Bieniemy's son charged in shooting of his mother",
-      "url": "https://www.cbsnews.com/news/chiefs-assistant-eric-bieniemy-son-charged-shooting-mother-virginia/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
+      "title": "WATCH:  Inside LeBron James' decision to switch teams",
+      "url": "https://abcnews.com/video/135113152/",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
     }
   ]
 ]

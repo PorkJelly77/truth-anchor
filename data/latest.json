@@ -8,32 +8,74 @@
       "domain": "cnn.com"
     },
     {
-      "title": "McFarland: 'Best Solution' Is 'Slow-Rolling Regime Change' Through Economy in Iran, Trump, Bibi Disagree on Regime Change",
-      "url": "https://www.breitbart.com/clips/2026/07/27/mcfarland-best-solution-is-slow-rolling-regime-change-in-iran-trump-bibi-disagree-on-that/",
+      "title": "Watch Live: Sen. Lindsey Graham remembered in Washington ceremonies today",
+      "url": "https://www.cbsnews.com/news/lindsey-graham-funeral-trump-eulogy/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Vance, Thune lead tributes to \u2018American original\u2019 Lindsey Graham: \u2018I feel his absence every day\u2019",
+      "url": "https://nypost.com/2026/07/28/us-news/vance-thune-lead-tributes-to-american-original-lindsey-graham-i-feel-his-absence-every-day/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
+      "title": "Iran live updates: Trump criticizes Netanyahu over Israeli intel on Pickaxe Mountain",
+      "url": "https://abcnews.com/International/live-updates/iran-live-updates-tehran-progress-made-strait-hormuz/?id=135110405",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    },
+    {
+      "title": "'We're Making Plans For Nigel': Green Party Leader Guillotine Post Investigated by Police",
+      "url": "https://www.breitbart.com/europe/2026/07/28/plans-for-nigel-green-leader-guillotine-post-investigated-by-police/",
       "source": "Breitbart",
       "bias": "right",
       "domain": "breitbart.com"
     },
     {
-      "title": "France and Spain Race to Tamp Down Wildfires Before Heat Wave Hits",
+      "title": "Kamala Harris backs US Senate candidate who replaced Graham Platner: 'I know what it is like'",
+      "url": "https://www.foxnews.com/politics/kamala-harris-backs-us-senate-candidate-replaced-graham-platner-know-what-like",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Gironde wildfires pick up as French region braces for new 40C heatwave",
+      "url": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "France and Spain Race to Contain Fires Before Some Areas Reach 104 Degrees",
       "url": "https://www.nytimes.com/2026/07/28/world/europe/wildfires-france-spain.html",
       "source": "New York Times",
       "bias": "left-center",
       "domain": "nytimes.com"
     },
     {
-      "title": "'It's a hell of a situation': Spain grapples with destructive wildfires",
-      "url": "https://www.bbc.co.uk/news/articles/c235m71mrreo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
+      "title": "France and Spain brace for heatwave that could worsen raging wildfires",
+      "url": "https://www.aljazeera.com/news/2026/7/28/france-and-spain-brace-for-heatwave-that-could-worsen-raging-wildfires?traffic_source=rss",
+      "source": "Al Jazeera",
       "bias": "center",
-      "domain": "bbc.com"
+      "domain": "aljazeera.com"
     },
     {
-      "title": "White phosphorus leaks at US air base in South Korea, Seoul says",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMHVUeklHcEE4Y19MbW1hbl9Fa3RnSkUwaDNQWE1jYUFfYlFHYkVSaUVHTi1SQ250SmNKOV9ubF9ISDZ5OFZOSUMwV3djeW81cmFzNWxUemlKcGY1U3lXZGFHZW55VnlndW9TUlpxeUlBY0RjaVl0NkVzUGlZNHlKQ2RBLXpyb0lkMG8xN1doOUhNQ1haNkNLMldBSmRITUdOdk5iRXJiTjlabEVLQ0hiQXBCWmp2TzR2a2c?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
+      "title": "\u2018Many people\u2019 trapped inside Japanese shopping centre, others missing in paper factory, after earthquake \u2013 live updates",
+      "url": "https://www.theguardian.com/world/live/2026/jul/28/people-trapped-japan-earthquake-kumamoto-aeon-shopping-centre-mall-latest-news-updates",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "A 7.1 quake hits Japan's Kyushu, trapping people in a collapsed shopping center",
+      "url": "https://www.npr.org/2026/07/28/nx-s1-5910498/japan-earthquake",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
     },
     {
       "title": "Powerful earthquake strikes southern Japan, causing destruction",
@@ -43,32 +85,11 @@
       "domain": "washingtonpost.com"
     },
     {
-      "title": "Multiple people trapped inside shopping centre in Japan after earthquake \u2013 live updates",
-      "url": "https://www.theguardian.com/world/live/2026/jul/28/people-trapped-japan-earthquake-kumamoto-aeon-shopping-centre-mall-latest-news-updates",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    },
-    {
-      "title": "A strong earthquake shakes part of southern Japan but no tsunami detected",
-      "url": "https://www.npr.org/2026/07/28/nx-s1-5910498/japan-earthquake",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    },
-    {
-      "title": "Netanyahu and Zelenskyy to push their agendas at White House meetings with Trump",
-      "url": "https://abcnews.com/Politics/netanyahu-zelenskyy-push-agendas-white-house-meetings-trump/story?id=135123010",
-      "source": "ABC News",
+      "title": "Mancini returns as Italy coach with Ranieri as technical director",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdS1sdllBQU1RYi1WV25LVUtpa1JhdlZsbm04OVJiZUtIRlI2WFRyMlRTbmplYVktTFZIMFNWQTdhTU1VQVY4dXIwQjhKeThuOWNwWXpMTmlpa3cxVUVBWGsydGotS1AybFZEODlHbkRfYlFpWjJaSmJ3YVZyc2g3SER6RlBqdXV2TWp2VS15RnJLMWhTcVZOeEY3d0dpenl6Tnc?oc=5",
+      "source": "Reuters",
       "bias": "center",
-      "domain": "abcnews.go.com"
-    },
-    {
-      "title": "Watch Live: Senator Lindsey Graham Memorial Service at US Capitol",
-      "url": "https://nypost.com/video/watch-live-senator-lindsey-graham-memorial-service-at-us-capitol/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
+      "domain": "reuters.com"
     },
     {
       "title": "Zelenskyy will visit Trump at the White House before Sen. Graham\u2019s funeral",
@@ -76,34 +97,117 @@
       "source": "Associated Press",
       "bias": "center",
       "domain": "apnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Poland's Tusk calls for end to hate crimes against Ukrainians",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaDN3bE5WNThSRjVnRnBkM29qbXdLUzBPNHBOTjd5TkhOVVpaSFI1LWlnaVh5X28tOFpSM2VLX0xJWXpiRDVCUmhSbmdNU21oUVVycW1KNk0xc3pBNUJYUi1YSlNYX3VPXzZlRHNMVnpWcjJXTDEyM1hNcF90elVQRmpISFNFNHNLRENjLTRmVmFvX0FwNkx1U3pZYw?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
     },
     {
-      "title": "Watch Live: Sen. Lindsey Graham remembered in Washington ceremonies today",
-      "url": "https://www.cbsnews.com/news/lindsey-graham-funeral-trump-eulogy/",
+      "title": "Berlin Pride attacker was \"hardcore ISIS sympathizer\" on government list, extremism expert says",
+      "url": "https://www.cbsnews.com/video/berlin-pride-attacker-was-hardcore-isis-sympathizer-on-government-list-extremism-expert-says/",
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"
     },
     {
-      "title": "US walks out on France at UN over North Korea, Russia comparison",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/us-walks-out-on-france-at-un-over-north-korea-russia-comparison?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
+      "title": "Paris knife attacker tackled after stabbing 3 women",
+      "url": "https://nypost.com/video/paris-knife-attacker-tackled-after-stabbing-3-women/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
     },
     {
-      "title": "Sen Ron Johnson talks Fauci emails, new Senate filibuster strategy on 'Ruthless'",
-      "url": "https://www.foxnews.com/media/sen-ron-johnson-talks-fauci-emails-new-senate-filibuster-strategy-ruthless",
+      "title": "Photos show the aftermath of a van-ramming attack near Berlin\u2019s Pride Festival",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNblhsMjl6TzN4c2pkSXlyTlN5QUdHTndISXh3VXMtdTltOXhsUXZrUTFPSG93ME1rTnotLUtBMkZyOGpZTThvbFJJNFY4ZW1rWFB2ZmhVdDFlMHIxT1F2R0lhNHY5M3lqMy00NDViOW1WRzBrSHdFUy1sSDJKSk1udFpUWjNuNVY1THcwWnJJS2JvUGNPRDI1T0lRNzg4M1pmOUdUNXFoWVJLVzQ3UG80ZVI2MUVXX2ZQMlZFZHdRSDdvdkR5WmZhN2pZYzFnRm9E?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Berlin Terrorist Attacker Shot And Killed By Police",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdFVQS0FYa1pFMUFWcnRMUVJjU1doYmFMcUgxbWthWlpucE9BZGk3ZzExVnNqUy13WnhVMmZfRFJkQmg4c0tFZU03aHpRMFQwUjZyZjNmTTNvY2NFcTVPaWNHZzdFQkhpaExjeC1BU2tZYUptY2x4M3R6djNvZVhwby10a2ZaRVdseGc?oc=5",
+      "source": "Daily Wire",
+      "bias": "right",
+      "domain": "dailywire.com"
+    },
+    {
+      "title": "Police Say Binance Is Making It Harder to Fight Crime",
+      "url": "https://www.nytimes.com/2026/07/28/us/binance-crypto-crime.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "The cocaine superhighway from Ecuador to Europe - the BBC reports on gangs and the police fightback",
+      "url": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    }
+  ],
+  [
+    {
+      "title": "SEN RAND PAUL: The COVID cover-up had layers. I\u2019m peeling them back one at a time",
+      "url": "https://www.foxnews.com/opinion/sen-rand-paul-covid-cover-up-layers-peeling-back-one-time",
       "source": "Fox News",
       "bias": "right",
       "domain": "foxnews.com"
     },
     {
-      "title": "Meta is up against a wall of AI pessimism heading into earnings",
-      "url": "https://www.marketwatch.com/story/meta-is-up-against-a-wall-of-ai-pessimism-heading-into-earnings-4d3bbcc9?mod=mw_rss_topstories",
+      "title": "Fauci diaries, released by Sen. Paul, touch on COVID origins, Trump",
+      "url": "https://www.cbsnews.com/news/anthony-fauci-rand-paul-diary-release/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Rand Paul releases Anthony Fauci's pandemic-era diary notes. Here's what they tell us",
+      "url": "https://www.npr.org/2026/07/27/nx-s1-5909531/rand-paul-anthony-fauci-coronavirus-diary-lab-leak-origin",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "Fauci, in Private Diary, Reflected on Covid\u2019s Origins and His Own Fame",
+      "url": "https://www.nytimes.com/2026/07/27/us/politics/fauci-in-private-diary-reflected-on-covids-origins-and-his-own-fame.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    }
+  ],
+  [
+    {
+      "title": "Is it safe to travel to Spain and France right now?",
+      "url": "https://www.bbc.co.uk/news/articles/ce3qv0ggndno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "The Fed isn\u2019t your biggest worry. The central-bank decision that actually impacts your 401(k) lands in Tokyo.",
+      "url": "https://www.marketwatch.com/story/the-fed-isnt-your-biggest-worry-the-central-bank-decision-that-actually-impacts-your-401-k-lands-in-tokyo-fc9d22c8?mod=mw_rss_topstories",
       "source": "Wall Street Journal",
       "bias": "center-right",
       "domain": "wsj.com"
+    },
+    {
+      "title": "Yes, it's possible to save money while paying off credit card debt. Here's how",
+      "url": "https://www.npr.org/2026/07/28/nx-s1-5866642/yes-its-possible-to-save-money-while-paying-off-credit-card-debt-heres-how",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "Can you transfer a credit card balance if you've missed payments?",
+      "url": "https://www.cbsnews.com/news/can-you-transfer-balance-missed-payments/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
     }
   ],
   [
@@ -115,20 +219,6 @@
       "domain": "cnn.com"
     },
     {
-      "title": "Illegal Alien Gets 20 Years in Prison for Killing Nashville Restaurateur",
-      "url": "https://www.breitbart.com/politics/2026/07/27/illegal-alien-prison-nashville-killing-restaurateur/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
-    },
-    {
-      "title": "Illegal Who Murdered Beloved Restaurant Owner Sentenced To Prison",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUXJYd043NURYY3BQX0dOZ0ZrLUVmY0hERmFFemMwX2lLOE9PdlV1NnRNTlUyaDlLQ194NVFUWGh3UV9sTGYzWklOT29NTUJOdmdzM1c2b3RzSzNkVXVKOVFEalkzbUVYOG9ZZUJ0SzJMYXZtekhuSWc1UVZoZkl5OUNGUWhYbUd2ZHowemo5dFNYLUpzMGxwWDk4LUs?oc=5",
-      "source": "Daily Wire",
-      "bias": "right",
-      "domain": "dailywire.com"
-    },
-    {
       "title": "Two Russian men jailed in Angola for terrorism and spying",
       "url": "https://www.theguardian.com/world/2026/jul/23/two-russian-men-jailed-angola-terrorism-and-spying",
       "source": "The Guardian",
@@ -138,41 +228,18 @@
   ],
   [
     {
-      "title": "Boeing\u2019s stock rallies as surprisingly large loss is offset by upbeat revenue and backlog",
-      "url": "https://www.marketwatch.com/story/boeings-stock-rallies-as-surprisingly-large-loss-is-offset-by-upbeat-revenue-and-backlog-e0ad69c9?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
-    },
-    {
-      "title": "The Most Ridiculous Finance Influencer Advice Yet? | Money Moves with Jill Schlesinger",
-      "url": "https://www.cbsnews.com/video/the-most-ridiculous-finance-influencer-advice-yet-money-moves-with-jill-schlesinger/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "Sean Astin\u2019s shockingly \u2018small\u2019 \u2018Lord of the Rings\u2019 payday forced him to sell home at height of fame",
-      "url": "https://pagesix.com/2026/07/28/entertainment/sean-astins-shockingly-small-lord-of-the-rings-payday-forced-him-to-sell-home/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    }
-  ],
-  [
-    {
-      "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
-      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
-    },
-    {
-      "title": "Kash Patel's attorney rejects The Atlantic's effort to dismiss defamation lawsuit, vows 'accountability'",
-      "url": "https://www.foxnews.com/media/kash-patel-attorney-rejects-atlantic-effort-dismiss-defamation-lawsuit-vows-accountability",
+      "title": "Shaquille O'Neal offers rebuttal for NBA fans claiming LeBron James is 'ring chasing' by joining Sixers",
+      "url": "https://www.foxnews.com/outkick-sports/shaquille-oneal-offers-rebuttal-nba-fans-claiming-lebron-james-ring-chasing-joining-sixers",
       "source": "Fox News",
       "bias": "right",
       "domain": "foxnews.com"
+    },
+    {
+      "title": "LeBron James is heading to the Philadelphia 76ers, saying it will be his \u2018last decision\u2019",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNnp5bzdEd2lWTjZUQnFQdnV1ZTlQOWNBcU11RFRFSmtIY0JJUmpmZ0NFOG5VZUZna0xhVUdXTjRIeHRyQXd0b3lQV2dISXdUWUZCemRPWXFOR00zLVhnX3lmQWFrSHkxX0ZFWDZHaHN2T1NmeHlfR0RIWUtVczdkX0MzaGM?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
     }
   ],
   [
@@ -193,18 +260,50 @@
   ],
   [
     {
-      "title": "Fatal Shooting in ICE Operations",
-      "url": "https://www.aljazeera.com/video/this-is-america/2026/7/28/fatal-shooting-in-ice-operations?traffic_source=rss",
+      "title": "Tate brothers face at least two more weeks in US jail as bail bid reviewed",
+      "url": "https://www.aljazeera.com/news/2026/7/28/tate-brothers-face-at-least-two-more-weeks-in-us-jail-as-bail-bid-reviewed?traffic_source=rss",
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
     },
     {
-      "title": "Trump\u2019s border czar says vetting of ICE officer is under internal review after Maine shooting",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPclZfRHpWQkl6d3ZBSGJfNFhpTTM5b3VYU180eG1RaWZISEVzQktrTkZzenhsb1FzZ0FqVkQ5VVltbDN4SkRqM1UzNUJCMURCeTNzWW9kRVlLcTI1T3RjN0VmZm9CblZaQklZaWtyblF0VmQ0TFhaWWpjUENKdXRhOXpfNFJzMVNhYkx5U0RZcDdRblV4WHNLOXYteFJZZkU?oc=5",
+      "title": "Tate brothers will remain in jail at least 2 more weeks as they fight extradition to the UK",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORVJGY2F2N2FjbVNhSGRCT1g0bHVPMlMyaHgzN3NnNS1kUEtGc3BSZ1hMQ2tybFFYQlVTZ3dEN1NfSTg1ZlNmMHBZeEZqOEp2ZDEzQWsyMUZodmFZR2hZSGxHcUJrbzFQdTdac2oyRE5ZQUNtcExQaHFCR2VaNktpN2VtQ0NUb2dlU3Uyak53?oc=5",
       "source": "Associated Press",
       "bias": "center",
       "domain": "apnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Just One In Three Americans Back Iran War, Reuters/Ipsos Poll Finds",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTlk1RUd5Yy1sR2pQZzdCbU9uTjFtT1MtUmRBQS1VNE5rcEVqd2M0b0ZJaTdhT3RqSUZpWmsyQTA4RUR4X1Y2X1dWVWRzSGtrOVlYUnZ1MEg0OEp5bkxIdDdxWVByOW9RVGFyTEJ0Q1VDVVVjSnhJU0ZvYi1WcVZENk1hQdIBiAFBVV95cUxNSXd5OXgzY2FWS0JLdTI4U1NDUk9XbEt1SW5TdmRScGxUTTRuemlzU2YwdkdOWWtKaDY0MURGS0J6NzNoa2xieHpabnRXVG1vamhYMTNUczEyb0g3aFlBdTl1WS1oUW0wSXZTNVlEMUctel9FeHZCQXhTWGtvWENsQTZNU2ljcExB?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    },
+    {
+      "title": "Americans' confidence in US economy fell this month as Iran conflict sent gas prices back up",
+      "url": "https://abcnews.com/Business/wireStory/americans-confidence-us-economy-fell-month-iran-conflict-135154551",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    }
+  ],
+  [
+    {
+      "title": "Healthy diet too expensive for one in three people globally, UN report finds",
+      "url": "https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "The biggest weather risk for homeowners? It's no longer hurricanes.",
+      "url": "https://www.cbsnews.com/news/climate-change-severe-homeowner-insurance-first-street/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
     }
   ]
 ]

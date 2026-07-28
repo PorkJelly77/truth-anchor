@@ -1,75 +1,98 @@
 [
   [
     {
-      "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
-      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+      "title": "Millions in the US could face massive consequences unless McCarthy can navigate out of a debt trap he set for Biden",
+      "url": "https://www.cnn.com/2023/04/18/politics/mccarthy-biden-debt-ceiling/index.html",
       "source": "CNN",
       "bias": "left",
       "domain": "cnn.com"
     },
     {
-      "title": "Courtroom Gets Emotional During Larry Millete Murder Trial | Case by Case",
-      "url": "https://www.cbsnews.com/video/courtroom-gets-emotional-during-larry-millete-murder-trial/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "'Intimidation': French Warship Accused of Opening Fire to Threaten British MP Observing Migrant Boats",
-      "url": "https://www.breitbart.com/europe/2026/07/28/intimidation-french-warship-accused-of-opening-fire-to-intimidate-mp33361952/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
-    },
-    {
-      "title": "Trump cites 'good' talks on Iran, reiterates threat to hit targets",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUXp0cjdxRkJmbERLLTB3SU00RS1fZHRDQ0lCd056Wkc2UFhEVUVOTWJFM01OZUNtUW9WdW0tcXVxc3IyX2lsa0c1OXhOZW9KMXM4SmZrTXdiVDcxN0tCZXNFY016MUo3OXdWQzZNUW9qVk56LWR5Q3NUdXNtR0VIcDFxeVJBaTZGYnFla3ZqWElkS0ZxN3V6QmRmN0tQU1lP?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "Mamdani\u2019s grocery stores will be  the most expensive markets in NYC \u2014 paid for by you, the taxpayer",
-      "url": "https://nypost.com/2026/07/28/opinion/mamdanis-grocery-stores-will-be-the-most-expensive-markets-in-nyc-paid-for-by-you-the-taxpayer/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "As U.S. Pauses Strikes, Iran Is No Rush to Resume Cease-Fire Talks",
-      "url": "https://www.nytimes.com/2026/07/28/world/middleeast/iran-war-us-trump.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "Is Netanyahu\u2019s Trump card losing its power in Israel?",
-      "url": "https://www.aljazeera.com/news/2026/7/28/is-netanyahus-trump-card-losing-its-power-in-israel?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "Yankees vs White Sox betting preview: Gerrit Cole on the run line at +129 is tonight's play",
-      "url": "https://www.foxnews.com/outkick-sports/yankees-vs-white-sox-betting-preview-gerrit-cole-run-line-129-tonights-play",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "Zelenskyy visits Trump at the White House before Graham's funeral, seeking cooperation with US",
+      "title": "Zelenskyy has a 'good meeting' with Trump at the White House as he seeks more cooperation with US",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMU5TRHpCaF9Hc1F1eFc0TFVZZGprSGhQTmtnTTRGS01XUkR1aGluZlNRbjctNG5rMUdVYkVxc0g0c1BwOVd0T0M3SDZzUXVFd1loLUxtRk1hcms1bnhmTk1GRmcyQk9kbHJycTJKM0ZNOGJ0b2FTUnZTTUdWNm0yNEFQRno3NUppMEl3RlZrYW83bGlnZXB2aWh1aE9POWo4Q0tjOWJkT2xTejd0Umw3aA?oc=5",
       "source": "Associated Press",
       "bias": "center",
       "domain": "apnews.com"
     },
     {
-      "title": "'A man who loved people': Sen. Lindsey Graham remembered in Capitol ceremony",
+      "title": "Trump, Zelenskiy discussed Patriot deal before funeral of Ukraine ally",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWGk2X1JJZzZpZWtUVWl4ZGlwQVRxMHVRV3BIYWRPdUxDZmlJYl9tSU01RVdiVWcwZ21YT3dXeklnU0x5NEJZQjh5M2xYRnRLcVY5T3pndF9CQW5PQTMzcVd6ZFZvRWh0eEFfbzhDV2x0Z1A0dkZlWkFmSlBzc05qaGJfTmpRR2pka3dPeFJ0OGg2azFQc05WR3VtVURRME0zVDdndk1VanBMRm9ISzNfQm5oTnZmQkVuNHZCYzI0dmFobWtI?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "'A true American original': Trump eulogizes Sen. Lindsey Graham at Washington funeral",
       "url": "https://abcnews.com/Politics/sen-lindsey-grahams-funeral-service-place-dc-tuesday/story?id=135118944",
       "source": "ABC News",
       "bias": "center",
       "domain": "abcnews.go.com"
     },
+    {
+      "title": "Leaders gather in Washington to pay their final tributes to Lindsey Graham",
+      "url": "https://www.npr.org/2026/07/28/nx-s1-5909232/lindsey-graham-funeral",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "Russia closes window for dissent as Ukraine\u2019s attacks stir public dismay",
+      "url": "https://www.washingtonpost.com/world/2026/07/28/russia-squashes-dissent-ahead-election-public-anger-grows-over-war/",
+      "source": "Washington Post",
+      "bias": "left-center",
+      "domain": "washingtonpost.com"
+    },
+    {
+      "title": "Can Burnham's vision for Manchester's schools really work for the rest of England?",
+      "url": "https://www.bbc.co.uk/news/articles/c79gevrvgddo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "Trump meets Netanyahu as his threat to resume strikes looms over Iran",
+      "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-strait-of-hormuz-talks-oman/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Iran expert brands Islamic Center of England Iran's 'UK office,' urges immediate closure",
+      "url": "https://www.foxnews.com/world/iran-expert-brands-islamic-center-england-irans-uk-office-urges-immediate-closure",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Trump Loved Graham, Not So Much His Beloved Senate",
+      "url": "https://www.nytimes.com/2026/07/28/us/politics/trump-graham-senate.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Tajikistan Punishing Citizens for 'Alien' Islamic Headscarves and Beards",
+      "url": "https://www.breitbart.com/asia/2026/07/28/tajikistan-punishing-citizens-alien-islamic-headscarves-beards/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
+    },
+    {
+      "title": "Canadians spent $3.3bn less on travel to US in 2025 after Trump\u2019s return to office",
+      "url": "https://www.theguardian.com/world/2026/jul/28/canadians-us-travel-drop-trump",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "Malaysian foreign minister calls for review of UNHCR\u2019s presence",
+      "url": "https://www.aljazeera.com/news/2026/7/28/malaysian-foreign-minister-calls-for-review-of-unhcrs-presence?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    }
+  ],
+  [
     {
       "title": "Deaths feared after \u2018many people\u2019 trapped inside Japanese shopping centre following earthquake \u2013 live updates",
       "url": "https://www.theguardian.com/world/live/2026/jul/28/people-trapped-japan-earthquake-kumamoto-aeon-shopping-centre-mall-latest-news-updates",
@@ -78,11 +101,25 @@
       "domain": "theguardian.com"
     },
     {
-      "title": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
-      "url": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
+      "title": "Uganda declares end to Ebola outbreak",
+      "url": "https://www.aljazeera.com/news/2026/7/28/uganda-declares-end-to-ebola-outbreak?traffic_source=rss",
+      "source": "Al Jazeera",
       "bias": "center",
-      "domain": "bbc.com"
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "Powerful earthquake strikes southern Japan; dozens reported missing",
+      "url": "https://www.washingtonpost.com/world/2026/07/28/powerful-earthquake-strikes-southern-japan-causing-destruction/",
+      "source": "Washington Post",
+      "bias": "left-center",
+      "domain": "washingtonpost.com"
+    },
+    {
+      "title": "WATCH:  Hundreds of thousands forced to evacuate in Europe from raging wildfires",
+      "url": "https://abcnews.com/video/135135633/",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
     },
     {
       "title": "Photos: Spain and France's battle record wildfires",
@@ -92,18 +129,25 @@
       "domain": "npr.org"
     },
     {
-      "title": "Powerful earthquake strikes southern Japan, causing destruction",
-      "url": "https://www.washingtonpost.com/world/2026/07/28/powerful-earthquake-strikes-southern-japan-causing-destruction/",
-      "source": "Washington Post",
+      "title": "France and Spain Race to Contain Fires Before Some Areas Reach 104 Degrees",
+      "url": "https://www.nytimes.com/2026/07/28/world/europe/wildfires-france-spain.html",
+      "source": "New York Times",
       "bias": "left-center",
-      "domain": "washingtonpost.com"
+      "domain": "nytimes.com"
     },
     {
-      "title": "Trump Won\u2019t Budge For Netanyahu: \u2018Nobody Tells Me What We Should Be Selling\u2019",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRzlSSlAwRTZKV1BMVkFqcDJCUi01TkQySEVCWUx1Q1lqejBpNEhZaU12UkZFeXlCTi14cTFZak1zMTZXQVVGYTZKSHVPQW0zWnk2aE0xdzlGNGQ2STdndy15NUltWllXU3daYzJOQUlDUXA1YXE3ZjdoWU1pTnFCQXVTc0IxMDFhaUVMUS16S0hUZlBNMF8tMnRjR3QwZDVZUnBpWUFn?oc=5",
-      "source": "Daily Wire",
-      "bias": "right",
-      "domain": "dailywire.com"
+      "title": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
+      "url": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "France orders 4,000 more evacuated as fires displace a third of a million across southwest Europe",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVnhUbUtjWkcxODdfUXBpS0ZJWl9mVXhtNGd6WnIzVzd6c3lRQWNzaGVHalE3Y0xyOVdpSEtrQXVHcUUzZTVNQ2ZPZmJhcWx3Vzg1WlIzNk9xY2lBTjl3TzlOX3hPQU5RNS0taGcwUHRZYVh4Z3VyYWJoMnpaTkVGdnBZZ0NNUkMySFcxYUk0Qk92aU0ycFJiMk9kdmVSSDQ?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
     }
   ],
   [
@@ -127,19 +171,10 @@
       "source": "NPR",
       "bias": "left-center",
       "domain": "npr.org"
-    }
-  ],
-  [
-    {
-      "title": "Your retirement math may have a surprising flaw",
-      "url": "https://www.marketwatch.com/story/your-retirement-math-may-have-a-surprising-flaw-2d8f58d8?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
     },
     {
-      "title": "Can long-term care insurance premiums increase after you buy a policy?",
-      "url": "https://www.cbsnews.com/news/can-long-term-care-insurance-premiums-increase-after-buying-policy/",
+      "title": "Here's how much interest a $10,000 3-month CD will earn savers right now",
+      "url": "https://www.cbsnews.com/news/how-much-interest-10000-3-month-cd-earn-savers-july-2026/",
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"
@@ -147,34 +182,98 @@
   ],
   [
     {
-      "title": "German investigators find apparent motive after Berlin Pride attack",
-      "url": "https://www.aljazeera.com/news/2026/7/28/german-investigators-find-apparent-motive-after-berlin-pride-attack?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
+      "title": "Drunk repeat offender called a 'ticking time-bomb' before 80-mph boating collision killed woman: prosecutors",
+      "url": "https://www.foxnews.com/us/drunk-repeat-offender-called-ticking-time-bomb-80-mph-boating-collision-killed-woman-prosecutors",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
     },
     {
-      "title": "Photos show the aftermath of a van-ramming attack near Berlin\u2019s Pride Festival",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNblhsMjl6TzN4c2pkSXlyTlN5QUdHTndISXh3VXMtdTltOXhsUXZrUTFPSG93ME1rTnotLUtBMkZyOGpZTThvbFJJNFY4ZW1rWFB2ZmhVdDFlMHIxT1F2R0lhNHY5M3lqMy00NDViOW1WRzBrSHdFUy1sSDJKSk1udFpUWjNuNVY1THcwWnJJS2JvUGNPRDI1T0lRNzg4M1pmOUdUNXFoWVJLVzQ3UG80ZVI2MUVXX2ZQMlZFZHdRSDdvdkR5WmZhN2pZYzFnRm9E?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
+      "title": "Mom of murdered Melina Frattolin reveals daughter was afraid to take trip with dad before she was killed",
+      "url": "https://nypost.com/2026/07/28/us-news/melina-frattolins-mom-reveals-daughter-was-afraid-to-take-trip-with-dad-before-she-was-killed/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
     }
   ],
   [
     {
-      "title": "Tate brothers face at least two more weeks in US jail as bail bid reviewed",
-      "url": "https://www.aljazeera.com/news/2026/7/28/tate-brothers-face-at-least-two-more-weeks-in-us-jail-as-bail-bid-reviewed?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "French Navy carries out 'shooting drill' during MP's BBC interview",
+      "url": "https://www.bbc.co.uk/news/articles/cy4ker2y1mko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "bias": "center",
-      "domain": "aljazeera.com"
+      "domain": "bbc.com"
     },
     {
-      "title": "Tate brothers will remain in jail at least 2 more weeks as they fight extradition to the UK",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORVJGY2F2N2FjbVNhSGRCT1g0bHVPMlMyaHgzN3NnNS1kUEtGc3BSZ1hMQ2tybFFYQlVTZ3dEN1NfSTg1ZlNmMHBZeEZqOEp2ZDEzQWsyMUZodmFZR2hZSGxHcUJrbzFQdTdac2oyRE5ZQUNtcExQaHFCR2VaNktpN2VtQ0NUb2dlU3Uyak53?oc=5",
-      "source": "Associated Press",
+      "title": "Shots fired near US consulate in Canada for second time in four months",
+      "url": "https://www.theguardian.com/world/2026/jul/27/shots-fired-us-consulate-toronto",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    }
+  ],
+  [
+    {
+      "title": "Odyssey translator writes scathing review of Nolan film adaptation",
+      "url": "https://www.bbc.co.uk/news/articles/cd692n215ndo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "bias": "center",
-      "domain": "apnews.com"
+      "domain": "bbc.com"
+    },
+    {
+      "title": "Communist China Rolls Out the Red Carpet for Christopher Nolan's 'The Odyssey'",
+      "url": "https://www.breitbart.com/entertainment/2026/07/28/communist-china-rolls-out-the-red-carpet-for-christopher-nolans-the-odyssey/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
+    }
+  ],
+  [
+    {
+      "title": "Aide Who Had Affair With Newsom 20 Years Ago Details Her Experience",
+      "url": "https://www.nytimes.com/2026/07/28/us/gavin-newsom-ruby-rippey-affair.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Gavin Newsom\u2019s ex-mistress admits she wet the bed on their first night together",
+      "url": "https://nypost.com/2026/07/28/us-news/gavin-newsoms-ex-mistress-ruby-rippey-admits-wetting-the-bed/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    }
+  ],
+  [
+    {
+      "title": "Hilaria Baldwin talks \u2018Nation\u2019s Dumbest\u2019 & whether she\u2019d ever join \u2018Real Housewives\u2019 on VRT",
+      "url": "https://pagesix.com/video/hilaria-baldwin-talks-nations-dumbest-whether-shed-ever-join-real-housewives-on-vrt/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
+      "title": "WATCH:  Why Gen Z is choosing to go analog in a digital era",
+      "url": "https://abcnews.com/video/135135049/",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    }
+  ],
+  [
+    {
+      "title": "Resurfaced Ken Paxton Comments Undercut Key Attack Against James Talarico",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUnI4MWdIdms5ejFwQTBaUGhWa0xtX1JDdU1jWERKdUxNMk9Ga21xS2luVGhxYjJjS05CdXd4S0praWdWRThHcWRHZXBLcEsyNmhjZU9ucm56T3JvMzJhZmFOWTExQ0RtSDJJYmJHTWRoTUhUWFNyYkxYS1JEcGNXSmM5QTFqUUNUaTJlSklmaVM2WG15YjdmODNVUE10SGY1X1HSAacBQVVfeXFMT2FoVi1tYXRGQ2pscW82bGpzLWV6Sko0bGVLaFNwZ2lKemJYRENQRklnQlZPVFh2VXFRcDByb2VhdFM0QWNVSEVESXVkb2lOYWVKX0I5UmdFQTVfdmVvektIYTd3cG0xYk5fdlhOU3BPcklDLWt3eXRuMHNkcVBXUEJoU3l1cXdJZ1VWczJkd0dydjVWQWwteGRiQl9WNlV6ZmJmNE1DbUE?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    },
+    {
+      "title": "Poll: Talarico Opens Five-Point Lead over Paxton in Texas Senate Race",
+      "url": "https://www.breitbart.com/politics/2026/07/28/poll-talarico-opens-five-point-lead-over-paxton-in-texas-senate-race/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
     }
   ]
 ]

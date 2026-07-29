@@ -8,39 +8,18 @@
       "domain": "cnn.com"
     },
     {
-      "title": "Khanna: Call to Arrest Netanyahu 'Not Talking About Americans Who Are Subject to Our Own Law'",
-      "url": "https://www.breitbart.com/clips/2026/07/28/khanna-call-to-arrest-netanyahu-not-talking-about-americans-who-are-subject-to-our-own-law/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
+      "title": "Global oil prices top $88 a barrel after Trump vows retaliation for surprise Iranian attack on U.S. troops",
+      "url": "https://www.marketwatch.com/story/oil-prices-rise-after-u-s-and-saudi-arabia-attack-iran-backed-militias-in-iraq-f0f409ea?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
     },
     {
-      "title": "Iran resumes missile attacks as US and Saudis strike Tehran-backed militias in Iraq",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcFZvamthZTNrZ0JiSDZZMVJBNW02Y1JiQUlvUlAwN1RRODcyUWNydUtZbGxpVVdhZElfTERINDh6ZURJZll3M25weWk4UVFPczliQWZ0MkRUc09VTTQ0X1BMVDBDa0hMdzE0TjBlYmI3UkJpYl9KZDFYMTFsZ05jNnd0Zm9wUHEwTlJObUEycG1BNTVqVTVQWjl5NnJqdEE?oc=5",
-      "source": "Associated Press",
+      "title": "Trump says US to deliver \u2018beating\u2019 to Iran after bases again targeted",
+      "url": "https://www.aljazeera.com/news/2026/7/29/trump-says-us-to-deliver-beating-to-iran-after-bases-again-targeted?traffic_source=rss",
+      "source": "Al Jazeera",
       "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "Trump threatens to hit Iran \u2018hard\u2019 following missile attack on U.S. assets",
-      "url": "https://www.washingtonpost.com/national-security/2026/07/28/us-says-it-shot-down-iranian-missiles-targeting-troops-middle-east/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
-    },
-    {
-      "title": "Trump warns Iran is set to \"get a beating\" as 5-month war expands",
-      "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-saudi-arabia-strait-of-hormuz/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "U.S. and Iran resume attacks. And, Fauci to face Senate questions on COVID pandemic",
-      "url": "https://www.npr.org/2026/07/29/g-s1-136076/up-first-newsletter-iran-benjamin-netanyahu-trump-iowa-water-anthony-fauci-fed-rates",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
+      "domain": "aljazeera.com"
     },
     {
       "title": "Fauci invokes 5th Amendment during Senate testimony on COVID-19 response",
@@ -50,73 +29,64 @@
       "domain": "abcnews.go.com"
     },
     {
-      "title": "The Doctor and His Diary: What Fauci\u2019s Innermost Musings Reveal",
-      "url": "https://www.nytimes.com/2026/07/28/us/politics/fauci-diary-fame.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "WATCH: Fauci attorney ejected from Senate hearing after chaotic exchange: \u2018You are not recognized!\u2019",
-      "url": "https://www.foxnews.com/politics/watch-fauci-attorney-ejected-from-senate-hearing-after-chaotic-exchange-you-not-recognized",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "Anthony Fauci refuses to answer questions during US Senate hearing about Covid origins",
+      "title": "Anthony Fauci refuses to answer questions during US Senate hearing discussing Covid origins",
       "url": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "bias": "center",
       "domain": "bbc.com"
     },
     {
-      "title": "Fauci invokes Fifth Amendment, declines to answer at Rand Paul hearing",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUTRiR2lOSXFrbDN1ckU5bW9fZ3BqUmNnb1J0UVdlMlp4M1V6Uk1RMmhRS2R5RktRV0FVNU51LVlSUjNReFkzbHRrQjVYLVYyU3ZWOG85SWQxb2tLTEdRVmd4bmtRZDlRMDVGb0IxRWNZclFZc3Jjb3liejQ3S2xFc25Ra2plcWdKTm95ZGlBa0hhUnRCcGF5ODRjRU9ZdUVlM0c0dFNxVnRySGYzVDBKVUttZkNVRWVacmUxbGotZVdlWmR6Q2RYVi1MbDA3QQ?oc=5",
-      "source": "Reuters",
+      "title": "Fauci invokes the Fifth Amendment and declines to testify in GOP-led Senate panel's COVID-19 hearing",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUm4zZnVKRG1VMWlkQ0ZlaXJnaGJmVks3UTNmQS1BQksya2d0R0pTQUl0M0tZb1dFVS04OXRJSmV1UE4xczhKaWZYbDNXWVUzU0RfNGVyS0lPOU41SkVlRkVyeko2eVN4U2h0UVJkRXNvblhlTTI1Qlo1NzEzWVVBOFlVWTdNMXBSOS1RWk5YZU9WZUs0ZTJERHZZRXJfei1G?oc=5",
+      "source": "Associated Press",
       "bias": "center",
-      "domain": "reuters.com"
+      "domain": "apnews.com"
     },
     {
-      "title": "F1 season to end in Europe if Qatar, Abu Dhabi unable to host due to war",
-      "url": "https://www.aljazeera.com/sports/2026/7/29/f1-season-to-end-in-europe-if-qatar-abu-dhabi-unable-to-host-due-to-us-iran-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "Global oil prices rise above $87 a barrel after Trump vows retaliation for surprise Iranian attack on U.S. troops",
-      "url": "https://www.marketwatch.com/story/oil-prices-rise-after-u-s-and-saudi-arabia-attack-iran-backed-militias-in-iraq-f0f409ea?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
-    },
-    {
-      "title": "Senate Confirms Jay Clayton As Nation's Intelligence Director",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeHhxWW1uOHJ1LUQxcXFlSVRLN0doVVprTXl4MmNhREtHNjFJYjVOODB3NW1ENW8zZVB5ckVMMmYzLWZNVFQtNnUyc3h5cnlZSklzMkRYWTJKVWtpRnJGVC1LSkZ4WmNocFduTFJiNmpWSk1MQXh0T3lOUF9mbENzQkFsT2o0dzBrWEh0TWVzUW1qVU85MGpGZThDbFY3QlhxZEtXV1NPNVBtb3dK0gGyAUFVX3lxTE04UVd5UHNPLVhRWmdnRjNFbkVOLVBJRWU2cWJMUlMxLVJTT2t0YWduc2hPV1pjS05UR25zYU5jQmQ0RGVCVkJhczJqSm0yeDhrQWl0VzRzZGxaY2pHSHJvaEpOcElVQkRRcHE4dEdCd0tjZzg3NkluU1JYbGhIeGVDQXlBMjNMZXMySDBhcTNhd2paTGtEU29oYUJ4UGIza0NhZmd5a1BLdlVvWkR6ekF0Tnc?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    },
-    {
-      "title": "Top Republican shares horrifying stories of gang rule in Haiti",
-      "url": "https://nypost.com/2026/07/29/world-news/top-republican-shares-horrifying-stories-of-gang-rule-in-haiti/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    }
-  ],
-  [
-    {
-      "title": "Democrat compares ICE to 'domestic terrorists' as 111 House Dems demand Texas detention center close",
-      "url": "https://www.foxnews.com/politics/democrat-compares-ice-domestic-terrorists-111-house-dems-demand-texas-detention-center-close",
+      "title": "Fauci's Fifth Amendment plea shows Biden autopen pardon on 'legally questionable' ground, Comer says",
+      "url": "https://www.foxnews.com/politics/faucis-fifth-amendment-plea-shows-biden-autopen-pardon-legally-questionable-ground-comer-says",
       "source": "Fox News",
       "bias": "right",
       "domain": "foxnews.com"
     },
     {
-      "title": "Democrats Demand To Know Whether Trump Will Send Armed Federal Agents To Polling Places",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOak1uV2FuREM2cTE0aHhTSU51UE1OaTdrT3pUa2EzN09iOUtpRmdhTXFpR3RvNEN0R1doRkwyc2ZNSV9TdUMtWnBXWklfTzBQM3RlWlB1MmtTd2t1Z0VabWRiUXV0MHR4ZEpKbVl0VzlOWXBmcDMzNWtpeHpWdVFKODBMbmVHTURwbENzeDYyaExpOWI3Ym11emR5ckNJU3ZLNVluV0JR0gGrAUFVX3lxTE9uby1tRUN4aVdWYmRIbDJXeE1nRHhtMzQzSkpuNTRJZ1J3RWtuUllHc3hWQzNHVDg2eHpsaVoySmtqZGRoaG84VkMwY1Z1dXZHTTJsUlFYd3lGSkdIMFB6S3llQzFjeGF4QmRTdUdQaERMS2VyZm5QSE1OeHVvVDJCSjFRNXFUd3pmMUFPbG9obWV6SXlxRjU1djBQemg5dWVZVm9oaWZOLXdvZw?oc=5",
+      "title": "U.S. and Iran resume attacks. And, Fauci to face Senate questions on COVID pandemic",
+      "url": "https://www.npr.org/2026/07/29/g-s1-136076/up-first-newsletter-iran-benjamin-netanyahu-trump-iowa-water-anthony-fauci-fed-rates",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "Trump warns Iran is set to \"get a beating\" as 5-month war expands",
+      "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-saudi-arabia-strait-of-hormuz/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Trump threatens to hit Iran \u2018hard\u2019 following missile attack on U.S. assets",
+      "url": "https://www.washingtonpost.com/national-security/2026/07/28/us-says-it-shot-down-iranian-missiles-targeting-troops-middle-east/",
+      "source": "Washington Post",
+      "bias": "left-center",
+      "domain": "washingtonpost.com"
+    },
+    {
+      "title": "Exclusive\u2014Rep. Jim Jordan: Confirm Todd Blanche",
+      "url": "https://www.breitbart.com/politics/2026/07/29/exclusive-rep-jim-jordan-confirm-todd-blanche/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
+    },
+    {
+      "title": "Oscar-winning Irish musician Glen Hansard dies in motorcycle crash",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObGw5bUF3TmNmVXVIbm9JbUtmbURVTnlybXpnY3RXbnN0dnk2OFJIck9Ea1hNem9oMFFNbTNJRjREc1pvODd4bnlIU2tLdWJ6Q2lTRkZxRV9pbE1NdFlmNFBZaURGU04xUW1NTFdjUlo2RVp5UV9FcW80X3ZzT2lUT1hFNFRub1Z1ZThxQncxZl9OQUI1RXpFb01ZWmRaZ1RqZmFWWHVjYjB6aXlhanFoZ2w3RE9KQnltcEJaekFtVUdaMmxEVzAxZnctMEprNmc?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "White House Says Anyone Suggesting Trump Fell Asleep At Lindsey Graham's Funeral Is A 'Depraved Moron'",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTXJ4ZTdtS0RSMUNmX3hjNlNZc2J5NjBVWlVqVGZNejM0N2k0V0dhQ2JRQ1ozMzNFWFRxeE4zdmxwWXNxR3RxTWxkaG9HR19Yel9mQ2Nob1RMYlJVTDl0ZTRHXzdiM0N4VjZORU1TV1dZelU4Q1EwV29seHQxdGNEekg3UTNYaWhISGlsbmtwVWk1OTVCR05WVUtlVDQzU2p6YnRsdEV5cElTME1CblHSAbMBQVVfeXFMTm1nME9nbWZSZnd2UG84VzJmNm9KM0tJZDVSUGtEaHlaQ1Y1SmhwMGh2S2pNLXc1eUV6aE1aZmlab2U4Yml2eFJPTGtPWFV1OWVReXJxejFKX2hndlFqc1BlalJxcW9qbGNTWklySmtyS2FRYld5aWx2bTJqclJnb2EtdVluR1F2dlRoY2F5cGVtR0dwREs2V1ZwQzQ3S2dmYU90elVaZUNEZDBNOHBmOHk3RlE?oc=5",
       "source": "HuffPost",
       "bias": "left",
       "domain": "huffpost.com"
@@ -127,20 +97,107 @@
       "source": "New York Times",
       "bias": "left-center",
       "domain": "nytimes.com"
+    }
+  ],
+  [
+    {
+      "title": "Is World Cup sell-off plan a step too far by Infantino?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjejl274xx8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
     },
     {
-      "title": "WATCH:  KFC founder Colonel Sanders' personal items up for auction",
-      "url": "https://abcnews.com/video/135160206/",
+      "title": "Ex-FIFA chief Blatter blasts plan to sell stake in World Cup to investors",
+      "url": "https://www.aljazeera.com/sports/2026/7/29/ex-fifa-chief-blatter-blasts-plan-to-sell-stake-in-world-cup-to-investors?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "FIFA plan for Kushner-backed $20 billion operation to run World Cup meets fury from Europe's UEFA",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORnZ2WXlkWTR4ZVo1SGozUldxWVNZaEZ1ZG1BazF0VkFGMTJGcGRTdVlnc2J4Zi10cDFPaGtwZGRtblZ0bkh3N0tFeE94ckRpT09lU0hRZEZha0prMWxYWXhuUTJHRHlhWWttdWprLVFXU1dkTTFKVVBlLVQzbW9DaERDWTJCNXdjUUdia3ZJc0lFR1NSVS1uQTZLZ2E3b0dJWi1jNnVUYWpiZzA?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Matt Damon\u2019s Biceps in That \u2018Odyssey\u2019 Fight Scene? They\u2019re Hers.",
+      "url": "https://www.nytimes.com/2026/07/29/style/devyn-dalton-matt-damon-stuntwoman-odyssey.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "'Odyssey' translator Emily Wilson says Nolan shouldn't have written the movie himself",
+      "url": "https://www.npr.org/2026/07/29/nx-s1-5910645/odyssey-translator-emily-wilson-christopher-nolan",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "What Christopher Nolan Couldn\u2019t Bring Himself To Do",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdngzdGlGS1NwUDVGRG1vTnlQNEVzYXF6MTlQQmlBOVp4VkY4WXJHQ1ZwTHc4a2pycGNkYkplR1MwS3NEY05OdmJLVmtlZlltMF9pSTQwS01yRVhmZEh6UF92dGRHRmZJZmpTZHZrdDhJbDZiSzdZYkhqVElCczlyTU80MUp2dU95?oc=5",
+      "source": "Daily Wire",
+      "bias": "right",
+      "domain": "dailywire.com"
+    }
+  ],
+  [
+    {
+      "title": "Summer of Heat, Fires and Storms Is a Reckoning for Europe on Climate",
+      "url": "https://www.nytimes.com/2026/07/29/world/europe/summer-heat-wave-fires-climate-change.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Past fires suggest effects of Europe and North America wildfires may linger for years",
+      "url": "https://www.theguardian.com/world/2026/jul/28/wildfires-europe-north-america-effects",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "Nine in Ten 'Wildfires' Started by Human Hands, French Government Admits",
+      "url": "https://www.breitbart.com/europe/2026/07/29/nine-in-ten-wildfires-started-by-human-hands-french-government-admits/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
+    }
+  ],
+  [
+    {
+      "title": "The Federal Reserve faces a critical decision on interest rates",
+      "url": "https://www.npr.org/2026/07/29/nx-s1-5910558/federal-reserve-interest-rates-inflation",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "Fed to issue interest rate decision as gas prices rise",
+      "url": "https://abcnews.com/Business/fed-issue-interest-rate-decision-gas-prices-rise/story?id=135130446",
       "source": "ABC News",
       "bias": "center",
       "domain": "abcnews.go.com"
     },
     {
-      "title": "Wisconsin Democrats debate policing, taxes, school vouchers in gubernatorial primary race",
-      "url": "https://www.cbsnews.com/video/wisconsin-democrats-debate-over-policing-taxes-school-vouchers-in-race-for-gubernatorial-primary/",
-      "source": "CBS News",
+      "title": "Oil prices jump following fighting with Iran, while sinking AI stocks drag Wall Street lower",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVVhqMlRBNU0taHdVcUdHUUE3eDFsZEFQbTZ6dElnTEtMOGVSb1ktYlhpbmJHMm9NY2xRc1lQRWRXcGZ2N0NUNm9FSWV1ZkQ2MjAtaE5WWkwxeHFDMmxxX3I4MHNDNmduRnZ4ODNzNUtSZ2hyZEh3NVBtMmthTHA5UDRzcTBXOWJYNS0yVHlUM0loVXE5VThkeg?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Powerful earthquake strikes southern Japan; dozens reported missing",
+      "url": "https://www.washingtonpost.com/world/2026/07/28/powerful-earthquake-strikes-southern-japan-causing-destruction/",
+      "source": "Washington Post",
       "bias": "left-center",
-      "domain": "cbsnews.com"
+      "domain": "washingtonpost.com"
     },
     {
       "title": "Rescue teams face \u2018race against time\u2019 in search for trapped survivors as death toll in Japan rises to at least 13 \u2013 as it happened",
@@ -150,101 +207,11 @@
       "domain": "theguardian.com"
     },
     {
-      "title": "A 7.1 magnitude quake hits Japan\u2019s southern Kyushu island killing at least 3",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZjJfSjA5NW44LXd6ZG56VGYzWFhybVkybHlGV2Q3bjZHazdsR1hoTGh3RmpsUlc1MnJNelRQbGFKejdjbjRwYzBSWFJQYnR1SW5WbGdZbXBvNm9OZXRGUDJVLVZWTUlQZGptdlRYTjhrNUczOWdUZE1FRHFOU1czaThocDdHQVNsTG8tWg?oc=5",
+      "title": "2 firefighters die in a wildfire on the southern Greek island of Crete",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQXlyZVBWRGZZNXU0WjBMZ01TWjh2a2tYcjlERk02Z1RWa0ZmV3ZTSmQ3eG9JVnJCSHdEWTZMT09RN005b3NTUG1TdmhKUS0xZ3FRMlpsRUNVd2FiNmZIdzRrZExlQ3B4NTBReUFBbUhzeWJod3VJeVJzLUZvMEJIVkNRbU5FOER5OElSOER6NmR4SDB4eFE1VzB4amFrSExFQk9sUTdITTQxVW1uLVp6VFJLWnpzbUU?oc=5",
       "source": "Associated Press",
       "bias": "center",
       "domain": "apnews.com"
-    },
-    {
-      "title": "Powerful earthquake strikes southern Japan; dozens reported missing",
-      "url": "https://www.washingtonpost.com/world/2026/07/28/powerful-earthquake-strikes-southern-japan-causing-destruction/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
-    },
-    {
-      "title": "Berlin Terrorist Attacker Shot And Killed By Police",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdFVQS0FYa1pFMUFWcnRMUVJjU1doYmFMcUgxbWthWlpucE9BZGk3ZzExVnNqUy13WnhVMmZfRFJkQmg4c0tFZU03aHpRMFQwUjZyZjNmTTNvY2NFcTVPaWNHZzdFQkhpaExjeC1BU2tZYUptY2x4M3R6djNvZVhwby10a2ZaRVdseGc?oc=5",
-      "source": "Daily Wire",
-      "bias": "right",
-      "domain": "dailywire.com"
-    }
-  ],
-  [
-    {
-      "title": "Oscar-winning singer Glen Hansard dead at 56",
-      "url": "https://www.foxnews.com/entertainment/oscar-winning-singer-glen-hansard-dead-56",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "\u2018Once\u2019 Oscar winner and Irish musician Glen Hansard dies in motorcycle crash",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU2xOMXBGVWVHZWFaLVF5VmJ6a2NrcDE3MXc2ZW8yTGNvQXlQVTc4V1hoNzUwZVFFTFg4blVVMkNhV1pXaTFPRURvNzlYZ1JYeVUxUmFmS3U3V2tTNlFEcW9FM2hDM01JOWtvbm9aRUpVTFdINkhlQldZYjBxbmN2N2VxTXlNT2Z3R2VTdnRnODFhZ2l4Z0gzdkhKVWVoeGc3bE5n?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "Oscar-winning songwriter Glen Hansard killed in crash",
-      "url": "https://www.bbc.co.uk/news/articles/c3ekn9d37qvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "Oscar-winning Irish musician Glen Hansard dies in motorcycle crash",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObGw5bUF3TmNmVXVIbm9JbUtmbURVTnlybXpnY3RXbnN0dnk2OFJIck9Ea1hNem9oMFFNbTNJRjREc1pvODd4bnlIU2tLdWJ6Q2lTRkZxRV9pbE1NdFlmNFBZaURGU04xUW1NTFdjUlo2RVp5UV9FcW80X3ZzT2lUT1hFNFRub1Z1ZThxQncxZl9OQUI1RXpFb01ZWmRaZ1RqZmFWWHVjYjB6aXlhanFoZ2w3RE9KQnltcEJaekFtVUdaMmxEVzAxZnctMEprNmc?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "Singer-songwriter Glen Hansard killed in motorcycle crash",
-      "url": "https://www.cbsnews.com/news/glen-hansard-dies-singer-songwriter-oscar-once-ireland-age-56/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    }
-  ],
-  [
-    {
-      "title": "Fifa offers $40m if nations back controversial plan",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvg7vglq9wpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "FIFA plan for Kushner-backed $20 billion operation to run World Cup meets fury from Europe's UEFA",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORnZ2WXlkWTR4ZVo1SGozUldxWVNZaEZ1ZG1BazF0VkFGMTJGcGRTdVlnc2J4Zi10cDFPaGtwZGRtblZ0bkh3N0tFeE94ckRpT09lU0hRZEZha0prMWxYWXhuUTJHRHlhWWttdWprLVFXU1dkTTFKVVBlLVQzbW9DaERDWTJCNXdjUUdia3ZJc0lFR1NSVS1uQTZLZ2E3b0dJWi1jNnVUYWpiZzA?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "Infantino sets deadline for FIFA offer in Kushner-backed World Cup plan",
-      "url": "https://www.aljazeera.com/sports/2026/7/29/infantino-sets-deadline-for-fifa-offer-in-kushner-backed-world-cup-plan?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    }
-  ],
-  [
-    {
-      "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
-      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
-    },
-    {
-      "title": "Trump DOJ Reaches Settlement with Pro-Life Christian Father of 11 Targeted by Biden Administration",
-      "url": "https://www.breitbart.com/politics/2026/07/28/trump-doj-reaches-settlement-pro-life-christian-father-targeted-biden-administration/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
     }
   ],
   [
@@ -265,50 +232,18 @@
   ],
   [
     {
-      "title": "Four women accuse Jared Leto of criminal sexual conduct when they were teenagers",
-      "url": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
+      "title": "Daily Mail seeks interim $13 million payment after Prince Harry loses lawsuit",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOU9SR2ZTSnhOQmtIVkJkNDZYenFUUlpmSVltSXROeVU3X2hkX3duN25YYUllTktTTGhTeF94Y3dCemxSX3ZvV2lRYlNQVFJuTFNBdWxQdUU4ajNpUFp3dXBJRV9RaU8yM3BFUUloWkt3eDJJS0V2bl9lamdNZ0VSUGFlR2plR3p1MV9HQnp3UlRPVkg3RFNaU0lhbVFtRkZYcDZLUUlRYkZsS3dQd1hieGUwbzFWemhhbnBHWkdFWWVGTHBTS0pNcA?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Prince Harry media battle legal bill expected to cost millions",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj8l477vpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "bias": "center",
       "domain": "bbc.com"
-    },
-    {
-      "title": "Jared Leto accused of \u2018approaching\u2019 and \u2018texting\u2019 underage girls nearly two decades before sexual assault allegations",
-      "url": "https://pagesix.com/2026/07/29/celebrity-news/jared-leto-accused-of-approaching-texting-underage-girls-before-sexual-assault-allegations/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    }
-  ],
-  [
-    {
-      "title": "What to Watch at the Federal Reserve\u2019s July Meeting",
-      "url": "https://www.nytimes.com/2026/07/29/business/federal-reserve-july-meeting.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "The Federal Reserve faces a critical decision on interest rates",
-      "url": "https://www.npr.org/2026/07/29/nx-s1-5910558/federal-reserve-interest-rates-inflation",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    }
-  ],
-  [
-    {
-      "title": "I got an unexpected $1,000 medical bill. Here\u2019s why I\u2019m not paying it yet.",
-      "url": "https://www.marketwatch.com/story/i-got-an-unexpected-1-000-medical-bill-heres-why-im-not-paying-it-yet-67265caf?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
-    },
-    {
-      "title": "Can hospitals still send unpaid medical bills to collections?",
-      "url": "https://www.cbsnews.com/news/can-hospitals-send-medical-bills-to-collections/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
     }
   ],
   [
@@ -329,66 +264,34 @@
   ],
   [
     {
-      "title": "Here\u2019s the biggest obstacle in Aaron Donald\u2019s Rams comeback",
-      "url": "https://nypost.com/2026/07/29/sports/aaron-donalds-contract-could-be-the-biggest-obstacle-to-a-rams-return-despite-mutual-interest/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
+      "title": "Deadline passes for Trump to ask Supreme Court to reconsider birthright citizenship ruling",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcTlsNjlnNjhkTml0YTBici1WbDBncEF3bTFPdG14UGtMQ3ppcGpQN0J1VUpubUFYX29QZTRReUpYWkV1OGpubENUaTdLV05nTEJDZXFjMmlsWU40S0lYa2tFZ3c3WkowZDFCQkpLWGdXQWlUc3ZHMVhwQnlXM0JnWDVFd0Fqbi1Ob0NZeFdfNmxGSjRScWJRblVKNUZheTNEVk54Y1dEdlBNM2R4blJzQzdJa1o?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
     },
+    {
+      "title": "Deadline Passes For Trump To Ask Supreme Court To Reconsider Birthright Citizenship Ruling",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMms0RXZER3M1S3Itc0dPTy0ydzFBbHVhSWFPYlA2dlpBY19hcXNTNzRlalBxSEI0N0hSZ29sWFFLaHBMR2Q1Rl84aHRuc3RHdGFlMlpuT3M1dTJSWjA3dkdOUmpxU29RWXpfd1NzSXF3WW1xZHF2ZzdoUTFTZndDR1lKaEtwbzJkR3FIa1owUjM4YVN1Y0FjQklCNDlsVGFxNXfSAacBQVVfeXFMTXhyZHNEVnYwRGdfUU1ZQTB5OGFLTmVPdWU0aWY5MzNOZmw2b1ZiX0o1cG1aSFhRTGllN2R5ejF5akRheS1tMjFSdGc0c3hwR1BIa3lHYjNXVDRaZWVkNVhiYmJ0eVV3QVJkRUM5NmJKVzBkMjdmMFhWN3JocFJlMjEwYnl2SlNlUzJiZzdPbS1iOWYxdWxTWmVXUjFiRmdIYjFrQkZMZE0?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    }
+  ],
+  [
     {
       "title": "Canadians spent $3.3bn less on travel to US in 2025 after Trump\u2019s return to office",
       "url": "https://www.theguardian.com/world/2026/jul/28/canadians-us-travel-drop-trump",
       "source": "The Guardian",
       "bias": "left-center",
       "domain": "theguardian.com"
-    }
-  ],
-  [
-    {
-      "title": "Tunisia\u2019s body politic is in crisis",
-      "url": "https://www.aljazeera.com/opinions/2026/7/29/tunisias-body-politic-is-in-crisis?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
     },
     {
-      "title": "Uganda begins emergency food handouts after 19 die from hunger",
-      "url": "https://www.theguardian.com/global-development/2026/jul/27/uganda-begins-emergency-food-handouts-after-19-die-from-hunger",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    }
-  ],
-  [
-    {
-      "title": "France orders 4,000 more evacuated as fires displace a third of a million across southwest Europe",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVnhUbUtjWkcxODdfUXBpS0ZJWl9mVXhtNGd6WnIzVzd6c3lRQWNzaGVHalE3Y0xyOVdpSEtrQXVHcUUzZTVNQ2ZPZmJhcWx3Vzg1WlIzNk9xY2lBTjl3TzlOX3hPQU5RNS0taGcwUHRZYVh4Z3VyYWJoMnpaTkVGdnBZZ0NNUkMySFcxYUk0Qk92aU0ycFJiMk9kdmVSSDQ?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "Past fires suggest effects of Europe and North America wildfires may linger for years",
-      "url": "https://www.theguardian.com/world/2026/jul/28/wildfires-europe-north-america-effects",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    }
-  ],
-  [
-    {
-      "title": "Schools are testing pepper-spraying drones to stop shooters",
-      "url": "https://www.cbsnews.com/news/drones-pepper-spray-school-shooters-mithril/",
+      "title": "Grants halted at agency devoted to safety of U.S. healthcare",
+      "url": "https://www.cbsnews.com/news/trump-healthcare-safety-agency-ahrq/",
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"
-    },
-    {
-      "title": "WATCH:  Pepper-spraying drones to help stop school shooters sparks debate",
-      "url": "https://abcnews.com/video/135181706/",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
     }
   ]
 ]

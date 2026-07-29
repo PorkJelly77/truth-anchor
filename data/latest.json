@@ -8,74 +8,18 @@
       "domain": "cnn.com"
     },
     {
-      "title": "Police to take no further action against Polanski over guillotine re-post",
-      "url": "https://www.bbc.co.uk/news/articles/cwylrnxxl77o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
+      "title": "Stocks and bonds see wild \u2018Fed Day\u2019 swings as Wall Street\u2019s \u2018crash cushion\u2019 evaporates",
+      "url": "https://www.marketwatch.com/story/stocks-and-bonds-see-wild-fed-day-swings-as-wall-streets-crash-cushion-evaporates-ffcbdbbc?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
     },
     {
-      "title": "BTS skipping Grammys in apparent protest over new Asian pop category",
-      "url": "https://pagesix.com/2026/07/29/entertainment/bts-skipping-grammys-in-apparent-protest-over-new-asian-pop-category/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "Trump threatens to hit Iran \u2018hard\u2019 following missile attack on U.S. assets",
-      "url": "https://www.washingtonpost.com/national-security/2026/07/28/us-says-it-shot-down-iranian-missiles-targeting-troops-middle-east/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
-    },
-    {
-      "title": "Oil prices surge after Trump vows retaliation for Iranian attack",
-      "url": "https://abcnews.com/Business/oil-prices-surge-after-trump-vows-retaliation-iranian/story?id=135185546",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    },
-    {
-      "title": "Saudi Arabia\u2019s Strikes in Iraq Mark Entry Into U.S.-Iran War.",
-      "url": "https://www.nytimes.com/2026/07/29/world/middleeast/saudi-arabia-us-iran-war.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "Iran launches renewed missile attacks as US and Saudis strike Tehran-backed militias in Iraq",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcFZvamthZTNrZ0JiSDZZMVJBNW02Y1JiQUlvUlAwN1RRODcyUWNydUtZbGxpVVdhZElfTERINDh6ZURJZll3M25weWk4UVFPczliQWZ0MkRUc09VTTQ0X1BMVDBDa0hMdzE0TjBlYmI3UkJpYl9KZDFYMTFsZ05jNnd0Zm9wUHEwTlJObUEycG1BNTVqVTVQWjl5NnJqdEE?oc=5",
+      "title": "Oil prices jump, while the Dow drops more than 1,100 as sinking AI stocks drag Wall Street lower",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVVhqMlRBNU0taHdVcUdHUUE3eDFsZEFQbTZ6dElnTEtMOGVSb1ktYlhpbmJHMm9NY2xRc1lQRWRXcGZ2N0NUNm9FSWV1ZkQ2MjAtaE5WWkwxeHFDMmxxX3I4MHNDNmduRnZ4ODNzNUtSZ2hyZEh3NVBtMmthTHA5UDRzcTBXOWJYNS0yVHlUM0loVXE5VThkeg?oc=5",
       "source": "Associated Press",
       "bias": "center",
       "domain": "apnews.com"
-    },
-    {
-      "title": "Trump warns Iran is set to \"get a beating\" as 5-month war expands",
-      "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-saudi-arabia-strait-of-hormuz/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "Videos show aftermath of US-Saudi strikes on Iraq PMF bases",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/videos-show-aftermath-of-us-saudi-strikes-on-iraq-pmf-bases?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "U.S. and Iran resume attacks. And, Fauci to face Senate questions on COVID pandemic",
-      "url": "https://www.npr.org/2026/07/29/g-s1-136076/up-first-newsletter-iran-benjamin-netanyahu-trump-iowa-water-anthony-fauci-fed-rates",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    },
-    {
-      "title": "Halperin compares Fauci diary media coverage to Biden's mental decline, calls it another cover-up",
-      "url": "https://www.foxnews.com/media/halperin-compares-fauci-diary-media-coverage-bidens-mental-decline-calls-another-cover-up",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
     },
     {
       "title": "MS NOW's Ruhle: Fauci Hearing Breaks My Heart \u2014 'I Can\u2019t Believe We\u2019re Relitigating This'",
@@ -85,6 +29,55 @@
       "domain": "breitbart.com"
     },
     {
+      "title": "Moms for Liberty co-founder rips Fauci after Fifth Amendment plea, 'America deserves an apology'",
+      "url": "https://www.foxnews.com/media/moms-liberty-co-founder-rips-fauci-fifth-amendment-plea-america-deserves-apology",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "'It's his decision': Netanyahu says choice on how to proceed with Iran is Trump's",
+      "url": "https://abcnews.com/US/decision-netanyahu-choice-proceed-iran-trumps/story?id=135203352",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    },
+    {
+      "title": "Trump and Netanyahu explored all Iran options including attack, Israeli official says",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNGRMX1g5X0U3ckZtQjhIMHFGMHVjWmZoNlU5bDBydGRabk5LR1dGUUNSaXFHWUQyWnJqd2VJS09KSmU3ZXVtVjBqemVDdTJJNE9JVDkxTm5udWZ1bVRYYmxUdmExbHFsdENjc2N3Yi15R0tEVUxuRXJiQUk4akd2dy1ZU3g5S21wNjhTX29NODVtaUNRU2JoSi04T29pUzNFMGtKR3cyZUN1RF8zZEVTZTFxSkhXZU9ESHphSWhhR1R4ZUlMSnNsVlNQTUxwRTg?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "The Trump administration's move to end subsidies for Medicare drug plans could cost consumers",
+      "url": "https://www.npr.org/2026/07/29/nx-s1-5912039/the-trump-administrations-move-to-end-subsidies-for-medicare-drug-plans-could-cost-consumers",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "Canadians spent $3.3bn less on travel to US in 2025 after Trump\u2019s return to office",
+      "url": "https://www.theguardian.com/world/2026/jul/28/canadians-us-travel-drop-trump",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "Police to take no further action against Polanski over guillotine re-post",
+      "url": "https://www.bbc.co.uk/news/articles/cwylrnxxl77o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "Trump threatens to hit Iran \u2018hard\u2019 following missile attack on U.S. assets",
+      "url": "https://www.washingtonpost.com/national-security/2026/07/28/us-says-it-shot-down-iranian-missiles-targeting-troops-middle-east/",
+      "source": "Washington Post",
+      "bias": "left-center",
+      "domain": "washingtonpost.com"
+    },
+    {
       "title": "Trump Spews F-Bomb Schoolyard Threat At Iran For Strikes On U.S. Troops",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR0NVTzFmOFRSd000QlpZQnE1VE5fM19iWjNNQWlRRGQ0LUx5UWR6aXgxbm5VcWgxeFBYbzBOVjFhOXlYb1dvLWJ0eWNfaEdaRjVfeFoxRm9tYkdCSlVkQTVEUWtsZ1V5dThJc0tRUkFzNWY1UGRjdmJ1NGh4Y0Mya1QxY3lPNFM5dDRvRHU0eXdabk90WHhLcFIzVnNkRUlJQ0RCNnRNcEJFbjRpRGfSAbMBQVVfeXFMT2xwWVZKVW5HWTBSZ0xUMFE2R0YwbTlqdkRGSkNjdlB5QU1vUFQ2TDl3eXFkSExTbVFvaWhnWlJwVHIyS3Q2Z291VXE1U0dLdmZ6dzZ0MlNfQjcyb21vX1NQNUcxSUluT1dxUUJvU3BtZWg2TzZsX0hWa25OUEhGMWJITDEtREVkR0ktUHlEYUJ6ajVrTWJXN2lvVHZhSkNacWY1Z2JOSVFqQkltMmliVGpVeHc?oc=5",
       "source": "HuffPost",
@@ -92,21 +85,35 @@
       "domain": "huffpost.com"
     },
     {
-      "title": "Trump to unveil $22 billion plan to remake Washington Dulles airport, sources say",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZXhHaHYtMVE2OUdfRHZTUlhoTnpFNHZ6TXBKdV9IVjRYVklkNHJZYVpsWUJEdHpfeFpZNkZNX3plYmFWaVU1a3haQmEwcWV5Vjh4NGlvcEVnTEhqdTl4VkdsZnI2NXpMaFQzLUJSaUNpX2RmY0t5dzNjZ2VXeEhKZUZMcmJ4dmxvU3NOUGRnc2JYdFJFMTVaSXNrWHM0Y0ZFWlBXNkVuVzNrdw?oc=5",
-      "source": "Reuters",
+      "title": "Sam Altman meets lawmakers on back of OpenAI agents hacking companies",
+      "url": "https://www.aljazeera.com/economy/2026/7/29/sam-altman-meets-lawmakers-on-back-of-openai-agents-hacking-companies?traffic_source=rss",
+      "source": "Al Jazeera",
       "bias": "center",
-      "domain": "reuters.com"
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "Senators Cornyn and Tillis Threaten to Block Blanche Nomination Over Trump\u2019s IRS Deal",
+      "url": "https://www.nytimes.com/2026/07/29/us/politics/todd-blanche-senate-vote-irs.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "OpenAI interested in ChatGPT wearable integrations",
+      "url": "https://www.cbsnews.com/video/openai-interested-chatgpt-wearable-integrations/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Giants Training Camp Day 1: Malik Nabers looks confident with knee in return to action | Blue Rush",
+      "url": "https://nypost.com/video/giants-training-camp-day-1-malik-nabers-looks-confident-with-knee-in-return-to-action-blue-rush/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
     }
   ],
   [
-    {
-      "title": "FIFA opens disciplinary case over Argentina Falklands banner at World Cup",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVk04MXVMS1haRGlLWkFPU3U1SUVWZHA3N19sbXpRbFZyRGdqNkNuekFXb3lOOHIxS01JczEzVVFkdEFZbUFSbHZqc3MxbXVMRUc5bkd2RkQ5UGF4Zkpya3FVNDVhRTZMUnJVbkE3NG1XUWZUUEdxU3ZpaVhCcmEycEN2bjR4cFZQZm42VkhsYXo0ekpMRnZ0endUTmNPT3Z2clBwU0l0bEpEeHlfZWo4VTVUWXN4czFRZEJYWQ?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
     {
       "title": "Fifa opens disciplinary proceedings against Argentina",
       "url": "https://www.bbc.co.uk/sport/football/articles/cp3rkwgy6y7o?at_medium=RSS&at_campaign=rss",
@@ -115,11 +122,105 @@
       "domain": "bbc.com"
     },
     {
+      "title": "FIFA charges Argentina after World Cup final brawl with Spain",
+      "url": "https://www.aljazeera.com/sports/2026/7/29/fifa-charges-argentina-after-world-cup-final-brawl-with-spain?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    },
+    {
       "title": "Javier Milei accuses US Democrats of financing \u2018anti-Argentina campaign\u2019 at World Cup",
       "url": "https://www.theguardian.com/world/2026/jul/28/javier-milei-accuses-us-democrats-of-financing-anti-argentina-campaign-at-world-cup",
       "source": "The Guardian",
       "bias": "left-center",
       "domain": "theguardian.com"
+    }
+  ],
+  [
+    {
+      "title": "Powerful earthquake strikes southern Japan; dozens reported missing",
+      "url": "https://www.washingtonpost.com/world/2026/07/28/powerful-earthquake-strikes-southern-japan-causing-destruction/",
+      "source": "Washington Post",
+      "bias": "left-center",
+      "domain": "washingtonpost.com"
+    },
+    {
+      "title": "Rescue teams face \u2018race against time\u2019 in search for trapped survivors as death toll in Japan rises to at least 13 \u2013 as it happened",
+      "url": "https://www.theguardian.com/world/live/2026/jul/29/sanae-takaichi-rescue-trapped-shopping-centre-mall-japan-earthquake-latest-news-updates",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "A 7.1 magnitude quake hits Japan\u2019s southern Kyushu island killing at least 3",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZjJfSjA5NW44LXd6ZG56VGYzWFhybVkybHlGV2Q3bjZHazdsR1hoTGh3RmpsUlc1MnJNelRQbGFKejdjbjRwYzBSWFJQYnR1SW5WbGdZbXBvNm9OZXRGUDJVLVZWTUlQZGptdlRYTjhrNUczOWdUZE1FRHFOU1czaThocDdHQVNsTG8tWg?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Graham's final mission advances as Senate moves to crush Putin's war machine with Russia, Iran sanctions",
+      "url": "https://www.foxnews.com/politics/grahams-final-mission-advances-senate-moves-crush-putins-war-machine-russia-iran-sanctions",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Canada\u2019s Answer to Trump\u2019s Tariffs: More Energy Deals With Europe",
+      "url": "https://www.nytimes.com/2026/07/29/world/canada/canada-lng-germany-carney-trump-tariffs.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    }
+  ],
+  [
+    {
+      "title": "Fox News Poll: Democratic enthusiasm shapes North Carolina Senate race",
+      "url": "https://www.foxnews.com/politics/fox-news-poll-democratic-enthusiasm-shapes-north-carolina-senate-race",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Rep. Debbie Dingell urges Michigan Democrats to unite regardless of who wins Senate primary",
+      "url": "https://www.cbsnews.com/video/debbie-dingell-urges-michigan-democrats-unite-senate-primary/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Ohio man found shot dead in execution-style killing while camping on Puerto Rico beach: reports",
+      "url": "https://www.foxnews.com/us/american-found-shot-dead-execution-style-killing-camping-puerto-rico-beach-reports",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Dramatic moment Oscar-winning Disney titan is rescued from Arizona mountain in scorching heat",
+      "url": "https://nypost.com/2026/07/29/us-news/oscar-winning-disney-animator-rescued-from-arizona-mountain-trail/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    }
+  ],
+  [
+    {
+      "title": "Drone hits gas storage tanker at Egypt's Mediterranean port, Ambrey reports",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM3F5LWg3Mm9rYmlhejJpdzJqQW9SWnU1WHJRVm9iZ1p0TUpmRTR6Mk1JYXVUekU2c1VlTHI5bV9DbzIyejlvYU13Y2cxYU12WExOYzJoVmxsVzVoc2hiWkQ2ZWFUZ0EwZHBZZlZ1UnREZjZGc243TlQtMXVKcDQ5bUpEaDR2Tmo5eTJkdlJhSXMtZ0U2cnk0OWNLLU50YlBjbnZrei1FVm9CYWw5cUE?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Two Tankers Hit in Apparent Drone Strike in Egypt",
+      "url": "https://www.nytimes.com/2026/07/29/world/middleeast/ships-drone-strike-egypt.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
     }
   ],
   [
@@ -136,132 +237,38 @@
       "source": "NPR",
       "bias": "left-center",
       "domain": "npr.org"
-    },
-    {
-      "title": "Bordeaux wildfire battle continues amid extreme heat",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/bordeaux-wildfire-battle-continues-amid-extreme-heat?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
     }
   ],
   [
     {
-      "title": "Powerful earthquake strikes southern Japan; dozens reported missing",
-      "url": "https://www.washingtonpost.com/world/2026/07/28/powerful-earthquake-strikes-southern-japan-causing-destruction/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
-    },
-    {
-      "title": "A 7.1 magnitude quake hits Japan\u2019s southern Kyushu island killing at least 3",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZjJfSjA5NW44LXd6ZG56VGYzWFhybVkybHlGV2Q3bjZHazdsR1hoTGh3RmpsUlc1MnJNelRQbGFKejdjbjRwYzBSWFJQYnR1SW5WbGdZbXBvNm9OZXRGUDJVLVZWTUlQZGptdlRYTjhrNUczOWdUZE1FRHFOU1czaThocDdHQVNsTG8tWg?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "Rescue teams face \u2018race against time\u2019 in search for trapped survivors as death toll in Japan rises to at least 13 \u2013 as it happened",
-      "url": "https://www.theguardian.com/world/live/2026/jul/29/sanae-takaichi-rescue-trapped-shopping-centre-mall-japan-earthquake-latest-news-updates",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    }
-  ],
-  [
-    {
-      "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges",
-      "url": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
-    },
-    {
-      "title": "New York school pauses plan to deploy humanlike AI robot teacher after backlash",
-      "url": "https://www.npr.org/2026/07/29/g-s1-136072/ai-robot-teacher",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    }
-  ],
-  [
-    {
-      "title": "Iran mines US troops' social media as military considers seizing cellphones",
-      "url": "https://www.foxnews.com/politics/iran-mines-us-troops-social-media-military-considers-seizing-cellphones",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "California beach deploys ingenious new way to find sharks lurking in the shallows near swimmers",
-      "url": "https://nypost.com/2026/07/29/us-news/california-beach-deploys-shark-detection-robot-to-scan-waterways/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    }
-  ],
-  [
-    {
-      "title": "Zendaya at Spider-Man premiere: Working with husband Tom Holland 'easy when you're best friends'",
-      "url": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&at_campaign=rss",
+      "title": "Salman Rushdie attacker convicted of terror offenses",
+      "url": "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "bias": "center",
       "domain": "bbc.com"
     },
     {
-      "title": "WATCH:  Can a spreadsheet help you find love?",
-      "url": "https://abcnews.com/video/135185549/",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    }
-  ],
-  [
-    {
-      "title": "Do-nothing Fed? Maybe not. Now Wall Street zeros in on rate hike in September.",
-      "url": "https://www.marketwatch.com/story/the-big-focus-now-is-on-the-potential-for-a-september-rate-hike-after-the-fed-stands-pat-401c30d6?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
-    },
-    {
-      "title": "Oil prices jump, while the Dow drops more than 1,100 as sinking AI stocks drag Wall Street lower",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVVhqMlRBNU0taHdVcUdHUUE3eDFsZEFQbTZ6dElnTEtMOGVSb1ktYlhpbmJHMm9NY2xRc1lQRWRXcGZ2N0NUNm9FSWV1ZkQ2MjAtaE5WWkwxeHFDMmxxX3I4MHNDNmduRnZ4ODNzNUtSZ2hyZEh3NVBtMmthTHA5UDRzcTBXOWJYNS0yVHlUM0loVXE5VThkeg?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    }
-  ],
-  [
-    {
-      "title": "'Odyssey' translator Emily Wilson says Nolan shouldn't have written the movie himself",
-      "url": "https://www.npr.org/2026/07/29/nx-s1-5910645/odyssey-translator-emily-wilson-christopher-nolan",
-      "source": "NPR",
+      "title": "Salman Rushdie recounts getting stabbed (2024)",
+      "url": "https://www.cbsnews.com/video/salman-rushdie-recounts-getting-stabbed-2024/",
+      "source": "CBS News",
       "bias": "left-center",
-      "domain": "npr.org"
-    },
-    {
-      "title": "What Christopher Nolan Couldn\u2019t Bring Himself To Do",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdngzdGlGS1NwUDVGRG1vTnlQNEVzYXF6MTlQQmlBOVp4VkY4WXJHQ1ZwTHc4a2pycGNkYkplR1MwS3NEY05OdmJLVmtlZlltMF9pSTQwS01yRVhmZEh6UF92dGRHRmZJZmpTZHZrdDhJbDZiSzdZYkhqVElCczlyTU80MUp2dU95?oc=5",
-      "source": "Daily Wire",
-      "bias": "right",
-      "domain": "dailywire.com"
+      "domain": "cbsnews.com"
     }
   ],
   [
     {
-      "title": "Mamdani\u2019s \u2018eat the rich\u2019 hit list: Letters to the Editor \u2014 July 30, 2026",
-      "url": "https://nypost.com/2026/07/29/opinion/zos-eat-the-rich-hit-list-letters/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
+      "title": "Death of 15 elephants in Kenyan national park sparks outrage, investigation",
+      "url": "https://www.washingtonpost.com/world/2026/07/29/death-15-elephants-kenyan-national-park-sparks-outrage-investigation/",
+      "source": "Washington Post",
+      "bias": "left-center",
+      "domain": "washingtonpost.com"
     },
     {
-      "title": "Mamdani Just Handed The Internet Thousands Of Names And Addresses",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONVpqTk1UU3R5cUZxYmlHQTh6VlM5aklSMzVvWUFVcjhWaElGNUtWT3psLW9nOXRTWXRReTlLajZoWWlTR3VORERnazlvNGM4UHotSFh1YlNKSmdNYk9zVUpRNHV1bDNLMkJib3dKZ3ItVFRLZVFWU3VQSERoS2lEZWwwbTREMHY0ZTJaZTE2RVI0Z2M2QkE?oc=5",
-      "source": "Daily Wire",
-      "bias": "right",
-      "domain": "dailywire.com"
+      "title": "Kenya investigating unexpected deaths of 15 elephants in national park",
+      "url": "https://www.theguardian.com/world/2026/jul/29/elephant-deaths-kenya-amboseli-national-park",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
     }
   ],
   [
@@ -298,15 +305,15 @@
   ],
   [
     {
-      "title": "Schools are testing pepper-spraying drones to stop shooters",
-      "url": "https://www.cbsnews.com/news/drones-pepper-spray-school-shooters-mithril/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
+      "title": "A Divided Fed Holds Interest Rates Steady",
+      "url": "https://www.breitbart.com/economy/2026/07/29/fed-rates-decision/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
     },
     {
-      "title": "WATCH:  Pepper-spraying drones to help stop school shooters sparks debate",
-      "url": "https://abcnews.com/video/135181706/",
+      "title": "Fed holds interest rates steady as economy weathers resurgent inflation",
+      "url": "https://abcnews.com/Business/fed-issue-interest-rate-decision-gas-prices-rise/story?id=135130446",
       "source": "ABC News",
       "bias": "center",
       "domain": "abcnews.go.com"

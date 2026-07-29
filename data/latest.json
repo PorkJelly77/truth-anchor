@@ -1,102 +1,132 @@
 [
   [
     {
-      "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
-      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+      "title": "Millions in the US could face massive consequences unless McCarthy can navigate out of a debt trap he set for Biden",
+      "url": "https://www.cnn.com/2023/04/18/politics/mccarthy-biden-debt-ceiling/index.html",
       "source": "CNN",
       "bias": "left",
       "domain": "cnn.com"
     },
     {
-      "title": "Trump at His Finest: President Delivers Touching Eulogy for Lindsey Graham",
-      "url": "https://www.breitbart.com/politics/2026/07/28/trump-at-his-finest-president-delivers-touching-eulogy-for-lindsey-graham/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
-    },
-    {
-      "title": "Legacy media covers Anthony Fauci diary by criticizing Donald Trump instead of Fauci's dishonesty",
-      "url": "https://www.foxnews.com/outkick-analysis/legacy-media-covers-anthony-fauci-diary-criticizing-donald-trump-instead-faucis-dishonesty",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "Trump meets with Netanyahu for first time since Iran war began",
-      "url": "https://www.cbsnews.com/video/trump-meets-with-netanyahu-for-first-time-since-iran-war/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "FIFA plans to sell stakes in $20 billion subsidiary to run World Cup, angering UEFA",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOczNVeVJYcGRvd24xY2dWaXlLOFplX3pMM2ZFaTlmQjRuYWlDTXdGOVUyQURPMzE4MlplUExmT1U4Rjd1ckhqdy1BenRRYThBRWEyajFlZ1M4NUU1ajVHOHg0d3VCYTA4VWlXSWJfU0xIT3FodlhfZlRqb01ZWUY4aWRBLWhHUXJ6bW9IdkdJWEM1RGRXMzlWUXJtNW9QWUlnWEFfUnhxQ3RxdlpVbFlVT0xqbw?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "Longtime New Yorkers fume after being hit with massive pied-\u00e0-terre tax bills: \u2018Is this a witch hunt?\u2019",
-      "url": "https://nypost.com/2026/07/28/us-news/longtime-new-yorkers-fume-after-being-hit-with-massive-pied-a-terre-tax-bills-is-this-a-witch-hunt/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "Bystander video shows teen lifeguard's dramatic ocean rescue",
-      "url": "https://www.bbc.co.uk/news/videos/c4g3600xw5ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "WATCH:  Hundreds of thousands forced to evacuate in Europe from raging wildfires",
-      "url": "https://abcnews.com/video/135135633/",
+      "title": "Iran live updates: US, Saudi Arabia strike Iran-backed militias in Iraq, CENTCOM says",
+      "url": "https://abcnews.com/International/live-updates/iran-live-updates-tehran-progress-made-strait-hormuz/?id=135110405",
       "source": "ABC News",
       "bias": "center",
       "domain": "abcnews.go.com"
     },
     {
-      "title": "As Spain battles wildfires, its politicians battle over climate change's role",
-      "url": "https://www.npr.org/2026/07/28/nx-s1-5909198/spain-wildfires-politicians-climate-change",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    },
-    {
-      "title": "Japan earthquake injures at least 100 and kills two inside shopping mall",
-      "url": "https://www.theguardian.com/world/2026/jul/28/japan-earthquake-traps-people-collapsed-shopping-mall",
+      "title": "Rescue teams face \u2018race against time\u2019 in search for trapped survivors as death toll in Japan rises to at least 13 \u2013 live updates",
+      "url": "https://www.theguardian.com/world/live/2026/jul/29/sanae-takaichi-rescue-trapped-shopping-centre-mall-japan-earthquake-latest-news-updates",
       "source": "The Guardian",
       "bias": "left-center",
       "domain": "theguardian.com"
     },
     {
-      "title": "Powerful earthquake strikes southern Japan; dozens reported missing",
-      "url": "https://www.washingtonpost.com/world/2026/07/28/powerful-earthquake-strikes-southern-japan-causing-destruction/",
+      "title": "Japan Races to Reach People Trapped After Earthquake Kills at Least 13",
+      "url": "https://www.nytimes.com/2026/07/28/world/asia/japan-earthquake-kumamoto-rescue-survivors.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Japan quake toll rises, people still missing in damaged mall and factory",
+      "url": "https://www.cbsnews.com/news/japan-earthquake-deaths-aeon-mall-paper-factory-missing/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Khanna: Call to Arrest Netanyahu 'Not Talking About Americans Who Are Subject to Our Own Law'",
+      "url": "https://www.breitbart.com/clips/2026/07/28/khanna-call-to-arrest-netanyahu-not-talking-about-americans-who-are-subject-to-our-own-law/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
+    },
+    {
+      "title": "No Jews on Mamdani\u2019s 'truly representative' NYC judiciary panel, sparking backlash",
+      "url": "https://www.foxnews.com/politics/no-jews-chosen-mamdanis-truly-representative-nyc-judiciary-panel-sparks-backlash",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Saudi Arabia joins U.S. military strikes on Iranian proxies",
+      "url": "https://www.washingtonpost.com/national-security/2026/07/28/us-says-it-shot-down-iranian-missiles-targeting-troops-middle-east/",
       "source": "Washington Post",
       "bias": "left-center",
       "domain": "washingtonpost.com"
     },
     {
-      "title": "Japan Kumamoto earthquake: What happened, damage, victims, latest updates",
-      "url": "https://www.aljazeera.com/news/2026/7/28/japan-kumamoto-earthquake-what-happened-damage-victims-latest-updates?traffic_source=rss",
+      "title": "Jordan intercepts Iranian missiles as US and Saudi Arabia launch strikes against militias in Iraq",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcFZvamthZTNrZ0JiSDZZMVJBNW02Y1JiQUlvUlAwN1RRODcyUWNydUtZbGxpVVdhZElfTERINDh6ZURJZll3M25weWk4UVFPczliQWZ0MkRUc09VTTQ0X1BMVDBDa0hMdzE0TjBlYmI3UkJpYl9KZDFYMTFsZ05jNnd0Zm9wUHEwTlJObUEycG1BNTVqVTVQWjl5NnJqdEE?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Jordan intercepts Iranian missiles as U.S. and Saudi Arabia strike militias in Iraq",
+      "url": "https://www.npr.org/2026/07/29/g-s1-136063/us-saudi-arabia-iran-iraq",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
+      "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "US and Saudi Arabia strike \u2018Iran-aligned\u2019 groups in Iraq",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/us-and-saudi-arabia-strike-iran-aligned-groups-in-iraq?traffic_source=rss",
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
     },
     {
-      "title": "Powerful Quake Hits Southern Japan, Deaths Feared In Shopping Mall Explosion",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZzNwaHVkekVjS25FcnB2alo2VjlPNkRPSnA3SUJwRjFTRWRTT2RyU0NHeG5KdnBFRUhjYUNiWklVLTdHdU5YQldfM2ZTVFFRYm1rMHU3MnUyamtaQXY4aEZnWWphaXdIbmdTdGkzNWpSMU5uWEtROWlzZ3lPWEFsU09fS0p3NkdoSEUtVUZB0gGTAUFVX3lxTFA0cTlKTUVDRlNXQ1F6WGlwd1BEUnBvbFJ6R29vaGJDbkloNThiMXJyUkNmSl8wQ1QySEk2RUhqS1hMQkxYTGV6NmpRb1lBLXpoS1NRX0xJbUNIeDVGQmtnU0o2eUJySnBjV29IeGVzN3lZSE00QXBaYTVtdzZwTlZrR3FlSG5xcUdwUE1uYU9BcjdoNA?oc=5",
+      "title": "US-Saudi consortium advances plans for $5 billion Gulf refinery",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTmpKM01Bekc3VHZSVDVvQ2NkUnowblY0eDhjeG9YbEV5dVo1T0NTVUpFRWlRd3RFeUJSS190SFFpLTNVS2ozaUxRbGEtNVByTTAtVzh5dkV1TGljbFlhMDFKcjB0UkN0bmdYR2R3ejYwMnBsbktoQl9vWWNqcTJTa25fRzJoZV9OZXpaRGp5X0U2Z2x1OUdUdWRPSF9Lbld1THh0ZEg2SkFwZjNvTGtZ?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Iran to get Chinese shoulder-launched missile systems in weeks: report",
+      "url": "https://nypost.com/2026/07/29/world-news/iran-to-get-chinese-shoulder-launched-missile-systems-in-weeks/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
+      "title": "The U.S. Says It Thwarted An Iranian Missile Attack That Ended A Brief Pause In Fighting",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9qOE1oakc2RTk5bmpMVHg4ZzE3Mm1YS0ZjUElwZUx3SEc3WHRIaWJwTU9Eald3YWI3bUxEZGttaVZHN1VWT2xBOVlVQ2NUckpDOGNHcllZWGs2ZkJBRTAtUTNKVXRaQTNUSHV1eVdlWGpJdkVsOFVWSXlYMNIBgAFBVV95cUxPNzdiX0VEV0V5UExpb3FjZHpTaG1oVlRQeE1EOThRZC12UWFEeHFYRFNEWDAyWHRIVVFSWEx4SGRPajhVX05kQlRYLU1zdmhLMnoyREd4U0cwbzFoY0ZWZUctbkt0Y2tyN3VpczVnRGZabENVeGdlbXI3d2xfWndlWA?oc=5",
       "source": "HuffPost",
       "bias": "left",
       "domain": "huffpost.com"
-    },
+    }
+  ],
+  [
     {
-      "title": "ICE Arrests Surge at Airports, Opening New Front in Deportation Drive",
-      "url": "https://www.nytimes.com/2026/07/28/us/ice-arrests-airports-visa-overstay.html",
+      "title": "Summer of Heat, Fires and Storms Is a Reckoning for Europe on Climate",
+      "url": "https://www.nytimes.com/2026/07/29/world/europe/summer-heat-wave-fires-climate-change.html",
       "source": "New York Times",
       "bias": "left-center",
       "domain": "nytimes.com"
+    },
+    {
+      "title": "Past fires suggest effects of Europe and North America wildfires may linger for years",
+      "url": "https://www.theguardian.com/world/2026/jul/28/wildfires-europe-north-america-effects",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "France evacuates thousands as fires displace a third of a million in southwest Europe",
+      "url": "https://www.npr.org/2026/07/29/g-s1-136057/france-wildfires",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
     },
     {
       "title": "France orders 4,000 more evacuated as fires displace a third of a million across southwest Europe",
@@ -108,48 +138,64 @@
   ],
   [
     {
-      "title": "Life in prison without parole for Georgia teen who killed four in 2024 US school shooting",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNc0Z2TjdTTkgwQUpLTmF2ZnU3cXlCdW1DUm9Yc3J2bTRYaEd4VUpkUnFudVRFNWJROVZ5YlAxMHI2b3FMSXNlN1JMS1NzN1BFb2pwNnBjN3FOY3dxY1JWRmVfeGRmYTh0WDAxZmkzNWU0Z1BJeXhhUWdhdmpvWHV0aFhONFlkUlZLTXhwdWxGNHBlZVhQcWhjbmlmeW1Pb0NoY016SktQNEFiemZfdU4yQ2RJQkMzUzFLSVNtaEtRR3VONnR0dHUxeVVIZVk?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
+      "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges",
+      "url": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
     },
     {
-      "title": "Apalachee High School shooter sentenced to life without parole",
-      "url": "https://www.cbsnews.com/news/apalachee-high-school-shooter-colt-gray-life-sentence-without-parole/",
-      "source": "CBS News",
+      "title": "New York school pauses plan to deploy humanlike AI robot teacher after backlash",
+      "url": "https://www.npr.org/2026/07/29/g-s1-136072/ai-robot-teacher",
+      "source": "NPR",
       "bias": "left-center",
-      "domain": "cbsnews.com"
+      "domain": "npr.org"
     },
     {
-      "title": "Teen sentenced to life without parole for deadly mass shooting at his high school",
-      "url": "https://abcnews.com/US/teen-colt-gray-sentenced-life-parole-deadly-mass/story?id=135156780",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
+      "title": "Idaho dad was allegedly drafting Instagram story, texting, browsing Amazon before car crash that killed his son, 7: court docs",
+      "url": "https://nypost.com/2026/07/29/us-news/idaho-dad-austin-summers-was-allegedly-drafting-instagram-story-texting-browsing-amazon-before-car-crash-that-killed-his-son-7-court-docs/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
     }
   ],
   [
     {
-      "title": "Ukraine\u2019s Strike on an Iranian Ship Could Bring Two Wars Closer",
-      "url": "https://www.nytimes.com/2026/07/28/world/middleeast/iran-ukraine-ship-strikes-caspian.html",
+      "title": "The Doctor and His Diary: What Fauci\u2019s Innermost Musings Reveal",
+      "url": "https://www.nytimes.com/2026/07/28/us/politics/fauci-diary-fame.html",
       "source": "New York Times",
       "bias": "left-center",
       "domain": "nytimes.com"
     },
     {
-      "title": "Kyiv warns Iran against escalation after Ukraine\u2019s Caspian Sea attack",
-      "url": "https://www.aljazeera.com/news/2026/7/28/kyiv-warns-iran-against-escalation-after-ukraines-caspian-sea-attack?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
+      "title": "Rand Paul released Fauci's pandemic-era 'diary.' Now they'll face off on Capitol Hill",
+      "url": "https://www.npr.org/2026/07/29/nx-s1-5910542/fauci-rand-paul-diary-coronavirus-origin-lab-leak-hearing",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
     },
     {
-      "title": "Russian ballistic strike kills 10 after Ukraine\u2019s Zelenskyy hosts US company making Patriots",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTlE2STgwdVN5dUc0Q2lkZnltSW9jWjJKV3dNVU5JSFNVM19xS2ZCd0NvNXFqMXBDNnlRaUc4WWRPZk45RjduRmU0M0dSR25IN2ljbGowcmNoeUhCc1FoZEJLcjNJaFo1VUo0US10Ny1OX1l3ckpZcFBoRHlOcVJMN0pXR0lZS0UxSVlGT1dZbU16c3ZpckpFbDZFZnBfc2lJc0RMaENtc1J6UFZ0STNv?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
+      "title": "Fauci diaries, released by Sen. Paul, touch on COVID origins, Trump",
+      "url": "https://www.cbsnews.com/news/anthony-fauci-rand-paul-diary-release/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
+    },
+    {
+      "title": "Trump DOJ Reaches Settlement with Pro-Life Christian Father of 11 Targeted by Biden Administration",
+      "url": "https://www.breitbart.com/politics/2026/07/28/trump-doj-reaches-settlement-pro-life-christian-father-targeted-biden-administration/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
     }
   ],
   [
@@ -161,24 +207,88 @@
       "domain": "cnn.com"
     },
     {
-      "title": "Israeli airstrike destroys Gaza City mosque near displacement camp",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-airstrike-destroys-gaza-city-mosque-near-displacement-camp?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "ICE agents used racial slurs to refer to Latinos, videos and texts appear to show",
+      "url": "https://abcnews.com/US/ice-agents-racial-slurs-refer-latinos-videos-texts/story?id=135171780",
+      "source": "ABC News",
       "bias": "center",
-      "domain": "aljazeera.com"
+      "domain": "abcnews.go.com"
     }
   ],
   [
     {
-      "title": "French Navy carries out 'shooting drill' during MP's BBC interview",
-      "url": "https://www.bbc.co.uk/news/articles/cy4ker2y1mko?at_medium=RSS&at_campaign=rss",
+      "title": "French man discovers 5 dead babies hidden in boxes in his home after argument with wife: prosecutors",
+      "url": "https://www.foxnews.com/world/french-man-discovers-5-dead-babies-hidden-boxes-home-after-argument-wife-prosecutors",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "French DJ Kavinsky found dead in his home in Paris",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU0JpTWgwd3c2WmpMZktwYVN1cTJJMVVaYkFqa3FQRnI5dUEyeDFFS1BiOTBwdVhNSGxTSVZsRzNtR1RESFhQa0FXZUxFRjdFUmtfUm9LLTR0SlUtYlB0bmJrQ3FtNGdmTzljVnhhTzRYZDNFZU84SXNUazU0TkQ1MVAyeXpfeU5SWHJYb042cnVVREpSendSZm5GNkdsUlhyUy1NcE9Hem1sOGh5U0E?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    }
+  ],
+  [
+    {
+      "title": "Kentucky governor calls on McConnell to prove he is fit to serve or resign: 'Address the people'",
+      "url": "https://www.foxnews.com/politics/kentucky-governor-calls-mcconnell-prove-he-fit-serve-resign-address-people",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Kentucky governor calls on McConnell to prove he is fit to serve or resign: \u2018Address the people\u2019",
+      "url": "https://nypost.com/2026/07/29/us-news/kentucky-gov-andy-beshear-calls-on-mitch-mcconnell-to-prove-he-is-fit-to-serve-or-resign/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    }
+  ],
+  [
+    {
+      "title": "Russia charges Telegram founder Durov with facilitating terrorism",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNXJBcVhwTDJuYl96LXAxeVdYUWNubDJCU01KYV9uTGYyZ200bWMtR3VPX3g1ZGVJV1RDWTl2Ulk0eW5DQ1hJd1pNZlR1aVBpTXZIeFREX0szVmwwRF90LVFMTEpHbkJLUFc0bkN4b3N5U19KZDk4QTVVZjZFNWN1bFVINFZOZ3h1Mm1LRmYyV01kWWVTV0RDSGxYNEZ0eGhLM2ZfVlBrWkJtNnd5djNxc3JUV0pYWFc4ajFMY2NPYw?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Russia charges Telegram founder Pavel Durov with aiding terrorism, puts him on wanted list \u2014 as app fires back",
+      "url": "https://nypost.com/2026/07/29/world-news/telegram-founder-pavel-durov-charged-with-aiding-terrorism-russia-puts-him-on-wanted-list/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    }
+  ],
+  [
+    {
+      "title": "South Korea $2 trillion stock rout breaks records as SK Hynix results disappoint",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLUY2eUIxTk5FN3ZLbDkzTkhPbjFxNS1fUzFxa0lVZnZoQ1FpcGNBMEt3OFhkdHJFN0JNUlVZOXd2eFNXbkhuNDdJeFY4Rmd1MHFfSnpCYmV3QVRuenlwNGxKXzhpRXZVOFFjMjFkQnpiQWl1amZtRUJ5V0RpQnF0cFdFTEVfUFgtb0ZWM0t6OGdjRHdTMnhLcHVWVzJUU0tieGFhMk40XzJfYTRvSDFTWlVzQzJyTVZ3M2lMS0JB?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "South Korea\u2019s Memory Chip Giant Defies A.I. Market Jitters",
+      "url": "https://www.nytimes.com/2026/07/29/business/skhynix-chips-memory.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    }
+  ],
+  [
+    {
+      "title": "I turned down Love Island and won silver at the Commonwealth Games",
+      "url": "https://www.bbc.co.uk/news/articles/cg4dve90w90o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "bias": "center",
       "domain": "bbc.com"
     },
     {
-      "title": "Shots fired near US consulate in Canada for second time in four months",
-      "url": "https://www.theguardian.com/world/2026/jul/27/shots-fired-us-consulate-toronto",
+      "title": "Pinochet-era soldier jailed for killing folk singer V\u00edctor Jara 53 years ago",
+      "url": "https://www.theguardian.com/world/2026/jul/27/pinochet-era-soldier-jailed-for-killing-folk-singer-victor-jara-chile",
       "source": "The Guardian",
       "bias": "left-center",
       "domain": "theguardian.com"
@@ -186,50 +296,18 @@
   ],
   [
     {
-      "title": "Seagate\u2019s earnings are welcome news for the battered AI trade",
-      "url": "https://www.marketwatch.com/story/seagates-earnings-are-welcome-news-for-the-battered-ai-trade-92dfc30f?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
+      "title": "What to Watch at the Federal Reserve\u2019s July Meeting",
+      "url": "https://www.nytimes.com/2026/07/29/business/what-to-know-federal-reserve-july-meeting.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
     },
     {
-      "title": "Stocks drift on Wall Street and crude oil prices drop as Mideast tensions cool",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORGtrU05LUy0wS2I2dTJiNjlqZnBXeTB4Ni1fTnktMUZSRk1hWF9jOUVoRXp1M0hpMWZrbFlWTlVwM0MwWXRrNTczenludG53dzQ3U3lZSWtVdVFjR2RDekUyelFhcDI3UGJ2dHM5QWQ2UGxUT1hCVDFtV3o3X3ktUF80dkNwdlNsR0RhZEp1YnEzc28?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    }
-  ],
-  [
-    {
-      "title": "Keiko Fujimori is inaugurated as Peru's president following a narrow election victory",
-      "url": "https://www.npr.org/2026/07/28/nx-s1-5910830/peru-president-keiko-fujimori-inaugurated",
+      "title": "The Federal Reserve faces a critical decision on interest rates",
+      "url": "https://www.npr.org/2026/07/29/nx-s1-5910558/federal-reserve-interest-rates-inflation",
       "source": "NPR",
       "bias": "left-center",
       "domain": "npr.org"
-    },
-    {
-      "title": "Keiko Fujimori sworn in as Peru president after narrow election win",
-      "url": "https://www.aljazeera.com/news/2026/7/28/keiko-fujimori-sworn-in-as-peru-president-after-narrow-election-win?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    }
-  ],
-  [
-    {
-      "title": "The suspect in the deadly Berlin Pride attack is killed in a confrontation with police",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUk1peTczYkVuampNNFg3QXNzcV9acU1tTndtdXl3dFcwT01hZGJxUzQ5b2ZfckltZnJaLWpzVXdZcmlpQl93cFJqWWFxa3RmLTdkWlhDTTBnX3RMUGtvejhDWDJmRVEwTWl3ZWJHNlhubWRwOWFoYjdKWHBXakxPRVhqSnNkb1UwczFCaF82YnpuZEk4bVdwdzc4RC1sSEtwS2RDTXRsVDA?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "Berlin Terrorist Attacker Shot And Killed By Police",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdFVQS0FYa1pFMUFWcnRMUVJjU1doYmFMcUgxbWthWlpucE9BZGk3ZzExVnNqUy13WnhVMmZfRFJkQmg4c0tFZU03aHpRMFQwUjZyZjNmTTNvY2NFcTVPaWNHZzdFQkhpaExjeC1BU2tZYUptY2x4M3R6djNvZVhwby10a2ZaRVdseGc?oc=5",
-      "source": "Daily Wire",
-      "bias": "right",
-      "domain": "dailywire.com"
     }
   ],
   [
@@ -241,8 +319,8 @@
       "domain": "theguardian.com"
     },
     {
-      "title": "Canadian tourism slumped in the U.S. last year amid heightened tensions",
-      "url": "https://www.cbsnews.com/news/canadian-tourism-to-the-us-plunged-25-2025/",
+      "title": "Grants halted at agency devoted to safety of U.S. healthcare",
+      "url": "https://www.cbsnews.com/news/trump-healthcare-safety-agency-ahrq/",
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"

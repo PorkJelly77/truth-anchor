@@ -1,32 +1,46 @@
 [
   [
     {
-      "title": "Obama endorses Democratic Iowa state rep running for US Senate against Trump-backed House Republican",
-      "url": "https://www.foxnews.com/politics/obama-endorses-democratic-iowa-state-rep-running-us-senate-against-trump-backed-house-republican",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
+      "title": "Millions in the US could face massive consequences unless McCarthy can navigate out of a debt trap he set for Biden",
+      "url": "https://www.cnn.com/2023/04/18/politics/mccarthy-biden-debt-ceiling/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
     },
     {
-      "title": "Poll: Republican Mike Rogers Holds Double-Digit Lead over Progressive Abdul El-Sayed, Tied with Democrat Haley Stevens",
-      "url": "https://www.breitbart.com/midterm-election/2026/07/29/poll-republican-mike-rogers-holds-double-digit-lead-over-progressive-abdul-el-sayed-tied-with-democrat-haley-stevens/",
+      "title": "Trump Department of Justice Appeals E. Jean Carroll Lawsuit to the Supreme Court",
+      "url": "https://www.breitbart.com/politics/2026/07/29/trump-department-of-justice-appeals-e-jean-carroll-lawsuit-to-the-supreme-court/",
       "source": "Breitbart",
       "bias": "right",
       "domain": "breitbart.com"
     },
     {
-      "title": "Sen. Paul threatens to hold Fauci in contempt. And, a new rule undercuts U.S. asylum",
-      "url": "https://www.npr.org/2026/07/30/g-s1-136285/up-first-newsletter-anthony-fauci-covid-asylum-rule-medicare-drug-plan",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
+      "title": "Police arrest dozens at London rally supporting Palestine Action",
+      "url": "https://www.aljazeera.com/news/2026/7/30/police-arrest-dozens-at-london-rally-supporting-palestine-action?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
     },
     {
-      "title": "Fauci pleads the Fifth 111 times, St. Paul mayor faces sexual harassment investigation",
-      "url": "https://nypost.com/video/fauci-pleads-the-fifth-111-times-st-paul-mayor-faces-sexual-harassment-investigation/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
+      "title": "Bank holds interest rates but says it is ready to raise them if Iran war escalates",
+      "url": "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "Russia likely used N.Korean missile in deadly Ukraine strike for first time this year, sources say",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYWM5NFpLa3p4OE1XZUMybkU4TDdyeWxjbTlEaXpUaUtJR1JUNngzd3AxNmgydElQNUc4aVBFS3V6N0FCcXZOTVV0a0tYQjl1dTVRTnZrNXdRaTh4aGVOR25hM0xvQ3hEWElrWWtjWGI0aWhwb28wbjJLMklKZEFQb1dzWVktU2YteVN3dW84MmpzdnRkUXlzZWxWam9COVVHZ1h5NkhFcXRvZi12SUx1S2hGcm93U1lkdmJNVXRDbUpYSjRIemlpX1NqaDk?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Russia Strikes Ukraine With Missiles and Drones, Killing at Least 8",
+      "url": "https://www.nytimes.com/2026/07/30/world/europe/russia-ukraine-war-missiles-drones-attacks.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
     },
     {
       "title": "US thwarts an Iranian missile attack and launches strikes with Saudi Arabia against militias in Iraq",
@@ -36,39 +50,11 @@
       "domain": "apnews.com"
     },
     {
-      "title": "Poland\u2019s Leader Says Russian Missile May Have Struck Its Territory During Ukraine Attack",
-      "url": "https://www.nytimes.com/2026/07/30/world/europe/ukraine-poland-russia-missile.html",
-      "source": "New York Times",
+      "title": "Trump threatens to hit Iran \u2018hard\u2019 following missile attack on U.S. assets",
+      "url": "https://www.washingtonpost.com/national-security/2026/07/28/us-says-it-shot-down-iranian-missiles-targeting-troops-middle-east/",
+      "source": "Washington Post",
       "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "PM Tusk says Russian missile appears to have come down in eastern Poland",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTjY4dFJnUXNtdWVUZkJZRVVjRnB1cTBISWJrUFhSc1dRbnpqanF4U3dteloxRHdOcjB5bEJSZ1J4SlFGYTIwR001Qk1XVjJzVnpsQkUteDlrakxYeXYwZHZMTjk5b1pZdHQtcjluZkE0OUFodWRobWcxMm1pYV9hSFlUNFI1YmxmMl9iMF9yeWJtR0Z4RzdJZVFENFdvN2UybWNJWlhma2dWVGtQeVNfWW9BV2dWVmJNVlpvV18zMmlxQQ?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "Missile that left crater deep inside Poland was probably Russian, Polish PM says",
-      "url": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "Possible Russian missile crashes in Poland during Russian attacks on Ukraine",
-      "url": "https://www.cbsnews.com/news/russian-attacks-on-ukraine-kill-several-prompt-fresh-zelenskyy-call-for-more-air-defense-missiles-from-allies/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "Israeli strikes kill at least four, including children, across Gaza Strip",
-      "url": "https://www.aljazeera.com/news/2026/7/30/israeli-strikes-kill-at-least-four-including-children-across-gaza-strip?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
+      "domain": "washingtonpost.com"
     },
     {
       "title": "Rescue teams face \u2018race against time\u2019 in search for trapped survivors as death toll in Japan rises to at least 13 \u2013 as it happened",
@@ -78,93 +64,73 @@
       "domain": "theguardian.com"
     },
     {
-      "title": "Trump threatens to hit Iran \u2018hard\u2019 following missile attack on U.S. assets",
-      "url": "https://www.washingtonpost.com/national-security/2026/07/28/us-says-it-shot-down-iranian-missiles-targeting-troops-middle-east/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
-    }
-  ],
-  [
-    {
-      "title": "U.S. Economic Growth Slowed in the Second Quarter",
-      "url": "https://www.nytimes.com/2026/07/30/business/economy/us-economy-gdp-growth.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "U.S. economy slowed in second quarter as Iran war weighs on growth",
-      "url": "https://www.cbsnews.com/news/gdp-economic-growth-second-quarter-2026/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "GDP shows the economy grew 1.5% in the second quarter \u2014 but it\u2019s even better than it looks",
-      "url": "https://www.marketwatch.com/story/gdp-shows-the-economy-grew-1-5-in-the-second-quarter-but-its-even-better-than-it-looks-11b7f4fe?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
-    },
-    {
-      "title": "US economy slowed more than expected as the Iran war took hold",
-      "url": "https://abcnews.com/Business/government-report-show-us-economy-performed-amid-iran/story?id=135152547",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    }
-  ],
-  [
-    {
-      "title": "UEFA to boycott World Cup over FIFA boss\u2019s $20B cash grab \u2014 throwing global soccer into chaos: sources",
-      "url": "https://nypost.com/2026/07/30/business/uefa-to-boycott-world-cup-over-20b-kushner-linked-fifa-deal-sources/",
+      "title": "Ebola cases kill over 1,500 people during fastest-growing outbreak, Congo data shows",
+      "url": "https://nypost.com/2026/07/30/world-news/death-toll-in-fastest-growing-ebola-outbreak-has-passed-1500-says-congo/",
       "source": "New York Post",
       "bias": "right",
       "domain": "nypost.com"
     },
     {
-      "title": "FIFA\u2019s Infantino sets deadline for $20M offer to members in World Cup investor plan",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNnJua3VkNWFsOW96djl4VHJXUkdpS2R0SVdmY1k4Rlo1TlVNVl9PbzlGVFJ0ZVZBbnN2OGw0aUZqQjlDV2dJQTBvamhqWWcwWmFLOWtVV1doYWktRndXdEFZb1lZeFBsVmI4MUxjMGJHOTBkOHQwZHR1M194emx6Mkk1TWVnd3BCY29FMHVEUUFYZC1fUmFxaHg2OVlmZ3cxbkdkYXVhYmtlLTQ?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "AFC president doubles down on FIFA, calling World Cup plan \u2018unacceptable\u2019",
-      "url": "https://www.aljazeera.com/sports/2026/7/30/afc-president-doubles-down-on-fifa-calling-world-cup-plan-unacceptable?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    }
-  ],
-  [
-    {
-      "title": "France, Spain and Greece battle wildfires as Europe swelters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbWpsSnpKVndGWThyUHhGTmU3SGw2LWtnTldYT2gxcUFYZmV4Rk9uVlpDb0Vyal9RWGtKdTdONFlhOF9TLTB6c3ZLaWJoVjdNWWNkZzlFWi1iZUhqOVhtdE41U0Yxejdwd05LbjB1d3gyZmIwaV81ZDdWT0EzQ0R0SVdRNmtYUUhKWE4tRkpsZjY2NjRmZlJCOUlfMl9HbEhVTmY1RU1fXzJXZjRtUEE?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "Thousands evacuated in Crete but Spanish PM ends wildfire emergency",
-      "url": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    }
-  ],
-  [
-    {
-      "title": "Markets Challenge Warsh\u2019s Approach to Taming Inflation",
-      "url": "https://www.nytimes.com/2026/07/30/business/warshs-performance-falls-flat-with-markets-as-fed-holds-rates-steady.html",
-      "source": "New York Times",
+      "title": "The economy slowed a bit -- but Americans continued to spend",
+      "url": "https://www.npr.org/2026/07/30/nx-s1-5913230/economy-gdp-inflation",
+      "source": "NPR",
       "bias": "left-center",
-      "domain": "nytimes.com"
+      "domain": "npr.org"
     },
     {
-      "title": "Fed leaves interest rate unchanged, but could a hike come later this year?",
-      "url": "https://www.cbsnews.com/video/fed-leaves-interest-rate-unchanged-but-could-a-hike-come-later-this-year/",
+      "title": "Americans are spending plenty \u2014 but they\u2019re saving much less",
+      "url": "https://www.marketwatch.com/story/americans-are-spending-plenty-but-theyre-saving-much-less-ffb995d2?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
+    },
+    {
+      "title": "GOP's Cornyn continues to block Todd Blanche as attorney general",
+      "url": "https://abcnews.com/Politics/gops-cornyn-continues-block-todd-blanche-attorney-general/story?id=135228494",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    },
+    {
+      "title": "Why Todd Blanche's attorney general nomination vote is on hold",
+      "url": "https://www.cbsnews.com/video/todd-blanche-attorney-general-nomination-on-hold/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Sen Chuck Schumer unveils anti-corruption agency aimed at Trump and future presidents",
+      "url": "https://www.foxnews.com/politics/sen-chuck-schumer-unveils-anti-corruption-agency-aimed-trump-future-presidents",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Senior Trump Official Using Government Account To Smear Sitting Federal Judges",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMnVMQjVUeml0VmVDeVl5RktrSVZlUXdqd3dSYURYc09qT3FRNnQtV1lHQmN3RXFTdVVES05vUkVsRjdmMDhZaEJYX1gyWnhBUFNfclJrMVFDSGRaVVA3U192bkEtVzJYQXBzWmFLUzg1cDBkc3VpSnRLYXNXcXpyVmNYWngtOHZIcGJtcVAxOTBuVlE4dzd0SXlhVXh1WmZyN0dROW9HTENpYzI1WEZpT01rWUR4NFVrMUpMOW9uZlJmdkk2STNjZy1kRi1Id9IB0wFBVV95cUxQRVZueE5USmpPN1B6cWxRZW5IWlJ1V0R5djhTX3k3TWlIRkYwcGRQM2U3V0ZyUmxyb1ZPczd6M3k3RmZtUjVMODN3RHJpTFpGWVQyLTgzU3JhNVktcThaa0xrYXpXRUZRdDVoeWFpX2laRE1pWW9Qb1RyOW1wOUJYMDBwc2NZTE9RTllYUEROYW9iRldfWUhGbFFNTkg0eVdGMTJwREFpVmRCLVVyaDN3RlJjRnF0NzJXX1ZsUEFYRzdLN0FDUlZCaFRTSlBPMzN0UUh3?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    }
+  ],
+  [
+    {
+      "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
+    },
+    {
+      "title": "Bryan Kohberger appointed new lawyer after Idaho murders case costs taxpayers over $8 million",
+      "url": "https://www.foxnews.com/us/bryan-kohberger-appointed-new-lawyer-idaho-murders-case-costs-taxpayers-8-million",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Newsom's taxpayer-funded California diaper program could \"lead to waste,\" state records warned",
+      "url": "https://www.cbsnews.com/news/california-diaper-program-baby2baby-newsom/",
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"
@@ -172,18 +138,73 @@
   ],
   [
     {
-      "title": "Fed\u2019s Preferred Inflation Gauge Eased During Pause in Iran War",
-      "url": "https://www.nytimes.com/2026/07/30/business/federal-reserve-inflation-iran-war.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
+      "title": "Thousands evacuated in Crete as Europe battles wildfires",
+      "url": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
     },
     {
-      "title": "Fed-favored PCE inflation gauge falls for first time since pandemic, but danger far from over",
-      "url": "https://www.marketwatch.com/story/fed-favored-pce-inflation-gauge-falls-for-first-time-since-pandemic-but-danger-far-from-over-57e382bf?mod=mw_rss_topstories",
+      "title": "Past fires suggest effects of Europe and North America wildfires may linger for years",
+      "url": "https://www.theguardian.com/world/2026/jul/28/wildfires-europe-north-america-effects",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "People from this country are buying up the most homes in America right now, even as international sales dry up",
+      "url": "https://www.marketwatch.com/story/this-country-is-buying-up-the-most-homes-in-america-right-now-even-as-international-sales-dry-up-c8b2afbb?mod=mw_rss_topstories",
       "source": "Wall Street Journal",
       "bias": "center-right",
       "domain": "wsj.com"
+    }
+  ],
+  [
+    {
+      "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges",
+      "url": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
+    },
+    {
+      "title": "Watch Live: Lindsay Clancy jury hearing from first responders from day 3 kids died",
+      "url": "https://www.cbsnews.com/live-updates/lindsay-clancy-trial-live-updates-day-3-first-responders/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    }
+  ],
+  [
+    {
+      "title": "US government map of Africa mislabels every country at global conference",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSzZBcWtKdy1HUGhMREFCa2tkX0tKODV3SDFqaC1tZVpDRG16SXJjYVBPMXNxb041NXlXWUxuZk5HOW4wc3FUclpBcmx2UzBOVzh6TWphZjVoRXpNTklyTGgtdkVDcWpkQ0VmcjNiTGFObG9WaWpscFI4YlY4RUxGVDRMQnI5Tzh5b2hwWWstUkRSajkzdXl4dFRXNVg5WWpIQXFJcldhZ3A4MTlaSW5Ndnk2Zlp4QQ?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "US government map of Africa\u00a0mislabels every country at global conference",
+      "url": "https://www.theguardian.com/us-news/2026/jul/30/government-map-mislabels-african-countries",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    }
+  ],
+  [
+    {
+      "title": "Zendaya and Tom Holland's decade-long Spider-Man romance in pictures",
+      "url": "https://www.bbc.co.uk/news/articles/cj4kel0yv11o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "What to Watch Before the New \u2018Spider-Man: Brand New Day\u2019 Movie Release",
+      "url": "https://decider.com/2026/07/30/what-to-watch-before-the-spider-man-brand-new-day-release/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
     }
   ],
   [
@@ -220,18 +241,34 @@
   ],
   [
     {
-      "title": "Sean \u2018Diddy\u2019 Combs\u2019 new release date revealed after prison fight",
-      "url": "https://pagesix.com/2026/07/30/celebrity-news/sean-diddy-combs-new-release-date-revealed-after-prison-fight/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
+      "title": "AFC president doubles down on FIFA, calling World Cup plan \u2018unacceptable\u2019",
+      "url": "https://www.aljazeera.com/sports/2026/7/30/afc-president-doubles-down-on-fifa-calling-world-cup-plan-unacceptable?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
     },
     {
-      "title": "Sean 'Diddy' Combs' prison release date moved up, records show",
-      "url": "https://abcnews.com/GMA/Culture/sean-diddy-combs-prison-release-date-moved-up/story?id=135221993",
-      "source": "ABC News",
+      "title": "FIFA\u2019s Infantino sets deadline for $20M offer to members in World Cup investor plan",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNnJua3VkNWFsOW96djl4VHJXUkdpS2R0SVdmY1k4Rlo1TlVNVl9PbzlGVFJ0ZVZBbnN2OGw0aUZqQjlDV2dJQTBvamhqWWcwWmFLOWtVV1doYWktRndXdEFZb1lZeFBsVmI4MUxjMGJHOTBkOHQwZHR1M194emx6Mkk1TWVnd3BCY29FMHVEUUFYZC1fUmFxaHg2OVlmZ3cxbkdkYXVhYmtlLTQ?oc=5",
+      "source": "Associated Press",
       "bias": "center",
-      "domain": "abcnews.go.com"
+      "domain": "apnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Glen Hansard, Irish musician who won Oscar for \u2018Once,\u2019 dies in motorcycle crash",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU2xOMXBGVWVHZWFaLVF5VmJ6a2NrcDE3MXc2ZW8yTGNvQXlQVTc4V1hoNzUwZVFFTFg4blVVMkNhV1pXaTFPRURvNzlYZ1JYeVUxUmFmS3U3V2tTNlFEcW9FM2hDM01JOWtvbm9aRUpVTFdINkhlQldZYjBxbmN2N2VxTXlNT2Z3R2VTdnRnODFhZ2l4Z0gzdkhKVWVoeGc3bE5n?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "From the archives: \"Once\" songwriter Glen Hansard",
+      "url": "https://www.cbsnews.com/video/from-the-archives-once-songwriter-glen-hansard/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
     }
   ]
 ]

@@ -1,60 +1,39 @@
 [
   [
     {
-      "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges",
-      "url": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
+      "title": "Schiff-backed candidate abruptly ends gubernatorial campaign amid rumblings of a damaging report",
+      "url": "https://www.foxnews.com/politics/schiff-backed-candidate-abruptly-ends-gubernatorial-campaign-rumblings-damaging-report",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
     },
     {
-      "title": "Online seller of peptides is sentenced to nearly 6 years in prison",
-      "url": "https://www.cbsnews.com/news/peptides-seller-prison-sentence-unapproved-drugs/",
+      "title": "Informal poll shows Costa Rica's Grynspan ahead in race to be next UN chief",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMHhzZG9OM3l3X25iY3BGbE43ZDFXemRIdWs5bDhWbzZhU19VSlNYWi1qeFItc1hUSEFNaWo1U01nbFdpaU5HNGdvWW5XTkRqU2NfdEpmMUJLalRkdUJNdUctalhKSE02eFd0bkRjRkVKMXc5eW1HeG1JZTFJYnRLcWI4UnpZTEV6d1VpX3JEVXFZbnhXU2VuSU8tdFlBZUk0Wnd5bm5GeHNYZzFaRjlyd2F4Z2tvOTVBWWhB?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Elon Musk's X Settles Lawsuit with Advertisers over Ads Boycott",
+      "url": "https://www.breitbart.com/tech/2026/07/30/elon-musks-x-settles-lawsuit-with-advertisers-over-ads-boycott/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
+    },
+    {
+      "title": "WATCH:  Renovations uncover wallet lost decades ago with cherished family photos inside",
+      "url": "https://abcnews.com/video/135209076/",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    },
+    {
+      "title": "Trump says he might pull Todd Blanche's AG nomination until Cornyn and Tillis leave office",
+      "url": "https://www.cbsnews.com/video/trump-prepared-to-put-todd-blanches-ag-nomination-on-hold-over-republican-opposition/",
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"
-    },
-    {
-      "title": "Father of Georgia Apalachee school shooter sentenced to 15 years in prison",
-      "url": "https://www.aljazeera.com/news/2026/7/30/father-of-georgia-apalachee-school-shooter-sentenced-to-15-years-in-prison?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "Pinochet-era soldier jailed for killing folk singer V\u00edctor Jara 53 years ago",
-      "url": "https://www.theguardian.com/world/2026/jul/27/pinochet-era-soldier-jailed-for-killing-folk-singer-victor-jara-chile",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    },
-    {
-      "title": "After Fauci Senate hearing, experts worry about 'chilling effect' on public health",
-      "url": "https://www.npr.org/2026/07/30/nx-s1-5913384/anthony-fauci-fifth-rand-paul-covid-public-health-chilling",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    },
-    {
-      "title": "Rand Paul seeks to fast-track Anthony Fauci\u2019s criminal referral \u2014 undeterred by Senate recess",
-      "url": "https://nypost.com/2026/07/30/us-news/rand-paul-seeks-to-fast-track-anthony-faucis-criminal-referral-undeterred-by-senate-recess/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "Fauci repeatedly invokes the Fifth Amendment in a contentious Senate committee hearing",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUm4zZnVKRG1VMWlkQ0ZlaXJnaGJmVks3UTNmQS1BQksya2d0R0pTQUl0M0tZb1dFVS04OXRJSmV1UE4xczhKaWZYbDNXWVUzU0RfNGVyS0lPOU41SkVlRkVyeko2eVN4U2h0UVJkRXNvblhlTTI1Qlo1NzEzWVVBOFlVWTdNMXBSOS1RWk5YZU9WZUs0ZTJERHZZRXJfei1G?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "Trump Threatens to Withdraw Blanche as Attorney General, Dealing Blow to Nomination",
-      "url": "https://www.nytimes.com/2026/07/30/us/politics/trump-blanche-attorney-general-cornyn-tillis.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
     },
     {
       "title": "Trump threatens to hit Iran \u2018hard\u2019 following missile attack on U.S. assets",
@@ -64,55 +43,11 @@
       "domain": "washingtonpost.com"
     },
     {
-      "title": "George, Amal Clooney send note to mayor while evacuating home in France amid fires",
-      "url": "https://abcnews.com/GMA/Culture/george-amal-clooney-send-note-mayor-evacuating-home/story?id=135225146",
-      "source": "ABC News",
+      "title": "Will Saudi Arabia be dragged further into the war in Iran?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/30/will-saudi-arabia-be-dragged-further-into-the-war-in-iran?traffic_source=rss",
+      "source": "Al Jazeera",
       "bias": "center",
-      "domain": "abcnews.go.com"
-    },
-    {
-      "title": "Thousands evacuated in Crete as wildfires threaten tourist resorts",
-      "url": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "Wildfire Forces George And Amal Clooney To Evacuate Their French Home",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUk15SXhOOG1DUVVXYnJ0WVJFcWhkUEI3dGJkanNVbV9rSGVOaERKUjBkeHlBaFBkcmVtaXJMa1pSdlNScGplemhLbGZRUDN2b2FxYmdPemY0bzh1QmNqcFE5RmlBUjA4UGJGRDJkaUMxbUMxZXc2VkhDaHJuMXZMYTV5NGdHbEM1WVFQZVNUOVB4Ul85RHktedIBngFBVV95cUxPbHBTbWxVRkF4Nl9fUnNHOGFTalExZ0RZSXMtcklJcWFJb0hoNFZYVm5jc0hrSzlMM2F3SXNGbjI0aFdTZndJNHZYNU5xTHhWalNPMkZwQ3BZM3pISjd2ZVMwYkkxMjczcDFISEVLR3ZZTS1OVzFaTm1JYldITC1SQ1dHXzFwenp3S2pYUDBPOXoxSXRNdVJMNExySWNvUQ?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    },
-    {
-      "title": "Trump administration probes Minnesota over 'transgender dolls' in schools, but state disputes story",
-      "url": "https://www.foxnews.com/media/trump-admin-probes-minnesota-over-transgender-dolls-schools-state-disputes-story",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "Elon Musk's X Settles Lawsuit with Advertisers over Ads Boycott",
-      "url": "https://www.breitbart.com/tech/2026/07/30/elon-musks-x-settles-lawsuit-with-advertisers-over-ads-boycott/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
-    }
-  ],
-  [
-    {
-      "title": "World Series champion Joe Giradi reveals the two major things impacting the trade deadline",
-      "url": "https://www.foxnews.com/sports/world-series-champion-joe-girardi-reveals-two-major-things-impacting-trade-deadline",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "FIFA\u2019s Infantino sets deadline for $20M offer to members in World Cup investor plan",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNnJua3VkNWFsOW96djl4VHJXUkdpS2R0SVdmY1k4Rlo1TlVNVl9PbzlGVFJ0ZVZBbnN2OGw0aUZqQjlDV2dJQTBvamhqWWcwWmFLOWtVV1doYWktRndXdEFZb1lZeFBsVmI4MUxjMGJHOTBkOHQwZHR1M194emx6Mkk1TWVnd3BCY29FMHVEUUFYZC1fUmFxaHg2OVlmZ3cxbkdkYXVhYmtlLTQ?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
+      "domain": "aljazeera.com"
     },
     {
       "title": "European nations to boycott World Cup if Fifa goes ahead with investment plan",
@@ -129,11 +64,25 @@
       "domain": "huffpost.com"
     },
     {
-      "title": "European soccer leaders to boycott  the World Cup in an unprecedented step",
-      "url": "https://www.npr.org/2026/07/30/nx-s1-5913664/world-cup-fifa-uefa-gianni-infantino",
+      "title": "After Fauci Senate hearing, experts worry about 'chilling effect' on public health",
+      "url": "https://www.npr.org/2026/07/30/nx-s1-5913384/anthony-fauci-fifth-rand-paul-covid-public-health-chilling",
       "source": "NPR",
       "bias": "left-center",
       "domain": "npr.org"
+    },
+    {
+      "title": "Fauci repeatedly invokes the Fifth Amendment in a contentious Senate committee hearing",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUm4zZnVKRG1VMWlkQ0ZlaXJnaGJmVks3UTNmQS1BQksya2d0R0pTQUl0M0tZb1dFVS04OXRJSmV1UE4xczhKaWZYbDNXWVUzU0RfNGVyS0lPOU41SkVlRkVyeko2eVN4U2h0UVJkRXNvblhlTTI1Qlo1NzEzWVVBOFlVWTdNMXBSOS1RWk5YZU9WZUs0ZTJERHZZRXJfei1G?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Former Lt. Gov. Mandela Barnes Exits Race for Wisconsin Governor",
+      "url": "https://www.nytimes.com/2026/07/30/us/wisconsin-democratic-primary-for-governor-narrows-as-candidate-exits.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
     }
   ],
   [
@@ -164,103 +113,83 @@
       "source": "Breitbart",
       "bias": "right",
       "domain": "breitbart.com"
+    },
+    {
+      "title": "At least 50 NYC kids shot in gun crimes so far this year \u2013 including tragic 12-year-old Bx boy",
+      "url": "https://nypost.com/2026/07/30/us-news/at-least-50-nyc-kids-shot-in-gun-crimes-so-far-this-year-including-tragic-12-year-old-bx-boy/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
+      "title": "Chris Hemsworth shares terrifying footage from 'crazy' plane ride through lightning and severe turbulence",
+      "url": "https://www.foxnews.com/entertainment/chris-hemsworth-shares-terrifying-footage-crazy-plane-ride-lightning-severe-turbulence",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
     }
   ],
   [
     {
-      "title": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
-      "url": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "Spain\u2019s Ceuta declares emergency over surge in migrant arrivals",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/spains-ceuta-declares-emergency-over-surge-in-migrant-arrivals?traffic_source=rss",
+      "title": "Father of Georgia Apalachee school shooter sentenced to 15 years in prison",
+      "url": "https://www.aljazeera.com/news/2026/7/30/father-of-georgia-apalachee-school-shooter-sentenced-to-15-years-in-prison?traffic_source=rss",
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
     },
     {
-      "title": "Spain Mobilizes Military as Thousands of Migrants Cross Into Ceuta",
-      "url": "https://www.nytimes.com/2026/07/30/world/europe/spain-morocco-ceuta-migrants.html",
-      "source": "New York Times",
+      "title": "Pinochet-era soldier jailed for killing folk singer V\u00edctor Jara 53 years ago",
+      "url": "https://www.theguardian.com/world/2026/jul/27/pinochet-era-soldier-jailed-for-killing-folk-singer-victor-jara-chile",
+      "source": "The Guardian",
       "bias": "left-center",
-      "domain": "nytimes.com"
+      "domain": "theguardian.com"
     },
     {
-      "title": "Spain deploys military to Morocco border after migrant crossings, 9 deaths",
-      "url": "https://www.cbsnews.com/news/spain-deploys-military-ceuta-morocco-border-migrants/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
+      "title": "15-year-old convicted murderer sentenced to 100 years in prison",
+      "url": "https://abcnews.com/US/15-year-convicted-murderer-sentenced-100-years-prison/story?id=135221500",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    },
+    {
+      "title": "Colin Gray, Who Gave His Son The Gun Used In Georgia School Shooting, Is Sentenced To 15 Years",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRXYwYU5QT1pURzVvUkphUENUbFRENmp2aTVZZkY0dm9DMVdaeXJjZjlLN0ttb19HM0FkTUNwT3haSV90LTBJRkdfR3ZDNzN2NnVpZzAzcjdaVC1BczNBRkdiSVB1UlVhTjZ3eWRObW5FNllJQTZ4bS15MFpueDl0UWh2cnRleV85WXZSRmJUWHJ5RUdLX0Z5Y0k4T3h3dzRHNTNxYXJ2Z9IBrAFBVV95cUxNS2JJUUxMNEpEajgzUHJ1andjcmNONG1WazhWSWpaYmdJa3ZJSFVrSUNOdG1kWGRNb0ZmVnRGWmROWVpCYlFCSmd3Q01COHk5bWZrRFBCaEtYM3dMY2RxemtoRGxITXR5X1FNYm4tVGY4Ym13TlJoSDVlSG1MMkRXZXF6RVdGX3hPUG85RlI2UGdOY1hDd20xOWFoT0ppUDRFU3NBR2ZTb2taRUxQ?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
     }
   ],
   [
     {
-      "title": "U.S. GDP Growth Slowed in Second Quarter of 2026",
-      "url": "https://www.nytimes.com/2026/07/30/business/economy/us-economy-gdp-growth.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
+      "title": "Hamas agrees to complete disarmament under 'historic' Gaza agreement: Trump",
+      "url": "https://www.foxnews.com/politics/hamas-agrees-complete-disarmament-historic-gaza-agreement-trump",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
     },
     {
-      "title": "The economy slowed a bit -- but Americans continued to spend",
-      "url": "https://www.npr.org/2026/07/30/nx-s1-5913230/economy-gdp-inflation",
-      "source": "NPR",
+      "title": "Trump says Board of Peace reaches agreement on disarmament of Hamas in Gaza",
+      "url": "https://www.aljazeera.com/news/2026/7/30/trump-says-board-of-peace-reaches-agreement-on-disarmament-of-hamas-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "Canadians spent $3.3bn less on travel to US in 2025 after Trump\u2019s return to office",
+      "url": "https://www.theguardian.com/world/2026/jul/28/canadians-us-travel-drop-trump",
+      "source": "The Guardian",
       "bias": "left-center",
-      "domain": "npr.org"
+      "domain": "theguardian.com"
     }
   ],
   [
     {
-      "title": "Attack on Egyptian Port Shows Suez Canal\u2019s Vulnerability",
-      "url": "https://www.nytimes.com/2026/07/30/world/middleeast/egyptian-port-attack-suez-canal-vulnerability.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
+      "title": "Toddler's tragic death sparks manslaughter charges after alleged poisoning",
+      "url": "https://www.foxnews.com/us/toddlers-tragic-death-sparks-manslaughter-charges-after-alleged-poisoning",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
     },
-    {
-      "title": "Iran war appears to expand to Egypt's coast as drones hit gas port",
-      "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-saudi-arabia-strait-of-hormuz/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    }
-  ],
-  [
-    {
-      "title": "Mortgage rates hit their highest level in a year, driven by war and inflation concerns",
-      "url": "https://www.npr.org/2026/07/30/nx-s1-5913851/mortgage-rates-one-year-high-july-2026",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    },
-    {
-      "title": "Mortgage rates hit highest level in a year amid inflation fears",
-      "url": "https://www.cbsnews.com/news/30-year-mortgage-rates-fed-iran-inflation/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    }
-  ],
-  [
-    {
-      "title": "Alien Terrorist Removal Court holds its first-ever hearing after 30 years",
-      "url": "https://www.npr.org/2026/07/30/g-s1-136289/alien-terrorist-removal-court-isis-terror-plot",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    },
-    {
-      "title": "Afghan woman to fight U.S. efforts to deport her over \"alien terrorist\" claim",
-      "url": "https://www.cbsnews.com/news/afghan-woman-u-s-secretive-terror-court-deportation/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    }
-  ],
-  [
     {
       "title": "Death of 15 elephants in Kenyan national park sparks outrage, investigation",
       "url": "https://www.washingtonpost.com/world/2026/07/29/death-15-elephants-kenyan-national-park-sparks-outrage-investigation/",
@@ -278,15 +207,134 @@
   ],
   [
     {
-      "title": "Steve Kerr says Warriors were \u2018wise\u2019 with deflating offseason approach",
-      "url": "https://nypost.com/2026/07/30/sports/steve-kerr-gets-real-on-state-of-warriors-amid-lackluster-offseason/",
+      "title": "As France tames wildfire and lets 84,000 evacuees go home, blazes flare across Europe",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSWtvdTFwRmpBc3BSbTc0cGRfQXctZXJoX0I4bDJhNkx3YmNPM3ptbC14Zkd1bjJSUkd4SEtheFBFSHlIZ3o2VDRnbnY4ekhiODdocXd6RVJubjBFYnl4eDFXbV9UTFRxazZ1NFZZQVZ4UGRFM3RNY3NtWUk3YkE5M1lEZ3Q5Y1FKcUhDdjJHZTNFT0IzUlhrQ0JRSDZYVE4xNDV1bHE1Zkh2QVZGT0E?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "George and Amal Clooney Flee French Home Due to Wildfire",
+      "url": "https://www.breitbart.com/entertainment/2026/07/30/george-and-amal-clooney-flee-french-home-due-to-wildfire/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
+    },
+    {
+      "title": "Wildfire Forces George And Amal Clooney To Evacuate Their French Home",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUk15SXhOOG1DUVVXYnJ0WVJFcWhkUEI3dGJkanNVbV9rSGVOaERKUjBkeHlBaFBkcmVtaXJMa1pSdlNScGplemhLbGZRUDN2b2FxYmdPemY0bzh1QmNqcFE5RmlBUjA4UGJGRDJkaUMxbUMxZXc2VkhDaHJuMXZMYTV5NGdHbEM1WVFQZVNUOVB4Ul85RHktedIBngFBVV95cUxPbHBTbWxVRkF4Nl9fUnNHOGFTalExZ0RZSXMtcklJcWFJb0hoNFZYVm5jc0hrSzlMM2F3SXNGbjI0aFdTZndJNHZYNU5xTHhWalNPMkZwQ3BZM3pISjd2ZVMwYkkxMjczcDFISEVLR3ZZTS1OVzFaTm1JYldITC1SQ1dHXzFwenp3S2pYUDBPOXoxSXRNdVJMNExySWNvUQ?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    }
+  ],
+  [
+    {
+      "title": "Millions in the US could face massive consequences unless McCarthy can navigate out of a debt trap he set for Biden",
+      "url": "https://www.cnn.com/2023/04/18/politics/mccarthy-biden-debt-ceiling/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
+    },
+    {
+      "title": "Trump orders restrictions on export of critical minerals scrap, White House officials say",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNU14WEhPWkY3aVFrOTdOWDhod2s5WVB4VDRFTm1CbGptaDRWNDVrV3djUmVyR3JkZVEyTkNCcUdFVG9icGZFMFRnZWxRSzE4Z0o3cjc2WkVuTTltSGtOMGZzYnZtMi1pUFhCUGU1Y2lWRmVTOWNPcDVqbXRXbVJMTWhqMUNDNzZUZzNGSURzTEhrUkxqZW92VTdia0QwUkNaQ1U2WUVVRjV0a1p3LU1OVjdYRTBuT1ZHdUV3cHYwWjB5VnB2a3dibmM2QQ?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    }
+  ],
+  [
+    {
+      "title": "Saints lock up Chris Olave with 4-year extension worth $132M after training camp hold-in",
+      "url": "https://www.foxnews.com/sports/saints-lock-chris-olave-4-year-extension-worth-132m-training-camp-hold-in",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Chris Olave gets $132 million extension from Saints to end hold-in saga",
+      "url": "https://nypost.com/2026/07/30/sports/chris-olave-gets-132-million-contract-extension-from-saints/",
       "source": "New York Post",
       "bias": "right",
       "domain": "nypost.com"
+    }
+  ],
+  [
+    {
+      "title": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
+      "url": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
     },
     {
-      "title": "Fifty-three days and counting: 93-year-old leader\u2019s record absence fuels health speculation",
-      "url": "https://www.theguardian.com/world/2026/jul/30/record-absence-paul-biya-cameroon-president-health-speculation",
+      "title": "Thousands of Migrants Enter Ceuta, a Spanish Enclave, From Morocco",
+      "url": "https://www.nytimes.com/2026/07/30/world/europe/spain-morocco-ceuta-migrants.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    }
+  ],
+  [
+    {
+      "title": "A.I. Hedge Fund Situational Awareness Rescued by Rival Citadel",
+      "url": "https://www.nytimes.com/2026/07/30/business/artificial-intelligence-situational-awareness-citadel.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Implosion of Situational Awareness hedge fund has Wall Street betting the bottom is in for the AI trade",
+      "url": "https://www.marketwatch.com/story/implosion-of-situational-awareness-has-wall-street-betting-the-bottom-is-in-for-the-ai-trade-05d9f346?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
+    }
+  ],
+  [
+    {
+      "title": "Argentina\u2019s Milei seeks to deport foreigners that spread \u2018hate\u2019 of country",
+      "url": "https://www.aljazeera.com/news/2026/7/30/argentinas-milei-seeks-to-deport-foreigners-that-spread-hate-of-country?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "Javier Milei accuses US Democrats of financing \u2018anti-Argentina campaign\u2019 at World Cup",
+      "url": "https://www.theguardian.com/world/2026/jul/28/javier-milei-accuses-us-democrats-of-financing-anti-argentina-campaign-at-world-cup",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    }
+  ],
+  [
+    {
+      "title": "US authorities probe cyberattack on water systems in Minnesota",
+      "url": "https://www.aljazeera.com/news/2026/7/30/us-authorities-probe-cyberattack-on-water-systems-in-minnesota?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "Feds issue warning to local water systems after Minnesota incident",
+      "url": "https://abcnews.com/US/investigators-iran-connection-minnesota-water-system-hacks-us/story?id=135237777",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    }
+  ],
+  [
+    {
+      "title": "Oops! State Dept. Mislabels Every Country On A Map Of Africa At Global Conference",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVHJwakN2VnRqTGR5Q0ZVQnliYjBjR3NoeC1nanUweDJabjU5WjBqT0YyOVAzamVkb1M3MWJHQ3BBTUJ4MmJaLWZ5UE4yaG5ndG13cVpma3B2MjlHYXhtazNBakZ1eTJPSjRpTFk0WDJVSWw5dktUSHRfeVVNaS05VU1zSUI1MG9GZUNWbGVXakhvc0E1N1owRENJXzZwNFnSAaQBQVVfeXFMTnQyQ0FRUDY0WjZmejdFZlJqVVdnSjJON285ZWh2SE9HQ084bktYMXNvQVV0bmlYYVZmdVRXOUxseEMycDBFM2h0a0w2azNQZnBQcG5KbU8yY2p5eXB0akYwSnp0MjBPc2ZGUDhKVnl2TFVKelQwejZESEx1Wkd5ZG9Ud29OakYwRENmbEhJWjlGdlNsd3YtcTNqSkdEYWpDenFkX2M?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    },
+    {
+      "title": "US government map of Africa\u00a0mislabels every country at global conference",
+      "url": "https://www.theguardian.com/us-news/2026/jul/30/government-map-mislabels-african-countries",
       "source": "The Guardian",
       "bias": "left-center",
       "domain": "theguardian.com"

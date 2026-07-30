@@ -1,28 +1,49 @@
 [
   [
     {
-      "title": "Trump Unveils $22.5 Billion Redesign of Dulles Airport",
-      "url": "https://www.nytimes.com/2026/07/29/us/politics/trump-dulles-airport-redesign.html",
+      "title": "Obama endorses Democratic Iowa state rep running for US Senate against Trump-backed House Republican",
+      "url": "https://www.foxnews.com/politics/obama-endorses-democratic-iowa-state-rep-running-us-senate-against-trump-backed-house-republican",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Poll: Republican Mike Rogers Holds Double-Digit Lead over Progressive Abdul El-Sayed, Tied with Democrat Haley Stevens",
+      "url": "https://www.breitbart.com/midterm-election/2026/07/29/poll-republican-mike-rogers-holds-double-digit-lead-over-progressive-abdul-el-sayed-tied-with-democrat-haley-stevens/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
+    },
+    {
+      "title": "Sen. Paul threatens to hold Fauci in contempt. And, a new rule undercuts U.S. asylum",
+      "url": "https://www.npr.org/2026/07/30/g-s1-136285/up-first-newsletter-anthony-fauci-covid-asylum-rule-medicare-drug-plan",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "Fauci pleads the Fifth 111 times, St. Paul mayor faces sexual harassment investigation",
+      "url": "https://nypost.com/video/fauci-pleads-the-fifth-111-times-st-paul-mayor-faces-sexual-harassment-investigation/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
+      "title": "US thwarts an Iranian missile attack and launches strikes with Saudi Arabia against militias in Iraq",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRWlwZk94dzhfNkVQUDNyVWRCekU3RmZJa09ldGwyOFZ1NzlCWEJhWXN5ZjRqdWRGX25RMWZyMHJJai1LVHZxOVNaZ2NFQ1pyTnI5Q1hONTZZR1Zid25ULUV4T3EyNGtRQTQzSVJPQ3pyS2RKM0I1VUF5cl9ZY2VDd3VwQzMxNzgybnlEXzdXV3RlRUxGX2JZMjZKcHk?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Poland\u2019s Leader Says Russian Missile May Have Struck Its Territory During Ukraine Attack",
+      "url": "https://www.nytimes.com/2026/07/30/world/europe/ukraine-poland-russia-missile.html",
       "source": "New York Times",
       "bias": "left-center",
       "domain": "nytimes.com"
     },
     {
-      "title": "Trump threatens to hit Iran \u2018hard\u2019 following missile attack on U.S. assets",
-      "url": "https://www.washingtonpost.com/national-security/2026/07/28/us-says-it-shot-down-iranian-missiles-targeting-troops-middle-east/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
-    },
-    {
-      "title": "Oil prices surge after Trump vows retaliation for Iranian attack",
-      "url": "https://abcnews.com/Business/oil-prices-surge-after-trump-vows-retaliation-iranian/story?id=135185546",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    },
-    {
-      "title": "Poland's Tusk says Russian missile appears to have come down in country's east",
+      "title": "PM Tusk says Russian missile appears to have come down in eastern Poland",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTjY4dFJnUXNtdWVUZkJZRVVjRnB1cTBISWJrUFhSc1dRbnpqanF4U3dteloxRHdOcjB5bEJSZ1J4SlFGYTIwR001Qk1XVjJzVnpsQkUteDlrakxYeXYwZHZMTjk5b1pZdHQtcjluZkE0OUFodWRobWcxMm1pYV9hSFlUNFI1YmxmMl9iMF9yeWJtR0Z4RzdJZVFENFdvN2UybWNJWlhma2dWVGtQeVNfWW9BV2dWVmJNVlpvV18zMmlxQQ?oc=5",
       "source": "Reuters",
       "bias": "center",
@@ -36,11 +57,18 @@
       "domain": "bbc.com"
     },
     {
-      "title": "Russian strikes across Ukraine kill at least 8 civilians and wound dozens",
-      "url": "https://www.npr.org/2026/07/30/g-s1-136276/russia-ukraine-war",
-      "source": "NPR",
+      "title": "Possible Russian missile crashes in Poland during Russian attacks on Ukraine",
+      "url": "https://www.cbsnews.com/news/russian-attacks-on-ukraine-kill-several-prompt-fresh-zelenskyy-call-for-more-air-defense-missiles-from-allies/",
+      "source": "CBS News",
       "bias": "left-center",
-      "domain": "npr.org"
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Israeli strikes kill at least four, including children, across Gaza Strip",
+      "url": "https://www.aljazeera.com/news/2026/7/30/israeli-strikes-kill-at-least-four-including-children-across-gaza-strip?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
     },
     {
       "title": "Rescue teams face \u2018race against time\u2019 in search for trapped survivors as death toll in Japan rises to at least 13 \u2013 as it happened",
@@ -50,92 +78,50 @@
       "domain": "theguardian.com"
     },
     {
-      "title": "Photos: Zelenskyy urges \u2018protection of life\u2019 amid deadly Russian attacks",
-      "url": "https://www.aljazeera.com/gallery/2026/7/30/photos-zelenskyy-urges-protection-of-life-amid-deadly-russian-attacks?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Trump threatens to hit Iran \u2018hard\u2019 following missile attack on U.S. assets",
+      "url": "https://www.washingtonpost.com/national-security/2026/07/28/us-says-it-shot-down-iranian-missiles-targeting-troops-middle-east/",
+      "source": "Washington Post",
+      "bias": "left-center",
+      "domain": "washingtonpost.com"
+    }
+  ],
+  [
+    {
+      "title": "U.S. Economic Growth Slowed in the Second Quarter",
+      "url": "https://www.nytimes.com/2026/07/30/business/economy/us-economy-gdp-growth.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "U.S. economy slowed in second quarter as Iran war weighs on growth",
+      "url": "https://www.cbsnews.com/news/gdp-economic-growth-second-quarter-2026/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "GDP shows the economy grew 1.5% in the second quarter \u2014 but it\u2019s even better than it looks",
+      "url": "https://www.marketwatch.com/story/gdp-shows-the-economy-grew-1-5-in-the-second-quarter-but-its-even-better-than-it-looks-11b7f4fe?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
+    },
+    {
+      "title": "US economy slowed more than expected as the Iran war took hold",
+      "url": "https://abcnews.com/Business/government-report-show-us-economy-performed-amid-iran/story?id=135152547",
+      "source": "ABC News",
       "bias": "center",
-      "domain": "aljazeera.com"
-    },
+      "domain": "abcnews.go.com"
+    }
+  ],
+  [
     {
-      "title": "A 13-year-old dies after participating in a Benadryl TikTok 'challenge'",
-      "url": "https://www.cnn.com/2023/04/18/us/benadryl-tiktok-challenge-teen-death-wellness/index.html",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
-    },
-    {
-      "title": "NJ man, 32, struck and killed by lightning as severe storms rolled through area",
-      "url": "https://nypost.com/2026/07/30/us-news/new-jersey-man-32-struck-and-killed-by-lightning-as-severe-storms-roll-through-area/",
+      "title": "UEFA to boycott World Cup over FIFA boss\u2019s $20B cash grab \u2014 throwing global soccer into chaos: sources",
+      "url": "https://nypost.com/2026/07/30/business/uefa-to-boycott-world-cup-over-20b-kushner-linked-fifa-deal-sources/",
       "source": "New York Post",
       "bias": "right",
       "domain": "nypost.com"
-    },
-    {
-      "title": "Poll: Republican Mike Rogers Holds Double-Digit Lead over Progressive Abdul El-Sayed, Tied with Democrat Haley Stevens",
-      "url": "https://www.breitbart.com/midterm-election/2026/07/29/poll-republican-mike-rogers-holds-double-digit-lead-over-progressive-abdul-el-sayed-tied-with-democrat-haley-stevens/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
-    },
-    {
-      "title": "Anthony Fauci Pleads Fifth, Declines To Answer Rand Paul's Questions In COVID-19 Hearing",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYWxISjU4MGNNeTB5NU9Wc0UxaWphTFBQNk9JU0tlUjRmcVBhdGtqbmVrZ3dMMjh0d2ZlOW5YbzJselVrdGs0V3l4Nm1kbGtmU2ppUU9Va3g3dWhnbkNIRml1eE03QXJMQ3o0SlJjUUlMbnlrSjM4RDVRdS1Mc003a2hCT2hlYXdGVE9WTTB0VFAtU2R3cVZXZ2Q5SEpqM1ZIZmJRTWhxUmN1X0pjdG1kcVd6QnBFcWs1bklYOWhhYW5lOExQam0tZWxwUdIB0AFBVV95cUxQZHlKR3p4cUVoWXJxR0VBQ3hiODRyLWQ2X3NST2NVOWF1X0hvSmg5ZFhMcUJxNGcwUnFwSGh3TXZJNURJQkt0WDk0ajhqa0NxcTM3QlJGVzE5VzFuN0U3Rk5scGtNRm50UlF2V0VWdmFHdUxRdWR3OTYtYXBrMzFFb3NvS1QwTW14QXNOMzNvMXJuZUNXZEw0al9IekR0WWFnTG5ucDdfekQ2ZzZrak1vcEtnVjdjS29yOXUzdFhFdUV0WGQtQ2lmTWU2SnRnYTRZ?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    },
-    {
-      "title": "Fauci repeatedly invokes the Fifth Amendment in a contentious Senate committee hearing",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUm4zZnVKRG1VMWlkQ0ZlaXJnaGJmVks3UTNmQS1BQksya2d0R0pTQUl0M0tZb1dFVS04OXRJSmV1UE4xczhKaWZYbDNXWVUzU0RfNGVyS0lPOU41SkVlRkVyeko2eVN4U2h0UVJkRXNvblhlTTI1Qlo1NzEzWVVBOFlVWTdNMXBSOS1RWk5YZU9WZUs0ZTJERHZZRXJfei1G?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "Socialism's war on success has a new champion \u2014 and he\u2019s running for Senate in Michigan",
-      "url": "https://www.foxnews.com/opinion/socialisms-war-success-new-champion-running-senate-michigan",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "DOJ asking secretive court to remove Afghan woman allegedly tied to terror plot",
-      "url": "https://www.cbsnews.com/news/doj-secretive-alien-terrorist-court-nazira-haji-zada-isis-2024-allegation/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    }
-  ],
-  [
-    {
-      "title": "Man who stabbed author Salman Rushdie convicted of \u2018terrorism\u2019 charges",
-      "url": "https://www.aljazeera.com/news/2026/7/30/man-who-stabbed-author-salman-rushdie-convicted-of-terrorism-charges?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "Salman Rushdie attacker convicted in federal trial over 2022 stabbing",
-      "url": "https://www.cbsnews.com/news/salman-rushdie-convicted-federal-terrorism-2022-stabbing/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "Two Russian men jailed in Angola for terrorism and spying",
-      "url": "https://www.theguardian.com/world/2026/jul/23/two-russian-men-jailed-angola-terrorism-and-spying",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    }
-  ],
-  [
-    {
-      "title": "Infantino insists FIFA\u2019s World Cup plan is proposal and not \u2018obligation\u2019",
-      "url": "https://www.aljazeera.com/sports/2026/7/30/infantino-insists-fifas-world-cup-plan-is-proposal-and-not-obligation?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
     },
     {
       "title": "FIFA\u2019s Infantino sets deadline for $20M offer to members in World Cup investor plan",
@@ -145,8 +131,40 @@
       "domain": "apnews.com"
     },
     {
-      "title": "Why is FIFA Forward Enterprise met with negativity from soccer organizations around the world?",
-      "url": "https://www.cbsnews.com/video/why-fifa-forward-enterprise-negativity-soccer-organizations-world/",
+      "title": "AFC president doubles down on FIFA, calling World Cup plan \u2018unacceptable\u2019",
+      "url": "https://www.aljazeera.com/sports/2026/7/30/afc-president-doubles-down-on-fifa-calling-world-cup-plan-unacceptable?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    }
+  ],
+  [
+    {
+      "title": "France, Spain and Greece battle wildfires as Europe swelters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbWpsSnpKVndGWThyUHhGTmU3SGw2LWtnTldYT2gxcUFYZmV4Rk9uVlpDb0Vyal9RWGtKdTdONFlhOF9TLTB6c3ZLaWJoVjdNWWNkZzlFWi1iZUhqOVhtdE41U0Yxejdwd05LbjB1d3gyZmIwaV81ZDdWT0EzQ0R0SVdRNmtYUUhKWE4tRkpsZjY2NjRmZlJCOUlfMl9HbEhVTmY1RU1fXzJXZjRtUEE?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Thousands evacuated in Crete but Spanish PM ends wildfire emergency",
+      "url": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    }
+  ],
+  [
+    {
+      "title": "Markets Challenge Warsh\u2019s Approach to Taming Inflation",
+      "url": "https://www.nytimes.com/2026/07/30/business/warshs-performance-falls-flat-with-markets-as-fed-holds-rates-steady.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Fed leaves interest rate unchanged, but could a hike come later this year?",
+      "url": "https://www.cbsnews.com/video/fed-leaves-interest-rate-unchanged-but-could-a-hike-come-later-this-year/",
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"
@@ -154,66 +172,34 @@
   ],
   [
     {
-      "title": "George and Amal Clooney evacuate France home as wildfires spread across Europe",
-      "url": "https://www.foxnews.com/entertainment/george-amal-clooney-evacuate-france-home-wildfires-spread-europe",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
+      "title": "Fed\u2019s Preferred Inflation Gauge Eased During Pause in Iran War",
+      "url": "https://www.nytimes.com/2026/07/30/business/federal-reserve-inflation-iran-war.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
     },
     {
-      "title": "Past fires suggest effects of Europe and North America wildfires may linger for years",
-      "url": "https://www.theguardian.com/world/2026/jul/28/wildfires-europe-north-america-effects",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
+      "title": "Fed-favored PCE inflation gauge falls for first time since pandemic, but danger far from over",
+      "url": "https://www.marketwatch.com/story/fed-favored-pce-inflation-gauge-falls-for-first-time-since-pandemic-but-danger-far-from-over-57e382bf?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
     }
   ],
   [
     {
-      "title": "The Chinese robot army transforming the UK's retail industry",
-      "url": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
+      "title": "Wall Street just suffered a historic crash in highflying stocks. Why a quick tech rebound could be a trap.",
+      "url": "https://www.marketwatch.com/story/wall-street-just-suffered-a-historic-crash-in-high-flying-stocks-here-is-why-a-quick-tech-rebound-could-be-a-trap-c021318a?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
+    },
+    {
+      "title": "Oil prices jump, while the Dow drops more than 1,100 as sinking AI stocks drag Wall Street lower",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVVhqMlRBNU0taHdVcUdHUUE3eDFsZEFQbTZ6dElnTEtMOGVSb1ktYlhpbmJHMm9NY2xRc1lQRWRXcGZ2N0NUNm9FSWV1ZkQ2MjAtaE5WWkwxeHFDMmxxX3I4MHNDNmduRnZ4ODNzNUtSZ2hyZEh3NVBtMmthTHA5UDRzcTBXOWJYNS0yVHlUM0loVXE5VThkeg?oc=5",
+      "source": "Associated Press",
       "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "China Threatens Retaliation as U.S. Moves to Block Robot Imports",
-      "url": "https://www.nytimes.com/2026/07/30/business/china-robots-ban-fcc.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    }
-  ],
-  [
-    {
-      "title": "Rollout of New York City\u2019s Second-Home Tax Is Confusing Some Residents",
-      "url": "https://www.nytimes.com/2026/07/29/nyregion/new-york-second-home-tax-rollout-anxiety.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "James Woods Warns of 'Muslim Invasion': Electing Mamdani 'Most Dangerous Event' in Modern American History",
-      "url": "https://www.breitbart.com/entertainment/2026/07/29/actor-james-woods-warns-of-muslim-invasion-electing-mamdani-most-dangerous-event-in-modern-american-history/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
-    }
-  ],
-  [
-    {
-      "title": "Here's how 'parasite' went from a laughing matter to a serious biological threat",
-      "url": "https://www.npr.org/2026/07/30/nx-s1-5909222/parasite-cyclospora-outbreak-odyssey-nolan",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    },
-    {
-      "title": "Weight-loss joke turns serious as \u2018cyclospora skinny\u2019 trend fuels health warnings",
-      "url": "https://nypost.com/2026/07/30/health/weight-loss-joke-turns-serious-as-cyclospora-skinny-trend-fuels-health-warnings/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
+      "domain": "apnews.com"
     }
   ],
   [
@@ -230,6 +216,22 @@
       "source": "The Guardian",
       "bias": "left-center",
       "domain": "theguardian.com"
+    }
+  ],
+  [
+    {
+      "title": "Sean \u2018Diddy\u2019 Combs\u2019 new release date revealed after prison fight",
+      "url": "https://pagesix.com/2026/07/30/celebrity-news/sean-diddy-combs-new-release-date-revealed-after-prison-fight/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
+      "title": "Sean 'Diddy' Combs' prison release date moved up, records show",
+      "url": "https://abcnews.com/GMA/Culture/sean-diddy-combs-prison-release-date-moved-up/story?id=135221993",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
     }
   ]
 ]

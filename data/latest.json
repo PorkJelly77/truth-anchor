@@ -1,74 +1,11 @@
 [
   [
     {
-      "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
-      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
-    },
-    {
-      "title": "Stocks and bonds see wild \u2018Fed Day\u2019 swings as Wall Street\u2019s \u2018crash cushion\u2019 evaporates",
-      "url": "https://www.marketwatch.com/story/stocks-and-bonds-see-wild-fed-day-swings-as-wall-streets-crash-cushion-evaporates-ffcbdbbc?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
-    },
-    {
-      "title": "Oil prices jump, while the Dow drops more than 1,100 as sinking AI stocks drag Wall Street lower",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVVhqMlRBNU0taHdVcUdHUUE3eDFsZEFQbTZ6dElnTEtMOGVSb1ktYlhpbmJHMm9NY2xRc1lQRWRXcGZ2N0NUNm9FSWV1ZkQ2MjAtaE5WWkwxeHFDMmxxX3I4MHNDNmduRnZ4ODNzNUtSZ2hyZEh3NVBtMmthTHA5UDRzcTBXOWJYNS0yVHlUM0loVXE5VThkeg?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "MS NOW's Ruhle: Fauci Hearing Breaks My Heart \u2014 'I Can\u2019t Believe We\u2019re Relitigating This'",
-      "url": "https://www.breitbart.com/clips/2026/07/29/ms-nows-ruhle-fauci-hearing-breaks-my-heart-i-cant-believe-were-relitigating-this/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
-    },
-    {
-      "title": "Moms for Liberty co-founder rips Fauci after Fifth Amendment plea, 'America deserves an apology'",
-      "url": "https://www.foxnews.com/media/moms-liberty-co-founder-rips-fauci-fifth-amendment-plea-america-deserves-apology",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "'It's his decision': Netanyahu says choice on how to proceed with Iran is Trump's",
-      "url": "https://abcnews.com/US/decision-netanyahu-choice-proceed-iran-trumps/story?id=135203352",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    },
-    {
-      "title": "Trump and Netanyahu explored all Iran options including attack, Israeli official says",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNGRMX1g5X0U3ckZtQjhIMHFGMHVjWmZoNlU5bDBydGRabk5LR1dGUUNSaXFHWUQyWnJqd2VJS09KSmU3ZXVtVjBqemVDdTJJNE9JVDkxTm5udWZ1bVRYYmxUdmExbHFsdENjc2N3Yi15R0tEVUxuRXJiQUk4akd2dy1ZU3g5S21wNjhTX29NODVtaUNRU2JoSi04T29pUzNFMGtKR3cyZUN1RF8zZEVTZTFxSkhXZU9ESHphSWhhR1R4ZUlMSnNsVlNQTUxwRTg?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "The Trump administration's move to end subsidies for Medicare drug plans could cost consumers",
-      "url": "https://www.npr.org/2026/07/29/nx-s1-5912039/the-trump-administrations-move-to-end-subsidies-for-medicare-drug-plans-could-cost-consumers",
-      "source": "NPR",
+      "title": "Trump Unveils $22.5 Billion Redesign of Dulles Airport",
+      "url": "https://www.nytimes.com/2026/07/29/us/politics/trump-dulles-airport-redesign.html",
+      "source": "New York Times",
       "bias": "left-center",
-      "domain": "npr.org"
-    },
-    {
-      "title": "Canadians spent $3.3bn less on travel to US in 2025 after Trump\u2019s return to office",
-      "url": "https://www.theguardian.com/world/2026/jul/28/canadians-us-travel-drop-trump",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    },
-    {
-      "title": "Police to take no further action against Polanski over guillotine re-post",
-      "url": "https://www.bbc.co.uk/news/articles/cwylrnxxl77o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
+      "domain": "nytimes.com"
     },
     {
       "title": "Trump threatens to hit Iran \u2018hard\u2019 following missile attack on U.S. assets",
@@ -78,71 +15,32 @@
       "domain": "washingtonpost.com"
     },
     {
-      "title": "Trump Spews F-Bomb Schoolyard Threat At Iran For Strikes On U.S. Troops",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR0NVTzFmOFRSd000QlpZQnE1VE5fM19iWjNNQWlRRGQ0LUx5UWR6aXgxbm5VcWgxeFBYbzBOVjFhOXlYb1dvLWJ0eWNfaEdaRjVfeFoxRm9tYkdCSlVkQTVEUWtsZ1V5dThJc0tRUkFzNWY1UGRjdmJ1NGh4Y0Mya1QxY3lPNFM5dDRvRHU0eXdabk90WHhLcFIzVnNkRUlJQ0RCNnRNcEJFbjRpRGfSAbMBQVVfeXFMT2xwWVZKVW5HWTBSZ0xUMFE2R0YwbTlqdkRGSkNjdlB5QU1vUFQ2TDl3eXFkSExTbVFvaWhnWlJwVHIyS3Q2Z291VXE1U0dLdmZ6dzZ0MlNfQjcyb21vX1NQNUcxSUluT1dxUUJvU3BtZWg2TzZsX0hWa25OUEhGMWJITDEtREVkR0ktUHlEYUJ6ajVrTWJXN2lvVHZhSkNacWY1Z2JOSVFqQkltMmliVGpVeHc?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    },
-    {
-      "title": "Sam Altman meets lawmakers on back of OpenAI agents hacking companies",
-      "url": "https://www.aljazeera.com/economy/2026/7/29/sam-altman-meets-lawmakers-on-back-of-openai-agents-hacking-companies?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Oil prices surge after Trump vows retaliation for Iranian attack",
+      "url": "https://abcnews.com/Business/oil-prices-surge-after-trump-vows-retaliation-iranian/story?id=135185546",
+      "source": "ABC News",
       "bias": "center",
-      "domain": "aljazeera.com"
+      "domain": "abcnews.go.com"
     },
     {
-      "title": "Senators Cornyn and Tillis Threaten to Block Blanche Nomination Over Trump\u2019s IRS Deal",
-      "url": "https://www.nytimes.com/2026/07/29/us/politics/todd-blanche-senate-vote-irs.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
+      "title": "Poland's Tusk says Russian missile appears to have come down in country's east",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTjY4dFJnUXNtdWVUZkJZRVVjRnB1cTBISWJrUFhSc1dRbnpqanF4U3dteloxRHdOcjB5bEJSZ1J4SlFGYTIwR001Qk1XVjJzVnpsQkUteDlrakxYeXYwZHZMTjk5b1pZdHQtcjluZkE0OUFodWRobWcxMm1pYV9hSFlUNFI1YmxmMl9iMF9yeWJtR0Z4RzdJZVFENFdvN2UybWNJWlhma2dWVGtQeVNfWW9BV2dWVmJNVlpvV18zMmlxQQ?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
     },
     {
-      "title": "OpenAI interested in ChatGPT wearable integrations",
-      "url": "https://www.cbsnews.com/video/openai-interested-chatgpt-wearable-integrations/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "Giants Training Camp Day 1: Malik Nabers looks confident with knee in return to action | Blue Rush",
-      "url": "https://nypost.com/video/giants-training-camp-day-1-malik-nabers-looks-confident-with-knee-in-return-to-action-blue-rush/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    }
-  ],
-  [
-    {
-      "title": "Fifa opens disciplinary proceedings against Argentina",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp3rkwgy6y7o?at_medium=RSS&at_campaign=rss",
+      "title": "Missile that left crater deep inside Poland was probably Russian, Polish PM says",
+      "url": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "bias": "center",
       "domain": "bbc.com"
     },
     {
-      "title": "FIFA charges Argentina after World Cup final brawl with Spain",
-      "url": "https://www.aljazeera.com/sports/2026/7/29/fifa-charges-argentina-after-world-cup-final-brawl-with-spain?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "Javier Milei accuses US Democrats of financing \u2018anti-Argentina campaign\u2019 at World Cup",
-      "url": "https://www.theguardian.com/world/2026/jul/28/javier-milei-accuses-us-democrats-of-financing-anti-argentina-campaign-at-world-cup",
-      "source": "The Guardian",
+      "title": "Russian strikes across Ukraine kill at least 8 civilians and wound dozens",
+      "url": "https://www.npr.org/2026/07/30/g-s1-136276/russia-ukraine-war",
+      "source": "NPR",
       "bias": "left-center",
-      "domain": "theguardian.com"
-    }
-  ],
-  [
-    {
-      "title": "Powerful earthquake strikes southern Japan; dozens reported missing",
-      "url": "https://www.washingtonpost.com/world/2026/07/28/powerful-earthquake-strikes-southern-japan-causing-destruction/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
+      "domain": "npr.org"
     },
     {
       "title": "Rescue teams face \u2018race against time\u2019 in search for trapped survivors as death toll in Japan rises to at least 13 \u2013 as it happened",
@@ -152,72 +50,135 @@
       "domain": "theguardian.com"
     },
     {
-      "title": "A 7.1 magnitude quake hits Japan\u2019s southern Kyushu island killing at least 3",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZjJfSjA5NW44LXd6ZG56VGYzWFhybVkybHlGV2Q3bjZHazdsR1hoTGh3RmpsUlc1MnJNelRQbGFKejdjbjRwYzBSWFJQYnR1SW5WbGdZbXBvNm9OZXRGUDJVLVZWTUlQZGptdlRYTjhrNUczOWdUZE1FRHFOU1czaThocDdHQVNsTG8tWg?oc=5",
-      "source": "Associated Press",
+      "title": "Photos: Zelenskyy urges \u2018protection of life\u2019 amid deadly Russian attacks",
+      "url": "https://www.aljazeera.com/gallery/2026/7/30/photos-zelenskyy-urges-protection-of-life-amid-deadly-russian-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
       "bias": "center",
-      "domain": "apnews.com"
-    }
-  ],
-  [
-    {
-      "title": "Graham's final mission advances as Senate moves to crush Putin's war machine with Russia, Iran sanctions",
-      "url": "https://www.foxnews.com/politics/grahams-final-mission-advances-senate-moves-crush-putins-war-machine-russia-iran-sanctions",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
+      "domain": "aljazeera.com"
     },
     {
-      "title": "Canada\u2019s Answer to Trump\u2019s Tariffs: More Energy Deals With Europe",
-      "url": "https://www.nytimes.com/2026/07/29/world/canada/canada-lng-germany-carney-trump-tariffs.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    }
-  ],
-  [
-    {
-      "title": "Fox News Poll: Democratic enthusiasm shapes North Carolina Senate race",
-      "url": "https://www.foxnews.com/politics/fox-news-poll-democratic-enthusiasm-shapes-north-carolina-senate-race",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
+      "title": "A 13-year-old dies after participating in a Benadryl TikTok 'challenge'",
+      "url": "https://www.cnn.com/2023/04/18/us/benadryl-tiktok-challenge-teen-death-wellness/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
     },
     {
-      "title": "Rep. Debbie Dingell urges Michigan Democrats to unite regardless of who wins Senate primary",
-      "url": "https://www.cbsnews.com/video/debbie-dingell-urges-michigan-democrats-unite-senate-primary/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    }
-  ],
-  [
-    {
-      "title": "Ohio man found shot dead in execution-style killing while camping on Puerto Rico beach: reports",
-      "url": "https://www.foxnews.com/us/american-found-shot-dead-execution-style-killing-camping-puerto-rico-beach-reports",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "Dramatic moment Oscar-winning Disney titan is rescued from Arizona mountain in scorching heat",
-      "url": "https://nypost.com/2026/07/29/us-news/oscar-winning-disney-animator-rescued-from-arizona-mountain-trail/",
+      "title": "NJ man, 32, struck and killed by lightning as severe storms rolled through area",
+      "url": "https://nypost.com/2026/07/30/us-news/new-jersey-man-32-struck-and-killed-by-lightning-as-severe-storms-roll-through-area/",
       "source": "New York Post",
       "bias": "right",
       "domain": "nypost.com"
+    },
+    {
+      "title": "Poll: Republican Mike Rogers Holds Double-Digit Lead over Progressive Abdul El-Sayed, Tied with Democrat Haley Stevens",
+      "url": "https://www.breitbart.com/midterm-election/2026/07/29/poll-republican-mike-rogers-holds-double-digit-lead-over-progressive-abdul-el-sayed-tied-with-democrat-haley-stevens/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
+    },
+    {
+      "title": "Anthony Fauci Pleads Fifth, Declines To Answer Rand Paul's Questions In COVID-19 Hearing",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYWxISjU4MGNNeTB5NU9Wc0UxaWphTFBQNk9JU0tlUjRmcVBhdGtqbmVrZ3dMMjh0d2ZlOW5YbzJselVrdGs0V3l4Nm1kbGtmU2ppUU9Va3g3dWhnbkNIRml1eE03QXJMQ3o0SlJjUUlMbnlrSjM4RDVRdS1Mc003a2hCT2hlYXdGVE9WTTB0VFAtU2R3cVZXZ2Q5SEpqM1ZIZmJRTWhxUmN1X0pjdG1kcVd6QnBFcWs1bklYOWhhYW5lOExQam0tZWxwUdIB0AFBVV95cUxQZHlKR3p4cUVoWXJxR0VBQ3hiODRyLWQ2X3NST2NVOWF1X0hvSmg5ZFhMcUJxNGcwUnFwSGh3TXZJNURJQkt0WDk0ajhqa0NxcTM3QlJGVzE5VzFuN0U3Rk5scGtNRm50UlF2V0VWdmFHdUxRdWR3OTYtYXBrMzFFb3NvS1QwTW14QXNOMzNvMXJuZUNXZEw0al9IekR0WWFnTG5ucDdfekQ2ZzZrak1vcEtnVjdjS29yOXUzdFhFdUV0WGQtQ2lmTWU2SnRnYTRZ?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    },
+    {
+      "title": "Fauci repeatedly invokes the Fifth Amendment in a contentious Senate committee hearing",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUm4zZnVKRG1VMWlkQ0ZlaXJnaGJmVks3UTNmQS1BQksya2d0R0pTQUl0M0tZb1dFVS04OXRJSmV1UE4xczhKaWZYbDNXWVUzU0RfNGVyS0lPOU41SkVlRkVyeko2eVN4U2h0UVJkRXNvblhlTTI1Qlo1NzEzWVVBOFlVWTdNMXBSOS1RWk5YZU9WZUs0ZTJERHZZRXJfei1G?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Socialism's war on success has a new champion \u2014 and he\u2019s running for Senate in Michigan",
+      "url": "https://www.foxnews.com/opinion/socialisms-war-success-new-champion-running-senate-michigan",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "DOJ asking secretive court to remove Afghan woman allegedly tied to terror plot",
+      "url": "https://www.cbsnews.com/news/doj-secretive-alien-terrorist-court-nazira-haji-zada-isis-2024-allegation/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
     }
   ],
   [
     {
-      "title": "Drone hits gas storage tanker at Egypt's Mediterranean port, Ambrey reports",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM3F5LWg3Mm9rYmlhejJpdzJqQW9SWnU1WHJRVm9iZ1p0TUpmRTR6Mk1JYXVUekU2c1VlTHI5bV9DbzIyejlvYU13Y2cxYU12WExOYzJoVmxsVzVoc2hiWkQ2ZWFUZ0EwZHBZZlZ1UnREZjZGc243TlQtMXVKcDQ5bUpEaDR2Tmo5eTJkdlJhSXMtZ0U2cnk0OWNLLU50YlBjbnZrei1FVm9CYWw5cUE?oc=5",
-      "source": "Reuters",
+      "title": "Man who stabbed author Salman Rushdie convicted of \u2018terrorism\u2019 charges",
+      "url": "https://www.aljazeera.com/news/2026/7/30/man-who-stabbed-author-salman-rushdie-convicted-of-terrorism-charges?traffic_source=rss",
+      "source": "Al Jazeera",
       "bias": "center",
-      "domain": "reuters.com"
+      "domain": "aljazeera.com"
     },
     {
-      "title": "Two Tankers Hit in Apparent Drone Strike in Egypt",
-      "url": "https://www.nytimes.com/2026/07/29/world/middleeast/ships-drone-strike-egypt.html",
+      "title": "Salman Rushdie attacker convicted in federal trial over 2022 stabbing",
+      "url": "https://www.cbsnews.com/news/salman-rushdie-convicted-federal-terrorism-2022-stabbing/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Two Russian men jailed in Angola for terrorism and spying",
+      "url": "https://www.theguardian.com/world/2026/jul/23/two-russian-men-jailed-angola-terrorism-and-spying",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    }
+  ],
+  [
+    {
+      "title": "Infantino insists FIFA\u2019s World Cup plan is proposal and not \u2018obligation\u2019",
+      "url": "https://www.aljazeera.com/sports/2026/7/30/infantino-insists-fifas-world-cup-plan-is-proposal-and-not-obligation?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "FIFA\u2019s Infantino sets deadline for $20M offer to members in World Cup investor plan",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNnJua3VkNWFsOW96djl4VHJXUkdpS2R0SVdmY1k4Rlo1TlVNVl9PbzlGVFJ0ZVZBbnN2OGw0aUZqQjlDV2dJQTBvamhqWWcwWmFLOWtVV1doYWktRndXdEFZb1lZeFBsVmI4MUxjMGJHOTBkOHQwZHR1M194emx6Mkk1TWVnd3BCY29FMHVEUUFYZC1fUmFxaHg2OVlmZ3cxbkdkYXVhYmtlLTQ?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Why is FIFA Forward Enterprise met with negativity from soccer organizations around the world?",
+      "url": "https://www.cbsnews.com/video/why-fifa-forward-enterprise-negativity-soccer-organizations-world/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    }
+  ],
+  [
+    {
+      "title": "George and Amal Clooney evacuate France home as wildfires spread across Europe",
+      "url": "https://www.foxnews.com/entertainment/george-amal-clooney-evacuate-france-home-wildfires-spread-europe",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Past fires suggest effects of Europe and North America wildfires may linger for years",
+      "url": "https://www.theguardian.com/world/2026/jul/28/wildfires-europe-north-america-effects",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    }
+  ],
+  [
+    {
+      "title": "The Chinese robot army transforming the UK's retail industry",
+      "url": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "China Threatens Retaliation as U.S. Moves to Block Robot Imports",
+      "url": "https://www.nytimes.com/2026/07/30/business/china-robots-ban-fcc.html",
       "source": "New York Times",
       "bias": "left-center",
       "domain": "nytimes.com"
@@ -225,34 +186,34 @@
   ],
   [
     {
-      "title": "Limiting sugar before age two linked to better brain health",
-      "url": "https://www.bbc.co.uk/news/articles/clyx85z1ld5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
+      "title": "Rollout of New York City\u2019s Second-Home Tax Is Confusing Some Residents",
+      "url": "https://www.nytimes.com/2026/07/29/nyregion/new-york-second-home-tax-rollout-anxiety.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
     },
     {
-      "title": "As extreme heat grips the South and West, here's how to stay safe",
-      "url": "https://www.npr.org/2026/07/29/nx-s1-5910515/heat-dome-stroke-weather",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
+      "title": "James Woods Warns of 'Muslim Invasion': Electing Mamdani 'Most Dangerous Event' in Modern American History",
+      "url": "https://www.breitbart.com/entertainment/2026/07/29/actor-james-woods-warns-of-muslim-invasion-electing-mamdani-most-dangerous-event-in-modern-american-history/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
     }
   ],
   [
     {
-      "title": "Salman Rushdie attacker convicted of terror offenses",
-      "url": "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
+      "title": "Here's how 'parasite' went from a laughing matter to a serious biological threat",
+      "url": "https://www.npr.org/2026/07/30/nx-s1-5909222/parasite-cyclospora-outbreak-odyssey-nolan",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
     },
     {
-      "title": "Salman Rushdie recounts getting stabbed (2024)",
-      "url": "https://www.cbsnews.com/video/salman-rushdie-recounts-getting-stabbed-2024/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
+      "title": "Weight-loss joke turns serious as \u2018cyclospora skinny\u2019 trend fuels health warnings",
+      "url": "https://nypost.com/2026/07/30/health/weight-loss-joke-turns-serious-as-cyclospora-skinny-trend-fuels-health-warnings/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
     }
   ],
   [
@@ -269,54 +230,6 @@
       "source": "The Guardian",
       "bias": "left-center",
       "domain": "theguardian.com"
-    }
-  ],
-  [
-    {
-      "title": "Russia accuses Telegram CEO Pavel Durov of aiding terrorism in its latest digital crackdown",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQblNhVl9DX1JwVFV4YTJRNElNYTcyUm9QckNfaTVuSTB2NEFzRXBuRlVQTjg5a2hOLU9hWWM4ZXZUa01WS3BNNkR3MnlvbktKX0x2aVY2NGpIdGxSd3dLYnZUYl93OXRnR0V6OWpZUExXS0UyaVRWUXYwV0pYQUY4b2Rlc25uWWVZWDRZcDgzSFlCMEZ0MEota2Vqdw?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "Russia Charges Telegram Founder With Aiding Terrorism And Puts Him On Wanted List",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMGljZ2hsbjkzSzVZNGZ5OEdBMlkzTmNMelRYbFZLVVB3MDRSamdWczBYZWlPMWJZc3R6SjJnQ0xEU1dHT2dvdm1LVkh1S0d0cjJWNXRTZmp0ZUVEYUFVOTBxdWp1a0ZrazdkX3VmcmdWc005V0lmdk1TczlyVko2MFA4TEFVajMtTWd0RUxHUWszWTgzem9DMFk2MkdaYUItekFPU0h5R2F4b0xVS0FQQ9IBtgFBVV95cUxQY3FzMzJnazhkYzRKaXVfcU1kVENObUlrbXp4d0tHc1NwcEJ6MTBKd3BqaXZJOVVyQzd3d1JCUV9IN2ZadEN1Wm1mR2FJVkNUUFo5OFJQXzNKVGI5SHhvYU90d1ZjMEt3NHJJUWdqNjdkeVFjUFhuRURXRk9VQ1Jvem5VbTBGLVdiQnJaVnhhbnp6VDF3ay1OakpLREdQci00c1dMN1dLQjVCdVI0ZmJaTVNmOE1QQQ?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    }
-  ],
-  [
-    {
-      "title": "eBay agreed to pay nearly $50 million to couple sent cockroaches, bloody pig mask",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZmtOc1FQd0ZlV1pQbWNHeElfVGNkMldRSlhkWGl4cUV6a1BpRFNNSVozQnhXb0lDVnlKc2M4MkI5U2ozM0hlb3Vta05MbmN2Q05QN3lmQjhscG9OQUM4ZmFoc3luYkRmNDFoTjdZOWdEYXYxdHFGTlJyemw4SmJzYQ?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "WATCH:  EBay to pay nearly $56M to couple over stalking lawsuit",
-      "url": "https://abcnews.com/video/135181991/",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    }
-  ],
-  [
-    {
-      "title": "A Divided Fed Holds Interest Rates Steady",
-      "url": "https://www.breitbart.com/economy/2026/07/29/fed-rates-decision/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
-    },
-    {
-      "title": "Fed holds interest rates steady as economy weathers resurgent inflation",
-      "url": "https://abcnews.com/Business/fed-issue-interest-rate-decision-gas-prices-rise/story?id=135130446",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
     }
   ]
 ]

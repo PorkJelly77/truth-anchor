@@ -1,18 +1,46 @@
 [
   [
     {
-      "title": "Millions in the US could face massive consequences unless McCarthy can navigate out of a debt trap he set for Biden",
-      "url": "https://www.cnn.com/2023/04/18/politics/mccarthy-biden-debt-ceiling/index.html",
+      "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
       "source": "CNN",
       "bias": "left",
       "domain": "cnn.com"
     },
     {
-      "title": "FIFA\u2019s Infantino sets deadline for $20M offer to members in World Cup investor plan",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNnJua3VkNWFsOW96djl4VHJXUkdpS2R0SVdmY1k4Rlo1TlVNVl9PbzlGVFJ0ZVZBbnN2OGw0aUZqQjlDV2dJQTBvamhqWWcwWmFLOWtVV1doYWktRndXdEFZb1lZeFBsVmI4MUxjMGJHOTBkOHQwZHR1M194emx6Mkk1TWVnd3BCY29FMHVEUUFYZC1fUmFxaHg2OVlmZ3cxbkdkYXVhYmtlLTQ?oc=5",
-      "source": "Associated Press",
+      "title": "Anthropic Claims Claude AI Models Hacked 3 Organizations During Security Testing",
+      "url": "https://www.breitbart.com/tech/2026/07/31/anthropic-claims-claude-ai-models-hacked-3-organizations-during-security-testing/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
+    },
+    {
+      "title": "Trump blasts Spain migrant surge as 'catastrophe,' warns US could face worse if Democrats regain power",
+      "url": "https://www.foxnews.com/politics/trump-blasts-spain-migrant-surge-catastrophe-warns-us-could-face-worse-democrats-regain-power",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Watch: Moroccan police clash with migrants near border with Spain's Ceuta",
+      "url": "https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "bias": "center",
-      "domain": "apnews.com"
+      "domain": "bbc.com"
+    },
+    {
+      "title": "Trump\u2019s Gaza Deal Sparks Questions on Whether Israel, Hamas Will Comply",
+      "url": "https://www.nytimes.com/2026/07/31/world/middleeast/trump-gaza-hamas-deal-disarm.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Trump announces Hamas disarmament agreement as part of Gaza peace plan",
+      "url": "https://abcnews.com/International/trump-announces-hamas-disarmament-agreement-part-gaza-peace/story?id=135246610",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
     },
     {
       "title": "Canadians spent $3.3bn less on travel to US in 2025 after Trump\u2019s return to office",
@@ -20,6 +48,13 @@
       "source": "The Guardian",
       "bias": "left-center",
       "domain": "theguardian.com"
+    },
+    {
+      "title": "S&P 500 heads for the first July decline since 2014. Here are the stocks that led the selloff.",
+      "url": "https://www.marketwatch.com/story/s-p-500-heads-for-the-first-july-decline-since-2014-here-are-the-stocks-that-led-the-selloff-5677f63b?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
     },
     {
       "title": "Trump Says Deal Reached To Disarm Hamas, Israeli Support For Plan Remains Uncertain",
@@ -36,142 +71,137 @@
       "domain": "npr.org"
     },
     {
-      "title": "DOJ Targets Maryland County's Prohibition Against Congregants Being Armed for Self-Defense",
-      "url": "https://www.breitbart.com/2nd-amendment/2026/07/31/doj-targets-maryland-countys-prohibition-against-congregants-being-armed-for-self-defense/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
-    },
-    {
-      "title": "Iran claims strikes on ships in Strait of Hormuz and U.S. base in Kuwait",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-kuwait-jordan-air-base/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "'I pay \u00a3580 a month to live in a disused care home': Property guardians show us around",
-      "url": "https://www.bbc.co.uk/news/articles/cj4kvge1pyvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "Iran War Drives Oil Profits to Highest Levels in Years",
-      "url": "https://www.nytimes.com/2026/07/31/business/energy-environment/exxon-chevron-earnings-iran-war.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "Why 3 Fed dissenters say waiting to raise interest rates could make inflation harder to tame",
-      "url": "https://www.marketwatch.com/story/fed-dissenters-speak-why-they-backed-higher-interest-rates-e0306129?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
-    },
-    {
-      "title": "ExxonMobil misses second quarter profit estimates despite hitting four-year high",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWS1OZDE2YWEyd3pXcklrdzRqbmRBaDVvVkVmSTF5clJqMEs2V2U2N2VwYjJUY0xVTnNjVGI5bW5lR0o1Z0paNXhsbHFWc3NKWkpHblB4T2NGTzRSdmFKckQxaHJjaW5HdVBFLWZiSU9wNUtwTVZrbjUwM00tUjhzZzZLaVdxdDNrdjhFeEtEdF9RS3UyNGtZQ3V4YkRsN3J6V3RSV3hOMExPRk5ZSmdnUTZYU1pudkFUdjhJZ2YxSmVmQQ?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "Spain's PM blames trafficking as 60K cross into Ceuta from Morocco, with 41 deaths",
-      "url": "https://abcnews.com/International/wireStory/18-die-after-breach-border-morocco-spanish-territory-135252200",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    },
-    {
-      "title": "Spain deploys military to Ceuta after migrant surge: What we know",
-      "url": "https://www.aljazeera.com/features/2026/7/31/spain-deploys-military-to-ceuta-after-migrant-surge-what-we-know?traffic_source=rss",
+      "title": "Three-year roadmap proposed for Hamas disarmament in Gaza",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/three-year-roadmap-proposed-for-hamas-disarmament-in-gaza?traffic_source=rss",
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
     },
     {
-      "title": "Migrants overrun a Spanish outpost, stirring European outrage",
-      "url": "https://www.washingtonpost.com/world/2026/07/31/migrants-overrun-spanish-outpost-stirring-white-house-outrage/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
-    },
-    {
-      "title": "Israel destroys terror tunnels in Lebanon that Hezbollah planned to use",
-      "url": "https://nypost.com/2026/07/31/world-news/israel-destroys-terror-tunnels-in-lebanon-that-hezbollah-planned-to-use/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "Trump unloads on Cornyn, ties AG nomination fight to bitter Texas primary",
-      "url": "https://www.foxnews.com/politics/trump-unloads-cornyn-ties-ag-nomination-fight-bitter-texas-primary",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    }
-  ],
-  [
-    {
-      "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges",
-      "url": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
-    },
-    {
-      "title": "Woman's death at Boston home owned by Rep. Ayanna Pressley's husband ruled a homicide: officials",
-      "url": "https://www.foxnews.com/us/womans-death-boston-home-rep-ayanna-pressley-husband-ruled-homicide-officials",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    }
-  ],
-  [
-    {
-      "title": "Investigators believe Iranian hackers are likely behind cyberattack on Minnesota water systems: report",
-      "url": "https://www.foxnews.com/politics/investigators-believe-iranian-hackers-likely-behind-cyberattack-minnesota-water-systems-report",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "A Cyberattack on U.S. Water Systems, and the Growing Threat of Falling Space Junk",
-      "url": "https://www.nytimes.com/2026/07/31/podcasts/the-headlines/cyberattack-us-water-space-junk-spain-migrants-fifa.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    }
-  ],
-  [
-    {
-      "title": "House Democrat blasted after early release law freed inmates later charged with murder",
-      "url": "https://www.foxnews.com/politics/house-democrat-blasted-after-early-release-law-freed-inmates-later-charged-murder",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "Southport killer charged with prison attacks and possessing weapon",
-      "url": "https://www.bbc.co.uk/news/articles/ckg3dr3lgjko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    }
-  ],
-  [
-    {
-      "title": "Eric Trump-backed defense technology company Space-Eyes to go public in $638 million SPAC deal, sources say",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbkc0bldHSFZlemNBVTg0Y2wwbzR6UHFEU2czWHZOSEV5X2lLOHNEc0pWUkgyd1NNellCY21yVnp3U01Nc21aTmhwSWVURGFnV2hyWTN4MF9meWQ0bGg1cG8zQ2p6aXRLczUyTzlOdlRiU0tLY3dsWmgyM0pkajE4enBULUNSVlFDUFlmeVhpSzBfYTBHOEJ4Q21MU19tWHgwMEphVk5ZM0FQQko2WlBvcFBWNjFuX1ZGc0VR?oc=5",
+      "title": "Trump convenes Cabinet at Camp David amid simmering Iran war",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZks0akNQUmpqVGdGaE5rakdfRldLS25IaTFzeVF2VzVmVGc5TkF4VTI2NjI1UlVVdXlveTFxRXFMRWlGTEN4STFsYUdySDQzNE9pSGF6SzJ5bk83M3RsWGc3a3N1Q21oQlQtMGZ4QnFjSHd1dlhlbkNsZ3dvVmFhOFpwVVpNaUx0TmxTTEp2bGZzRExacFhmaEdBS3VjQ0l3cGpPWQ?oc=5",
       "source": "Reuters",
       "bias": "center",
       "domain": "reuters.com"
     },
     {
-      "title": "Amazon customers to receive Trump tariff refunds after $600M government payout",
-      "url": "https://nypost.com/2026/07/31/business/amazon-customers-to-receive-trump-tariff-refunds-after-600m-government-payout/",
+      "title": "U.S. probing if Iran was behind cyberattack on water systems in 7 states",
+      "url": "https://www.cbsnews.com/news/us-investigating-iran-cyberattack-minnesota-water-systems/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Trump threatens to hit Iran \u2018hard\u2019 following missile attack on U.S. assets",
+      "url": "https://www.washingtonpost.com/national-security/2026/07/28/us-says-it-shot-down-iranian-missiles-targeting-troops-middle-east/",
+      "source": "Washington Post",
+      "bias": "left-center",
+      "domain": "washingtonpost.com"
+    },
+    {
+      "title": "US thwarts an Iranian missile attack and launches strikes with Saudi Arabia against militias in Iraq",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRWlwZk94dzhfNkVQUDNyVWRCekU3RmZJa09ldGwyOFZ1NzlCWEJhWXN5ZjRqdWRGX25RMWZyMHJJai1LVHZxOVNaZ2NFQ1pyTnI5Q1hONTZZR1Zid25ULUV4T3EyNGtRQTQzSVJPQ3pyS2RKM0I1VUF5cl9ZY2VDd3VwQzMxNzgybnlEXzdXV3RlRUxGX2JZMjZKcHk?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Millions in the US could face massive consequences unless McCarthy can navigate out of a debt trap he set for Biden",
+      "url": "https://www.cnn.com/2023/04/18/politics/mccarthy-biden-debt-ceiling/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
+    },
+    {
+      "title": "How the Pro-Trump Media Ecosystem Is Splintering Ahead of the Midterms",
+      "url": "https://www.nytimes.com/2026/07/31/us/politics/trump-iran-economy-media-critics.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Ahead of midterms, Republicans run ads after cutting healthcare funds",
+      "url": "https://www.npr.org/2026/07/31/nx-s1-5870960/republican-ads-healthcare-medicaid-2026-midterms",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    }
+  ],
+  [
+    {
+      "title": "NFL analyst Tony Romo placed on leave by CBS Sports following drunk driving arrest in Wisconsin",
+      "url": "https://www.foxnews.com/sports/nfl-analyst-tony-romo-placed-leave-cbs-sports-following-drunk-driving-arrest-wisconsin",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Tony Romo on leave from CBS Sports after arrest",
+      "url": "https://www.cbsnews.com/news/tony-romo-cbs-sports-leave-arrest/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Tony Romo put on leave at CBS Sports following arrest",
+      "url": "https://abcnews.com/GMA/Culture/tony-romo-put-leave-cbs-sports-arrest/story?id=135262615",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    }
+  ],
+  [
+    {
+      "title": "'If that means I lose my job, so be it': Top Fifa official questions Infantino's World Cup plan",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2dkj03jp34o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "Infantino's Adviser Quits As FIFA's World Cup Stake Plan Triggers Confederation Backlash",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQd2JVdEpnUms2ZnlyQjB3NHJaVmxyWFRHdkxIREJpSUwtTWVPSHlGTjQxQUFzb1o4YXdJNUpvUTlqYUFGV2t2T0hqV0RmemcwVlF5X0hrRFV2R2Jkb2VKSV9SdTBtX1phYlFzNi15bHBGSTdpUVJJc1NrWUQ3aFVQOWRXODQ2a3RiM1E3LWc1Y2FOaE5UOFRVWHZLbDBDVk90UC1WNNIBqgFBVV95cUxQWEdxZTVuYzI3WGdDMUJ2V2JBNi1jbFBidzc0cmNyT0NsOEp3YVdvLUV0RW1KSHRZclNRSUpRN24tVS1pWU9QZ0hVNGI5a2lHeWlDUWN2WDJ5NHJqa3V4V0ktLUstQngyUE12ZVdlU19pa3JZYnBReEh3Q3VULUgyNkJWUll3THFmNUVoMzd3WmhfZVpoQkFROEkyX190Z0JCalJ1SzVPeUoxZw?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    },
+    {
+      "title": "FIFA\u2019s Infantino sets deadline for $20M offer to members in World Cup investor plan",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNnJua3VkNWFsOW96djl4VHJXUkdpS2R0SVdmY1k4Rlo1TlVNVl9PbzlGVFJ0ZVZBbnN2OGw0aUZqQjlDV2dJQTBvamhqWWcwWmFLOWtVV1doYWktRndXdEFZb1lZeFBsVmI4MUxjMGJHOTBkOHQwZHR1M194emx6Mkk1TWVnd3BCY29FMHVEUUFYZC1fUmFxaHg2OVlmZ3cxbkdkYXVhYmtlLTQ?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    }
+  ],
+  [
+    {
+      "title": "WATCH: Fauci walks away when pressed on Fifth Amendment, pandemic regrets",
+      "url": "https://www.foxnews.com/politics/watch-fauci-walks-away-when-pressed-fifth-amendment-pandemic-regrets",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Fauci repeatedly invokes the Fifth Amendment in a contentious Senate committee hearing",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUm4zZnVKRG1VMWlkQ0ZlaXJnaGJmVks3UTNmQS1BQksya2d0R0pTQUl0M0tZb1dFVS04OXRJSmV1UE4xczhKaWZYbDNXWVUzU0RfNGVyS0lPOU41SkVlRkVyeko2eVN4U2h0UVJkRXNvblhlTTI1Qlo1NzEzWVVBOFlVWTdNMXBSOS1RWk5YZU9WZUs0ZTJERHZZRXJfei1G?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    }
+  ],
+  [
+    {
+      "title": "US-backed Venezuela talks to begin without opposition leader Machado",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTkNyNXFVbldtUllCY2E1MnlmZFBPUlNLYmx0Xy1wSkdKSjRrRVQ4cVpwdlpSaHFqeG0xZkotb1pvMmdjMDFzZzFjYWZycFVLa21oTFM2WWJLTXpIVE83eUxUZ3pOQ05Pa0E0RlN3NThCNXd1YjVaM2dDQU1yWnJ1WWRmS1g4RU1Tc0tuYmlWTm9tMjM2Ty1WSzNzQ1NJbEJmN19BM1pFbWYwX01hbW5BcWtPSHRFeU0?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "US-backed Venezuela talks to begin without opposition leader Machado",
+      "url": "https://nypost.com/2026/07/31/world-news/us-backed-venezuela-talks-to-begin-without-opposition-leader-machado/",
       "source": "New York Post",
       "bias": "right",
       "domain": "nypost.com"
@@ -195,38 +225,6 @@
   ],
   [
     {
-      "title": "Trump threatens to hit Iran \u2018hard\u2019 following missile attack on U.S. assets",
-      "url": "https://www.washingtonpost.com/national-security/2026/07/28/us-says-it-shot-down-iranian-missiles-targeting-troops-middle-east/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
-    },
-    {
-      "title": "US thwarts an Iranian missile attack and launches strikes with Saudi Arabia against militias in Iraq",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRWlwZk94dzhfNkVQUDNyVWRCekU3RmZJa09ldGwyOFZ1NzlCWEJhWXN5ZjRqdWRGX25RMWZyMHJJai1LVHZxOVNaZ2NFQ1pyTnI5Q1hONTZZR1Zid25ULUV4T3EyNGtRQTQzSVJPQ3pyS2RKM0I1VUF5cl9ZY2VDd3VwQzMxNzgybnlEXzdXV3RlRUxGX2JZMjZKcHk?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    }
-  ],
-  [
-    {
-      "title": "Over 120K refrigerators recalled after 34 fires and one death: report",
-      "url": "https://nypost.com/2026/07/31/business/over-120k-refrigerators-recalled-after-34-fires-one-death-report/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "OCTROT heated blankets and throws recalled after fires and injuries",
-      "url": "https://www.cbsnews.com/news/octrot-heated-blankets-recalled-fire-injuries/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    }
-  ],
-  [
-    {
       "title": "Police chief resigns days after deadly shooting in US city of Seattle",
       "url": "https://www.aljazeera.com/news/2026/7/31/police-chief-resigns-days-after-deadly-shooting-in-us-city-of-seattle?traffic_source=rss",
       "source": "Al Jazeera",
@@ -239,22 +237,6 @@
       "source": "Associated Press",
       "bias": "center",
       "domain": "apnews.com"
-    }
-  ],
-  [
-    {
-      "title": "Anthropic Says Claude AI Hacked 3 Companies During Cyber Tests",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUVVpZjFVYkhEUEZYUW5UYWpsSm43di1HbHpReDV1SDNNUlNqNjZLYzQ1b24zMHlVNzVqU1pkOU9zT2ZuaEJabGxsMnU4R085X29VdGZRcnQwbXRObk5fOWQ5UjJteHVEWkxDVUZzS0VuUHNpMXZheHdoenZhcW5odkFNaGhTQnlRcG9oUE9WMUZtWDBFWTFWY08weUFmWWlURjlDVDZORDAybmliWnN6bm1tRdIBuAFBVV95cUxOUHFpcnN0eTBvVXF2T2xZeF9abEVYU214Y0dwWFlyMUI2MEJOVUZYMXFYeFBQbHhHQ1ZmRWw3UkR5S3V6ZFN2MHdfM1d2aDJhTnlLMW9MYXVTYjdHWEx6SXhNeHZaNm50ME52NmQ3aUdPVzQ5cTNzWHF4US1LTWxQeEN0dlNWbDZZRUhpSDRRNlI3aXh0S2lZWkZ4alpwTXBTX0ZOVWdieGNXREZqemZUMEpSX3M4cWpi?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    },
-    {
-      "title": "Anthropic says its AI models hacked 3 organizations during testing",
-      "url": "https://abcnews.com/Technology/wireStory/anthropic-ai-models-hacked-3-organizations-testing-135251426",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
     }
   ],
   [
@@ -275,18 +257,18 @@
   ],
   [
     {
-      "title": "Pinochet-era soldier jailed for killing folk singer V\u00edctor Jara 53 years ago",
-      "url": "https://www.theguardian.com/world/2026/jul/27/pinochet-era-soldier-jailed-for-killing-folk-singer-victor-jara-chile",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    },
-    {
-      "title": "Man speaks out after peptide vendor's sentencing: \"I wanted to die\"",
-      "url": "https://www.cbsnews.com/video/man-speaks-out-after-peptide-vendors-sentencing-i-wanted-to-die/",
+      "title": "New York sues Kalshi, alleging it enables illegal gambling",
+      "url": "https://www.cbsnews.com/news/new-york-sues-kalshi-illegal-gambling/",
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"
+    },
+    {
+      "title": "New York sues Kalshi, alleges prediction market is illegal gambling",
+      "url": "https://abcnews.com/US/new-york-sues-kalshi-alleges-prediction-market-illegal/story?id=135253622",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
     }
   ]
 ]

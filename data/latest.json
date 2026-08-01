@@ -1,122 +1,29 @@
 [
   [
     {
-      "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges",
-      "url": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html",
+      "title": "Toddler crawls through White House fence, prompts Secret Service response",
+      "url": "https://www.cnn.com/2023/04/18/politics/white-house-toddler/index.html",
       "source": "CNN",
       "bias": "left",
       "domain": "cnn.com"
     },
     {
-      "title": "Trump threatens to keep Blanche as acting attorney general, revive 'anti-weaponization' fund",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZWI0dFYtSFNFTTE1VUtUT2d0X0E3b1BiS2NqNC1OSVJTd0RxWWRzelo3OFY3dzc4TTJLYWh1cVhZcGJxNXpRUkRRNHFJSi1pQ1JVZWs1OGhrRVJ1VXhPRjVreXhyZ1J2STRDck93cnFvd0oxMm04ZGV0UWR5ZWtQY3Z4ckdabU1sRmhpNnZ6OEhNS1RybXR1cWxwaU9uQ1RQVXBuVThfWVlWeG9DdXhkMFRTUnBkRmEyVWNFWmxfME10RGk3ZFlqVXZjbw?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "Trump Threatens To Keep Todd Blanche As Acting Attorney General, Push Ahead Slush Fund",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWkFfdHNIa3VUQTFTQWJNa3prOGg1cGMzdzEyc18yQTZTV3dKWGRKaUFuQngtNE5KRTVqRFI3U2NBMWdlSzF3U1FZb1BWaTZ4T05tMjFpcWYyX2JwSFVLSWs1TmQ2b1pfX0V3RGtpWUVMZFIyT3Q0X0ZwTmpjTXRUcUNxanJqTEVLOTN2Nk1yT1BScFQwem1mTlVUcTRWeEcxbjlQYVE4R1R2SVJXT1RGUnFMWWk3QmF5VmlWYmhTbzVYWFNPTTRSMUlkVEFwWm1DSmtyeW9Va9IB3AFBVV95cUxQM2trenlSd1hvSFFMZ3VIbjhzRmlWVEhmYzFBaDMtOFZoYTJEZlprM200aThfa0Jnd2xWdTk0dm82a3cyMjhkcEl0Ml9PSEwxR2FOOHdwai1iWm1wY09NVGhKZ0hxSkJvSmIxYjMzdHF2VnVadEpuZVFFZElyMDlHN09qTmhsdnoxMDgwUFhhbVJDb2dSZm5WUmpydHl3akl5b1FBdVA2NVB6QVNkQ2RKNm5KZ29tak4zQXFMX3F0SzVvMEJZMDRzOWVhNFVQRkUxSmtMQUw1S09MbzVq?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    },
-    {
-      "title": "Trump\u2019s 340B Proposal Puts Patients Over Criminals and Big Hospital Profits",
-      "url": "https://www.breitbart.com/politics/2026/08/01/trumps-340b-proposal-puts-patients-over-criminals-and-big-hospital-profits/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
-    },
-    {
-      "title": "Russian strikes across Ukraine kill 10 and NATO scrambles jets after a missile falls in Poland",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVnV5VmFlVUF0bkZUbjdIeHZqZUFXM3Npd0NlN1p6SDlJTGlLd0F1dWhUSjFnRUozNlc1MUx2eUw5d3BMSFJvX3pLYUpYNkkyaHNWWUVETV91Um5tbG5fOXpWS0h4cWV6MkZvN1o0UEd3b3FXbkpfaVVDbER4MTlidXVaM2FSY0hGYV91ekN6aW9mWmdZREt2ckVFOU9vMU41UlpHSVRB?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "Israeli strikes kill four across Gaza, destroy medical supply warehouse",
-      "url": "https://www.aljazeera.com/news/2026/8/1/israeli-strikes-kill-four-across-gaza-destroy-medical-supply-warehouse?traffic_source=rss",
+      "title": "At least three killed in explosion near cafe in Russia\u2019s Moscow",
+      "url": "https://www.aljazeera.com/news/2026/8/1/russia-says-explosion-near-cafe-in-moscow-kills-three?traffic_source=rss",
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
     },
     {
-      "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
-      "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "Zelensky says Ukraine has \u2018no interceptors\u2019 as ballistic missiles hit Kyiv",
-      "url": "https://www.washingtonpost.com/world/2026/08/01/russia-hits-kyiv-with-second-ballistic-missile-assault-week/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
-    },
-    {
-      "title": "Iran live updates: Trump weighs strikes on Iranian energy sites, US officials say",
-      "url": "https://abcnews.com/International/live-updates/iran-live-updates-tehran-progress-made-strait-hormuz/?id=135110405",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    },
-    {
-      "title": "Iran accuses U.S. of escalating tensions as Washington plans more strikes",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-kuwait-jordan-air-base/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "Iran Plotted Wider War With Help of Its Proxies",
-      "url": "https://www.nytimes.com/2026/08/01/world/middleeast/iran-proxies-war-oil.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "Three big college football recruiting 'winners' that helped their cases in the month of July",
-      "url": "https://www.foxnews.com/outkick-sports/three-big-college-football-recruiting-winners-helped-cases-month-july",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "Bessent \u2018to-do\u2019 list shows proposal for US to buy $5bn-$10bn of Japanese yen",
-      "url": "https://www.theguardian.com/us-news/2026/jul/31/scott-bessent-japanese-yen",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    }
-  ],
-  [
-    {
-      "title": "Migrants say hunger and hostility drove them back from Spain's Ceuta to Morocco",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTzdtaDJZaWxwWXdCU2ZFdGktck10WUNJNndTOHhfelE2Z2FxcnlveklNOEJtVlBoVnAta0FKQmY0dHlNM1kyTjItSDRkcGV1dDVLeUwxZ1VrNktPQ2JGbW1MemNMSm5CNmxDZ0pfbklES0lGQ0RDN2pUN1RtVzl0OVZqcnpfaVRqd3ZhTDhBVFIzbXBJNzg5M0huSlJGMDdWcE1fQlZyV1h5WHZkaWhRQVhFeHpqZw?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "Spanish Minister Fuels Blame Toward Israel for Ceuta Crisis After Israeli U.N. Ambassador Criticizes Madrid",
-      "url": "https://www.breitbart.com/politics/2026/07/31/spanish-minister-fuels-blame-toward-israel-ceuta-crisis-israeli-u-n-ambassador-criticizes-madrid/",
+      "title": "Spanish Socialist Leader Sanchez Accuses Fellow EU Leaders of Being 'Selfish' over Response to Ceuta Migrant Crisis",
+      "url": "https://www.breitbart.com/europe/2026/08/01/spanish-socialist-leader-sanchez-accuses-fellow-eu-leaders-of-being-selfish-over-response-to-ceuta-migrant-crisis/",
       "source": "Breitbart",
       "bias": "right",
       "domain": "breitbart.com"
     },
     {
-      "title": "Migrants overrun a Spanish outpost, stirring European outrage",
-      "url": "https://www.washingtonpost.com/world/2026/07/31/migrants-overrun-spanish-outpost-stirring-white-house-outrage/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
-    },
-    {
-      "title": "Death toll in Spain border crisis reaches 67 as tens of thousands cross back in to Morocco",
-      "url": "https://www.npr.org/2026/08/01/nx-s1-5916271/ceuta-spain-border-morocco",
+      "title": "Spain's Pedro S\u00e1nchez was a hero of migrants. After Ceuta, he faces his biggest challenge",
+      "url": "https://www.npr.org/2026/08/01/nx-s1-5916330/spain-sanchez-ceuta-migrants",
       "source": "NPR",
       "bias": "left-center",
       "domain": "npr.org"
@@ -136,25 +43,60 @@
       "domain": "bbc.com"
     },
     {
-      "title": "Infantino\u2019s FIFA crisis: What is reaction to World Cup investment U-turn?",
-      "url": "https://www.aljazeera.com/sports/2026/8/1/infantinos-fifa-crisis-what-is-reaction-to-world-cup-investment-u-turn?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Infantino faces crisis as UEFA, CONCACAF declare lost confidence over scrapped World Cup deal",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcXRXNWJWSDNJWk9BVFdoMVlpX0lCVURrSmtnQXRVUVE1TjJqVG1sNXU2QkZZUjZ3cHhVWk1pajNteWtJRmllQjBVSFMybFlyQ00tVjBLQ3ktS2dRVjdLRkRNa3lIU1pZcWNYVjlOb0VhNDRaYkhIa2Ewd09pOTE4ZVUydjNkNzVhd2JETW44Sy1EUjBmbnFUWlRlZVg2eVpONlFzNTg1Nk14NWtJaFJNbm9NM3RrLW5VU19nXzZhazg?oc=5",
+      "source": "Reuters",
       "bias": "center",
-      "domain": "aljazeera.com"
+      "domain": "reuters.com"
     },
     {
-      "title": "Infantino abandoned his World Cup equity plan after seismic FIFA backlash. Here's what to know",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeXVVaG1zc0QyQ3JfMFoxWjVfUEx2cTRpTDRxTzZIQ0pjcFdvLVJwQWdJQ2hVQnBLOVRsZDNKOGp0X3FuRW1tOWVJb3NLRGJtdkQzY0toazlHbzFDaVZFZl8xT1Z6UnlBbzZMYlVWUVR2Sy1VMXBWb1NWMGFTMnlFblJzdm55MHpmSXBrYkZsU0prM0lHcVZHZzFn?oc=5",
+      "title": "Spain pushes migrants back to Morocco as fallout deepens over mass border breach",
+      "url": "https://www.washingtonpost.com/world/2026/08/01/spain-pushes-migrants-back-morocco-fallout-deepens-over-mass-border-breach/",
+      "source": "Washington Post",
+      "bias": "left-center",
+      "domain": "washingtonpost.com"
+    },
+    {
+      "title": "Iran live updates: Trump weighs strikes on Iranian energy sites, US officials say",
+      "url": "https://abcnews.com/International/live-updates/iran-live-updates-tehran-progress-made-strait-hormuz/?id=135110405",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    },
+    {
+      "title": "AOC trashes Democrats for closing ranks around Biden, rejecting primary challengers",
+      "url": "https://www.foxnews.com/media/aoc-trashes-democrats-closing-ranks-around-biden-rejecting-primary-challengers",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Trump Threatens To Keep Todd Blanche As Acting Attorney General, Push Ahead Slush Fund",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWkFfdHNIa3VUQTFTQWJNa3prOGg1cGMzdzEyc18yQTZTV3dKWGRKaUFuQngtNE5KRTVqRFI3U2NBMWdlSzF3U1FZb1BWaTZ4T05tMjFpcWYyX2JwSFVLSWs1TmQ2b1pfX0V3RGtpWUVMZFIyT3Q0X0ZwTmpjTXRUcUNxanJqTEVLOTN2Nk1yT1BScFQwem1mTlVUcTRWeEcxbjlQYVE4R1R2SVJXT1RGUnFMWWk3QmF5VmlWYmhTbzVYWFNPTTRSMUlkVEFwWm1DSmtyeW9Va9IB3AFBVV95cUxQM2trenlSd1hvSFFMZ3VIbjhzRmlWVEhmYzFBaDMtOFZoYTJEZlprM200aThfa0Jnd2xWdTk0dm82a3cyMjhkcEl0Ml9PSEwxR2FOOHdwai1iWm1wY09NVGhKZ0hxSkJvSmIxYjMzdHF2VnVadEpuZVFFZElyMDlHN09qTmhsdnoxMDgwUFhhbVJDb2dSZm5WUmpydHl3akl5b1FBdVA2NVB6QVNkQ2RKNm5KZ29tak4zQXFMX3F0SzVvMEJZMDRzOWVhNFVQRkUxSmtMQUw1S09MbzVq?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    },
+    {
+      "title": "U.S. probes if Iran was behind cyberattack on utilities in Michigan, Minnesota",
+      "url": "https://www.cbsnews.com/news/us-investigating-iran-cyberattack-minnesota-water-systems/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Cyberattacks on Minnesota water systems investigated as officials warn about Iranian hackers",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORklpbE9oc2VwaktZcXVwRkdXMWJORTd3Q3ZkNEFDb0IwODV5STBsbXJnbUljOXZSZ25PQzRkbVlwMXNVX01MWTY5NXQzMGpGZGtCakk2c2lDbmdwOVVub0xzVGtMSVBHU19JU3QtZTBRT1V1SzBRd2VPYjZ0dHR5bkVNLXFUcFoxTVBxbUdwNElOZ2NsWGFNV3NNaw?oc=5",
       "source": "Associated Press",
       "bias": "center",
       "domain": "apnews.com"
     },
     {
-      "title": "UEFA Says It Has Lost Confidence In FIFA's Infantino After Failed Private Equity Plan For World Cup",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS25jcXd1ekVBam5fTGdvN2dXclNLUjMwSWY0U3YtLWg4OEdfTHliNUdodFFUTzU5aXJBQjdwNS1uWDNpUHFtTG1ZeW1oX3B1RXZhaWZVZGhYQUN5M3JTS2piNktLeHlmM21UMlJqMkVhMnNOMHlCNURhLUd0a1ZYRHpKb3V3MktGSUR2ONIBkgFBVV95cUxONFN3UHFhWVJ5VU81anBWRERuUXNYVUR3YzhENUtfUzJBV0M2bUdRMEZXVmNvdGJjX1E5WWM5WVhGbldCUTVhU3UyY1Z1NjdacDNrMVpEYU5tbjdfb05OOGZMTHhDWTh3SXFkUmcwMzhYMjNpSHZ4azE0a09MTnRHcW0ya3o0aURQNm42Rm40aVBidw?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
+      "title": "Iran Plotted Wider War With Help of Its Proxies",
+      "url": "https://www.nytimes.com/2026/08/01/world/middleeast/iran-proxies-war-oil.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
     }
   ],
   [
@@ -166,18 +108,11 @@
       "domain": "reuters.com"
     },
     {
-      "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
-      "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "Heartbreaking update in search for Netflix star Nirmal Purja who went missing in Pakistan avalanche",
-      "url": "https://nypost.com/2026/08/01/world-news/netflix-star-nirmal-purja-found-dead-after-pakistan-avalanche/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
+      "title": "10 climbers, including famed mountaineer, dead in Pakistan avalanche",
+      "url": "https://www.cbsnews.com/news/nirmal-purja-climbers-search-rescue-avalanche-pakistan-broad-peak/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
     },
     {
       "title": "Netflix Star Among Missing Climbers Following Avalanche On World's 12th-Highest Mountain",
@@ -187,21 +122,21 @@
       "domain": "huffpost.com"
     },
     {
-      "title": "10 climbers, including famed mountaineer, dead in Pakistan avalanche",
-      "url": "https://www.cbsnews.com/news/nirmal-purja-climbers-search-rescue-avalanche-pakistan-broad-peak/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
+      "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
+      "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "All 10 climbers swept away in avalanche in Pakistan have died",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQUliYnNTNW9Pdm9nd3MwRWpIYmxNX3JBTGg5VUpEQlpvWnRnWnRhSEQwcWhZMmRkU3A4TndHNC14b3lZbGhpeTR5cVEzTlpPeHR1TFo4RUNBaWVmTDJvTXNyVFdhN3RydkhFaFl3RFg3ZUJCNzMzeGExbmN1SnF2UTk2VzRjaWQteVlpZXNnNG1FamMxejRSWEpYci0wUnpubXVzNDE1TTVEMW1pcUpJTw?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
     }
   ],
   [
-    {
-      "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
-      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
-    },
     {
       "title": "Justice Department moves to drop case against ex-Olympian charged with damaging Reflecting Pool",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR3FFR1RadzVYZW44TWxxMzcwWi1FTElMbHQwdy1sdDRYRWhxeWZnOWZMRWpEaEdodDdWTUJWaHlzd21sWmc1U2FUcjg2bjhKR1NMMUIzM19mRnEySmJ5NGpLZ0ppVzJMYUpDWkhCWm5GWEhqdU92Q2psUFVNQUFxVl9IZTFfdjB6YXA1S0RjZ2owRndsdURBM0Y3cnRPaVNrcTJUX2xB?oc=5",
@@ -210,102 +145,22 @@
       "domain": "apnews.com"
     },
     {
-      "title": "DAVID MARCUS: Reflecting pool controversy is mirror for our broken politics",
-      "url": "https://www.foxnews.com/opinion/david-marcus-reflecting-pool-controversy-mirror-broken-politics",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
       "title": "Justice Department Moves To Drop Case Against Ex-Olympian Charged With Damaging Reflecting Pool",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOckJOS0NwUlhlbkVaX25oTk8wb0tNNktxTUVoQ0ZXSnd0UVdlVll0SnFLQkJ4cXdndVNqOWZUejVpY0JEUHlxM0NadUhQS0NfVmdqUEpib1dkWDRoa2hCdlNjdEtsdUh5Q3ZFTm4wQ1pQVllKc0JKWG93d1JlVzNBNm5fRzEweHA1XzNVZDZrVThCUFVKZFlZMDJhMExxckxnX2EwNzFYUVdWLTZaWlJ6ZUtzYzBBNTlQZldPakNCRWdURkZOYVh1WGlrTkdCVkViYTU0LThwRVZBWVJYMU0tYtIB5gFBVV95cUxNUmdfZU5zeTYyVHBWcXhFeVIyc0RYN01MdTRSajR1alhyODB1U0NiX1dnQjdsa2ZSZEpPblVDbnNLalhJU0lJUlpnME5HSk11bzloaHItQVU4MWVaQ3JoaWl4bUVuYnlfWDVwNER3Y2xBNjJNS2hrNmRKaDNXMXAwdFJ1cklHem1xdDJZRnRrbTdVOUpMdVJLQUd4TDJDSXcwcUpObmNZNlgyZk80eVBuekV5VTQwbE9XYUQ4SnpLQlZJSWxNU0dxNldHc2tHWWhyTHFkZzBGdWQ4TWVHSVBxV2RhbVlCQQ?oc=5",
       "source": "HuffPost",
       "bias": "left",
       "domain": "huffpost.com"
-    }
-  ],
-  [
-    {
-      "title": "Trump\u2019s Fixation on Arctic Ships Led to Billions in No-Bid Contracts",
-      "url": "https://www.nytimes.com/2026/08/01/climate/trump-arctic-ships.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
     },
     {
-      "title": "For sale: early access to Trump's Truth Social posts",
-      "url": "https://www.npr.org/2026/08/01/nx-s1-5912219/trump-truth-social-access-insider-trading",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    },
-    {
-      "title": "Trump stands to profit off US policy announcements by selling fast access to his social media posts",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTnE2clhGSzhVY192V0ZoZGVCWGhJU1lWZ2tEeklTcC03dTJaU1lXMWU4LW1YbXNQcjg2QS1fQnFZd1hnM0dfbkdCSUx1Um9YcUV5bjB2bzZjMG02T2ZCQk1BR0M1U2FVZWN1NUtOZDZoclZYaHdNQ19iR1BvMG9xN0lsSjZjZWxLb2dSc1VBSDRPSzA0cGtvTGtiZGFMTmpYcjRPb09vb1NLVkxUTE9fby1VOVJ0Um9QdzMzTA?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    }
-  ],
-  [
-    {
-      "title": "Jillian Michaels exposes dangers of self-dosing illegal 'gray market' weight loss drugs",
-      "url": "https://www.foxnews.com/media/jillian-michaels-exposes-dangers-self-dosing-illegal-gray-market-weight-loss-drugs",
-      "source": "Fox News",
+      "title": "Nolte: Justice Departments Requests Charges Dropped in Former Olympian's Reflecting Pool Vandalism Case",
+      "url": "https://www.breitbart.com/politics/2026/08/01/nolte-justice-departments-requests-charges-dropped-in-former-olympians-reflecting-pool-vandalism-case/",
+      "source": "Breitbart",
       "bias": "right",
-      "domain": "foxnews.com"
+      "domain": "breitbart.com"
     },
     {
-      "title": "He thought a fitness supplement was safe, but it sent him into psychosis",
-      "url": "https://www.bbc.co.uk/news/articles/c4gd82vvvdno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    }
-  ],
-  [
-    {
-      "title": "Scope of Hacks on U.S. Water Supply Widens as Evidence Points to Iran",
-      "url": "https://www.nytimes.com/2026/08/01/us/politics/iran-cyberattack-water-systems.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "Cyberattacks on Minnesota water systems investigated as officials warn about Iranian hackers",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORklpbE9oc2VwaktZcXVwRkdXMWJORTd3Q3ZkNEFDb0IwODV5STBsbXJnbUljOXZSZ25PQzRkbVlwMXNVX01MWTY5NXQzMGpGZGtCakk2c2lDbmdwOVVub0xzVGtMSVBHU19JU3QtZTBRT1V1SzBRd2VPYjZ0dHR5bkVNLXFUcFoxTVBxbUdwNElOZ2NsWGFNV3NNaw?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    }
-  ],
-  [
-    {
-      "title": "Why Mitch McConnell Isn\u2019t Giving Up His Senate Seat",
-      "url": "https://www.nytimes.com/2026/07/31/us/why-mitch-mcconnell-isnt-giving-up-his-senate-seat.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "GOP hopeful predicts Dems\u2019 lefty \u2018crazy train\u2019 will turn Michigan Senate seat red",
-      "url": "https://nypost.com/2026/08/01/us-news/mike-rogers-predicts-dems-left-turn-will-turn-michigan-senate-seat-red/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    }
-  ],
-  [
-    {
-      "title": "\u2018We have always been civil\u2019: My sister refuses to replace me as executor. Can I step down before she dies?",
-      "url": "https://www.marketwatch.com/story/we-have-always-been-civil-my-sister-refuses-to-replace-me-as-executor-can-i-step-down-before-she-dies-84a835a9?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
-    },
-    {
-      "title": "She went to \"hell and back\" for a diagnosis. Then her sister showed symptoms.",
-      "url": "https://www.cbsnews.com/news/heart-disease-heritable-pulmonary-arterial-hypertension-cleveland-clinic/",
+      "title": "DOJ to dismiss Reflecting Pool vandalism charges, citing \"botched installation\"",
+      "url": "https://www.cbsnews.com/news/doj-dismiss-david-hearn-reflecting-pool-vandalism-charges/",
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"
@@ -313,18 +168,80 @@
   ],
   [
     {
-      "title": "Medicare is about to change a drug program that held down the cost of premiums. Here\u2019s what to know.",
-      "url": "https://www.marketwatch.com/story/medicare-is-about-to-change-a-program-that-held-down-the-cost-of-premiums-heres-what-to-know-42c0612e?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
+      "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges",
+      "url": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
     },
     {
-      "title": "HIV prevention drug could reduce cases globally but USAID cuts prevent access, say experts",
-      "url": "https://www.theguardian.com/society/2026/jul/31/hiv-aids-medication-usaid-cuts",
-      "source": "The Guardian",
+      "title": "Police searching for clues after woman fatally shot after Puerto Rican festival",
+      "url": "https://abcnews.com/US/rochester-police-searching-clues-after-woman-fatally-shot/story?id=135290808",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    },
+    {
+      "title": "Police: Bullets that killed 2 bystanders at Seattle festival weren\u2019t from teen shooter\u2019s gun",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQm1uVE5yQVZ0LThFZENOd2FrTnBGYTNwSDAtNTlfd2RSTENBczR0VTZlbVlRRHo4NnNkNHppaDF5TTU5dll2VDI4ZlFOa2E3VTNZdTMxMVBtYTBqQ3NaUHVnelRYMkc5NVdsXzZKZDU4MFdfT3A1eWY2VGhUVzVjZUdoNGNxMTdiV0FJOExNVEtEY2ticl9oNnBFekI0UjM3N18w?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Newly released video shows scene of Jeremy Renner's snowplow accident",
+      "url": "https://www.cnn.com/videos/us/2023/04/18/jeremy-renner-snowplow-accident-bodycam-nc-melas-contd-vpx.cnn",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
+    },
+    {
+      "title": "Sheriff Nanos posts video commenting on newly released ransom notes in Nancy Guthrie case, addresses family",
+      "url": "https://www.foxnews.com/us/sheriff-nanos-posts-video-commenting-newly-released-ransom-notes-nancy-guthrie-case-addresses-family",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Savannah Guthrie asks for answers about mom Nancy after notes released",
+      "url": "https://www.cbsnews.com/news/savannah-guthrie-nancy-missing-mom-ransom-notes/",
+      "source": "CBS News",
       "bias": "left-center",
-      "domain": "theguardian.com"
+      "domain": "cbsnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Nicki Minaj torches Anthony Fauci in mock diary video after explosive Senate appearance",
+      "url": "https://www.foxnews.com/entertainment/nicki-minaj-torches-anthony-fauci-mock-diary-video-after-explosive-senate-appearance",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Nicki Minaj blasts Anthony Fauci in mock diary video after explosive Senate testimony",
+      "url": "https://pagesix.com/2026/08/01/entertainment/nicki-minaj-blasts-anthony-fauci-in-mock-diary-video-after-explosive-senate-testimony/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    }
+  ],
+  [
+    {
+      "title": "Lebanese who fled the Israeli invasion visit to see what's left",
+      "url": "https://www.npr.org/2026/08/01/nx-s1-5910555/lebanon-israel-war-hezbollah",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "Israeli forces detain residents and demolish homes in southern Syria",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/israeli-forces-detain-residents-and-demolish-homes-in-southern-syria?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
     }
   ],
   [
@@ -345,31 +262,31 @@
   ],
   [
     {
-      "title": "Anniversary from hell! Shark turns dream Bahamas trip into bloodbath",
-      "url": "https://nypost.com/2026/08/01/us-news/anniversary-from-hell-shark-turns-dream-bahamas-trip-into-bloodbath/",
+      "title": "Bill Maher warns Democratic Party being \u2018colonized\u2019 by radicals, reiterating his \u2018vote is in play\u2019",
+      "url": "https://nypost.com/2026/08/01/media/bill-maher-warns-that-the-democratic-party-is-being-colonized-by-socialists-says-his-vote-is-in-play/",
       "source": "New York Post",
       "bias": "right",
       "domain": "nypost.com"
     },
     {
-      "title": "WATCH:  Connecticut man speaks out after shark attack in the Bahamas",
-      "url": "https://abcnews.com/video/135276720/",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
+      "title": "Maher: Dems Keep Picking Communists, Other Crazies, I'd Vote for Palin over DSA",
+      "url": "https://www.breitbart.com/clips/2026/08/01/maher-dems-keep-picking-communists-other-crazies-id-vote-for-palin-over-dsa/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
     }
   ],
   [
     {
-      "title": "At least 11 wounded by Colombia car bomb days before presidential election",
-      "url": "https://www.aljazeera.com/news/2026/8/1/at-least-11-wounded-by-colombia-car-bomb-days-before-presidential-election?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
+      "title": "Yankees trade disappointing Camilo Doval to Pirates one year after hyped deadline stunner",
+      "url": "https://nypost.com/2026/08/01/sports/yankees-trade-disappointing-camilo-doval-to-pirates-one-year-after-hyped-deadline-stunner/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
     },
     {
-      "title": "Bombing in Colombia injures 11, days before presidential inauguration",
-      "url": "https://www.cbsnews.com/news/bombing-police-station-colombia-injuries-presidential-inauguration/",
+      "title": "FTC fines ticket reselling company Elite Events and Tickets",
+      "url": "https://www.cbsnews.com/video/ftc-fines-ticket-reselling-company-elite-events-and-tickets/",
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"

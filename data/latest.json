@@ -1,92 +1,6 @@
 [
   [
     {
-      "title": "Explosion at restaurant in central Moscow leaves three dead, more than a dozen injured",
-      "url": "https://www.foxnews.com/world/explosion-restaurant-central-moscow-leaves-three-dead-dozen-injured",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "Spain Installs Floating Barrier in Ceuta After Influx of Migrants",
-      "url": "https://www.nytimes.com/2026/08/01/world/europe/spain-ceuta-migrants-morocco-border.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "Past fires suggest effects of Europe and North America wildfires may linger for years",
-      "url": "https://www.theguardian.com/world/2026/jul/28/wildfires-europe-north-america-effects",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    },
-    {
-      "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "Infantino abandoned his World Cup equity plan after seismic FIFA backlash. Here's what to know",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeXVVaG1zc0QyQ3JfMFoxWjVfUEx2cTRpTDRxTzZIQ0pjcFdvLVJwQWdJQ2hVQnBLOVRsZDNKOGp0X3FuRW1tOWVJb3NLRGJtdkQzY0toazlHbzFDaVZFZl8xT1Z6UnlBbzZMYlVWUVR2Sy1VMXBWb1NWMGFTMnlFblJzdm55MHpmSXBrYkZsU0prM0lHcVZHZzFn?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "UEFA Says It Has Lost Confidence In FIFA's Infantino After Failed Private Equity Plan For World Cup",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS25jcXd1ekVBam5fTGdvN2dXclNLUjMwSWY0U3YtLWg4OEdfTHliNUdodFFUTzU5aXJBQjdwNS1uWDNpUHFtTG1ZeW1oX3B1RXZhaWZVZGhYQUN5M3JTS2piNktLeHlmM21UMlJqMkVhMnNOMHlCNURhLUd0a1ZYRHpKb3V3MktGSUR2ONIBkgFBVV95cUxONFN3UHFhWVJ5VU81anBWRERuUXNYVUR3YzhENUtfUzJBV0M2bUdRMEZXVmNvdGJjX1E5WWM5WVhGbldCUTVhU3UyY1Z1NjdacDNrMVpEYU5tbjdfb05OOGZMTHhDWTh3SXFkUmcwMzhYMjNpSHZ4azE0a09MTnRHcW0ya3o0aURQNm42Rm40aVBidw?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    },
-    {
-      "title": "Why did Ceuta migrant mayhem chill already frosty Israel-Spain relations?",
-      "url": "https://www.aljazeera.com/news/2026/8/1/why-did-ceuta-migrant-mayhem-chill-already-frosty-israel-spain-relations?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "Spain's Pedro S\u00e1nchez was a hero of migrants. After Ceuta, he faces his biggest challenge",
-      "url": "https://www.npr.org/2026/08/01/nx-s1-5916330/spain-sanchez-ceuta-migrants",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    },
-    {
-      "title": "Spain pushes migrants back to Morocco as fallout deepens over mass border breach",
-      "url": "https://www.washingtonpost.com/world/2026/08/01/spain-pushes-migrants-back-morocco-fallout-deepens-over-mass-border-breach/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
-    },
-    {
-      "title": "Thirteen die in tourist plane crash over Peru's Nazca Lines",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSnE5c2hGZjM2RjZHLWU5Z3lKclF4ZXUteFlvbk5CTE0wdGN4SlJVdkIyNVFNZXF3SjVyYmY3ZDFkRjMwVTBvUFE3THItbkN1RjF5NFV1UkF6MFhWSDBydFRiQXVxX2djcTBrcm1VTjRCcjJkUGs0VjB6RU12bG91Q2k2ZHZNY1dFUzJqZW9KT09QRVFQZXphSjdDNnJMTWQtRDBsSVR3RnlOSXFvbGg4UTBjU2Rua3Q5VkE?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "Several people killed in explosion at Moscow restaurant, Russian officials say",
-      "url": "https://www.cbsnews.com/news/explosion-moscow-restaurant-fatalities-injuries/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "Explosion in Moscow leaves at least 3 dead, 21 injured",
-      "url": "https://abcnews.com/International/explosion-moscow-leaves-3-dead-15-injured/story?id=135294336",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    }
-  ],
-  [
-    {
       "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
       "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
       "source": "CNN",
@@ -94,46 +8,74 @@
       "domain": "cnn.com"
     },
     {
-      "title": "Timeline of Trump\u2019s Lincoln Memorial Reflecting Pool Renovation Saga",
-      "url": "https://www.nytimes.com/2026/08/01/us/reflecting-pool-trump-timeline.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
+      "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
+      "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
     },
     {
-      "title": "DOJ to dismiss Reflecting Pool vandalism charges, citing \"botched installation\"",
-      "url": "https://www.cbsnews.com/news/doj-dismiss-david-hearn-reflecting-pool-vandalism-charges/",
+      "title": "Mideast on Brink: Trump May Order Fresh Strikes on Iran, Tehran Warns \u2018We Are Ready,\u2019 U.S. Embassies Urge Departures",
+      "url": "https://www.breitbart.com/politics/2026/08/01/mideast-brink-trump-may-order-fresh-strikes-iran-tehran-warns-we-are-ready-u-s-embassies-urge-departures/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
+    },
+    {
+      "title": "Iranian revolution can happen \u2018any day now\u2019 as protest leaders try to arm: sources",
+      "url": "https://nypost.com/2026/08/02/world-news/iranian-revolution-can-happen-any-day-now-as-protest-leaders-try-to-arm-sources/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
+      "title": "Trump says attack on Iran canceled after rough framework of deal reached",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-kuwait-jordan-air-base/",
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"
     },
     {
-      "title": "Trump denounces Justice Department decision to drop Reflecting Pool charges",
-      "url": "https://www.aljazeera.com/news/2026/8/1/trump-denounces-justice-department-decision-to-drop-reflecting-pool-charges?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
+      "title": "Trump Says He Canceled Strikes on Iran, Claiming Progress on Outlines of a Deal",
+      "url": "https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
     },
     {
-      "title": "Trump Threatens To Keep Todd Blanche As Acting Attorney General, Push Ahead Slush Fund",
+      "title": "Iran live updates: Trump calls off new strikes, Saudi ruler urges de-escalation",
+      "url": "https://abcnews.com/International/live-updates/iran-live-updates-tehran-progress-made-strait-hormuz/?id=135110405",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    },
+    {
+      "title": "Louisiana becomes latest state to launch Fauci investigation following explosive Senate hearing",
+      "url": "https://www.foxnews.com/politics/louisiana-latest-state-launch-fauci-investigation-following-explosive-senate-hearing",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Trump's Threat To Push Ahead On Settlement Fund Injects New Uncertainty Into Attorney General Talks",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWkFfdHNIa3VUQTFTQWJNa3prOGg1cGMzdzEyc18yQTZTV3dKWGRKaUFuQngtNE5KRTVqRFI3U2NBMWdlSzF3U1FZb1BWaTZ4T05tMjFpcWYyX2JwSFVLSWs1TmQ2b1pfX0V3RGtpWUVMZFIyT3Q0X0ZwTmpjTXRUcUNxanJqTEVLOTN2Nk1yT1BScFQwem1mTlVUcTRWeEcxbjlQYVE4R1R2SVJXT1RGUnFMWWk3QmF5VmlWYmhTbzVYWFNPTTRSMUlkVEFwWm1DSmtyeW9Va9IB3AFBVV95cUxQM2trenlSd1hvSFFMZ3VIbjhzRmlWVEhmYzFBaDMtOFZoYTJEZlprM200aThfa0Jnd2xWdTk0dm82a3cyMjhkcEl0Ml9PSEwxR2FOOHdwai1iWm1wY09NVGhKZ0hxSkJvSmIxYjMzdHF2VnVadEpuZVFFZElyMDlHN09qTmhsdnoxMDgwUFhhbVJDb2dSZm5WUmpydHl3akl5b1FBdVA2NVB6QVNkQ2RKNm5KZ29tak4zQXFMX3F0SzVvMEJZMDRzOWVhNFVQRkUxSmtMQUw1S09MbzVq?oc=5",
       "source": "HuffPost",
       "bias": "left",
       "domain": "huffpost.com"
     },
     {
-      "title": "Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues",
-      "url": "https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes",
+      "title": "Trump says he's cancelling Iran strikes, deal pending",
+      "url": "https://www.npr.org/2026/08/02/nx-s1-5917113/trump-says-hes-cancelling-iran-strikes-deal-pending",
       "source": "NPR",
       "bias": "left-center",
       "domain": "npr.org"
     },
     {
-      "title": "Zelensky says Ukraine has \u2018no interceptors\u2019 as ballistic missiles hit Kyiv",
-      "url": "https://www.washingtonpost.com/world/2026/08/01/russia-hits-kyiv-with-second-ballistic-missile-assault-week/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
+      "title": "Why has Trump halted Iran attacks, and what is the deal he is hinting at?",
+      "url": "https://www.aljazeera.com/news/2026/8/2/why-has-trump-halted-iran-attacks-and-what-is-the-deal-he-is-hinting-at?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
     },
     {
       "title": "Russian strikes across Ukraine kill 10 and NATO scrambles jets after a missile falls in Poland",
@@ -143,96 +85,115 @@
       "domain": "apnews.com"
     },
     {
-      "title": "US Justice Department subpoenas New York Times freelancer over North Korea story, paper says",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZUlFSGZMX01QYlFDclh0cnJFeWx4RC1kdU40aUFyLTVUcHhXY0pSY1I0VUNlaXZOOWc2eFBXY014bmhnWGlYXy1lN3hBMGhYMVpEQ3haZnQ2LURWdnlocFlmTjhVdjJQdkhNbWdrakQxN2dGWUhkdTlmcFc0WkQzNkNTbl9EcU1yVEJzY1N4dmZCQmJwRkRoT2ZyUXdqOWtxWDZSMzlFTkJOcmVrTi1tRGlBRDFtRGdjQkF1TF9wN3c0VW9tZDlEUzVsaS11QQ?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    }
-  ],
-  [
-    {
-      "title": "Noted climber Nirmal Purja among 10 dead in avalanche in Pakistan - officials",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbmYyc0pXSkJpNHNLOHFIUVU0clpoNFlfUVFua3EwU2dHUF9MTjBzUFl0M0VJUXNWUVBDeThvMTVPNlNjMDBQTWl1bXdoMTVFNGt5aVdYbmJyaG9TUVlCVWFTTHUzWTJSelM3czY1VFdvZW5iUXVUdXlELXlTVUJvQkdTVUVnN3d6Q044d3pmZFBnYVE3X1M3TlRqZjNTMFNqNWNKSWpWUnR3Nngyd2ozcmRoaUNZSEM5ZV82T1JEU25SUQ?oc=5",
+      "title": "Ukrainian drones kill two in Russia, strike Wildberries warehouse, governors say",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNalRXTDFKTmlXU19IODRKYXA1bkZiSXU2MEMxUmxBRlpjakdLenAtS3EyZ1NaR1ByOXBsc182MzRkLTRUX1R2NFNJTXMyNWt4Nm5mZlBtbEw5ZWhNM2dndjJTZElZbGhWVXhjQm93bkJ1NURwSV9GWlItZjRKTDJYdV9vRjhDYWt2SVZFWGpfNXV4UXpWNnFVeGhQZkpnMEdnMFdZYThzQmxzS0YyNEVqSEFWdkJIX19a?oc=5",
       "source": "Reuters",
       "bias": "center",
       "domain": "reuters.com"
     },
     {
-      "title": "Avalanche in Pakistan kills famed mountaineer Nirmal Purja and his fellow climbers",
-      "url": "https://www.npr.org/2026/08/01/nx-s1-5916368/nirmal-purja-climbers-dead-avalanche",
-      "source": "NPR",
+      "title": "Zelensky says Ukraine has \u2018no interceptors\u2019 as ballistic missiles hit Kyiv",
+      "url": "https://www.washingtonpost.com/world/2026/08/01/russia-hits-kyiv-with-second-ballistic-missile-assault-week/",
+      "source": "Washington Post",
       "bias": "left-center",
-      "domain": "npr.org"
-    },
-    {
-      "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
-      "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "Netflix Star Among Missing Climbers Following Avalanche On World's 12th-Highest Mountain",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZGlFc3p6bUpIVDNXWUpReVl1WG1uRUZmUU9ra2NlMTZwV1UzOGI2ai1yeVNHZUs2dUY3SUlSQWtmV2tZdVBGUnl5N2p2a1pKc1Zrc1NDVFhVcExmd1VqU0lRdldDWXlFYW9LX21DYzhzbVpoNTZrTnBnV0tGM0hNRnVJRFJBTWg3aFVfUzdxQnFGZzcwMGlUTHNqenhCZlVGaEJVOFdwajRHQ0JOb3BHWUtVd3ptRnlldU9zSEJxU04tZGhHN3ZjZGN30gHPAUFVX3lxTE55bWdVZG9SWmNvY3Z0bjBKMVFiaTJEWV9rWmdDdlRTcDUxcmJuZ0RLaU0zRzFhaDdMLU11cWc2S3JmSTA3em5DUGQ3YldVNkVCdm9RVEZ6b01qN21ZN2hSXzNWbkdaQjZ3Tks4dGNjNzBHYjhqTXEyRjJVek9naHJEV3RVa3JQa3I0clRxU3JibVJFOUVocjd1N3VFSXFXMURkVGdjS0ZYb0hxcDd4b2Z2ZGhPRzVoWTNtd0w2Q0JlbVhGYXBXdUVvS1h3WUJYWQ?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    },
-    {
-      "title": "10 climbers, including famed mountaineer, dead in Pakistan avalanche",
-      "url": "https://www.cbsnews.com/news/nirmal-purja-climbers-search-rescue-avalanche-pakistan-broad-peak/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "Record-breaking climber Nirmal Purja among those killed in avalanche",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/record-record-breaking-climber-nirmal-purja-among-those-killed-in-avalanche?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
+      "domain": "washingtonpost.com"
     }
   ],
   [
     {
-      "title": "Iran Plotted Wider War With Help of Its Proxies",
-      "url": "https://www.nytimes.com/2026/08/01/world/middleeast/iran-proxies-war-oil.html",
+      "title": "Famed mountaineer Nirmal Purja, 43, among 10 climbers killed after avalanche in Pakistan",
+      "url": "https://www.foxnews.com/world/famed-mountaineer-nirmal-purja-43-among-10-climbers-killed-avalanche-pakistan",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Multiple People Killed After Shooter Opens Fire at Idaho In-N-Out Restaurant, Suspect Dead",
+      "url": "https://www.breitbart.com/crime/2026/08/01/multiple-people-killed-after-shooter-opens-fire-at-idaho-in-n-out-restaurant-suspect-dead/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
+    },
+    {
+      "title": "Past fires suggest effects of Europe and North America wildfires may linger for years",
+      "url": "https://www.theguardian.com/world/2026/jul/28/wildfires-europe-north-america-effects",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "After Most Migrants Leave Ceuta, Exhausted Holdouts Find Shelter on Beach",
+      "url": "https://www.nytimes.com/2026/08/02/world/europe/ceuta-spain-morocco-migrant-holdouts-beach.html",
       "source": "New York Times",
       "bias": "left-center",
       "domain": "nytimes.com"
     },
     {
-      "title": "Iran live updates: Trump weighs strikes on Iranian energy sites, US officials say",
-      "url": "https://abcnews.com/International/live-updates/iran-live-updates-tehran-progress-made-strait-hormuz/?id=135110405",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    },
-    {
-      "title": "U.S. general warns Pentagon he lacks sufficient forces to protect Israel",
-      "url": "https://www.washingtonpost.com/national-security/2026/08/01/general-warns-pentagon-he-lacks-sufficient-forces-protect-israel/",
+      "title": "Spain pushes migrants back to Morocco as suspicions swirl over mass border breach",
+      "url": "https://www.washingtonpost.com/world/2026/08/01/spain-pushes-migrants-back-morocco-fallout-deepens-over-mass-border-breach/",
       "source": "Washington Post",
       "bias": "left-center",
       "domain": "washingtonpost.com"
     },
     {
-      "title": "Michigan joins Minnesota in reporting cyberattacks, with FBI investigating",
-      "url": "https://www.aljazeera.com/news/2026/8/1/michigan-joins-minnesota-in-reporting-cyber-attacks-with-fbi-investigating?traffic_source=rss",
+      "title": "Three dead in Idaho shopping center shooting",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSUlHQUFzUk1GbXRXbmxaSzJVZVVFbXpIZ1lvSzhCbHcyZnlCREt6UmtPYi0zaUhya0hSMENVckhaUUxUTDNQMTM4YVhHWmU1dU9mMXJGRE00a0JMOUltaFNDOHJPemk5eXpyZ0tuVHE3MjM0R1hDM3NYWUoxTThHVGxvN3AxcVVpeVZocUk0TQ?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "At least three dead in Idaho shopping mall mass shooting",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/at-least-three-dead-in-idaho-shopping-mall-mass-shooting?traffic_source=rss",
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
     },
     {
-      "title": "U.S. probes if Iran was behind cyberattack on utilities in Michigan, Minnesota",
-      "url": "https://www.cbsnews.com/news/us-investigating-iran-cyberattack-minnesota-water-systems/",
+      "title": "Police confirm fatalities, injuries after shooting at Idaho In-N-Out",
+      "url": "https://abcnews.com/US/police-respond-active-shooter-idaho-burger/story?id=135296367",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    },
+    {
+      "title": "Several people killed in shooting at Idaho In-N-Out restaurant, officials say",
+      "url": "https://www.cbsnews.com/news/twin-falls-idaho-in-n-out-shooting/",
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"
     },
     {
-      "title": "Cyberattacks on Minnesota water systems investigated as officials warn about Iranian hackers",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORklpbE9oc2VwaktZcXVwRkdXMWJORTd3Q3ZkNEFDb0IwODV5STBsbXJnbUljOXZSZ25PQzRkbVlwMXNVX01MWTY5NXQzMGpGZGtCakk2c2lDbmdwOVVub0xzVGtMSVBHU19JU3QtZTBRT1V1SzBRd2VPYjZ0dHR5bkVNLXFUcFoxTVBxbUdwNElOZ2NsWGFNV3NNaw?oc=5",
+      "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
+      "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "Multiple People Dead After Shooting At Fast Food Restaurant In Southern Idaho",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5icWpTTWczbl9mbXU1UUM5NXEwZ3NZaUU3Z1p6OGZaZ2R1UEVDVGdVQk5ROXhtV0NWd0FNQUpqSVVEVkluRnJxeXhCcjJ5dG9TVUR4UU9jVE1aaXIzV2lBblptRkFydFZrRDdkSF8wV2RRX18teXFGX2RjbjLSAYIBQVVfeXFMTk45MnF2V3JkdGV6OHZudlZWTFYwbHduQmpoa1B1dDFwMGtLY0tpZ1NtS04tMFQ1c1lGSXJpZXZfS2dNd2NCVk01ckFXVndxWTZ3ZVVncnlDZXE5R1RKYlIwM1hjZ21wX2NjQWxrLWpDa3ZWRnRLX0hFaVlfbFhBdEFNQQ?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    },
+    {
+      "title": "Idaho fast food restaurant shooting leaves 3 dead, city spokesman says",
+      "url": "https://www.npr.org/2026/08/02/nx-s1-5917121/idaho-fast-food-restaurant-shooting-3-dead",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "Idaho In-N-Out worker was shot dead by \u2018disgusting human who doesn\u2019t value lives of others or his own,\u2019 chain owner says",
+      "url": "https://nypost.com/2026/08/02/us-news/idaho-in-n-out-worker-was-shot-dead-by-disgusting-human-who-doesnt-value-lives-of-others-or-his-own-chain-owner-lynsi-snyder-says/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
+      "title": "Police: Bullets that killed 2 bystanders at Seattle festival weren\u2019t from teen shooter\u2019s gun",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQm1uVE5yQVZ0LThFZENOd2FrTnBGYTNwSDAtNTlfd2RSTENBczR0VTZlbVlRRHo4NnNkNHppaDF5TTU5dll2VDI4ZlFOa2E3VTNZdTMxMVBtYTBqQ3NaUHVnelRYMkc5NVdsXzZKZDU4MFdfT3A1eWY2VGhUVzVjZUdoNGNxMTdiV0FJOExNVEtEY2ticl9oNnBFekI0UjM3N18w?oc=5",
       "source": "Associated Press",
       "bias": "center",
       "domain": "apnews.com"
@@ -247,70 +208,82 @@
       "domain": "cnn.com"
     },
     {
-      "title": "Socialist NY Assembly candidate shoo-in publicly begging for money on GoFundMe to pay rent",
-      "url": "https://nypost.com/2026/08/01/us-news/socialist-ny-assembly-shoo-in-begs-for-money-on-gofundme/",
+      "title": "'Cancel Thanksgiving': Old Post Haunts Socialist Dem's Wisconsin Governor Bid",
+      "url": "https://www.breitbart.com/politics/2026/07/31/cancel-thanksgiving-old-post-haunts-socialist-dems-wisconsin-governor-bid/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
+    },
+    {
+      "title": "Socialist Wisconsin Dem Francesca Hong in hot seat after \u2018Cancel Thanksgiving\u2019 post emerges online",
+      "url": "https://nypost.com/2026/08/02/us-news/socialist-wisconsin-dem-francesca-hong-in-the-hot-seat-over-cancel-thanksgiving-post/",
       "source": "New York Post",
       "bias": "right",
       "domain": "nypost.com"
     },
     {
-      "title": "Pinkerton: The Mamdani Show Is Mobilizing the Leftist Mob",
-      "url": "https://www.breitbart.com/politics/2026/08/01/pinkerton-the-mamdani-show-is-mobilizing-the-leftist-mob/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
+      "title": "Son of Wicker Man maker dies just weeks before his sequel to film premieres",
+      "url": "https://www.bbc.co.uk/news/articles/cvgwj0wnyydo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
     }
   ],
   [
     {
-      "title": "'The Sopranos' actor Vincent Pastore dead at 80",
-      "url": "https://www.foxnews.com/entertainment/sopranos-actor-vincent-pastore-dead-80",
+      "title": "Vulnerable Democrat warns party to 'fight back' against growing socialist movement",
+      "url": "https://www.foxnews.com/politics/vulnerable-democrat-warns-party-fight-back-against-growing-socialist-movement",
       "source": "Fox News",
       "bias": "right",
       "domain": "foxnews.com"
     },
     {
-      "title": "'Sopranos' actor Vincent Pastore, known for playing mobsters and tough guys, dead at 80",
-      "url": "https://www.npr.org/2026/08/01/nx-s1-5916418/vincent-pastore-sopranos-obit",
-      "source": "NPR",
+      "title": "Ebola outbreak in DRC the fastest growing in the history of the virus",
+      "url": "https://www.theguardian.com/global-development/2026/jul/31/ebola-outbreak-in-drc-the-fastest-growing-in-the-history-of-the-virus",
+      "source": "The Guardian",
       "bias": "left-center",
-      "domain": "npr.org"
+      "domain": "theguardian.com"
     },
     {
-      "title": "Vincent Pastore, famous for his role in \"The Sopranos,\" dies at 80",
-      "url": "https://www.cbsnews.com/news/vincent-pastore-the-sopranos-dies-at-80/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    }
-  ],
-  [
-    {
-      "title": "\u2018Home Improvement\u2019 star Jonathan Taylor Thomas makes rare appearance in reunion photo with co-stars",
-      "url": "https://www.foxnews.com/entertainment/home-improvement-star-jonathan-taylor-thomas-rare-appearance-reunion-photo-co-stars",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "Savannah Guthrie asks for answers about mom Nancy after notes released",
-      "url": "https://www.cbsnews.com/news/savannah-guthrie-nancy-missing-mom-ransom-notes/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    }
-  ],
-  [
-    {
-      "title": "Wildfires spread across Greece, conditions worsen in France and Spain",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaENSUzhSWi1xMmhoSVFXRFZLTUM2V2Rydm5sOUp0aW1WYkxkV1pWdDFCTVpkbkF0WVFpSUlZbFZuQ2FwYXVvOVR1X1I0NWlWTjFUaFdlU2tyd1RXNm1rcWF5OWV1SzNHYVpvRGtlWFQ2NWxCYUk1R2c1UWVaU3k0SENqbDMxS1B3eUZoOE9pSGhxNGZScDBFY2NLUjVoNzhxNm1BYzFoUm5EbVE0dXQyUGJoQkd1YkRTdjNqXw?oc=5",
+      "title": "Landslide death toll rises in China's Gansu Province as heavy rains continue",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU211TUJlRDhVUV9BaEFiVG9wY18xdnJ0U1NBZDgtRFZsVTVDN0puSnkyRnk0Mi11Q0RrcV9NalNyY2RxUDNNNjkwM3FnNlVNTkZMcVBVeGF3RHBHNXFqclEtME9JSWxpRHJjRXNMRUgtVlpfYl9lUzlfZ1RsRm1SRXdjMGJsSy1lYzVEWjBFbVNhRHVjenMzWkRfYUUwV3BvRmdSdXBsVnVnaGhxSFV1YXRULWplREx5YVVJcEFFQVZBUEd6?oc=5",
       "source": "Reuters",
       "bias": "center",
       "domain": "reuters.com"
     },
     {
-      "title": "Greece battles raging wildfires as flames appear to ease in France",
-      "url": "https://www.aljazeera.com/news/2026/8/1/greece-battles-raging-wildfires-as-flames-appear-to-ease-in-france?traffic_source=rss",
+      "title": "U.S. general warns Pentagon he lacks sufficient forces to protect Israel",
+      "url": "https://www.washingtonpost.com/national-security/2026/08/01/general-warns-pentagon-he-lacks-sufficient-forces-protect-israel/",
+      "source": "Washington Post",
+      "bias": "left-center",
+      "domain": "washingtonpost.com"
+    }
+  ],
+  [
+    {
+      "title": "After a bruising 24 hours, what next for Fifa and under-pressure Infantino?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "UEFA declares no confidence in Infantino and vows accountability for failed World Cup equity plan",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ29OWVVpM1NLQVJBSk9XYTI5a3ZwYUpob2JRMFg0b2J4ME9TcjBwMHU4R2lBZ1lEWklJRnVqcTJRWUt5UF9LZkl3MzgwOVlqWnNUYmU3YmltRERyZVpIbDEyMW1pMzI1bEkyTHFBM3ZPRVJNUlRkM1paWVFya1BDYnN4d3Y0Zw?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "UEFA Declares No Confidence In Infantino And Vows Accountability For Failed World Cup Equity Plan",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS25jcXd1ekVBam5fTGdvN2dXclNLUjMwSWY0U3YtLWg4OEdfTHliNUdodFFUTzU5aXJBQjdwNS1uWDNpUHFtTG1ZeW1oX3B1RXZhaWZVZGhYQUN5M3JTS2piNktLeHlmM21UMlJqMkVhMnNOMHlCNURhLUd0a1ZYRHpKb3V3MktGSUR2ONIBkgFBVV95cUxONFN3UHFhWVJ5VU81anBWRERuUXNYVUR3YzhENUtfUzJBV0M2bUdRMEZXVmNvdGJjX1E5WWM5WVhGbldCUTVhU3UyY1Z1NjdacDNrMVpEYU5tbjdfb05OOGZMTHhDWTh3SXFkUmcwMzhYMjNpSHZ4azE0a09MTnRHcW0ya3o0aURQNm42Rm40aVBidw?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    },
+    {
+      "title": "Why isn\u2019t anyone challenging Infantino for FIFA\u2019s top job?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/why-isnt-anyone-challenging-infantino-for-fifas-top-job?traffic_source=rss",
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
@@ -318,18 +291,121 @@
   ],
   [
     {
-      "title": "Israel Says It Killed Several Hezbollah Members on Key Lebanon Hilltop",
-      "url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-hezbollah-lebanon-killing.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
+      "title": "'Sopranos' star sings national anthem at Mets game on same day that fellow castmember dies",
+      "url": "https://www.foxnews.com/outkick-sports/sopranos-star-sings-national-anthem-mets-game-castmember-dies",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
     },
     {
-      "title": "Lebanese who fled the Israeli invasion visit to see what's left",
-      "url": "https://www.npr.org/2026/08/01/nx-s1-5910555/lebanon-israel-war-hezbollah",
+      "title": "'Sopranos' actor Vincent Pastore, known for playing tough guys, dies at 80",
+      "url": "https://abcnews.com/Entertainment/wireStory/sopranos-actor-vincent-pastore-playing-mobsters-tough-guys-135296307",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    },
+    {
+      "title": "'Sopranos' actor Vincent Pastore, known for playing mobsters and tough guys, dead at 80",
+      "url": "https://www.npr.org/2026/08/01/nx-s1-5916418/vincent-pastore-sopranos-obit",
       "source": "NPR",
       "bias": "left-center",
       "domain": "npr.org"
+    }
+  ],
+  [
+    {
+      "title": "Millions in the US could face massive consequences unless McCarthy can navigate out of a debt trap he set for Biden",
+      "url": "https://www.cnn.com/2023/04/18/politics/mccarthy-biden-debt-ceiling/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
+    },
+    {
+      "title": "Inside the behemoth Smithsonian museum network drawing fire from the Trump administration",
+      "url": "https://www.foxnews.com/politics/inside-behemoth-smithsonian-museum-network-drawing-fire-trump-administration",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    }
+  ],
+  [
+    {
+      "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges",
+      "url": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
+    },
+    {
+      "title": "Dear Abby: My cheating ex-husband died \u2014 am I wrong for skipping his funeral?",
+      "url": "https://nypost.com/2026/08/02/lifestyle/dear-abby-my-cheating-ex-husband-died-am-i-wrong-for-skipping-his-funeral/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    }
+  ],
+  [
+    {
+      "title": "Newly released video shows scene of Jeremy Renner's snowplow accident",
+      "url": "https://www.cnn.com/videos/us/2023/04/18/jeremy-renner-snowplow-accident-bodycam-nc-melas-contd-vpx.cnn",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
+    },
+    {
+      "title": "New Mexico woman's bodycam confession about hiding newborn baby in hospital garbage tossed by state court",
+      "url": "https://www.foxnews.com/us/new-mexico-womans-bodycam-confession-hiding-newborn-baby-hospital-garbage-tossed-state-court",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Magnitude 5.9 earthquake hits east coast of North Island in New Zealand, GFZ says",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbWdaQkJhWGNkUHZsUkZqQXAyLWJ1MGs1XzJCTlVuUFVrald2bzBLdnU4TnNHVjFIYXNmOTJJNVVrVFR2QmVDZjJJU0x2b0NiOF9iLVViQjk2VkViT0lmZ0Fpd1R4T1NiLTdWQ1JKemFTNmhaM2lxQ0FaV2NvdW1RbHJYMkZQZElYN29kcWNxd09rUzRVRHMxS05SbzVFal9TNUgzS1hka2xLcmFMbUFHNVc3eWppcUJBTElvbjRsNHpfU2VGcEJLczNn?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Great white shark Percy pings 14 miles from Long Island coast",
+      "url": "https://nypost.com/2026/08/02/us-news/great-white-shark-percy-pings-14-miles-from-long-island-coast/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    }
+  ],
+  [
+    {
+      "title": "Capital One says it closed Trump Organization's accounts after anti-money laundering probe",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORFNsQWFYNkk3UUhkdm5yRmpmNmZnTjVLS1RrSGdTcGZxTVhOaHVURzlhQTJUd3BYSzlYa3dNcnRXb1Y5VEZuSE1HdjA0bXNjNkM3Y2hHOHptN2I3N2FsQWxsLXFhNVZ2ZDROUkJFaXFLYVNjd0FmcUNqRlNYbkN0SUhfVURTQzdZbzRvaXkyRFVCTGZMTkJMa0Q3SlVHeW0zaGtvY1VidWRETENLWERtSUJUeHdlMmFzemp4bXhTV1BySTQ?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Capital One Says It Closed Trump Organization's Accounts After Anti-Money Laundering Probe",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOckNGbUtSZFpyRlIyU1NJcUJrZGJLb0UtTXZ2ZGIweTJKRmRtM3VVWUxFeW9HMWczVXRUUmZYeDBnYlNoNlJRVm1QV04xV09PV2VDRXk5Wm1ORlV5Y1liZTh2OFAxUEE1Y29ETHZlbnludWstY2hOd3VIWUE1QkV4MGxSbGNTbGtpSUdEbU1jSmJHdmM0dW84VTNfQXBCSFZVek1WcFVncnBUeGh1M0U3bENsanBQRE3SAbwBQVVfeXFMUFRjTDZtUkZpNjVTMmRUNmtOQ2V6bVEyeGVQcjN1UU8wQzVNQWxHR0hhS0xKQnFRb1g2VzJJeXgzZkVBc2pJTkNLVV9MNmRCN1psNnhnUUtUY3dHeGFrUEd5ZUw0N1lwUWNCYl9wY2IzcjV1dmNhbmcweVlJdnk3cFRGSllrb1pzN2JGbWY2NE0xb1J1OEZRTHZXVHFZQkgxOEVPZkdWb24ybGhEVWJwY1VEOTNxNEdwcXFxTVg?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    }
+  ],
+  [
+    {
+      "title": "Tarik Skubal details \u2018roller coaster\u2019 of emotions in first comments since Dodgers\u2019 blockbuster trade",
+      "url": "https://nypost.com/2026/08/02/sports/dodgers-tarik-skubal-details-roller-coaster-of-emotions/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
+      "title": "Lionel Messi returns for Inter Miami after extended post-World Cup break",
+      "url": "https://www.aljazeera.com/sports/2026/8/2/lionel-messi-returns-for-inter-miami-after-extended-post-world-cup-break?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
     }
   ]
 ]

@@ -8,18 +8,18 @@
       "domain": "cnn.com"
     },
     {
-      "title": "Canadians spent $3.3bn less on travel to US in 2025 after Trump\u2019s return to office",
-      "url": "https://www.theguardian.com/world/2026/jul/28/canadians-us-travel-drop-trump",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
+      "title": "Ceuta border storming death toll reaches 72 after 50K migrants attempt to enter Spanish enclave",
+      "url": "https://nypost.com/2026/08/02/world-news/ceuta-border-storming-death-toll-at-72-after-50k-migrants-attempt-to-enter-spanish-enclave/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
     },
     {
-      "title": "How a Top Law Firm Went From Standing Up to Trump to Bending the Knee",
-      "url": "https://www.nytimes.com/2026/08/02/us/politics/paul-weiss-trump.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
+      "title": "In-N-Out Owner Praying for Families After Saturday's Deadly Idaho Shooting",
+      "url": "https://www.breitbart.com/2nd-amendment/2026/08/02/in-n-out-owner-praying-for-families-after-saturdays-deadly-idaho-shooting/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
     },
     {
       "title": "Thousands of people under evacuation order from wildfires in Spokane, Wash.",
@@ -29,6 +29,20 @@
       "domain": "npr.org"
     },
     {
+      "title": "Fast-moving wildfires in Washington state prompt evacuations",
+      "url": "https://www.cbsnews.com/news/spokane-washington-wildfire-evacuations-old-trails-fire/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Trump DHS chief under fire from conservatives after immigration speech ignites backlash",
+      "url": "https://www.foxnews.com/politics/trump-dhs-chief-fire-conservatives-immigration-speech-ignites-backlash",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
       "title": "Spain pushes migrants back to Morocco as suspicions swirl over mass border breach",
       "url": "https://www.washingtonpost.com/world/2026/08/01/spain-pushes-migrants-back-morocco-fallout-deepens-over-mass-border-breach/",
       "source": "Washington Post",
@@ -36,43 +50,50 @@
       "domain": "washingtonpost.com"
     },
     {
-      "title": "Greek firefighting helicopters in mid-air collision, four crew missing",
-      "url": "https://www.aljazeera.com/news/2026/8/2/firefighting-helicopters-collide-near-athens-as-greece-battles-wildfires?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Two helicopters collide as Greece battles wildfires, Hungary shuts nuclear plant",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPU0hsUjhJMWI1WXh1VkRmYTVMdzNvcmpNeEplc3pyeHFsM0J5LU9mSzJkNk9sUXpUQ3JITERKRzlNQ004Sm9WMHplUVVyYm9UWmowQjR2ZXlscnJXc3JOMmtKTG1aWUMzNXduNENWY2Y5UFlPWEZnbUpNR1VzYV9kQjJrUGgxNXFvYnBpSVBKdlVEajBzRklYYThaWGtXb25BU0FIN0QzYlFxWmMyRVRUdnRzcHpua2xYdktsNklfQ1hpVE1zSHc?oc=5",
+      "source": "Reuters",
       "bias": "center",
-      "domain": "aljazeera.com"
+      "domain": "reuters.com"
     },
     {
-      "title": "\u2018It Is Allah Who Ordered Me\u2019: Knife-Wielding Man Targets Three Women In Brutal Rampage",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcjBIbl9HVTBhMnpfOFZISFBxSXpBT1ZEMVBnTm42bFpaYnF2aXFLUDc2Y01UQnZvRUptWVlqN3gtTlJlT1d3N2x3YTRSN2RmWWo0TFMzRUFmYndUeGZqTzVDR0FTOXZvdFBkaXdveW1mQUpmRWdvdUFBYnI3dU5USDZsYUlOZ3BDUUFqcDNlTFlpM0l2SHJBaC0yZWROODRIbDNOWXMzYkp2ME14S2tUN25xQ1c?oc=5",
-      "source": "Daily Wire",
-      "bias": "right",
-      "domain": "dailywire.com"
+      "title": "How a Top Law Firm Went From Standing Up to Trump to Bending the Knee",
+      "url": "https://www.nytimes.com/2026/08/02/us/politics/paul-weiss-trump.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
     },
     {
-      "title": "Britons Face Jail for Raising Flags in Oxfordshire After High Court Ruling",
-      "url": "https://www.breitbart.com/europe/2026/08/02/britons-face-jail-for-raising-flags-in-oxfordshire-after-high-court-ruling/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
-    },
-    {
-      "title": "Wildfires rage across Europe as firefighters battle blazes strengthened by gale-force winds",
-      "url": "https://nypost.com/2026/08/02/world-news/europe-wildfires-blazing-across-greece-spain-and-france/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "Police confirm 3 fatalities, 5 injuries after shooting at Idaho In-N-Out",
-      "url": "https://abcnews.com/US/police-respond-active-shooter-idaho-burger/story?id=135296367",
+      "title": "Iran live updates: Trump calls off new strikes, Saudi ruler urges de-escalation",
+      "url": "https://abcnews.com/International/live-updates/iran-live-updates-tehran-progress-made-strait-hormuz/?id=135110405",
       "source": "ABC News",
       "bias": "center",
       "domain": "abcnews.go.com"
     },
     {
-      "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
-      "url": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
+      "title": "Canadians spent $3.3bn less on travel to US in 2025 after Trump\u2019s return to office",
+      "url": "https://www.theguardian.com/world/2026/jul/28/canadians-us-travel-drop-trump",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "Saudi Crown Prince MBS urges Trump to \u2018prioritise dialogue\u2019 in US-Iran war",
+      "url": "https://www.aljazeera.com/news/2026/8/2/saudi-crown-prince-mbs-urges-trump-to-prioritise-dialogue-in-us-iran-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "Trump Says Mideast Allies Have Reached Outlines Of Deal To End Iran War, Says U.S. To Stop New Strikes",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYmo4dFBuWEVuSjU5VThEbXBLdUZSTXFmNE5QUnkteXlCRmhmd1ZVQVBVRFkwZ3VhWmR6cldIN0Y4MFg1RlZxejFQdEpveEJTRFZaS3NCc21lUWJlVkdaek1ta28tby1pR2JtejdxTFNZRFJmTTVxeGx5MmtneWNlN3lhVHBkUdIBiwFBVV95cUxPbTdPNzVlRkY3a3p5TXpJeGwydGhMQnhKYXJHUjFzXzVjQXlKRmprRFVBQVA5ZXdsWEVtX19nUjlKb2VJLWRSZm1UYXFxU3pNcjFubDJIU3NCRHJzVURWc2w5OVNHT3FzSFNqMlBZRHFyRlpROTE5TGF1V0p1dUpKQ29mWVBtRU01djBF?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    },
+    {
+      "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
+      "url": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "bias": "center",
       "domain": "bbc.com"
@@ -83,100 +104,74 @@
       "source": "Associated Press",
       "bias": "center",
       "domain": "apnews.com"
-    },
+    }
+  ],
+  [
     {
-      "title": "Kelsey Plum heads to Phoenix Mercury in blockbuster deal hours before WNBA trade deadline",
-      "url": "https://www.foxnews.com/sports/kelsey-plum-heads-phoenix-mercury-blockbuster-deal-hours-before-wnba-trade-deadline",
+      "title": "Trans activists harass, hurl slurs at Sophie Cunningham supporters before Fever game in Minnesota",
+      "url": "https://www.foxnews.com/outkick-sports/trans-activists-harass-hurl-slurs-sophie-cunningham-supporters-fever-game-minnesota",
       "source": "Fox News",
       "bias": "right",
       "domain": "foxnews.com"
     },
     {
-      "title": "Ukrainian drones kill eight in Russia and strike Wildberries warehouse, governors say",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNalRXTDFKTmlXU19IODRKYXA1bkZiSXU2MEMxUmxBRlpjakdLenAtS3EyZ1NaR1ByOXBsc182MzRkLTRUX1R2NFNJTXMyNWt4Nm5mZlBtbEw5ZWhNM2dndjJTZElZbGhWVXhjQm93bkJ1NURwSV9GWlItZjRKTDJYdV9vRjhDYWt2SVZFWGpfNXV4UXpWNnFVeGhQZkpnMEdnMFdZYThzQmxzS0YyNEVqSEFWdkJIX19a?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "Trump Says Mideast Allies Have Reached Outlines Of Deal To End Iran War, Says U.S. To Stop New Strikes",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYmo4dFBuWEVuSjU5VThEbXBLdUZSTXFmNE5QUnkteXlCRmhmd1ZVQVBVRFkwZ3VhWmR6cldIN0Y4MFg1RlZxejFQdEpveEJTRFZaS3NCc21lUWJlVkdaek1ta28tby1pR2JtejdxTFNZRFJmTTVxeGx5MmtneWNlN3lhVHBkUdIBiwFBVV95cUxPbTdPNzVlRkY3a3p5TXpJeGwydGhMQnhKYXJHUjFzXzVjQXlKRmprRFVBQVA5ZXdsWEVtX19nUjlKb2VJLWRSZm1UYXFxU3pNcjFubDJIU3NCRHJzVURWc2w5OVNHT3FzSFNqMlBZRHFyRlpROTE5TGF1V0p1dUpKQ29mWVBtRU01djBF?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    },
-    {
-      "title": "Open: This is \"Face the Nation with Margaret Brennan,\" Aug. 2, 2026",
-      "url": "https://www.cbsnews.com/video/open-this-is-face-the-nation-with-margaret-brennan-aug-2-2026/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    }
-  ],
-  [
-    {
-      "title": "Five Big Moments in Michigan\u2019s Democratic Senate Primary",
-      "url": "https://www.nytimes.com/2026/08/02/us/politics/five-big-moments-michigan-democratic-senate-primary.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "Talarico Says the Bible Demands Government-Run Health Insurance",
-      "url": "https://www.breitbart.com/politics/2026/08/01/talarico-says-the-bible-demands-government-run-health-insurance/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
-    },
-    {
-      "title": "Rand Paul\u2019s \u2018Vendetta\u2019:  Letters to the Editor \u2014 Aug. 3, 2026",
-      "url": "https://nypost.com/2026/08/02/opinion/rand-pauls-vendetta-letters/",
+      "title": "Cheryl Reeve advocates for transgender athletes ahead of another Sophie Cunningham rally",
+      "url": "https://nypost.com/2026/08/02/sports/cheryl-reeve-advocates-for-transgender-athletes-ahead-of-sophie-cunningham-rally/",
       "source": "New York Post",
       "bias": "right",
       "domain": "nypost.com"
     },
     {
-      "title": "Scarlett Johansson, skin care mogul",
-      "url": "https://www.cbsnews.com/video/scarlett-johansson-skin-care-mogul/",
-      "source": "CBS News",
+      "title": "Archbishop of Canterbury vows to support \u00a3100m pledge helping communities affected by enslavement",
+      "url": "https://www.theguardian.com/news/2026/jul/31/archbishop-of-canterbury-support-pledge-helping-communities-enslavement",
+      "source": "The Guardian",
       "bias": "left-center",
-      "domain": "cbsnews.com"
+      "domain": "theguardian.com"
     }
   ],
   [
     {
-      "title": "GOP Rep Max Miller pushes back against abuse allegations: \u2018I have nothing to hide\u2019",
-      "url": "https://www.foxnews.com/politics/gop-rep-max-miller-pushes-back-against-abuse-allegations-have-nothing-hide",
+      "title": "Sen Bernie Moreno calls for ex-son-in-law to resign from House, get 'serious psychological help'",
+      "url": "https://www.foxnews.com/politics/sen-bernie-moreno-calls-ex-son-in-law-resign-house-serious-psychological-help",
       "source": "Fox News",
       "bias": "right",
       "domain": "foxnews.com"
     },
     {
-      "title": "Democrats See A Chance To Flip A Seat As Focus On Abuse Claims Mounts Against Ohio Rep. Max Miller",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXdFYVNTOWhPcXU5a0RldlBPVkJBMzBYV0ZiOUpiZktwNzBNZjdDWTlVVTVPZm9xR1Z3NFExSVdUUUVuRFA3RkhONHh6S3U5N1V4SWZ0NTl5VEdHWDlNaXdDVzIzNzd3OXRIWDRjYmxmaDhteEl2VFJyM1dDczlGQVVVZXU4R1hIZVVtSEhYMTRSc21XTDIzTNIBngFBVV95cUxQOXZZTFZvOUF5MnJ0RzJmT2t6QlBsaFJsQV9rTEVvTnlUYzJCNmkwMlloSmxHOTFmT3o1YVRlR2ZyZ0J6NUxSUlpRR0J4bGYxUG1qY2pnd2oxWlgxaDJSREpQMDJNQ2ZJV2FYZW56WjlBc3BCQng5UlpTRXd3VVBVREkwVTdVQUNVUFR0M2J1Z2FWUVZjVmFfQVpuY3BWQQ?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    },
-    {
-      "title": "This week on \"Sunday Morning\": The Money Issue (Aug. 2)",
-      "url": "https://www.cbsnews.com/news/this-week-on-sunday-morning-the-money-issue-aug-2-2026/",
-      "source": "CBS News",
+      "title": "Ohio Republican Denies Abuse Accusations, Deepening High-Stakes Family Feud",
+      "url": "https://www.nytimes.com/2026/08/02/us/elections/max-miller-ohio-republican-moreno-election.html",
+      "source": "New York Times",
       "bias": "left-center",
-      "domain": "cbsnews.com"
+      "domain": "nytimes.com"
     }
   ],
   [
     {
-      "title": "Hungary PM flags \"critical\" days ahead with looming nuclear shutdown",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ3k3dmJWR3pfSnFZRFVOcE1KMXF6UkpsQUoyTk9JVVFLOW1XNGlLQXkxRlhnNXVuaTRnOElUT2paNnlneG1pYnNNMjhxZFVsR3R4czN3dFdab2w4S1hfZms5TC1tRDdpR3F3cGYzQnFvOVViWGtsdFdaQUpZZ1FvOFJiMl9QUk1raEF1M1BDZzdUM1NyZDB1Znp4OGlUZWdIMDRBeEptWlhpaU9BeTl2YkF6dDluS1VIRmc?oc=5",
+      "title": "RFK Jr torches CNN anchor Dana Bash for 'press malpractice' over COVID coverage in explosive clash",
+      "url": "https://www.foxnews.com/media/rfk-jr-torches-cnn-anchor-dana-bash-press-malpractice-covid-coverage-explosive-clash",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "RFK Jr. slams CNN\u2019s Dana Bash in fiery shouting match over over vaccines, measles and COVID: \u2018You were part of the problem\u2019",
+      "url": "https://nypost.com/2026/08/02/us-news/rfk-jr-slams-cnns-dana-bash-in-fiery-shouting-match-over-over-vaccines-measles-and-covid/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    }
+  ],
+  [
+    {
+      "title": "Two dead in firefighting helicopter crash in Greece, Fire Service says",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSGhDR0RqTHVKV24tazZCX3BDVFFjNmFSQm1UTy1jX2czb2FaTE5EcXlqRF8yRFpBREJmN0l2MmYwWkFzaWZmWlNtSTNUUURCLUNrdUhFdi03a2lGeHFFY3RncWIzVGtOR1UySG5yWGJKWWFWSUFHOE9qTVhFaWdEaGtBclJuNVVkMEdtckZIdTdFUEhLT0NKS2JsRlpQQQ?oc=5",
       "source": "Reuters",
       "bias": "center",
       "domain": "reuters.com"
     },
     {
-      "title": "Heatwave forces nuclear shutdown in Hungary",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/08-02-2026-hungary-nuclear-plant-sv?traffic_source=rss",
+      "title": "Deadly ferry fire leaves dozens missing in Indonesia\u2019s Java Sea",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/deadly-ferry-fire-leaves-dozens-missing-in-indonesias-java-sea?traffic_source=rss",
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
@@ -184,47 +179,31 @@
   ],
   [
     {
-      "title": "Israel Says It Killed Several Hezbollah Members on Key Lebanon Hilltop",
-      "url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-hezbollah-lebanon-killing.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
+      "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+      "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
     },
     {
-      "title": "Communal violence between Hindus and Muslims grips southern Nepal",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/communal-violence-between-hindus-and-muslims-grips-southern-nepal?traffic_source=rss",
+      "title": "Palestinians in Gaza hope Hamas will disarm but fear Israeli forces won\u2019t withdraw",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNXotazUtdXc1cWk4WXhob0swYURLa1hWdHdfZGIwUS1hZWhZdVdtRS14WjZubVdUa0RzX29CekZUdUdIeWZnMi10d19iWVRFT0tpNUxaS3A4eGdaRC0yZTEtT29rYXY5bHVHLWxJZ1hMWlBHSjcxWDFHRDFHcFUyYWNHNzN5ZzBLaS1YRVdCMHpWTk9iMWctcTVTUWlZRDg3TWdncVVn?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Capital One cites anti-money laundering concerns in Trump Organization case",
+      "url": "https://www.aljazeera.com/economy/2026/8/2/capital-one-cites-anti-money-laundering-concerns-in-trump-organization-case?traffic_source=rss",
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
-    }
-  ],
-  [
-    {
-      "title": "Avalanche in Pakistan kills famed mountaineer Nirmal Purja and his fellow climbers",
-      "url": "https://www.npr.org/2026/08/01/nx-s1-5916368/nirmal-purja-climbers-dead-avalanche",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
     },
     {
-      "title": "All 10 climbers swept away in avalanche in Pakistan are confirmed dead",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQUliYnNTNW9Pdm9nd3MwRWpIYmxNX3JBTGg5VUpEQlpvWnRnWnRhSEQwcWhZMmRkU3A4TndHNC14b3lZbGhpeTR5cVEzTlpPeHR1TFo4RUNBaWVmTDJvTXNyVFdhN3RydkhFaFl3RFg3ZUJCNzMzeGExbmN1SnF2UTk2VzRjaWQteVlpZXNnNG1FamMxejRSWEpYci0wUnpubXVzNDE1TTVEMW1pcUpJTw?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    }
-  ],
-  [
-    {
-      "title": "Senior FIFA executive says staff were deceived over Infantino\u2019s World Cup sell-off plan",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM2dneHFxZ2FscUgwNHR0XzA4UHFSUzVQSlFUYjI2TzYwTno0M3FNYWhNb21Pd29aQWRoZEJlbVU5VF9xNkg2bnJTdmZBVFQ3Rm1Td2d3bkJrTHMzUkV2U0k2a1AtWU1kOVhjMFJTNko4LXZvVE1taE14MTJUVkZsdW1HVzJZQ3VpQnpOVmZpTnVrVTlCWFpVdUpybFdBeml0VDNTSlZn?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "UEFA Declares No Confidence In Infantino And Vows Accountability For Failed World Cup Equity Plan",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS25jcXd1ekVBam5fTGdvN2dXclNLUjMwSWY0U3YtLWg4OEdfTHliNUdodFFUTzU5aXJBQjdwNS1uWDNpUHFtTG1ZeW1oX3B1RXZhaWZVZGhYQUN5M3JTS2piNktLeHlmM21UMlJqMkVhMnNOMHlCNURhLUd0a1ZYRHpKb3V3MktGSUR2ONIBkgFBVV95cUxONFN3UHFhWVJ5VU81anBWRERuUXNYVUR3YzhENUtfUzJBV0M2bUdRMEZXVmNvdGJjX1E5WWM5WVhGbldCUTVhU3UyY1Z1NjdacDNrMVpEYU5tbjdfb05OOGZMTHhDWTh3SXFkUmcwMzhYMjNpSHZ4azE0a09MTnRHcW0ya3o0aURQNm42Rm40aVBidw?oc=5",
+      "title": "Capital One Says It Closed Trump Organization's Accounts After Anti-Money Laundering Probe",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOckNGbUtSZFpyRlIyU1NJcUJrZGJLb0UtTXZ2ZGIweTJKRmRtM3VVWUxFeW9HMWczVXRUUmZYeDBnYlNoNlJRVm1QV04xV09PV2VDRXk5Wm1ORlV5Y1liZTh2OFAxUEE1Y29ETHZlbnludWstY2hOd3VIWUE1QkV4MGxSbGNTbGtpSUdEbU1jSmJHdmM0dW84VTNfQXBCSFZVek1WcFVncnBUeGh1M0U3bENsanBQRE3SAbwBQVVfeXFMUFRjTDZtUkZpNjVTMmRUNmtOQ2V6bVEyeGVQcjN1UU8wQzVNQWxHR0hhS0xKQnFRb1g2VzJJeXgzZkVBc2pJTkNLVV9MNmRCN1psNnhnUUtUY3dHeGFrUEd5ZUw0N1lwUWNCYl9wY2IzcjV1dmNhbmcweVlJdnk3cFRGSllrb1pzN2JGbWY2NE0xb1J1OEZRTHZXVHFZQkgxOEVPZkdWb24ybGhEVWJwY1VEOTNxNEdwcXFxTVg?oc=5",
       "source": "HuffPost",
       "bias": "left",
       "domain": "huffpost.com"

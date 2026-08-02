@@ -1,46 +1,11 @@
 [
   [
     {
-      "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
-      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
-    },
-    {
-      "title": "Tarik Skubal set to make Dodgers debut at historic ballpark",
-      "url": "https://nypost.com/2026/08/02/sports/tarik-skubal-set-to-make-dodgers-debut-at-wrigley-field/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
-      "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "How a Top Law Firm Went From Standing Up to Trump to Bending the Knee",
-      "url": "https://www.nytimes.com/2026/08/02/us/politics/paul-weiss-trump.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
       "title": "'The Movement Has Begun': MTG Just Escalated Her Fight Against Trump In A Major Way",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMHFCM0JwNHo0dDFwVGVNOVViZVd2SVlWWDdjNVhweUhINVIyUFNsX2NQeGpqQ1oyS1dmWWpVOW1Fb2lyVzRSbDdkdzNhV3FYTmFueVE0dDRxcjluNjJ5UkhWQ1k1UG0tSE1PaV96SEphZDVPd3JQZU5nMGVyNXJWSHhoX2ExczdMX29ldkZ5YWV4QnNZTTNueFZTcW0wdi03WFpwX1RidkprZXl0SFBDeElIeDRtZlIySXfSAb8BQVVfeXFMT21Na1RObEU3V1NacHBDelRwNGtkTXg1ZWZDR2NhOGdiUzc1dWcxRzl3WHloZHY2N0NxaE94NzRDZEdEbG01ckZFbVNIdnB3Z1hYbFBHUHd6bDh5MkQ0Q0QwSi1JTzgzVDBtT2pQN0ZOMXZISkpwN2tnVFpOZnJOWWk1b295U1R1ZXY3X1QySVVCall4U2lQcENLOGZSazZjTGpaWnhMbENUMFk2ZUpJVFpZdlQ0Ukl0OTdrUjJNQUk?oc=5",
       "source": "HuffPost",
       "bias": "left",
       "domain": "huffpost.com"
-    },
-    {
-      "title": "Body of climber Nirmal Purja, six others recovered after Pakistan avalanche",
-      "url": "https://www.aljazeera.com/news/2026/8/2/body-of-climber-nirmal-purja-six-others-recovered-after-pakistan-avalanche?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
     },
     {
       "title": "Police confirm 3 victims killed, 7 injured after shooting at Idaho In-N-Out",
@@ -50,11 +15,46 @@
       "domain": "abcnews.go.com"
     },
     {
-      "title": "Off-duty trooper and armed citizen hailed as heroes after returning fire on In-N-Out gunman",
-      "url": "https://www.foxnews.com/us/police-identify-suspect-deadly-idaho-in-n-out-shooting-say-he-died-self-inflicted-gunshot-wound",
-      "source": "Fox News",
+      "title": "Police: Bullets that killed 2 bystanders at Seattle festival weren\u2019t from teen shooter\u2019s gun",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQm1uVE5yQVZ0LThFZENOd2FrTnBGYTNwSDAtNTlfd2RSTENBczR0VTZlbVlRRHo4NnNkNHppaDF5TTU5dll2VDI4ZlFOa2E3VTNZdTMxMVBtYTBqQ3NaUHVnelRYMkc5NVdsXzZKZDU4MFdfT3A1eWY2VGhUVzVjZUdoNGNxMTdiV0FJOExNVEtEY2ticl9oNnBFekI0UjM3N18w?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges",
+      "url": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
+    },
+    {
+      "title": "Twin Falls In-N-Out shooting suspect identified after 3 killed, 7 wounded",
+      "url": "https://www.cbsnews.com/news/twin-falls-idaho-in-n-out-shooting/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Fiend killed ex in front of their 4-year-old son as he cried, \u2018Mama!\u2019 \u2014 lands 50 years in slammer",
+      "url": "https://nypost.com/2026/08/02/us-news/fiend-killed-ex-in-front-of-their-4-year-old-son-as-he-cried-mama-lands-50-years-in-slammer/",
+      "source": "New York Post",
       "bias": "right",
-      "domain": "foxnews.com"
+      "domain": "nypost.com"
+    },
+    {
+      "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+      "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "VIDEO: Sophie Cunningham Elbowed in the Face During Contentious WNBA Game, Refs Call Foul on Cunningham",
+      "url": "https://www.breitbart.com/sports/2026/08/02/video-sophie-cunningham-elbowed-in-the-face-during-contentious-wnba-game-refs-call-foul-on-cunningham/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
     },
     {
       "title": "Past fires suggest effects of Europe and North America wildfires may linger for years",
@@ -71,6 +71,27 @@
       "domain": "npr.org"
     },
     {
+      "title": "Spokane Wildfires Destroy Hundreds of Buildings as Thousands Evacuate",
+      "url": "https://www.nytimes.com/2026/08/02/us/spokane-wildfires.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Wildfires force mass evacuations across the Pacific Northwest",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_wildfires-force-evacuations-acrosspacific-northwest-020826?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "Death toll from migrant rush into Spanish enclave in North Africa rises to 72",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNenRaMVlhSGtZV3ZHSzZqZnNrcDRfVDViVDFYTElZdnRNWW5TNUlsRWZvMElrRVJ3OWlWbjBwdmFtQ2FBRGFqaF9IU1pidG9ZTzZISnUwWXN6bjBxTjFJSlRFTEc4dzJoak9ObGhuWExVazBxOVJtRnVEM0hXOEFUVkVsUVdvYWxfWmZsb3IyTWhBOWZFbHA0?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
       "title": "Spain pushes migrants back to Morocco as suspicions swirl over mass border breach",
       "url": "https://www.washingtonpost.com/world/2026/08/01/spain-pushes-migrants-back-morocco-fallout-deepens-over-mass-border-breach/",
       "source": "Washington Post",
@@ -78,25 +99,11 @@
       "domain": "washingtonpost.com"
     },
     {
-      "title": "Twin Falls In-N-Out shooting suspect identified after 3 killed, 7 wounded",
-      "url": "https://www.cbsnews.com/news/twin-falls-idaho-in-n-out-shooting/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "Police: Bullets that killed 2 bystanders at Seattle festival weren\u2019t from teen shooter\u2019s gun",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQm1uVE5yQVZ0LThFZENOd2FrTnBGYTNwSDAtNTlfd2RSTENBczR0VTZlbVlRRHo4NnNkNHppaDF5TTU5dll2VDI4ZlFOa2E3VTNZdTMxMVBtYTBqQ3NaUHVnelRYMkc5NVdsXzZKZDU4MFdfT3A1eWY2VGhUVzVjZUdoNGNxMTdiV0FJOExNVEtEY2ticl9oNnBFekI0UjM3N18w?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "VIDEO: Radical Pro Trans Activists Harass 'Save Women's Sports' Supporters at WNBA Game",
-      "url": "https://www.breitbart.com/sports/2026/08/02/video-radical-pro-trans-activists-harass-save-womens-sports-supporters-wnba-game/",
-      "source": "Breitbart",
+      "title": "President Trump celebrates Bedminster club championship, brags little practice was needed to score a 70",
+      "url": "https://www.foxnews.com/outkick-sports/president-trump-celebrates-bedminster-club-championship-brags-little-practice-needed-score-70",
+      "source": "Fox News",
       "bias": "right",
-      "domain": "breitbart.com"
+      "domain": "foxnews.com"
     }
   ],
   [
@@ -106,6 +113,13 @@
       "source": "Reuters",
       "bias": "center",
       "domain": "reuters.com"
+    },
+    {
+      "title": "Two helicopters collide mid-air while tackling wildfires in Greece",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_two-helicopters-crash-mid-air-wildfires-in-greece-020826?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
     },
     {
       "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
@@ -120,13 +134,6 @@
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"
-    },
-    {
-      "title": "Two helicopters collide mid-air while tackling wildfires in Greece",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_two-helicopters-crash-mid-air-wildfires-in-greece-020826?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
     }
   ],
   [
@@ -138,13 +145,6 @@
       "domain": "nytimes.com"
     },
     {
-      "title": "Sen. Moreno calls for Rep. Max Miller to resign for allegedly abusing his daughter",
-      "url": "https://abcnews.com/Politics/sen-moreno-calls-rep-max-miller-resign-allegedly/story?id=135307603",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    },
-    {
       "title": "Sen. Moreno says ex-son-in-law Max Miller shouldn't serve in Congress",
       "url": "https://www.cbsnews.com/news/max-miller-bernie-moreno-ohio-congress-abuse-allegations-denial/",
       "source": "CBS News",
@@ -152,11 +152,59 @@
       "domain": "cbsnews.com"
     },
     {
-      "title": "How much has AIPAC spent against Michigan\u2019s Abdul El-Sayed? And why?",
-      "url": "https://www.aljazeera.com/news/2026/8/2/how-much-has-aipac-spent-against-michigans-abdul-el-sayed-and-why?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Sen. Moreno: Rep. Max Miller 'should not serve in the House' over abuse allegations",
+      "url": "https://abcnews.com/Politics/sen-moreno-calls-rep-max-miller-resign-allegedly/story?id=135307603",
+      "source": "ABC News",
       "bias": "center",
-      "domain": "aljazeera.com"
+      "domain": "abcnews.go.com"
+    }
+  ],
+  [
+    {
+      "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
+    },
+    {
+      "title": "Justice Department moves to drop case against ex-Olympian charged with damaging Reflecting Pool",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR3FFR1RadzVYZW44TWxxMzcwWi1FTElMbHQwdy1sdDRYRWhxeWZnOWZMRWpEaEdodDdWTUJWaHlzd21sWmc1U2FUcjg2bjhKR1NMMUIzM19mRnEySmJ5NGpLZ0ppVzJMYUpDWkhCWm5GWEhqdU92Q2psUFVNQUFxVl9IZTFfdjB6YXA1S0RjZ2owRndsdURBM0Y3cnRPaVNrcTJUX2xB?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    }
+  ],
+  [
+    {
+      "title": "A 13-year-old dies after participating in a Benadryl TikTok 'challenge'",
+      "url": "https://www.cnn.com/2023/04/18/us/benadryl-tiktok-challenge-teen-death-wellness/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
+    },
+    {
+      "title": "Police: Florida Teacher Charged with Soliciting 'Girl, 14' Online for Sex",
+      "url": "https://www.breitbart.com/crime/2026/08/02/police-florida-teacher-charged-with-soliciting-girl-14-online-for-sex/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
+    }
+  ],
+  [
+    {
+      "title": "Cowboys owner Jerry Jones has Tony Romo's back, believes he will 'work through' OWI arrest",
+      "url": "https://www.foxnews.com/sports/cowboys-owner-jerry-jones-tony-romo-back-believe-work-through-owi-arrest",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "WATCH:  Tony Romo on leave after DUI arrest video",
+      "url": "https://abcnews.com/video/135277042/",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
     }
   ],
   [
@@ -193,34 +241,18 @@
   ],
   [
     {
-      "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
-      "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "Palestinians in Gaza hope Hamas will disarm but fear Israeli forces won\u2019t withdraw",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNXotazUtdXc1cWk4WXhob0swYURLa1hWdHdfZGIwUS1hZWhZdVdtRS14WjZubVdUa0RzX29CekZUdUdIeWZnMi10d19iWVRFT0tpNUxaS3A4eGdaRC0yZTEtT29rYXY5bHVHLWxJZ1hMWlBHSjcxWDFHRDFHcFUyYWNHNzN5ZzBLaS1YRVdCMHpWTk9iMWctcTVTUWlZRDg3TWdncVVn?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    }
-  ],
-  [
-    {
-      "title": "Capital One says it closed Trump Organization accounts over money-laundering concerns",
-      "url": "https://www.npr.org/2026/08/02/g-s1-136834/capital-one-trump-bank-anti-money-laundering",
-      "source": "NPR",
+      "title": "Plug-In Solar Panels Are Starting to Sprout in U.S. Backyards",
+      "url": "https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html",
+      "source": "New York Times",
       "bias": "left-center",
-      "domain": "npr.org"
+      "domain": "nytimes.com"
     },
     {
-      "title": "Capital One Says It Closed Trump Organization's Accounts After Anti-Money Laundering Probe",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOckNGbUtSZFpyRlIyU1NJcUJrZGJLb0UtTXZ2ZGIweTJKRmRtM3VVWUxFeW9HMWczVXRUUmZYeDBnYlNoNlJRVm1QV04xV09PV2VDRXk5Wm1ORlV5Y1liZTh2OFAxUEE1Y29ETHZlbnludWstY2hOd3VIWUE1QkV4MGxSbGNTbGtpSUdEbU1jSmJHdmM0dW84VTNfQXBCSFZVek1WcFVncnBUeGh1M0U3bENsanBQRE3SAbwBQVVfeXFMUFRjTDZtUkZpNjVTMmRUNmtOQ2V6bVEyeGVQcjN1UU8wQzVNQWxHR0hhS0xKQnFRb1g2VzJJeXgzZkVBc2pJTkNLVV9MNmRCN1psNnhnUUtUY3dHeGFrUEd5ZUw0N1lwUWNCYl9wY2IzcjV1dmNhbmcweVlJdnk3cFRGSllrb1pzN2JGbWY2NE0xb1J1OEZRTHZXVHFZQkgxOEVPZkdWb24ybGhEVWJwY1VEOTNxNEdwcXFxTVg?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
+      "title": "Rep. Turner says infrastructure should be \"hardened\" as U.S. probes water cyberattack",
+      "url": "https://www.cbsnews.com/news/rep-mike-turner-infrastructure-hardened-iran-cyberattack-water/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
     }
   ],
   [

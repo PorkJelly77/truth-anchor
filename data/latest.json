@@ -8,19 +8,98 @@
       "domain": "cnn.com"
     },
     {
-      "title": "Ceuta border storming death toll reaches 72 after 50K migrants attempt to enter Spanish enclave",
-      "url": "https://nypost.com/2026/08/02/world-news/ceuta-border-storming-death-toll-at-72-after-50k-migrants-attempt-to-enter-spanish-enclave/",
+      "title": "Reports: Good Guy with Gun Fires Back at In-N-Out Attacker",
+      "url": "https://www.breitbart.com/2nd-amendment/2026/08/02/reports-good-guy-with-gun-fires-back-at-in-n-out-attacker/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
+    },
+    {
+      "title": "In-N-Out employee among 2 killed in Idaho mass shooting, CEO reveals",
+      "url": "https://nypost.com/2026/08/02/us-news/in-n-out-employee-among-the-2-dead-in-idaho-mass-shooting-ceo-reveals/",
       "source": "New York Post",
       "bias": "right",
       "domain": "nypost.com"
     },
     {
-      "title": "In-N-Out Owner Praying for Families After Saturday's Deadly Idaho Shooting",
-      "url": "https://www.breitbart.com/2nd-amendment/2026/08/02/in-n-out-owner-praying-for-families-after-saturdays-deadly-idaho-shooting/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
+      "title": "Police confirm 3 fatalities, 5 injuries after shooting at Idaho In-N-Out",
+      "url": "https://abcnews.com/US/police-respond-active-shooter-idaho-burger/story?id=135296367",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
     },
+    {
+      "title": "Idaho fast food restaurant shooting leaves 3 dead, city spokesman says",
+      "url": "https://www.npr.org/2026/08/02/nx-s1-5917121/idaho-fast-food-restaurant-shooting-3-dead",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "Massive Attack responds after Singapore ban over Palestine display",
+      "url": "https://www.bbc.co.uk/news/articles/cr59qe86yj4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "Fetus found among the ruins of a deadly Israeli strike on Gaza",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/fetus-found-among-the-ruins-of-a-deadly-israeli-strike-on-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "Canadians spent $3.3bn less on travel to US in 2025 after Trump\u2019s return to office",
+      "url": "https://www.theguardian.com/world/2026/jul/28/canadians-us-travel-drop-trump",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "Chevron CEO warns Iran conflict has created 'very real' threat to global oil supplies as gas prices climb",
+      "url": "https://www.foxnews.com/media/chevron-ceo-warns-iran-conflict-created-very-real-threat-global-oil-supplies-gas-prices-climb",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Trump says he will order halt to Iran strikes after parameters reached for deal to end war",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdjdiZU1CVmhFWmRaYWtqRW82NnNUMEZjRzNlR293WTljQW1McXpnY3BiLXdWbVdobmRIdUJDVmVuWngwUHRVSUtyMkJjejRkQTl4WU0xc2xfcFpwaHBKamZGdUNqd1RIblhERllZY01hYjlmVUdOblVIVGxjTjVqVndGSURnTGJ5M2U5Vkp6dDVIRHZPZW8wTmRYaXl4WmQtejR6SzFBaw?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Trump Says Mideast Allies Have Reached Outlines Of Deal To End Iran War, Says U.S. To Stop New Strikes",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYmo4dFBuWEVuSjU5VThEbXBLdUZSTXFmNE5QUnkteXlCRmhmd1ZVQVBVRFkwZ3VhWmR6cldIN0Y4MFg1RlZxejFQdEpveEJTRFZaS3NCc21lUWJlVkdaek1ta28tby1pR2JtejdxTFNZRFJmTTVxeGx5MmtneWNlN3lhVHBkUdIBiwFBVV95cUxPbTdPNzVlRkY3a3p5TXpJeGwydGhMQnhKYXJHUjFzXzVjQXlKRmprRFVBQVA5ZXdsWEVtX19nUjlKb2VJLWRSZm1UYXFxU3pNcjFubDJIU3NCRHJzVURWc2w5OVNHT3FzSFNqMlBZRHFyRlpROTE5TGF1V0p1dUpKQ29mWVBtRU01djBF?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    },
+    {
+      "title": "Trump calls off attack on Iran subject to peace deal being \"rapidly\" reached",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-kuwait-jordan-air-base/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "How a Top Law Firm Went From Standing Up to Trump to Bending the Knee",
+      "url": "https://www.nytimes.com/2026/08/02/us/politics/paul-weiss-trump.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Zelensky says Ukraine has \u2018no interceptors\u2019 as ballistic missiles hit Kyiv",
+      "url": "https://www.washingtonpost.com/world/2026/08/01/russia-hits-kyiv-with-second-ballistic-missile-assault-week/",
+      "source": "Washington Post",
+      "bias": "left-center",
+      "domain": "washingtonpost.com"
+    }
+  ],
+  [
     {
       "title": "Thousands of people under evacuation order from wildfires in Spokane, Wash.",
       "url": "https://www.npr.org/2026/08/02/g-s1-136814/washington-state-wildfires-old-trails-fire-spokane",
@@ -36,11 +115,18 @@
       "domain": "cbsnews.com"
     },
     {
-      "title": "Trump DHS chief under fire from conservatives after immigration speech ignites backlash",
-      "url": "https://www.foxnews.com/politics/trump-dhs-chief-fire-conservatives-immigration-speech-ignites-backlash",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
+      "title": "Past fires suggest effects of Europe and North America wildfires may linger for years",
+      "url": "https://www.theguardian.com/world/2026/jul/28/wildfires-europe-north-america-effects",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "Migrant deaths in Ceuta rise to 72 after border surge from Morocco",
+      "url": "https://www.aljazeera.com/news/2026/8/2/migrant-deaths-in-ceuta-rise-to-72-after-border-surge-from-morocco?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
     },
     {
       "title": "Spain pushes migrants back to Morocco as suspicions swirl over mass border breach",
@@ -50,156 +136,147 @@
       "domain": "washingtonpost.com"
     },
     {
-      "title": "Two helicopters collide as Greece battles wildfires, Hungary shuts nuclear plant",
+      "title": "Tens of thousands of migrants voluntarily leave after crossing into Spanish territory of Ceuta",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTzlVVHhpVWswMGd1LVZPeE1xOW1ENnNnbzFtTTBlOW94QV95RkM0ckM3enJHRmc1cExGLXRxTW40LW4wTkU0b3dNdHRxWGVpNWpvZkR6WVZvS2xMcjFyVmxjX0QtUXVQb3hmb0Z6a3VILTBqSFg2RkFVWUlYY0p5WXlCbjhfNUVa?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    }
+  ],
+  [
+    {
+      "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges",
+      "url": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
+    },
+    {
+      "title": "A teen was killed at a Seattle protest. New video evidence shows what really happened",
+      "url": "https://www.npr.org/2026/07/31/g-s1-133360/chop-digital",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "Ohio Rep Marcy Kaptur hospitalized after car crash on way to church",
+      "url": "https://www.foxnews.com/politics/ohio-rep-marcy-kaptur-hospitalized-after-car-crash-way-church",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Rep. Marcy Kaptur hospitalized after \"hit-skip crash\" in Toledo, police say",
+      "url": "https://www.cbsnews.com/news/marcy-kaptur-hopsitalized-toledo-hit-and-run/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Police: Bullets that killed 2 bystanders at Seattle festival weren\u2019t from teen shooter\u2019s gun",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQm1uVE5yQVZ0LThFZENOd2FrTnBGYTNwSDAtNTlfd2RSTENBczR0VTZlbVlRRHo4NnNkNHppaDF5TTU5dll2VDI4ZlFOa2E3VTNZdTMxMVBtYTBqQ3NaUHVnelRYMkc5NVdsXzZKZDU4MFdfT3A1eWY2VGhUVzVjZUdoNGNxMTdiV0FJOExNVEtEY2ticl9oNnBFekI0UjM3N18w?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    }
+  ],
+  [
+    {
+      "title": "A 13-year-old dies after participating in a Benadryl TikTok 'challenge'",
+      "url": "https://www.cnn.com/2023/04/18/us/benadryl-tiktok-challenge-teen-death-wellness/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
+    },
+    {
+      "title": "Ohio Senator Calls Former Son-in-Law Accused of Abuse Unfit for Office",
+      "url": "https://www.nytimes.com/2026/08/02/us/elections/max-miller-ohio-republican-moreno-election.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Republican senator says former son-in-law should resign from US Congress",
+      "url": "https://www.aljazeera.com/news/2026/8/2/republican-senator-says-former-son-in-law-should-resign-from-us-congress?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "Sen. Moreno says ex-son-in-law Max Miller shouldn't serve in Congress",
+      "url": "https://www.cbsnews.com/news/max-miller-bernie-moreno-ohio-congress-abuse-allegations-denial/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Ms Rachel claims 'no one needs a billion dollars,' endorses Democratic progressives Abdul El-Sayed, Cori Bush",
+      "url": "https://www.foxnews.com/media/ms-rachel-claims-no-one-needs-billion-dollars-endorses-democratic-progressives-abdul-el-sayed-cori-bush",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Two die as firefighting helicopters collide in Greece, French blaze changes course",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPU0hsUjhJMWI1WXh1VkRmYTVMdzNvcmpNeEplc3pyeHFsM0J5LU9mSzJkNk9sUXpUQ3JITERKRzlNQ004Sm9WMHplUVVyYm9UWmowQjR2ZXlscnJXc3JOMmtKTG1aWUMzNXduNENWY2Y5UFlPWEZnbUpNR1VzYV9kQjJrUGgxNXFvYnBpSVBKdlVEajBzRklYYThaWGtXb25BU0FIN0QzYlFxWmMyRVRUdnRzcHpua2xYdktsNklfQ1hpVE1zSHc?oc=5",
       "source": "Reuters",
       "bias": "center",
       "domain": "reuters.com"
     },
     {
-      "title": "How a Top Law Firm Went From Standing Up to Trump to Bending the Knee",
-      "url": "https://www.nytimes.com/2026/08/02/us/politics/paul-weiss-trump.html",
-      "source": "New York Times",
+      "title": "Firefighting helicopters collide in Greece amid European wildfire crisis",
+      "url": "https://www.cbsnews.com/news/europe-wildfire-crisis-helicopter-collision-greece-athens/",
+      "source": "CBS News",
       "bias": "left-center",
-      "domain": "nytimes.com"
+      "domain": "cbsnews.com"
     },
     {
-      "title": "Iran live updates: Trump calls off new strikes, Saudi ruler urges de-escalation",
-      "url": "https://abcnews.com/International/live-updates/iran-live-updates-tehran-progress-made-strait-hormuz/?id=135110405",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    },
-    {
-      "title": "Canadians spent $3.3bn less on travel to US in 2025 after Trump\u2019s return to office",
-      "url": "https://www.theguardian.com/world/2026/jul/28/canadians-us-travel-drop-trump",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    },
-    {
-      "title": "Saudi Crown Prince MBS urges Trump to \u2018prioritise dialogue\u2019 in US-Iran war",
-      "url": "https://www.aljazeera.com/news/2026/8/2/saudi-crown-prince-mbs-urges-trump-to-prioritise-dialogue-in-us-iran-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "Trump Says Mideast Allies Have Reached Outlines Of Deal To End Iran War, Says U.S. To Stop New Strikes",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYmo4dFBuWEVuSjU5VThEbXBLdUZSTXFmNE5QUnkteXlCRmhmd1ZVQVBVRFkwZ3VhWmR6cldIN0Y4MFg1RlZxejFQdEpveEJTRFZaS3NCc21lUWJlVkdaek1ta28tby1pR2JtejdxTFNZRFJmTTVxeGx5MmtneWNlN3lhVHBkUdIBiwFBVV95cUxPbTdPNzVlRkY3a3p5TXpJeGwydGhMQnhKYXJHUjFzXzVjQXlKRmprRFVBQVA5ZXdsWEVtX19nUjlKb2VJLWRSZm1UYXFxU3pNcjFubDJIU3NCRHJzVURWc2w5OVNHT3FzSFNqMlBZRHFyRlpROTE5TGF1V0p1dUpKQ29mWVBtRU01djBF?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    },
-    {
-      "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
-      "url": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "Russian strikes across Ukraine kill 10 and NATO scrambles jets after a missile falls in Poland",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVnV5VmFlVUF0bkZUbjdIeHZqZUFXM3Npd0NlN1p6SDlJTGlLd0F1dWhUSjFnRUozNlc1MUx2eUw5d3BMSFJvX3pLYUpYNkkyaHNWWUVETV91Um5tbG5fOXpWS0h4cWV6MkZvN1o0UEd3b3FXbkpfaVVDbER4MTlidXVaM2FSY0hGYV91ekN6aW9mWmdZREt2ckVFOU9vMU41UlpHSVRB?oc=5",
+      "title": "2 killed when firefighting helicopters collide near Athens as Europe\u2019s wildfire emergency rages",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSVVmOGN3UkdYdHBLWVhmMlFheVFwZkplU2xkekoybWZtRi0tbXFRMHBwVHpBTUlwU1RfdFVBTUhuSEVVYnQ0TFVLYXFTWlFNbDZ6Q3JhQUwtMTk0R25HRlZ4OVNKOWtwN2FzYW5Ia2NKdWFsd1U2OFdXVWFyb290dGFUT2VDREhreE5CbUxUQWlmRi1KaWlNdGVuRF80NThpckZ2c2VsSlVRTzU0aUFUVTI4RQ?oc=5",
       "source": "Associated Press",
       "bias": "center",
       "domain": "apnews.com"
+    },
+    {
+      "title": "Two helicopters collide mid-air while tackling wildfires in Greece",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_two-helicopters-crash-mid-air-wildfires-in-greece-020826?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
     }
   ],
   [
     {
-      "title": "Trans activists harass, hurl slurs at Sophie Cunningham supporters before Fever game in Minnesota",
-      "url": "https://www.foxnews.com/outkick-sports/trans-activists-harass-hurl-slurs-sophie-cunningham-supporters-fever-game-minnesota",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "Cheryl Reeve advocates for transgender athletes ahead of another Sophie Cunningham rally",
-      "url": "https://nypost.com/2026/08/02/sports/cheryl-reeve-advocates-for-transgender-athletes-ahead-of-sophie-cunningham-rally/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "Archbishop of Canterbury vows to support \u00a3100m pledge helping communities affected by enslavement",
-      "url": "https://www.theguardian.com/news/2026/jul/31/archbishop-of-canterbury-support-pledge-helping-communities-enslavement",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    }
-  ],
-  [
-    {
-      "title": "Sen Bernie Moreno calls for ex-son-in-law to resign from House, get 'serious psychological help'",
-      "url": "https://www.foxnews.com/politics/sen-bernie-moreno-calls-ex-son-in-law-resign-house-serious-psychological-help",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "Ohio Republican Denies Abuse Accusations, Deepening High-Stakes Family Feud",
-      "url": "https://www.nytimes.com/2026/08/02/us/elections/max-miller-ohio-republican-moreno-election.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    }
-  ],
-  [
-    {
-      "title": "RFK Jr torches CNN anchor Dana Bash for 'press malpractice' over COVID coverage in explosive clash",
-      "url": "https://www.foxnews.com/media/rfk-jr-torches-cnn-anchor-dana-bash-press-malpractice-covid-coverage-explosive-clash",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "RFK Jr. slams CNN\u2019s Dana Bash in fiery shouting match over over vaccines, measles and COVID: \u2018You were part of the problem\u2019",
-      "url": "https://nypost.com/2026/08/02/us-news/rfk-jr-slams-cnns-dana-bash-in-fiery-shouting-match-over-over-vaccines-measles-and-covid/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    }
-  ],
-  [
-    {
-      "title": "Two dead in firefighting helicopter crash in Greece, Fire Service says",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSGhDR0RqTHVKV24tazZCX3BDVFFjNmFSQm1UTy1jX2czb2FaTE5EcXlqRF8yRFpBREJmN0l2MmYwWkFzaWZmWlNtSTNUUURCLUNrdUhFdi03a2lGeHFFY3RncWIzVGtOR1UySG5yWGJKWWFWSUFHOE9qTVhFaWdEaGtBclJuNVVkMEdtckZIdTdFUEhLT0NKS2JsRlpQQQ?oc=5",
+      "title": "Ukrainian drones kill eight in Russia and strike Wildberries warehouse, governors say",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNalRXTDFKTmlXU19IODRKYXA1bkZiSXU2MEMxUmxBRlpjakdLenAtS3EyZ1NaR1ByOXBsc182MzRkLTRUX1R2NFNJTXMyNWt4Nm5mZlBtbEw5ZWhNM2dndjJTZElZbGhWVXhjQm93bkJ1NURwSV9GWlItZjRKTDJYdV9vRjhDYWt2SVZFWGpfNXV4UXpWNnFVeGhQZkpnMEdnMFdZYThzQmxzS0YyNEVqSEFWdkJIX19a?oc=5",
       "source": "Reuters",
       "bias": "center",
       "domain": "reuters.com"
     },
     {
-      "title": "Deadly ferry fire leaves dozens missing in Indonesia\u2019s Java Sea",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/deadly-ferry-fire-leaves-dozens-missing-in-indonesias-java-sea?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    }
-  ],
-  [
-    {
-      "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
-      "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "Palestinians in Gaza hope Hamas will disarm but fear Israeli forces won\u2019t withdraw",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNXotazUtdXc1cWk4WXhob0swYURLa1hWdHdfZGIwUS1hZWhZdVdtRS14WjZubVdUa0RzX29CekZUdUdIeWZnMi10d19iWVRFT0tpNUxaS3A4eGdaRC0yZTEtT29rYXY5bHVHLWxJZ1hMWlBHSjcxWDFHRDFHcFUyYWNHNzN5ZzBLaS1YRVdCMHpWTk9iMWctcTVTUWlZRDg3TWdncVVn?oc=5",
+      "title": "Ukrainian drones kill 5 in Russia and set fire to Wildberries warehouse",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWWdtblg2S1BkaGRZcFZVZ2d1TndRREJ6Uzd0N1BkUG5qVFFWU2ptSDNSc1NXdHBYTVBydUtSNlhfdVI5bGZLRGNvQ2JKVFFEQ09mTTZLcFJuWlVfRG5LOGNDWFZrSXEyVlJZaXVwejBkSXZKN1U5ZXpQbmlRbjRzb3JIX2JHQUc2V1pvMlphX3dFTkx6YjRSR3ctOVJXUG5aNEhNejRSOHIta1FN?oc=5",
       "source": "Associated Press",
       "bias": "center",
       "domain": "apnews.com"
+    },
+    {
+      "title": "Ukrainian drone attacks kill eight in response to Russian missiles",
+      "url": "https://www.aljazeera.com/news/2026/8/2/ukrainian-drone-attacks-kill-eight-in-response-to-russian-missiles?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
     }
   ],
   [
     {
-      "title": "Capital One cites anti-money laundering concerns in Trump Organization case",
-      "url": "https://www.aljazeera.com/economy/2026/8/2/capital-one-cites-anti-money-laundering-concerns-in-trump-organization-case?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
+      "title": "Capital One says it closed Trump Organization accounts over money-laundering concerns",
+      "url": "https://www.npr.org/2026/08/02/g-s1-136834/capital-one-trump-bank-anti-money-laundering",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
     },
     {
       "title": "Capital One Says It Closed Trump Organization's Accounts After Anti-Money Laundering Probe",
@@ -207,6 +284,61 @@
       "source": "HuffPost",
       "bias": "left",
       "domain": "huffpost.com"
+    },
+    {
+      "title": "Capital One cites anti-money laundering concerns in Trump Organization case",
+      "url": "https://www.aljazeera.com/economy/2026/8/2/capital-one-cites-anti-money-laundering-concerns-in-trump-organization-case?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    }
+  ],
+  [
+    {
+      "title": "Hungary PM flags \"critical\" days ahead with looming nuclear shutdown",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ3k3dmJWR3pfSnFZRFVOcE1KMXF6UkpsQUoyTk9JVVFLOW1XNGlLQXkxRlhnNXVuaTRnOElUT2paNnlneG1pYnNNMjhxZFVsR3R4czN3dFdab2w4S1hfZms5TC1tRDdpR3F3cGYzQnFvOVViWGtsdFdaQUpZZ1FvOFJiMl9QUk1raEF1M1BDZzdUM1NyZDB1Znp4OGlUZWdIMDRBeEptWlhpaU9BeTl2YkF6dDluS1VIRmc?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Hungary braces for a full shutdown of the Paks nuclear plant as the Danube River hits record lows",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYWtqLVNjSzJRUXMtTHZSQkQ4UXJtd2VkdlpHTHNXaDhhV3h4TkR2MTkwX0FpcldoYUtwVThOQXYxV0VmZERSOHk2bm04MkV2U2YyejJDMWQ1Y2dyQzZEcFRNYTNjQ1phRlU2M2lXMkNPWXY5TXYtdEFDaWNmUldFOVV0Vi0wWHFsZkZrcl9xS1F0VEJnd2NnNEY2UTRKNHZ2SEtrRk9ScUdpS0VGc3h1VA?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Suspected suicide bombing at police station kills at least 14 in Pakistan, officials say",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVTZuMDlfeGlmTG14UGlTZ2EtWHd6LVR1Nk9zSlE1ZDNwZ19PbTVnS1B2bktSZnMxRjFYaU9RX29Xa0djazNpRW0xVThaOHVtVW0xZTFiVURWd1dGNkd0cWV2OHNLcGI1OTVOY19JUTdTX3RiZmE0RzdHWjdTd29jLVlMNUFtM3R5cHBkNHYzbjVqYkh4eXlGNUtDYlduVkxOTG9jaWlZS1FHN2J6QjZTb00zWC1mblRzcFhsYjYwWUgxb0YxNTRYZXRPcjUxUQ?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Suicide bomber kills 14 outside police station in Pakistan\u2019s Swat",
+      "url": "https://www.aljazeera.com/news/2026/8/2/suicide-bomber-kills-14-outside-police-station-in-pakistans-swat?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    }
+  ],
+  [
+    {
+      "title": "Dodgers\u2019 $1.1 billion deferred payroll looks even wilder after Tarik Skubal trade",
+      "url": "https://nypost.com/2026/08/02/sports/dodgers-wild-1-1-billion-deferred-payroll-after-tarik-skubal-trade/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
+      "title": "Dodgers land Cy Young ace Tarik Skubal in a blockbuster deadline deal",
+      "url": "https://abcnews.com/Sports/wireStory/dodgers-land-cy-young-ace-tarik-skubal-blockbuster-135302210",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
     }
   ]
 ]

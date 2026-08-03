@@ -1,6 +1,76 @@
 [
   [
     {
+      "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
+    },
+    {
+      "title": "Oil prices drop after Trump orders US forces to hold off on new strikes against Iran",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcEZkWTg3a001MVcwRG1xUHMyZEswTmlEdWZTSjhHc0ZoTDhjcHJjeG9RajROSHJRQzV1RHQyMTJtTFo0czE3NDRnUzJlcjZZblZtRzZZRWlFODlUZEhoeU1ETzJiTlEwWGQ5RU5XS1pTV2Fib2FnWXJNRHhkRmx4MDlwUGkzTHVxcFc4VzJB?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Iran live updates: Tehran says no US talks ongoing",
+      "url": "https://abcnews.com/International/live-updates/iran-live-updates-trump-deal-imminent-iran-oman/?id=135317231",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    },
+    {
+      "title": "Warsh tightened more by pausing than by lifting rates, this bond-market veteran argues. Here\u2019s the math.",
+      "url": "https://www.marketwatch.com/story/warsh-tightened-more-by-pausing-than-by-lifting-rates-this-bond-market-veteran-argues-heres-the-math-31cb15a1?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
+    },
+    {
+      "title": "Canadians spent $3.3bn less on travel to US in 2025 after Trump\u2019s return to office",
+      "url": "https://www.theguardian.com/world/2026/jul/28/canadians-us-travel-drop-trump",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "Trump suggests new talks with Iran to begin on Monday",
+      "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "Trump Touts A \u2018Historic\u2019 Gaza Disarmament Agreement",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRUVXeGdaUWt5czNmWmxISGtNRDUxdFYzSFdBMHhzaEszVF9jazZHaExKQ2o2T3o0RWx4Y2VWT1R0dUNnYkxNMzBwSDhDYVE2SkVKRE0tYmxTck9hbkJjdnVwYjBHTlhCVHkybUlndTUyeFRqYkY2T2pBdTZYQVo2V0JWR3IzNEU?oc=5",
+      "source": "Daily Wire",
+      "bias": "right",
+      "domain": "dailywire.com"
+    },
+    {
+      "title": "DOJ to dismiss Reflecting Pool vandalism charges, citing \"botched installation\"",
+      "url": "https://www.cbsnews.com/news/doj-dismiss-david-hearn-reflecting-pool-vandalism-charges/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "The DOJ is increasingly charging ICE protesters with criminal conspiracy",
+      "url": "https://www.npr.org/2026/08/03/nx-s1-5886263/ice-dhs-immigration-enforcement-conspiracy-arrests",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "Trump to swing through California on Tuesday, Nevada on Wednesday to tout economic sucess",
+      "url": "https://nypost.com/2026/08/03/us-news/trump-to-swing-through-california-on-tuesday-nevada-on-wednesday-to-tout-economic-sucess/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
       "title": "'The Movement Has Begun': MTG Just Escalated Her Fight Against Trump In A Major Way",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMHFCM0JwNHo0dDFwVGVNOVViZVd2SVlWWDdjNVhweUhINVIyUFNsX2NQeGpqQ1oyS1dmWWpVOW1Fb2lyVzRSbDdkdzNhV3FYTmFueVE0dDRxcjluNjJ5UkhWQ1k1UG0tSE1PaV96SEphZDVPd3JQZU5nMGVyNXJWSHhoX2ExczdMX29ldkZ5YWV4QnNZTTNueFZTcW0wdi03WFpwX1RidkprZXl0SFBDeElIeDRtZlIySXfSAb8BQVVfeXFMT21Na1RObEU3V1NacHBDelRwNGtkTXg1ZWZDR2NhOGdiUzc1dWcxRzl3WHloZHY2N0NxaE94NzRDZEdEbG01ckZFbVNIdnB3Z1hYbFBHUHd6bDh5MkQ0Q0QwSi1JTzgzVDBtT2pQN0ZOMXZISkpwN2tnVFpOZnJOWWk1b295U1R1ZXY3X1QySVVCall4U2lQcENLOGZSazZjTGpaWnhMbENUMFk2ZUpJVFpZdlQ0Ukl0OTdrUjJNQUk?oc=5",
       "source": "HuffPost",
@@ -8,88 +78,11 @@
       "domain": "huffpost.com"
     },
     {
-      "title": "Police confirm 3 victims killed, 7 injured after shooting at Idaho In-N-Out",
-      "url": "https://abcnews.com/US/police-respond-active-shooter-idaho-burger/story?id=135296367",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    },
-    {
-      "title": "Police: Bullets that killed 2 bystanders at Seattle festival weren\u2019t from teen shooter\u2019s gun",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQm1uVE5yQVZ0LThFZENOd2FrTnBGYTNwSDAtNTlfd2RSTENBczR0VTZlbVlRRHo4NnNkNHppaDF5TTU5dll2VDI4ZlFOa2E3VTNZdTMxMVBtYTBqQ3NaUHVnelRYMkc5NVdsXzZKZDU4MFdfT3A1eWY2VGhUVzVjZUdoNGNxMTdiV0FJOExNVEtEY2ticl9oNnBFekI0UjM3N18w?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges",
-      "url": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
-    },
-    {
-      "title": "Twin Falls In-N-Out shooting suspect identified after 3 killed, 7 wounded",
-      "url": "https://www.cbsnews.com/news/twin-falls-idaho-in-n-out-shooting/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "Fiend killed ex in front of their 4-year-old son as he cried, \u2018Mama!\u2019 \u2014 lands 50 years in slammer",
-      "url": "https://nypost.com/2026/08/02/us-news/fiend-killed-ex-in-front-of-their-4-year-old-son-as-he-cried-mama-lands-50-years-in-slammer/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
-      "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "VIDEO: Sophie Cunningham Elbowed in the Face During Contentious WNBA Game, Refs Call Foul on Cunningham",
-      "url": "https://www.breitbart.com/sports/2026/08/02/video-sophie-cunningham-elbowed-in-the-face-during-contentious-wnba-game-refs-call-foul-on-cunningham/",
+      "title": "Abigail Spanberger Restores Voting Rights to 66,000 Virginians 'with Past Felony Convictions'",
+      "url": "https://www.breitbart.com/politics/2026/08/02/abigail-spanberger-restores-voting-rights-to-66000-virginians-with-past-felony-convictions/",
       "source": "Breitbart",
       "bias": "right",
       "domain": "breitbart.com"
-    },
-    {
-      "title": "Past fires suggest effects of Europe and North America wildfires may linger for years",
-      "url": "https://www.theguardian.com/world/2026/jul/28/wildfires-europe-north-america-effects",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    },
-    {
-      "title": "Thousands of people under evacuation order from wildfires in Spokane, Wash.",
-      "url": "https://www.npr.org/2026/08/02/g-s1-136814/washington-state-wildfires-old-trails-fire-spokane",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    },
-    {
-      "title": "Spokane Wildfires Destroy Hundreds of Buildings as Thousands Evacuate",
-      "url": "https://www.nytimes.com/2026/08/02/us/spokane-wildfires.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "Wildfires force mass evacuations across the Pacific Northwest",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_wildfires-force-evacuations-acrosspacific-northwest-020826?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "Death toll from migrant rush into Spanish enclave in North Africa rises to 72",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNenRaMVlhSGtZV3ZHSzZqZnNrcDRfVDViVDFYTElZdnRNWW5TNUlsRWZvMElrRVJ3OWlWbjBwdmFtQ2FBRGFqaF9IU1pidG9ZTzZISnUwWXN6bjBxTjFJSlRFTEc4dzJoak9ObGhuWExVazBxOVJtRnVEM0hXOEFUVkVsUVdvYWxfWmZsb3IyTWhBOWZFbHA0?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
     },
     {
       "title": "Spain pushes migrants back to Morocco as suspicions swirl over mass border breach",
@@ -99,80 +92,25 @@
       "domain": "washingtonpost.com"
     },
     {
-      "title": "President Trump celebrates Bedminster club championship, brags little practice was needed to score a 70",
-      "url": "https://www.foxnews.com/outkick-sports/president-trump-celebrates-bedminster-club-championship-brags-little-practice-needed-score-70",
+      "title": "JASON CHAFFETZ: Democrats desperately need Nancy Pelosi to take charge",
+      "url": "https://www.foxnews.com/opinion/jason-chaffetz-democrats-desperately-need-nancy-pelosi-take-charge",
       "source": "Fox News",
       "bias": "right",
       "domain": "foxnews.com"
-    }
-  ],
-  [
-    {
-      "title": "Two die as firefighting helicopters collide in Greece, French blaze changes course",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPU0hsUjhJMWI1WXh1VkRmYTVMdzNvcmpNeEplc3pyeHFsM0J5LU9mSzJkNk9sUXpUQ3JITERKRzlNQ004Sm9WMHplUVVyYm9UWmowQjR2ZXlscnJXc3JOMmtKTG1aWUMzNXduNENWY2Y5UFlPWEZnbUpNR1VzYV9kQjJrUGgxNXFvYnBpSVBKdlVEajBzRklYYThaWGtXb25BU0FIN0QzYlFxWmMyRVRUdnRzcHpua2xYdktsNklfQ1hpVE1zSHc?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
     },
     {
-      "title": "Two helicopters collide mid-air while tackling wildfires in Greece",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_two-helicopters-crash-mid-air-wildfires-in-greece-020826?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
-      "url": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "Firefighting helicopters collide in Greece amid European wildfire crisis",
-      "url": "https://www.cbsnews.com/news/europe-wildfire-crisis-helicopter-collision-greece-athens/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    }
-  ],
-  [
-    {
-      "title": "Ohio Senator Calls Former Son-in-Law Accused of Abuse Unfit for Office",
-      "url": "https://www.nytimes.com/2026/08/02/us/elections/max-miller-ohio-republican-moreno-election.html",
+      "title": "\u2018Comradely\u2019 Talks and a \u2018Deer Leader\u2019 Mascot: Scenes From the D.S.A. Summit",
+      "url": "https://www.nytimes.com/2026/08/02/us/politics/democratic-socialists-america-convention.html",
       "source": "New York Times",
       "bias": "left-center",
       "domain": "nytimes.com"
     },
     {
-      "title": "Sen. Moreno says ex-son-in-law Max Miller shouldn't serve in Congress",
-      "url": "https://www.cbsnews.com/news/max-miller-bernie-moreno-ohio-congress-abuse-allegations-denial/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "Sen. Moreno: Rep. Max Miller 'should not serve in the House' over abuse allegations",
-      "url": "https://abcnews.com/Politics/sen-moreno-calls-rep-max-miller-resign-allegedly/story?id=135307603",
-      "source": "ABC News",
+      "title": "Dangerous summers: How heatwaves and wildfires change life across Europe",
+      "url": "https://www.aljazeera.com/features/2026/8/3/new-summers-how-heatwaves-and-wildfires-change-life-across?traffic_source=rss",
+      "source": "Al Jazeera",
       "bias": "center",
-      "domain": "abcnews.go.com"
-    }
-  ],
-  [
-    {
-      "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
-      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
-    },
-    {
-      "title": "Justice Department moves to drop case against ex-Olympian charged with damaging Reflecting Pool",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR3FFR1RadzVYZW44TWxxMzcwWi1FTElMbHQwdy1sdDRYRWhxeWZnOWZMRWpEaEdodDdWTUJWaHlzd21sWmc1U2FUcjg2bjhKR1NMMUIzM19mRnEySmJ5NGpLZ0ppVzJMYUpDWkhCWm5GWEhqdU92Q2psUFVNQUFxVl9IZTFfdjB6YXA1S0RjZ2owRndsdURBM0Y3cnRPaVNrcTJUX2xB?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
+      "domain": "aljazeera.com"
     }
   ],
   [
@@ -189,51 +127,47 @@
       "source": "Breitbart",
       "bias": "right",
       "domain": "breitbart.com"
-    }
-  ],
-  [
-    {
-      "title": "Cowboys owner Jerry Jones has Tony Romo's back, believes he will 'work through' OWI arrest",
-      "url": "https://www.foxnews.com/sports/cowboys-owner-jerry-jones-tony-romo-back-believe-work-through-owi-arrest",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
     },
     {
-      "title": "WATCH:  Tony Romo on leave after DUI arrest video",
-      "url": "https://abcnews.com/video/135277042/",
-      "source": "ABC News",
+      "title": "\u2018He had a lot of profiles\u2019: The rise of online drug-facilitated rape gangs",
+      "url": "https://www.aljazeera.com/news/2026/8/3/he-had-a-lot-of-profiles-the-rise-of-online-drug-facilitated-rape-gangs?traffic_source=rss",
+      "source": "Al Jazeera",
       "bias": "center",
-      "domain": "abcnews.go.com"
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "Anti-LGBTQ+ laws are on the rise across west Africa, campaigners warn",
+      "url": "https://www.theguardian.com/world/2026/aug/02/anti-lgbtq-laws-are-on-the-rise-across-west-africa-campaigners-warn",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
     }
   ],
   [
     {
-      "title": "Hungary PM flags 'critical' days ahead with looming nuclear shutdown",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ3k3dmJWR3pfSnFZRFVOcE1KMXF6UkpsQUoyTk9JVVFLOW1XNGlLQXkxRlhnNXVuaTRnOElUT2paNnlneG1pYnNNMjhxZFVsR3R4czN3dFdab2w4S1hfZms5TC1tRDdpR3F3cGYzQnFvOVViWGtsdFdaQUpZZ1FvOFJiMl9QUk1raEF1M1BDZzdUM1NyZDB1Znp4OGlUZWdIMDRBeEptWlhpaU9BeTl2YkF6dDluS1VIRmc?oc=5",
+      "title": "Myanmar's detained former leader Aung San Suu Kyi meets Red Cross official",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRjJySG5fWC1faXFlRjYzYndjVkNQMVhTQ1BHalhDVklUZ3d5TzY2R29lUzFaSTNCaGNWNzVDd0JTY3c2MDZTWm9tbmJFWGtpSl9ldDN4NkVuOV9NaURPNWxKODdJZDZmQ0RqbDNzaUMtc3RwUTJ2UW5RR0ZKdzItbjVuWEVIRjZROFgtbnh6SFkyTElUVG9DdTdiclNzdU5hZWEzS05GRFh6bHJnYy03d2NSenhmZWV3Uy1fR19B?oc=5",
       "source": "Reuters",
       "bias": "center",
       "domain": "reuters.com"
     },
     {
-      "title": "Hungary braces for a full shutdown of the Paks nuclear plant as the Danube River hits record lows",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYWtqLVNjSzJRUXMtTHZSQkQ4UXJtd2VkdlpHTHNXaDhhV3h4TkR2MTkwX0FpcldoYUtwVThOQXYxV0VmZERSOHk2bm04MkV2U2YyejJDMWQ1Y2dyQzZEcFRNYTNjQ1phRlU2M2lXMkNPWXY5TXYtdEFDaWNmUldFOVV0Vi0wWHFsZkZrcl9xS1F0VEJnd2NnNEY2UTRKNHZ2SEtrRk9ScUdpS0VGc3h1VA?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    }
-  ],
-  [
+      "title": "Rare photos of ex-Myanmar leader Aung San Suu Kyi give her family hope",
+      "url": "https://www.npr.org/2026/08/03/nx-s1-5917915/aung-san-suu-kyi-myanmar-rare-photos-kim-aris",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
     {
-      "title": "Burnham pledges to be 'relentless' in curbing small boat crossings",
-      "url": "https://www.bbc.co.uk/news/articles/c3r0v952ny3o?at_medium=RSS&at_campaign=rss",
+      "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
+      "url": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "bias": "center",
       "domain": "bbc.com"
     },
     {
-      "title": "UK PM Burnham vows to be \u2018relentless\u2019 on Channel migrant crossings",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/uk-pm-burnham-vows-to-be-relentless-on-channel-migrant-crossings?traffic_source=rss",
+      "title": "Myanmar releases first images of Aung San Suu Kyi since 2021 military coup",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/08-03-2026-aung-san-suu-kyi-pictures-sv?traffic_source=rss",
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
@@ -241,34 +175,137 @@
   ],
   [
     {
-      "title": "Plug-In Solar Panels Are Starting to Sprout in U.S. Backyards",
-      "url": "https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
+      "title": "Ariana Grande to take a break from public life citing 'endless, ongoing scrutiny'",
+      "url": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
     },
     {
-      "title": "Rep. Turner says infrastructure should be \"hardened\" as U.S. probes water cyberattack",
-      "url": "https://www.cbsnews.com/news/rep-mike-turner-infrastructure-hardened-iran-cyberattack-water/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
+      "title": "Ariana Grande Will Take A Break After Tour And 'Endless, Ongoing Public Scrutiny'",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMFRQdDh4aUg3dzJnb0pKUVc5WjhjUEJqNURQRWcyYkVUX3NMc3gycmVoakRzU2FOMXc1OURhUkVmWW9id0dETjFqZXdSTEg5eTdweVJ6RUozc2I3cDUwNlBNRXZCS1NvcHZkajM5RjhEcUY5UUhpZmlmQkdySmNlZEhiSFl5N2pGMnh0Y2xYU1EyYlhXVk1UcDJ5MkbSAaIBQVVfeXFMTUZLcGt2ODNVSXgwX0NraEhXS3Q4dlhOR1pqLVIzalVxTENSMEhxRzFEMUxpQWtfRVc3cko0Q0dmd2dURWlobTlxTWt0bTZTYk8xNlIzX3NpZ0F1bHZfcGdhMHNfd1hJYWlRUWJ1UERQREFEOWxmZWZxMjhXZFRLVllCTEVBT1AwRnBQLVNYdTIwNWd3dE9fbTdPbDlmSk4wYTNn?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    },
+    {
+      "title": "Jasprit Bumrah ruled out of Sri Lanka Test series due to injury",
+      "url": "https://www.aljazeera.com/sports/2026/8/3/jasprit-bumrah-ruled-out-of-sri-lanka-test-series-due-to-injury?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
     }
   ],
   [
     {
-      "title": "AI-assisted staging draws boos at the Richard Wagner festival in Germany",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY3ozYU5WMW5HQTZ6cTJUaWk1dWxtRmVmQXhFOTBxa25rWUpZYVZPTHBsaXRwcFE5d3hCX2NtLU42cWk5Nm9LVHhhaDN4VWFKSWl5cHBNQUI5MFQ5U2JKUHh4cVF3Zk1MeTRrMndfenkyZmJqQ2RyTWsxYkRGTXJJUk54UndCak5BQXVVdmZtdDRsbWhpaENHS1lsWQ?oc=5",
+      "title": "Gavin Williams' perfect game bid leads to benches-clearing altercation between Guardians and Diamondbacks",
+      "url": "https://www.foxnews.com/sports/gavin-williams-perfect-game-bid-leads-benches-clearing-altercation-guardians-diamondbacks",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Archbishop of Canterbury vows to support \u00a3100m pledge helping communities affected by enslavement",
+      "url": "https://www.theguardian.com/news/2026/jul/31/archbishop-of-canterbury-support-pledge-helping-communities-enslavement",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    }
+  ],
+  [
+    {
+      "title": "Russia's Wildberries says warehouse in Vladimir region is on fire after Ukrainian drone attack",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOU9OREpRMlEtczBGTWExZ2lIZ2pMRVlKSV9hcEx6b1NGam9YcDVEV3g3YmRSRmNKYk5YUUJZWlQ4cUNRMW9mX2JxcHVPdWc3czBDQjQ1TGhEV2Q0WEJncS0zV0Z4dk5XbTFTU1drNUZJbnEtek9tcGRIWlJLdGhpWnVQVG1TVDY4aHhXN2NTYzZkOUJDWmluaUJ2NWU4RGM3WFVQNy00enRNblVXdnlvNXowbzJYZTNYdUZ2Yjlucw?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Ukrainian drones kill 5 in Russia and set fire to Wildberries warehouse",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWWdtblg2S1BkaGRZcFZVZ2d1TndRREJ6Uzd0N1BkUG5qVFFWU2ptSDNSc1NXdHBYTVBydUtSNlhfdVI5bGZLRGNvQ2JKVFFEQ09mTTZLcFJuWlVfRG5LOGNDWFZrSXEyVlJZaXVwejBkSXZKN1U5ZXpQbmlRbjRzb3JIX2JHQUc2V1pvMlphX3dFTkx6YjRSR3ctOVJXUG5aNEhNejRSOHIta1FN?oc=5",
       "source": "Associated Press",
       "bias": "center",
       "domain": "apnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Cuba plunges into darkness as electric grid collapses",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMTdFbGhVSWlfdzZ3aWduVjdUeTFvMnBFVFhaMjg4SkhrMXJlcnFtWTlWTTdnRjNLMzRCNHg4Tm9OTlpkM2c3QlFGR2RuejZnNlM5R182b09EbXQ4dG5RaEJjSHNDRjhtOS1aY05DZlAtQWlMZVBHdE1yY0xFb29yazdJeW03ZXVGcXZSQ2FLOFlremVCcGZ0ckZobkFqRG9fZGc?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
     },
     {
-      "title": "AI-Assisted Staging Draws Boos at the Richard Wagner Festival in Germany",
-      "url": "https://www.breitbart.com/europe/2026/08/02/ai-assisted-staging-draws-boos-at-the-richard-wagner-festival-in-germany/",
+      "title": "Grid failure plunges Cuba into nationwide blackout",
+      "url": "https://www.aljazeera.com/news/2026/8/3/grid-failure-plunges-cuba-into-nationwide-blackout?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    }
+  ],
+  [
+    {
+      "title": "English FA set to withdraw support for Fifa president Infantino",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "Wales FA withdraws support for Infantino re-election after FIFA stake plan",
+      "url": "https://www.aljazeera.com/sports/2026/8/3/wales-fa-withdraws-support-for-infantino-re-election-after-fifa-stake-plan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    }
+  ],
+  [
+    {
+      "title": "New Spider-Man film sees second-biggest ever global opening weekend",
+      "url": "https://www.bbc.co.uk/news/articles/c3w052le2elo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "\u2018Spider-Man: Brand New Day\u2019 Nets Historic Opening Weekend",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWlZBd0hYMzFkNVd5RHJMZXpSUTdRNnFGYklPY0hpZm9keHNYSThFOW5UNFhwbUVnbUdvZml3MjhNWEdmS0RQNGw5aFo2S1Z5eS1mSzAwWlVraEwwWjhLUThvdHpWRjRrR25xZUtwTWZWNlkza0xqSzROUWx3emFxdjBvWmlMa2RTSFE4QURjZVVEeWt6V004aGRyT1VvbnlnaGwtRDVkMjdPZmpLRjY2V0kwNENzN2tEREY0b1VaVk9pSW_SAcgBQVVfeXFMUEtabGd3UUxmRkFJTXU3bk1iYXFROUZHRE9zMEtUOE8xWWFLWklRMWZVYjlhQWVQRUxoa1p4TEtoQTNpdURvY1NHbmRuQUtkZ0R6OWpBWGpkQTdLY1hqcHZ4VGw5VERCSVdDaVIxeVJtMXBmZVlmbm5XWXhONk9vUldkWWZrSlR6V2RRSVpJVEM0d3hyRVdoeFA5Yk90aXJHdlhOUUFXN2xIcDVoMmpqS25WaFROc3FJeUMyZ3ItbHV1b2FjVk15NWU?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    }
+  ],
+  [
+    {
+      "title": "Mamdani Just Handed The Internet Thousands Of Names And Addresses",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONVpqTk1UU3R5cUZxYmlHQTh6VlM5aklSMzVvWUFVcjhWaElGNUtWT3psLW9nOXRTWXRReTlLajZoWWlTR3VORERnazlvNGM4UHotSFh1YlNKSmdNYk9zVUpRNHV1bDNLMkJib3dKZ3ItVFRLZVFWU3VQSERoS2lEZWwwbTREMHY0ZTJaZTE2RVI0Z2M2QkE?oc=5",
+      "source": "Daily Wire",
+      "bias": "right",
+      "domain": "dailywire.com"
+    },
+    {
+      "title": "Mamdani Outs His Own Celebrity Backers in Searchable Homeowner Tax List \u2018For His Islamic Loving Comrades to Loot\u2019",
+      "url": "https://www.breitbart.com/entertainment/2026/08/02/mamdani-outs-his-own-celebrity-backers-in-searchable-homeowner-tax-list-for-his-islamic-loving-comrades-to-loot/",
       "source": "Breitbart",
       "bias": "right",
       "domain": "breitbart.com"
+    }
+  ],
+  [
+    {
+      "title": "HIV prevention drug could reduce cases globally but USAID cuts prevent access, say experts",
+      "url": "https://www.theguardian.com/society/2026/jul/31/hiv-aids-medication-usaid-cuts",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "Some in Gen Z ditching smartphones",
+      "url": "https://www.cbsnews.com/video/some-in-gen-z-ditching-smartphones/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
     }
   ]
 ]

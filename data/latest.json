@@ -1,32 +1,11 @@
 [
   [
     {
-      "title": "Dem senator accuses Pentagon of murder with boat strikes targeting drug traffickers",
-      "url": "https://www.foxnews.com/politics/dem-senator-accuses-pentagon-murder-boat-strikes-targeting-drug-traffickers",
+      "title": "Trump administration's immigration push fuels ICE's biggest arrest month in agency history",
+      "url": "https://www.foxnews.com/us/trump-administration-immigration-push-fuels-ice-biggest-arrest-month-agency-history",
       "source": "Fox News",
       "bias": "right",
       "domain": "foxnews.com"
-    },
-    {
-      "title": "WATCH:  Trump on latest Iran negotiations: 'This is the last chance'",
-      "url": "https://abcnews.com/video/135333956/",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    },
-    {
-      "title": "Oil prices drop after Trump orders US forces to hold off on new strikes against Iran",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcEZkWTg3a001MVcwRG1xUHMyZEswTmlEdWZTSjhHc0ZoTDhjcHJjeG9RajROSHJRQzV1RHQyMTJtTFo0czE3NDRnUzJlcjZZblZtRzZZRWlFODlUZEhoeU1ETzJiTlEwWGQ5RU5XS1pTV2Fib2FnWXJNRHhkRmx4MDlwUGkzTHVxcFc4VzJB?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "No new negotiations planned despite Trump comments, U.S. officials tell CBS News",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-us-denies-negotiations-begin-strikes-called-off/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
     },
     {
       "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
@@ -36,11 +15,74 @@
       "domain": "bbc.com"
     },
     {
-      "title": "Republican Holdouts Say They\u2019ll Back Blanche After Assurances on I.R.S. Deal",
+      "title": "Ripple effects: After Hearn, three others have their Reflecting Pool charges dropped",
+      "url": "https://www.npr.org/2026/08/03/nx-s1-5918001/reflecting-pool-vandalism-charges-dropped",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "Hundreds of migrant minors stranded in Ceuta after border crisis",
+      "url": "https://www.aljazeera.com/news/2026/8/3/hundreds-of-migrant-minors-stranded-in-ceuta-after-border-crisis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "Capital One says it closed Trump bank accounts 'for anti-money laundering reasons'",
+      "url": "https://abcnews.com/US/capital-closed-hundreds-trumps-bank-accounts-2021-anti/story?id=135273257",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    },
+    {
+      "title": "Todd Blanche Wins Over G.O.P. Holdouts on AG Confirmation After Assurances on Trump IRS Deal",
       "url": "https://www.nytimes.com/2026/08/03/us/politics/todd-blanche-trump-irs-fund-order.html",
       "source": "New York Times",
       "bias": "left-center",
       "domain": "nytimes.com"
+    },
+    {
+      "title": "Oil prices drop after Trump orders US forces to hold off on new strikes against Iran",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcEZkWTg3a001MVcwRG1xUHMyZEswTmlEdWZTSjhHc0ZoTDhjcHJjeG9RajROSHJRQzV1RHQyMTJtTFo0czE3NDRnUzJlcjZZblZtRzZZRWlFODlUZEhoeU1ETzJiTlEwWGQ5RU5XS1pTV2Fib2FnWXJNRHhkRmx4MDlwUGkzTHVxcFc4VzJB?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Pro-Migrant Advocates Flood Courts with Deluge of Immigration Lawsuits",
+      "url": "https://www.breitbart.com/immigration/2026/08/03/pro-migrant-advocates-flood-courts-with-deluge-of-immigration-lawsuits/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
+    },
+    {
+      "title": "Michigan reports first US deaths in cyclosporiasis outbreak",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbW9icDFxQ3hEUUY5eV9ubnhsUURuNnpiX0RKbW1BUWRkRGp5ZWVXdnEzdklrMUdtODByVC02T0NxZG9YRGlWYklzNkN3X21kRTNDZlo0Um50Q2hDY0JreUFHcXUwZHh4TFZMVjVheVB0N2lPd0c5RzZNQ05relhmNnhlaUx6NU5MNXQxS0pJY0lOc1hsOHlYbGJYVTZHRy1xRmFOLXlMU1BWUEZ4SmNiOXNmNkFyNlVmZnR1bXVqWlZ4WFdnTzBDZEpBOA?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "An AstraZeneca, Bristol Myers Squibb merger could create a cancer-drug giant, but analysts call it \u2018odd\u2019",
+      "url": "https://www.marketwatch.com/story/astrazeneca-tie-up-talks-with-bristol-myers-squibb-are-moving-stocks-analysts-are-puzzled-7ae60fef?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
+    },
+    {
+      "title": "Michigan Reports Two Deaths In Ongoing Cyclosporiasis Outbreak",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ252cHpsV1dsQml2WGg5aWY1a1UtVko4RVN3bzVucm5GRTI3ZVhES0YtTFFrd2lFT2JpZHd1MkduVU04UkdpZDJfRDJmbWstWDVUZ0lZMW9tTXJmWUt1YjJEdlRxdHBZQ2swUWJaUHhtMENOdUo4OXp0RmQzeTVtZzJocmdYWlNiZHNESEtwQUNkb3Zjem5xZWxB0gGfAUFVX3lxTFBiYm56UzlUWHg5MlM1emxGcFZNbnNoUnVXLXh1QlowZldyeExvTEx2Vkh0WEZJVUJoTnlCYVlVOXgtLWFNdnl0WFpJWFRkRFoySEFGSjdOeDA2bzEtSER6VzJOUUZSSW55S3llOFA3U0Z1ZGh0VWNwWGFQR1FlSnJjZ0ZOOC1SdkdMTGZ2b0RYQVJfY183TjBwdFhQbEVXVQ?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    },
+    {
+      "title": "Michigan health officials report 2 deaths among cyclosporiasis cases",
+      "url": "https://www.cbsnews.com/news/cyclosporiasis-cases-michigan-two-deaths/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
     },
     {
       "title": "Canadians spent $3.3bn less on travel to US in 2025 after Trump\u2019s return to office",
@@ -48,57 +90,22 @@
       "source": "The Guardian",
       "bias": "left-center",
       "domain": "theguardian.com"
-    },
-    {
-      "title": "Brutal Montage Shows Donald Trump\u2019s Former Biggest Fans Turning On Him",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQkUyZW84Sm1jNl9RazVZWUpmQXBMbXRROEp1MXM2TUcxRnZHZDVqVHJFekg1QTFnenNKZW0yeFZueE5TLVRnWlBZUUpzbEZrT1RzQWdxbXBBeEhxWUZWVVlMMElxLURES2FSaVVxNDItZmRfeHlTSWZwWTZaZDA4NGlVNWZibEE4ZjZ3V05qZ9IBlAFBVV95cUxPRzV6OW5sZWRFbWtlVjRWTm4xeTJtTFBFNUkweUY3aHFIVzFHMXhsY3R6aFEzaVlVTTdZeDcyRE5aZEltOC1DVFFaaEF0Z3JiMHJpTUt6RTFya09kM1F1bWtpZkxPOWxTNVhycmM3eVFoVXJucjhVUG5QRHFDZ0FZTF9Nam90d3l4SkdRbE9DVUJyck5l?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    },
-    {
-      "title": "Trump says Iran faces 'decapitation' if it doesn't strike deal",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbWpzQ3dqaWdURjZva2hpRmpXbFNWNWFsQnlRTDF5YlpCTlBBVGxEYWZYVEhLMl84aHdvdzBhUUhxeVBqWWVHWTR5dEpleS1XY0wwR0V4N1JaMkNOaUdvWGgwWHZ0d2hubUVNU2MxMUY5dnVaS05fTlhja0JEWGp3SEdMRmswbEVIUmY1clZWdEExNDNQTFpVelhla3o0alFQS2c?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "SpaceX\u2019s stock is down nearly 50% from its high. Why it\u2019s still not a bargain.",
-      "url": "https://www.marketwatch.com/story/spacexs-stock-is-down-nearly-50-from-its-high-why-its-still-not-a-bargain-65b528ad?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
-    },
-    {
-      "title": "Actress Patricia Heaton Supports Banning Zohran Mamdani From 9/11 Anniversary Ceremony",
-      "url": "https://www.breitbart.com/entertainment/2026/08/03/actress-patricia-heaton-supports-banning-zohran-mamdani-from-9-11-anniversary-ceremony/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
-    },
-    {
-      "title": "US announces first two deaths from cyclospora outbreak",
-      "url": "https://www.aljazeera.com/news/2026/8/3/us-announces-first-two-deaths-from-cyclospora-outbreak?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "Photos: Wildfires in Spokane lead to thousands of evacuations",
-      "url": "https://www.npr.org/sections/the-picture-show/2026/08/03/g-s1-137003/photos-wildfires-in-spokane-lead-to-thousands-of-evacuations",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
     }
   ],
   [
     {
-      "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
-      "url": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
+      "title": "Newly released video shows scene of Jeremy Renner's snowplow accident",
+      "url": "https://www.cnn.com/videos/us/2023/04/18/jeremy-renner-snowplow-accident-bodycam-nc-melas-contd-vpx.cnn",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
+    },
+    {
+      "title": "HEAR IT: Mom's frantic 911 call after thief steals Instacart driver's car with toddler inside",
+      "url": "https://www.foxnews.com/us/moms-frantic-911-call-thief-steals-instacart-drivers-car-toddler-inside",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
     },
     {
       "title": "Drone slams into Russian beach, killing at least 7 people",
@@ -115,27 +122,71 @@
       "domain": "theguardian.com"
     },
     {
+      "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
+      "url": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
       "title": "3 people killed, at least 21 wounded in Moscow restaurant bombing, Russian officials say",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOREZzVE1SRk1LT3VOa2ZWa1RvNVMxdXF5UXFDcl8tV1FreFhsc19NdjBOWWRpRVhvRTZuSjFVVmhuZXU2MzEyMF82RWdib1ZqaDdUYllEeUdnSDRGLWpMNS1GWU1ZLVItTC1mTTRCOEszcGxseUJSWXk3TVVnUmpXV1VzX2I1LUNobEln?oc=5",
       "source": "Associated Press",
       "bias": "center",
       "domain": "apnews.com"
-    },
-    {
-      "title": "Funeral held for family \"wiped off the map\" in Russian strike",
-      "url": "https://www.cbsnews.com/news/family-killed-russia-strike-funeral-ukraine/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
     }
   ],
   [
     {
-      "title": "USMNT agree to new contract with coach Mauricio Pochettino through 2030 World Cup as obvious theme emerges",
-      "url": "https://www.foxnews.com/outkick-sports/usmnt-agree-new-contract-coach-mauricio-pochettino-through-2030-world-cup-obvious-theme-emerges",
+      "title": "Abdul El-Sayed on socialist labels, who he thinks belongs in the Democratic Party",
+      "url": "https://www.cbsnews.com/video/abdul-el-sayed-on-socialist-labels-who-he-thinks-belongs-in-the-democratic-party/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "El-Sayed, Stevens face off in Michigan Democratic Senate primary",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/el-sayed-stevens-face-off-in-michigan-democratic-senate-primary?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "California Democrats Support Billionaire Tax, but Infighting Lingers",
+      "url": "https://www.nytimes.com/2026/08/03/us/california-democrats-billionaire-tax.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Mexican Town Set Ablaze After Military Arrests Terrorist Cartel Leader",
+      "url": "https://www.breitbart.com/border/2026/08/03/cartel-sets-fire-to-town-after-mexican-military-arrests-leader/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
+    },
+    {
+      "title": "Rare photos of ex-Myanmar leader Aung San Suu Kyi give her family hope",
+      "url": "https://www.npr.org/2026/08/03/nx-s1-5917915/aung-san-suu-kyi-myanmar-rare-photos-kim-aris",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    }
+  ],
+  [
+    {
+      "title": "Red Sox land three-time All-Star Adley Rutschman, swoop in ahead of Yankees to reach deal with Orioles: report",
+      "url": "https://www.foxnews.com/sports/red-sox-land-three-time-all-star-adley-rutschman-swoop-ahead-yankees-reach-deal-orioles-report",
       "source": "Fox News",
       "bias": "right",
       "domain": "foxnews.com"
+    },
+    {
+      "title": "Zac Brown Band surprises 37,000 Fenway Park concert fans with free cruises",
+      "url": "https://www.cbsnews.com/news/zac-brown-band-fenway-park-boston-concert-free-cruise-ship-vacations/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
     },
     {
       "title": "U.S. men's national team coach Mauricio Pochettino will stay through 2030 World Cup",
@@ -154,18 +205,41 @@
   ],
   [
     {
-      "title": "GOP lawmaker's gifts, 'effusive affection' toward young staffers detailed in explosive ethics report",
-      "url": "https://www.foxnews.com/politics/gop-lawmakers-gifts-effusive-affection-toward-young-staffers-detailed-explosive-ethics-report",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
+      "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges",
+      "url": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
     },
     {
-      "title": "House Ethics recommends censure for GOP lawmaker in sexual harassment probe",
-      "url": "https://www.cbsnews.com/news/chuck-edwards-house-ethics-committee-sexual-harassment-probe/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
+      "title": "Idaho fast food restaurant shooting leaves 3 dead and 7 injured, city spokesman says",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYW9uN0pxS05KdmgwSlBrYXdBTjBJTDY2N05QS2FSbUIycnRaR3ZnYTdBVTU5OUxpWnpGZnJUS0tVUWR0dFJIbGNKZGVYZEdxS3RfZjk1bHVnc3h3TTRHN2g1TUFMRU8yZHk3NnE0elkzZXFtUEwxRWNuZjktOTdmcGpCbUxYQW9vM05nZUZ3?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "WATCH:  America Strong: Lifeguard heroically\u00a0who rescues boy\u00a0speaks out for\u00a0the\u00a0first time",
+      "url": "https://abcnews.com/video/135298185/",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    }
+  ],
+  [
+    {
+      "title": "Millions in the US could face massive consequences unless McCarthy can navigate out of a debt trap he set for Biden",
+      "url": "https://www.cnn.com/2023/04/18/politics/mccarthy-biden-debt-ceiling/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
+    },
+    {
+      "title": "Ex-Trump Aide Spells Out How White House Is \u2018Gaslighting\u2019 Its Own Supporters Right Now",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSEN6MXlnTVZiaHJlVnkxX0tkUTkwTnVya3cyX0dDNkJkZVJ4SnViZ2tuLThKc1lDQkViUWNLX0dCa0JSZE4zVWYtVUZaR3RWMWREVmVqUTdySFBNNXhCeFJEWHRzQ21MZERGbVFRLW5xNUFpOWhNVnh1c1h1Rm9yNjBwX1h5ZEd6YXFtekNKZWdtNl8tOEwwREUyZXBud9IBowFBVV95cUxOcEk1R1YzSk5BaWVIcGhZeVVjNTF3WnI5RDNmQndCdDU0OGo5dnhOcnlINU9WbGg1NmIwd3l5aFowY3dZZDlRTVprRmVyTThXaFJYQkZ5UDJ4WGpJdnBUMUFRLXVZZnREOGZYN25CWXVLVUl3Qk1ydm1VbDRMOHNJR2l4bUFGZXhCVk93NzBPTmM0VkxGV3ZHd2hjMktmaWZGel9B?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
     }
   ],
   [
@@ -177,8 +251,8 @@
       "domain": "reuters.com"
     },
     {
-      "title": "We found the best ticket prices for Garth Brooks\u2019 four Denver concerts",
-      "url": "https://nypost.com/2026/08/03/ticket-sales/get-tickets-for-garth-brooks-2026-denver-ball-arena-concerts/",
+      "title": "US manufacturing hits 4-year high, with AI buildout a major driver of growth, though price volatility looms: survey",
+      "url": "https://nypost.com/2026/08/03/business/us-manufacturing-hits-4-year-high-with-ai-buildout-a-major-driver-of-growth-though-price-volatility-looms-survey/",
       "source": "New York Post",
       "bias": "right",
       "domain": "nypost.com"
@@ -186,50 +260,18 @@
   ],
   [
     {
-      "title": "Serbia, Sweden follow Wales in withdrawing support for Infantino re-election",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQm1tTGRXdDNDdFJ6UjEtVU9hOGpEY0RPZG1feFlLU09pdnF3OTZjNnYzZ0RoX1oxUC1MdHNjRnR4S0J6R3BMamFVeU9aUFFpZkpYTGZzWEo1RnJjZ0dNbXNnWlF6c2F4TnpKaDNncXh3djF5OURvaU9Qc2lZX3I2NFd4RGJ5NmRGcmswTGpnNmpmdExTS1hBQ0V3Y2ZVT1pkWnF4YXJ3SG01SHFKWGR1QlVzWU5KTkk?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "Infantino opponents threaten 'non co-operation' with Fifa",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    }
-  ],
-  [
-    {
-      "title": "Inside city gripped by deadly protests in Pakistan-administered Kashmir",
-      "url": "https://www.bbc.co.uk/news/videos/cm2gwmy9gppo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "Inside the Palestine Action protests",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/inside-the-palestine-action-protests?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    }
-  ],
-  [
-    {
-      "title": "Romanian navy blasts riverbed to protect nuclear plant",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/romanian-navy-blasts-riverbed-to-protect-nuclear-plant?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "Hungary braces for a full shutdown of the Paks nuclear plant as the Danube River hits record lows",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYWtqLVNjSzJRUXMtTHZSQkQ4UXJtd2VkdlpHTHNXaDhhV3h4TkR2MTkwX0FpcldoYUtwVThOQXYxV0VmZERSOHk2bm04MkV2U2YyejJDMWQ1Y2dyQzZEcFRNYTNjQ1phRlU2M2lXMkNPWXY5TXYtdEFDaWNmUldFOVV0Vi0wWHFsZkZrcl9xS1F0VEJnd2NnNEY2UTRKNHZ2SEtrRk9ScUdpS0VGc3h1VA?oc=5",
+      "title": "FBI investigates as Michigan joins Minnesota in reporting cyberattacks on its water systems",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPejV5NEdoc3dyRHhtTTZXUVlOQXI0a0JIMjhOOWtGZ2xvNzlPS2h6WnJ0d25LejIwNDB4TzFYZWRFNk1CaUVQVXp1ZTdpXzNieFFRVUFYUHNfa2tKRGwzRWwwbElHa0dDcmc4Xzl1Y2hfN1JjYkpoVEhsZ2dEbkQweWk0RUxueW5JcW1ybGY0RUZUUFhGRzNadXJ5WQ?oc=5",
       "source": "Associated Press",
       "bias": "center",
       "domain": "apnews.com"
+    },
+    {
+      "title": "FBI Warns of Cyberattacks on Municipal Water Systems Across Seven States",
+      "url": "https://www.breitbart.com/tech/2026/08/03/fbi-warns-of-cyberattacks-on-municipal-water-systems-across-seven-states/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
     }
   ]
 ]

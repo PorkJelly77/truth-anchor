@@ -1,36 +1,64 @@
 [
   [
     {
-      "title": "Trump threatens Iran with \"decapitation\" as ship struck in Strait of Hormuz",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-us-denies-negotiations-begin-strikes-called-off/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
+      "title": "Ex-Trump White House press secretary seeks restraining order against Rep. Max Miller",
+      "url": "https://nypost.com/2026/08/04/us-news/ex-trump-white-house-press-secretary-seeks-restraining-order-against-rep-max-miller/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
     },
     {
-      "title": "Status of US-Iran talks uncertain as ship struck in Hormuz",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaUY3M2pidURfcVlodzZaVEctbGNSYS1rNlJrR21pQm8yVm50U05QSmRlWURQWWh5UklWZUVMVmlRdzhmbVJrN05IdVNXVW83T3l1TUo0ZjJTMzNURzlOdmNMM2YxY2JwVHQtby1aTFVfZmFnSjRFT0hSaHlzeW50XzNPcUZROG13MUxxNVMwdGd3UkR2cTgyeURHNERQWlUxeFJYR1ln?oc=5",
-      "source": "Reuters",
+      "title": "Oil prices slump as Qatar and Bessent note talks to reopen Strait of Hormuz",
+      "url": "https://www.marketwatch.com/story/oil-prices-rise-after-vessel-reports-being-hit-in-strait-of-hormuz-db6ce867?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
+    },
+    {
+      "title": "\u2018One last chance\u2019: The times Trump threatened Iran, said deal imminent",
+      "url": "https://www.aljazeera.com/features/2026/8/4/one-last-chance-the-times-trump-threatened-iran-said-deal-imminent?traffic_source=rss",
+      "source": "Al Jazeera",
       "bias": "center",
-      "domain": "reuters.com"
+      "domain": "aljazeera.com"
     },
     {
-      "title": "Sailors Working in Strait of Hormuz Are Caught in Crossfire of Iran War",
-      "url": "https://www.nytimes.com/2026/08/04/business/iran-strait-hormuz-shipping-sailors.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
+      "title": "Trump optimistic Iran talks will reopen strait, and other developments in the Middle East",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeXk4T2kzT3g2bk5zc040bF9IVk1UTlB2WXNoa2tPTldBbjdRY0F6dFo5dk1YY1N1YUFFaFpONHdWeG9YaENDaG9KcExEUHJCdUYwdEV1c3lGMURoenctSVlaUW93ODYwUi1SSGdRd3lWNkpGazlMYndZT0p3TzhWZ3lEWVBSZDdFblJVbnpIZnhLWTNvc2h0MU81SHJRNDBrb3c?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
     },
     {
-      "title": "Trump keeps making threats. Washington and the world have stopped flinching.",
+      "title": "Iran live updates: Diplomatic efforts to end war ongoing, Qatari official says",
+      "url": "https://abcnews.com/International/live-updates/iran-live-updates-trump-deal-imminent-iran-oman/?id=135317231",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    },
+    {
+      "title": "Trump keeps making threats. The world has stopped flinching.",
       "url": "https://www.washingtonpost.com/world/2026/08/04/trump-keeps-making-threats-washington-world-have-stopped-flinching/",
       "source": "Washington Post",
       "bias": "left-center",
       "domain": "washingtonpost.com"
     },
     {
-      "title": "MORNING GLORY: President Trump\u2019s triple bogey",
-      "url": "https://www.foxnews.com/opinion/morning-glory-president-trumps-triple-bogey",
+      "title": "Here's what to know about the candidates in Michigan's closely watched Senate primary",
+      "url": "https://www.cbsnews.com/video/heres-what-to-know-about-the-candidates-in-michigans-closely-watched-senate-primary/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "5 states hold primaries today. And, Spokane police arrest man connected to wildfire",
+      "url": "https://www.npr.org/2026/08/04/g-s1-137277/up-first-newsetter-michigan-primaries-todd-blanche-spokane-wildfires-chuck-edwards",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "Michigan primary puts Democratic Party divide to the test and more top headlines",
+      "url": "https://www.foxnews.com/us/michigan-primary-puts-democratic-party-divide-test-more-top-headlines",
       "source": "Fox News",
       "bias": "right",
       "domain": "foxnews.com"
@@ -43,39 +71,11 @@
       "domain": "huffpost.com"
     },
     {
-      "title": "Past fires suggest effects of Europe and North America wildfires may linger for years",
-      "url": "https://www.theguardian.com/world/2026/jul/28/wildfires-europe-north-america-effects",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    },
-    {
       "title": "Democrat Wisconsin Gubernatorial Candidate Francesca Hong Said She Left Restaurant Due to 'Too Many Old White People'",
       "url": "https://www.breitbart.com/politics/2026/08/03/wisconsin-francesca-hong-left-restaurant-too-many-old-white-people/",
       "source": "Breitbart",
       "bias": "right",
       "domain": "breitbart.com"
-    },
-    {
-      "title": "Unearthed video exposes El-Sayed\u2019s opinion on driver\u2019s licenses for illegal immigrants",
-      "url": "https://nypost.com/2026/08/04/us-news/unearthed-video-exposes-abdul-el-sayeds-opinion-on-drivers-licenses-for-illegal-immigrants/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "Primaries in the Midwest have become a high stakes proving ground for progressives",
-      "url": "https://www.npr.org/2026/08/04/nx-s1-5918682/2026-primary-elections-michigan-wisconsin",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    },
-    {
-      "title": "\u2018We have always been civil\u2019: My sister refuses to replace me as executor. Can I step down before she dies?",
-      "url": "https://www.marketwatch.com/story/we-have-always-been-civil-my-sister-refuses-to-replace-me-as-executor-can-i-step-down-before-she-dies-84a835a9?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
     },
     {
       "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges",
@@ -85,92 +85,108 @@
       "domain": "cnn.com"
     },
     {
-      "title": "Man arrested on suspicion of arson for allegedly starting Spokane fire",
-      "url": "https://abcnews.com/US/man-arrested-suspicion-arson-allegedly-starting-spokane-fire/story?id=135343244",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    },
-    {
-      "title": "US arrests suspect over Spokane wildfire as tens of thousands flee blaze",
-      "url": "https://www.aljazeera.com/news/2026/8/4/us-arrests-suspect-over-spokane-wildfire-as-tens-of-thousands-flee-blaze?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "Hundreds of migrant children are stranded in Spain\u2019s Ceuta after mass crossing",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNDliSkR6N1FYa01rQ2d3V0VRV0N2UVd2ZWhmMjhlaE8wVW1BTE45dkp0YUFuSVBYZEplRGlnMkczdDhTbjY0Unk2MVl0R3VBMG96SEZhd1dQSUFGbHRFTTRDTGl5TXhGeGprYldpdUhGTTVlS0VROG4xajAtS0tfbW9pSVlIc0dneDE2SXREbER2cXM?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "EU calls for stronger borders after Ceuta migrant crossings",
-      "url": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    }
-  ],
-  [
-    {
-      "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
-      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
-    },
-    {
-      "title": "\"Spider-Man: Brand New Day\" continues Hollywood's hot streak at the box office",
-      "url": "https://www.cbsnews.com/video/spider-man-brand-new-day-continues-hollywoods-hot-streak-at-the-box-office/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "Band gives away free cruise to more than 37,000 fans: \u2018The biggest giveaway in history\u2019",
-      "url": "https://pagesix.com/2026/08/04/entertainment/zac-brown-band-gives-away-free-cruise-trip-to-more-than-37000-fans-at-fenway-park-show-the-biggest-giveaway-in-history/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "Ariana Grande says 'boundaries need to be set' after announcing break",
-      "url": "https://www.bbc.co.uk/news/articles/c6295z6jkw6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    }
-  ],
-  [
-    {
-      "title": "BP's quarterly profit doubles to over $5 billion after Iran war oil surge",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdU9hYzNQV1Ezbmd5OXB4Z1d4QTR0QU80Z0MteS03b002RE5yd2hPb2l5Z0NqLWJ4Y21PSTN0Z29UNVBBVEVyRDRGc0VNUnoySWNlcWU4cUlVXy1iNWd0MVA3V3pXLXN1ZHlyQWcyNzRfcmNxYnJKWFBQTWZ1anZtajRzcFRSd3BIQWJhOVlfQXZUaVU2Y1RlTUhqcHBQZ1ItTjhJeEg0NA?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "Saudi Aramco Reports 33% Profit Surge Despite War\u2019s Disruption",
-      "url": "https://www.nytimes.com/2026/08/04/business/saudi-aramco-earnings-iran-war.html",
+      "title": "White House Whipsaws Silicon Valley (and Itself) Over A.I. Rules",
+      "url": "https://www.nytimes.com/2026/08/04/technology/ai-washington-regulation-whiplash.html",
       "source": "New York Times",
       "bias": "left-center",
       "domain": "nytimes.com"
     },
     {
-      "title": "BP profits highest in four years as Iran war pushes up oil price",
-      "url": "https://www.bbc.co.uk/news/articles/cg5l11m02j3o?at_medium=RSS&at_campaign=rss",
+      "title": "EXCLUSIVE: US has used 'virtually all' of its long-range precision missiles during Iran war, sources say",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZjVoa01lTFhQYVMtVjRxRWZKSng1YzFUTTNJOVI1T1pWZVNKc1czOWhJWHB3VDFFWnVrY3lLT1FnSVBfU1M1RFdrU2FsYVlKZXdhVm9VbF9PaEFNeGVMR0ZtNmlEeGhkWG1iang1U0kzb3hmWENGSnNXODRzdnZYaE1LYkY4Vm1hbzJEcEl1ZzZIRVBQLS1nYUYyTWdDdjZjXzN0NmtuZm5IV2FEdlBQby1UUnBqc0FF?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    }
+  ],
+  [
+    {
+      "title": "Medicaid work rule leaves homeless people in the cold",
+      "url": "https://www.npr.org/2026/08/04/nx-s1-5918346/medicaid-work-requirement-montana-homeless",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "Why So Many Young People No Longer Believe Hard Work Pays Off  | Money Moves with Jill Schlesinger",
+      "url": "https://www.cbsnews.com/video/why-so-many-young-people-no-longer-believe-hard-work-pays-off-money-moves-with-jill-schlesinger/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Chaos of border crossing gives way to limbo for Moroccans on Ceuta\u2019s streets",
+      "url": "https://www.theguardian.com/world/2026/aug/02/ceuta-border-crossing-spain-morocco",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "Italy suspends free movement with Spain: Is Schengen in crisis after Ceuta?",
+      "url": "https://www.aljazeera.com/news/2026/8/4/italy-suspends-free-movement-with-spain-is-schengen-in-crisis-after-ceuta?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "Ceuta grapples with aftermath of border surge after most migrants leave the Spanish territory",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNV82Z0xEX2JldWNxWXNmMFQtakZrbndjeWNKaEgwRDQ2Z2pNRzJHQllnRkVVcjh4SzgtTmJPWTV4VEV0Z3YzdFctekpqck92RGpYLU1kMUtIN29IOEpwZVNBMTlFRDQtVktmWWYtbG9LZ0NwZER2QzJwYjByTWduVUtaR1lNVG5GVDVMRXd0dEJPdG9QYnk3VU5ORWtsYjRONkE?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Ukraine hits more Wildberries sites as strike kills five in Moscow region",
+      "url": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "bias": "center",
       "domain": "bbc.com"
     },
     {
-      "title": "Energy shock delivers 144% boost in profits for BP",
-      "url": "https://www.marketwatch.com/story/energy-shock-delivers-144-boost-in-profits-for-bp-a5337d03?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
+      "title": "Ukrainian drone strike on Russian warehouses in Moscow region kills 5",
+      "url": "https://www.cbsnews.com/news/ukrainian-drone-strike-russia-warehouses-moscow-region-5-dead/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Nine killed in escalating long-range strikes between Russia and Ukraine",
+      "url": "https://www.aljazeera.com/news/2026/8/4/nine-killed-in-escalating-long-range-strikes-between-russia-and-ukraine?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "Ukraine accuses Russia of war crime after video shows drone hunting market vendor",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd0dKYnNEVVFrdlNXS1JkMXNlcVlYekZlTTFXZ21IVU5wLUpvRTRoZFVNUUtvcUZOWHlZZG84Z0huU3ltdlVrVFpMZ3dMV1dSano3bmlRM3Bnam5Qa0Vmd2ZsOGpxQWstTkNBV19DLXo1OWVsMDlzOUtwT3pYNm8wdW41VUhOOXBqQV90TjBsUDdnRVlJVEhGNnB3MExacFdES19PdGYyQkp3dmNhcGxnQy1LUFFJZ0U5YnB4UHFuV2RIQmtrQXc?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    }
+  ],
+  [
+    {
+      "title": "Top Fifa official Wenger says scrapping World Cup plan 'absolutely necessary'",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2k7p4nxdy4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "Top FIFA officials distance themselves from Infantino's World Cup sell-off plan",
+      "url": "https://abcnews.com/Sports/wireStory/top-fifa-officials-wenger-grafstrm-distance-infantinos-world-135350934",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    },
+    {
+      "title": "Ex-Arsenal boss Wenger was \u2018not aware\u2019 of Infantino\u2019s FIFA plan",
+      "url": "https://www.aljazeera.com/sports/2026/8/4/ex-arsenal-boss-wenger-was-not-aware-of-infantinos-fifa-plan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
     }
   ],
   [
@@ -187,148 +203,54 @@
       "source": "ABC News",
       "bias": "center",
       "domain": "abcnews.go.com"
-    },
-    {
-      "title": "Bodycam video shows firefighters battling blaze in Spokane, US",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/bodycam-video-shows-firefighters-battling-blaze-in-spokane-us?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
     }
   ],
   [
     {
-      "title": "Turkey calls on Russia, Ukraine to ensure Black Sea safety after drone attack",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLWxZWjEzUHh2dXNYYUxyS2RjbUhHTXh1RHpVTjZwUUpScFlZbnFUVDkwUlR3bXJMU3otWDY4Q2cyTml6dXV2YVJIZkdiN0lnZUV0T19VN1QwRUY4ZmU5bjNhUHJfU2tWeEw4RVFoTUN4R2lGaW1WSXpzUWxaVmZWSF9kRGhLcE9GU1lxaHp4N0xnNFp0MG9lMkZEeTd4TTEyTTBySlEzYVJFM0RSdjFTRHJZbnFmdFBISndla004RHVTQQ?oc=5",
+      "title": "Popular weight-loss drugs may help protect against a deadly disease, doctor says",
+      "url": "https://www.foxnews.com/health/popular-weight-loss-drugs-help-protect-against-deadly-disease-doctor-says",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Breast cancer checks missing most women under 50 who are at risk, says study",
+      "url": "https://www.bbc.co.uk/news/articles/ckgv652r625o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    }
+  ],
+  [
+    {
+      "title": "WATCH: GOP senator unloads on 'creature of Washington' challenger in critical Senate showdown",
+      "url": "https://www.foxnews.com/politics/gop-senator-unloads-creature-washington-challenger-critical-senate-showdown",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "BP's $5.7bn profit highest since 2022 as Iran war pushes up oil price",
+      "url": "https://www.bbc.co.uk/news/articles/cg5l11m02j3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    }
+  ],
+  [
+    {
+      "title": "French coastguards rescue 157 from burning migrant boat in English Channel",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMC1Ha0xsY2N0R2VONVJhNXAtYmNWTnJTMV9sYTMtYWxfUnpGaENHNHZXN1pFZ3pXSXRkZ0lCd2lqZE5lWUhhNU16RFhvejBoTTFEQ0hFZUhkNG9WN01BcUliaDRvWDlZbEk2cF9xeFdjd3MxWklqQlR4RERod2ExZHJRR2EtR3pmVzBnaVdweFpqQ1BDMUU5eFpBVTBxdVN4NHNKZ0sycUtzMVFh?oc=5",
       "source": "Reuters",
       "bias": "center",
       "domain": "reuters.com"
     },
     {
-      "title": "Five dead in Moscow region as Ukraine continues warehouse strikes",
-      "url": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
+      "title": "More than 150 migrants rescued after boat catches fire in Channel",
+      "url": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "bias": "center",
       "domain": "bbc.com"
-    },
-    {
-      "title": "Ukrainian drone strike on Russian warehouses in Moscow region kills 5",
-      "url": "https://www.cbsnews.com/news/ukrainian-drone-strike-russia-warehouses-moscow-region-5-dead/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    }
-  ],
-  [
-    {
-      "title": "Lindsay Clancy defense scores \u2018extremely helpful\u2019 psychosis concession as expert flags next hurdle",
-      "url": "https://www.foxnews.com/us/lindsay-clancy-defense-scores-extremely-helpful-psychosis-concession-expert-flags-next-hurdle",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "Lindsay Clancy's diary excerpts read at trial: \"I feel like I'm drowning\"",
-      "url": "https://www.cbsnews.com/news/watch-live-lindsay-clancy-trial-day-5/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    }
-  ],
-  [
-    {
-      "title": "Federal judge blocks New York law banning ICE agents from wearing masks",
-      "url": "https://www.foxnews.com/politics/federal-judge-blocks-new-york-law-banning-ice-agents-wearing-masks",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "Court Shields Catholic Nuns, Healthcare Ministries from New York Assisted Suicide Law",
-      "url": "https://www.breitbart.com/politics/2026/08/03/court-blocks-new-york-from-enforcing-assisted-suicide-law-against-several-orders-of-catholic-nuns-healthcare-ministries/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
-    }
-  ],
-  [
-    {
-      "title": "Immigrant Held at Delaney Detention Center Has Died, Officials Say",
-      "url": "https://www.nytimes.com/2026/08/03/nyregion/ice-detention-center-death-delaney-hall-nj.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "Salvadoran man dies in ICE custody at New Jersey detention centre",
-      "url": "https://www.aljazeera.com/news/2026/8/4/salvadoran-man-dies-in-ice-custody-at-new-jersey-detention-centre?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    }
-  ],
-  [
-    {
-      "title": "House Ethics panel recommends censure for Chuck Edwards after harassment allegations",
-      "url": "https://www.npr.org/2026/08/03/nx-s1-5918341/chuck-edwards-ethics-report",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    },
-    {
-      "title": "House Ethics Committee Says Chuck Edwards Sexually Harassed Staffers, Recommends Censure",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNd0hNQko4b21ob093LXI1TE0wWnFPcHJMQTlZSnVfRU1MZGgxTzdfZVdPelc0UUNLRllFUjd6V1NVMUFzUUNmX0lGbEFXMUZwU0w1eHVOQ1VQNHEzMkMzR2E2Z0pqQklfLXBuOC15OG45d09rMGRQclhqNTBQVnoxUEItZVNfV2IzRThaMG9ULVNQZWxpOVRXS2REU3MtSTNvaHUzY3d1dDd0QVJIbHBGNllLcWxlSkFMb09rVWExQThJc244ejIwWHY2bzFSdWphTWg3bXM4NmpuOHZyNjVPZkJUYm_SAeoBQVVfeXFMUEljeW1oRnoyaWcxOUJDd2ROMHNVVG9FUTBIbVY0VW1icm9KR3NRZzVYal95UEIyeEM5ZmdMUU94blhpMWRlWFlVXzlwZGFaSDk3WHBVazFCaklIdldVWXc0czRHclVEY3kxVlN3Qlc5YU1HSmp0SGRDdjY4RG02SEhYaHI3aFhqb2ItTHFlR3dLYkVpZHRZd19rRUc4OXFjT0NJYnlrSUJtWlZEZjl2Tm5MSFF6aTNZbVRyV3F1d1l6TGNoTk83VEl5LWN5YWVSZU1LS1hrc0lZQXlhN1IwOHdlbWVpRXJwQm1n?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    }
-  ],
-  [
-    {
-      "title": "Iran-backed hackers likely behind attack that shut down Minnesota water plant \u2014 and they\u2019re not done yet",
-      "url": "https://nypost.com/2026/08/04/us-news/hackers-behind-minnesota-water-treatment-plant-attacks-are-likely-tied-to-iran/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "FBI investigates as Michigan joins Minnesota in reporting cyberattacks on its water systems",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPejV5NEdoc3dyRHhtTTZXUVlOQXI0a0JIMjhOOWtGZ2xvNzlPS2h6WnJ0d25LejIwNDB4TzFYZWRFNk1CaUVQVXp1ZTdpXzNieFFRVUFYUHNfa2tKRGwzRWwwbElHa0dDcmc4Xzl1Y2hfN1JjYkpoVEhsZ2dEbkQweWk0RUxueW5JcW1ybGY0RUZUUFhGRzNadXJ5WQ?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    }
-  ],
-  [
-    {
-      "title": "Astor Place subway station train fire hospitalizes 6 MTA workers, 5 firefighters",
-      "url": "https://nypost.com/2026/08/04/us-news/astor-place-subway-station-train-fire-hospitalizes-6-mta-workers-5-firefighters/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "12 injured in Astor Place subway fire, FDNY says",
-      "url": "https://abcnews.com/US/injuries-reported-amid-track-fire-new-york-subway/story?id=135346188",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    }
-  ],
-  [
-    {
-      "title": "Michigan reports the first 2 US deaths related to a diarrhea-causing parasite",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbTlMT3pHaGFaRzdjMHdrZ1RWOVhwY1FPSi1TSm5pNEFuaHlLVldYYXF3VHY3WTR2MHNCMW12SVd4dXRSZy13NEkyR3BVc2QwcV9SZnR4Z1hxX05jUGNOYkJnUXp1V2hYbVhZcG4zUUhJVWl2SS1ibTVtdlQ4cjdvcHZSMC1OQS00WldrVmd0RDdWMEN6MlFnT1BOaw?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "Michigan Reports Two Deaths In Ongoing Cyclosporiasis Outbreak",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ252cHpsV1dsQml2WGg5aWY1a1UtVko4RVN3bzVucm5GRTI3ZVhES0YtTFFrd2lFT2JpZHd1MkduVU04UkdpZDJfRDJmbWstWDVUZ0lZMW9tTXJmWUt1YjJEdlRxdHBZQ2swUWJaUHhtMENOdUo4OXp0RmQzeTVtZzJocmdYWlNiZHNESEtwQUNkb3Zjem5xZWxB0gGfAUFVX3lxTFBiYm56UzlUWHg5MlM1emxGcFZNbnNoUnVXLXh1QlowZldyeExvTEx2Vkh0WEZJVUJoTnlCYVlVOXgtLWFNdnl0WFpJWFRkRFoySEFGSjdOeDA2bzEtSER6VzJOUUZSSW55S3llOFA3U0Z1ZGh0VWNwWGFQR1FlSnJjZ0ZOOC1SdkdMTGZ2b0RYQVJfY183TjBwdFhQbEVXVQ?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
     }
   ],
   [
@@ -349,18 +271,18 @@
   ],
   [
     {
-      "title": "Brutal Montage Shows Donald Trump\u2019s Former Biggest Fans Turning On Him",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQkUyZW84Sm1jNl9RazVZWUpmQXBMbXRROEp1MXM2TUcxRnZHZDVqVHJFekg1QTFnenNKZW0yeFZueE5TLVRnWlBZUUpzbEZrT1RzQWdxbXBBeEhxWUZWVVlMMElxLURES2FSaVVxNDItZmRfeHlTSWZwWTZaZDA4NGlVNWZibEE4ZjZ3V05qZ9IBlAFBVV95cUxPRzV6OW5sZWRFbWtlVjRWTm4xeTJtTFBFNUkweUY3aHFIVzFHMXhsY3R6aFEzaVlVTTdZeDcyRE5aZEltOC1DVFFaaEF0Z3JiMHJpTUt6RTFya09kM1F1bWtpZkxPOWxTNVhycmM3eVFoVXJucjhVUG5QRHFDZ0FZTF9Nam90d3l4SkdRbE9DVUJyck5l?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    },
-    {
-      "title": "Canadians spent $3.3bn less on travel to US in 2025 after Trump\u2019s return to office",
-      "url": "https://www.theguardian.com/world/2026/jul/28/canadians-us-travel-drop-trump",
+      "title": "Three lions die of suspected heatstroke at Tokyo zoo as Japan swelters",
+      "url": "https://www.theguardian.com/world/2026/aug/04/three-lions-dead-suspected-heatstroke-japan-zoo-heatwave",
       "source": "The Guardian",
       "bias": "left-center",
       "domain": "theguardian.com"
+    },
+    {
+      "title": "3 lions die at zoo as Japan bakes in \"cruelly hot\" summer",
+      "url": "https://www.cbsnews.com/news/lions-die-tokyo-zoo-suspected-heatstroke-japan-summer/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
     }
   ]
 ]

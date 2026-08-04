@@ -1,104 +1,18 @@
 [
   [
     {
-      "title": "Hasan Piker, Abdul El-Sayed mock James Carville threatening to leave Democrats and 'sweetening the deal'",
-      "url": "https://www.foxnews.com/media/hasan-piker-abdul-el-sayed-mock-james-carville-threatening-leave-democrats-sweetening-deal",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "Senate Judiciary Committee advances Blanche's nomination for attorney general",
-      "url": "https://abcnews.com/Politics/senate-judiciary-committee-advances-todd-blanches-nomination-attorney/story?id=135353842",
-      "source": "ABC News",
+      "title": "How the far right weaponised the Ceuta crisis",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/how-the-far-right-weaponised-the-ceuta-crisis?traffic_source=rss",
+      "source": "Al Jazeera",
       "bias": "center",
-      "domain": "abcnews.go.com"
+      "domain": "aljazeera.com"
     },
     {
-      "title": "Zac Brown Band Gives Away Free Cruise Tickets to More than 37,000 Fans",
-      "url": "https://www.breitbart.com/entertainment/2026/08/04/zac-brown-band-gives-away-free-cruise-tickets-to-more-than-37000-fans/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
-    },
-    {
-      "title": "Trump optimistic Iran talks will reopen strait, and other developments in the Middle East",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeXk4T2kzT3g2bk5zc040bF9IVk1UTlB2WXNoa2tPTldBbjdRY0F6dFo5dk1YY1N1YUFFaFpONHdWeG9YaENDaG9KcExEUHJCdUYwdEV1c3lGMURoenctSVlaUW93ODYwUi1SSGdRd3lWNkpGazlMYndZT0p3TzhWZ3lEWVBSZDdFblJVbnpIZnhLWTNvc2h0MU81SHJRNDBrb3c?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
-      "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "Oil prices dive on hopes that a deal to reopen the Strait of Hormuz will be made soon",
-      "url": "https://www.marketwatch.com/story/oil-prices-rise-after-vessel-reports-being-hit-in-strait-of-hormuz-db6ce867?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
-    },
-    {
-      "title": "Dow soars 900 points on strong corporate profits, hopes of Iran deal",
-      "url": "https://www.cbsnews.com/news/us-stocks-surge-dow-sp-500-iran-strait-hormuz/",
-      "source": "CBS News",
+      "title": "Chaos of border crossing gives way to limbo for Moroccans on Ceuta\u2019s streets",
+      "url": "https://www.theguardian.com/world/2026/aug/02/ceuta-border-crossing-spain-morocco",
+      "source": "The Guardian",
       "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "S&P 500 Hits Record High as Stock Market Worries About Iran and AI Ease",
-      "url": "https://www.nytimes.com/2026/08/04/business/stock-market-record.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "The soaring demand for Patriot missiles, from the Middle East to Ukraine",
-      "url": "https://www.npr.org/2026/08/04/g-s1-137287/us-patriot-missiles-ukraine-middle-east-iran-war",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    },
-    {
-      "title": "Trump keeps making threats. The world has stopped flinching.",
-      "url": "https://www.washingtonpost.com/world/2026/08/04/trump-keeps-making-threats-washington-world-have-stopped-flinching/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
-    },
-    {
-      "title": "Gov. Greg Abbott halts new data centers as electricity\u00a0demand surges: \u2018Texans must come first\u2019",
-      "url": "https://nypost.com/2026/08/04/us-news/gov-greg-abbott-halts-new-data-centers-as-electricity-demand-skyrockets/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "Michigan Democrats Pick Between Moderate And Progressive In High-Profile Senate Primary",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaHcwWURFMDl0RjhsSFg0eU9XTm1WcmFBNTd5T1lhN3lDd3ZGRS1KaWNuTkI0dExYOVhqLXBqOHIwTktYeVh1eGJvSEZpWUt2OWZhQTkyVDRYUkVLM0ZYX3cydk1UN2g0N2U1allXUE5fd2E3d2xMaUtZYnppeE0yUm96Vk55RHh3RnM5dVRtY3dYNVk3OUJtNWRWUFFnZlRBNFY4R3piOUdDZ2xFTUc4ZlZTWkRIOGc4WFJFMFlDQk1GSUZ6V1gxWm8zc0JiY1AyREpCUEtadG52UGZmYnfSAeMBQVVfeXFMTnBXdVlLbzJHWWhZTTFXeF84eW5RRERyRWpDUjc5VThmM2dfSUE4d0VPYWZRVjI2aHZOdnlBeTA1d0lMaGM0LWxwc0JkS0RtUDdJM3BBSFo5ZklWMWhKb2xFTjllLUt2Yk4ybm53WEtMVkZINzNReVZCM1lBd2VNbkhkZDZleGdkLXhZVS1yRGdNZm9jUU1ub3gtWnFNZFpUcDVkUFMxLTZSSlhWcXJONHZWbU5waEhXMllfRzJaV2laMlRaTVpjMF8tMEpMcjItY2o1ZlBuT2hNRlVNV1ZnY0tJVWs?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    }
-  ],
-  [
-    {
-      "title": "Parts of Trump\u2019s New White House Helipad Disassembled, Photos Show",
-      "url": "https://www.nytimes.com/2026/08/04/us/politics/trump-helipad-white-house-construction.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "Runaway online rumors sparked frantic rush by migrants to the Spanish territory of Ceuta",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZk1VZl9JbEszX1lWSXNPT0pCV244XzV4bVNXOWV6MEFWNkpnRDdfaUd6SEZUQlE0SDNZb3JvOEJDWmkwTkhXWndic2NBeVkxOHFJUlRienlGLWJqdEVMcUZMeVlMNDQ4SkwzSFF2TEh3dE9lR2JnYVljNTNPSGRlR0hXRGo5X1lyR0xpY25GbXQxOTA?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
+      "domain": "theguardian.com"
     },
     {
       "title": "Investigation Exposes How Viral Rumors Triggered Spain\u2019s Ceuta Border Crisis",
@@ -108,32 +22,132 @@
       "domain": "huffpost.com"
     },
     {
-      "title": "Bono, Eddie Vedder and Hozier among mourners at Glen Hansard's funeral",
-      "url": "https://www.bbc.co.uk/news/articles/crk5lmglkdno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
+      "title": "House Ethics Committee will investigate Ohio Republican Max Miller",
+      "url": "https://www.npr.org/2026/08/04/g-s1-137389/max-miller-congress-house-ethics-committee-investigation",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
     },
     {
-      "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges",
-      "url": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
+      "title": "Fury as Nithya Raman greenlights even more taxpayers\u2019 cash for homeless program",
+      "url": "https://nypost.com/2026/08/04/us-news/la-councilmember-slams-nithya-ramans-failed-homeless-strategy/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
     },
     {
-      "title": "Victims killed in In-N-Out Burger shooting remembered by grieving relatives",
-      "url": "https://abcnews.com/US/victims-burger-shooting/story?id=135352228",
+      "title": "Inside the Oval Office Showdown Between Trump and Jeanine Pirro",
+      "url": "https://www.nytimes.com/2026/08/04/us/politics/trump-jeanine-pirro-showdown.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Collins drops the hammer on Trump's pick to lead DOJ, jeopardizing path to confirmation",
+      "url": "https://www.foxnews.com/politics/collins-drops-hammer-trumps-pick-lead-doj-jeopardizing-path-confirmation",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "3-year-old girl dies after getting head stuck in kitchen playset: Police",
+      "url": "https://abcnews.com/US/toddler-dies-head-stuck-kitchen-playset-florida/story?id=135366347",
       "source": "ABC News",
       "bias": "center",
       "domain": "abcnews.go.com"
     },
     {
-      "title": "Over a dozen hurt after fire breaks out at New York City subway station",
-      "url": "https://www.cbsnews.com/video/over-a-dozen-hurt-after-fire-breaks-out-at-new-york-city-subway-station/",
+      "title": "A 13-year-old dies after participating in a Benadryl TikTok 'challenge'",
+      "url": "https://www.cnn.com/2023/04/18/us/benadryl-tiktok-challenge-teen-death-wellness/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
+    },
+    {
+      "title": "Zac Brown Band Gives Away Free Cruise Tickets to More than 37,000 Fans",
+      "url": "https://www.breitbart.com/entertainment/2026/08/04/zac-brown-band-gives-away-free-cruise-tickets-to-more-than-37000-fans/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
+    },
+    {
+      "title": "Stocks return to record highs. Investors who sat tight during the recent momentum crash are being rewarded.",
+      "url": "https://www.marketwatch.com/story/stocks-return-to-record-highs-investors-who-sat-tight-during-the-recent-momentum-crash-are-being-rewarded-8c960105?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
+    },
+    {
+      "title": "Trump keeps making threats. The world has stopped flinching.",
+      "url": "https://www.washingtonpost.com/world/2026/08/04/trump-keeps-making-threats-washington-world-have-stopped-flinching/",
+      "source": "Washington Post",
+      "bias": "left-center",
+      "domain": "washingtonpost.com"
+    },
+    {
+      "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
+      "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "Progress made in Strait of Hormuz talks, Rubio says",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-us-denies-negotiations-begin-strikes-called-off/",
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"
+    },
+    {
+      "title": "In-N-Out worker killed in shooting at newly opened Idaho restaurant traveled to open stores",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ2J5eWEwWktqLUh2S0h5OE1SNHJGNnhKVTdCM3U1Zjh0OWtOQ2ZXZkx6ajMxd0JtckJRNWd1WE8weXZPNHRXa0JHQlgxTkdZNG44eGREeFdvOVBFMVMzRUtXLTJsaU8waHVqc1l1NlZLMXNDdEFuV0ZuWnMteUlwQ254OHUxek42cF82aVNXWnJtUWR4WGZF?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "EXCLUSIVE: White House set to extend Jones Act waiver as Trump hunts for cheaper gasoline",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeTdhU2NMYVVDcFJtV0pXczNXR3NpODBkVjFOMjI2OXJ5NUJsMEd4RVpHUHhsdF9WTl9VRUY1MExPNzdTa3dLYVZ3MDMxeDc5dkFreVJQZ3hEaXRQVTN4WDJvRlc5clJYazBWUnVSYkItaUZ6QjdvVmFZU3B5YWZ5RnlTMXQ5UU5xdTFPdTBGUWdlSkhyRTEwNE5VUHpadGV2b2l2ZjB4NmhCcVFFcUFTa2ZUc2hZZFpHZ1QyRQ?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    }
+  ],
+  [
+    {
+      "title": "It\u2019s Primary Night in Michigan and Four Other States",
+      "url": "https://www.nytimes.com/2026/08/04/briefing/michigan-primary-spokane.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Breaking down the day's biggest primary races, including Stevens vs. El-Sayed in Michigan",
+      "url": "https://www.cbsnews.com/video/breaking-down-primary-day-for-five-states/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Michigan voters to weigh in on critical Senate, House races",
+      "url": "https://abcnews.com/Politics/michigan-voters-weigh-critical-senate-house-races/story?id=135120856",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    },
+    {
+      "title": "Michigan Democrats Pick Between Moderate And Progressive In High-Profile Senate Primary",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaHcwWURFMDl0RjhsSFg0eU9XTm1WcmFBNTd5T1lhN3lDd3ZGRS1KaWNuTkI0dExYOVhqLXBqOHIwTktYeVh1eGJvSEZpWUt2OWZhQTkyVDRYUkVLM0ZYX3cydk1UN2g0N2U1allXUE5fd2E3d2xMaUtZYnppeE0yUm96Vk55RHh3RnM5dVRtY3dYNVk3OUJtNWRWUFFnZlRBNFY4R3piOUdDZ2xFTUc4ZlZTWkRIOGc4WFJFMFlDQk1GSUZ6V1gxWm8zc0JiY1AyREpCUEtadG52UGZmYnfSAeMBQVVfeXFMTnBXdVlLbzJHWWhZTTFXeF84eW5RRERyRWpDUjc5VThmM2dfSUE4d0VPYWZRVjI2aHZOdnlBeTA1d0lMaGM0LWxwc0JkS0RtUDdJM3BBSFo5ZklWMWhKb2xFTjllLUt2Yk4ybm53WEtMVkZINzNReVZCM1lBd2VNbkhkZDZleGdkLXhZVS1yRGdNZm9jUU1ub3gtWnFNZFpUcDVkUFMxLTZSSlhWcXJONHZWbU5waEhXMllfRzJaV2laMlRaTVpjMF8tMEpMcjItY2o1ZlBuT2hNRlVNV1ZnY0tJVWs?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    },
+    {
+      "title": "Michigan reports the first 2 US deaths related to a diarrhea-causing parasite",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbTlMT3pHaGFaRzdjMHdrZ1RWOVhwY1FPSi1TSm5pNEFuaHlLVldYYXF3VHY3WTR2MHNCMW12SVd4dXRSZy13NEkyR3BVc2QwcV9SZnR4Z1hxX05jUGNOYkJnUXp1V2hYbVhZcG4zUUhJVWl2SS1ibTVtdlQ4cjdvcHZSMC1OQS00WldrVmd0RDdWMEN6MlFnT1BOaw?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
     },
     {
       "title": "5 states hold primaries today. And, Spokane police arrest man connected to wildfire",
@@ -141,56 +155,33 @@
       "source": "NPR",
       "bias": "left-center",
       "domain": "npr.org"
-    },
-    {
-      "title": "Guatemala volcano eruption prompts evacuation of hundreds of people",
-      "url": "https://www.theguardian.com/world/2026/aug/04/guatemala-volcano-eruption-prompts-evacuation-of-hundreds-of-people",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    },
-    {
-      "title": "Evacuations ordered as Guatemala volcano erupts",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/evacuations-ordered-as-guatemala-volcano-erupts?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
     }
   ],
   [
     {
-      "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
-      "url": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "Gaza holds mass funeral for extended family recovered from wartime rubble",
-      "url": "https://www.cbsnews.com/news/gaza-war-mass-funeral-extended-family/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "\u2018I wanted to hug whatever remained\u2019: Gaza families\u2019 3-year wait for funeral",
-      "url": "https://www.aljazeera.com/news/2026/8/4/i-wanted-to-hug-whatever-remained-gaza-families-3-year-wait-for-funeral?traffic_source=rss",
+      "title": "Elon Musk\u2019s SpaceX reports losses but less than expected",
+      "url": "https://www.aljazeera.com/economy/2026/8/4/elon-musks-spacex-reports-reports-losses-but-less-than-expected?traffic_source=rss",
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
-    }
-  ],
-  [
+    },
     {
-      "title": "Chipotle pulls jalapenos from some restaurants amid salmonella probe",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX2RhdG9zUUlsMjlDaklJdXFRc0s4aGJXLVBrakhjUE14MkVYYy15SmgxNUxTMjRmOEJyQmtRZm9lTzFNMkkwNTV3V19NeFIxaDdwWTRTS29TN2lEZHNVQUxxX1A2c0ZaazRURmxtLUNtcTFZZmloVlZMclE0NDNOYUJzQ0I5ejFmaDBaTkhONHBuaXRMeFJjRzRqdkM1Y1dNeEdiQm1yNmRZTTRWRHdZTTBvMnRBcHFm?oc=5",
+      "title": "SpaceX's revenue rises as its once-soaring stock price drifts back to Earth",
+      "url": "https://www.npr.org/2026/08/04/nx-s1-5918536/spacex-first-earnings-report-since-ipo",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "SpaceX quarterly revenue surges in debut results as satellite, AI businesses surge",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRkFZQkJoRmRlajg5SzYxaU5EQVZ3U2RYbUtyZHRfcndUVmpYb3lwWm5DNmtVMFY3bFZoLVEyaVJ0b0dmRWYxZ05vSXhRaWFLVXVlVG9MSmV2Qjg4OEFTNU4xLU5ST2NOMDh5b3NOM1J4cGgzQmFIRjBEOUNlZXhaQ1JoV0VPeS1ZWW9XX1ZSUnZJQ19kNHN6cnYwWHFoN25saEltTjZNQWhlclNieEJCQ1VWUGtDRC1xcjNEUmxjMG9KYVJLaGNHU2RJaw?oc=5",
       "source": "Reuters",
       "bias": "center",
       "domain": "reuters.com"
     },
     {
-      "title": "Chipotle removes jalapenos linked to Minnesota salmonella outbreak",
-      "url": "https://www.cbsnews.com/news/chipotle-jalapenos-minnesota-salmonella-outbreak/",
+      "title": "Wayward SpaceX rocket to slam into moon, leave 16-foot-deep crater",
+      "url": "https://www.cbsnews.com/news/spacex-rocket-moon-collision/",
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"
@@ -198,27 +189,11 @@
   ],
   [
     {
-      "title": "Novo outlook hike falls flat as high Wegovy pill hopes unmet",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdXlQZTlFQVdGcUJLekdBcDJSVHlDeXcwTjdJWFZNWTFSZ083NV90WXFVNkdhVXlRN2JKbHF0c000Y1AxX0VPMDBqeURUaHpfUFcxd2ZFQ1VoQTNBWDVHVkhBZHpWY1oxbnRIU2ZwS3ZONHhmZUF4SVdrNTVkdkdGak1FcFZsdkRwZWlEX0ZOTjRDN3RpOVBZR1hLTEdxSzlRM3lmZ01KYkFOM2c?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "Novo Nordisk stock is sliding again \u2014 and the Wegovy pill\u2019s surprise miss is partly to blame",
-      "url": "https://www.marketwatch.com/story/the-wegovy-pills-surprise-miss-is-one-reason-novo-nordisks-stock-is-down-ec0fe43d?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
-    }
-  ],
-  [
-    {
-      "title": "EPA cannot block billions in climate grants, US appeals court rules",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTXVZM0xxUG92N2JHRnBleUJLOU5fcHBZeWo2Tk5Bb2NXXy1sVXBGaDh2cDZGNlJFWTBDTVkySzNiUUcyM3VFc0l2QnByRDFHNjgzbkRDaVBVTi1nR1kxQUh3RERaZjhKWmdFdFdRSkRmd2tiMm4tcnE5SnR3b1ZYVTZTWXN0NVpzUmFic2NvOGZBMmx3d1d4TUFZVmZpMzJrRnM5MkljaTdUckN3eG04NlNmNW9LUQ?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
+      "title": "Appeals Court Says E.P.A. Cannot Block Billions in Climate Grants",
+      "url": "https://www.nytimes.com/2026/08/04/climate/epa-climate-grants-appeals-court.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
     },
     {
       "title": "US court deals blow to Trump\u2019s bid to scrap climate grant programme",
@@ -226,6 +201,13 @@
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
+    },
+    {
+      "title": "EPA Cannot Block Billions In Climate Grants, U.S. Appeals Court Rules",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNVB6SEV6SlNrc29FLUoyNTk5eUItQzBZWWhFUkFBNjNFNmNrajFpV2V5TXZtRVZSWnRyMHh3ZVlxOHBlNkhUdjE1dUlTcFNRajBpTTJVMjdfZk5lVXU2eUNxWlhQeWFVdm1ORl9Vdjl3dHNfXzd3ZDRxc3oza1djSFB6ODRxR3pjS00tdnh1Sy1FYU1UbnN5bnFn0gGfAUFVX3lxTFBKZWpRQnZ4MEVqNGhEV2M3MERTYjlienpDRUJwSjJMLVl1Sy11ekl2M1ZCZFhjcHl6bnp4WmdDRFlxb3dlcy1nU3BkOTNSZ3VyQmh6emd4Ni10YjZZLWllOFBIb0Y2NWREYTFRSER3YTFwRGp3RWY5dHZ2elNadWJIdjFGTTloUjhSajcydHBjRFFPVFItYlktMVFjZm0zQQ?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
     }
   ],
   [
@@ -242,19 +224,74 @@
       "source": "Wall Street Journal",
       "bias": "center-right",
       "domain": "wsj.com"
+    },
+    {
+      "title": "Mamdani uses taxpayer funds for film on tenant organizing narrated by anti-Israel \u2018Gilded Age\u2019 star",
+      "url": "https://nypost.com/2026/08/04/us-news/mamdani-uses-taxpayer-funds-for-film-on-tenant-organizing-narrated-by-anti-israel-gilded-age-star/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
     }
   ],
   [
     {
-      "title": "Europe heat wave fuels drought, fires and energy fears",
-      "url": "https://www.npr.org/2026/08/04/nx-s1-5919214/europe-heatwave-danube-rhine-wildfires",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
+      "title": "Chipotle pulls jalapenos from some restaurants amid salmonella probe",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX2RhdG9zUUlsMjlDaklJdXFRc0s4aGJXLVBrakhjUE14MkVYYy15SmgxNUxTMjRmOEJyQmtRZm9lTzFNMkkwNTV3V19NeFIxaDdwWTRTS29TN2lEZHNVQUxxX1A2c0ZaazRURmxtLUNtcTFZZmloVlZMclE0NDNOYUJzQ0I5ejFmaDBaTkhONHBuaXRMeFJjRzRqdkM1Y1dNeEdiQm1yNmRZTTRWRHdZTTBvMnRBcHFm?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
     },
     {
-      "title": "Nazi ships, mammoth bones emerge as Danube River dries up",
-      "url": "https://www.cbsnews.com/news/danube-river-wwii-shipwrecks-mammoth-bones/",
+      "title": "Chipotle pulls jalapenos from some locations after salmonella investigation. Here\u2019s what to know.",
+      "url": "https://www.marketwatch.com/story/chipotle-pulls-jalapenos-from-some-locations-after-salmonella-investigation-heres-what-to-know-20d8c66f?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
+    }
+  ],
+  [
+    {
+      "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
+      "url": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "Funeral for family killed in US strike on Iran\u2019s Qeshm Island",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/funeral-for-family-killed-in-us-strike-on-irans-qeshm-island?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    }
+  ],
+  [
+    {
+      "title": "Justice secretary apologises to families affected by early release scheme",
+      "url": "https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "Six years on, Beirut blast families still await justice",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/six-years-on-beirut-blast-families-still-await-justice?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    }
+  ],
+  [
+    {
+      "title": "U.S. Running Dangerously Low On Key Missiles Amid Iran War: Reuters Sources",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcWZzOTdFcWc2eGtkX09jeVg5QTdCYS1NTHM4SXU0WExSb1BkeGtGX2MwSjhoeEdOb1R1T0J0eXJzS3EzRnhrTjVXWVF3WkJCNUtQVUxKWW9BenN5YjNwV3d6anpKczhLd1RzdDM5SWpxaFkyZlEzZ1BFcGh2aldEeG9rTVl0QdIBiwFBVV95cUxOekVyXzFXQ0tCUzhlbkNLam5pdDh6TVM0SVBXSVRGZWh5a25RYkxpREJCdlZlUC1LSGNvQmI5aXhZcnJ3VWpuMW1QSkVNNEF2RVhfZjV5SXl1M2F0dEpmcFhOcjZXanl1dFJGcmM5SXZIY2dGajNFM0wxUi1XcV8zY2kzUG9fV1ExNm9j?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    },
+    {
+      "title": "U.S. has used nearly all its stockpile of long-range missiles, sources say",
+      "url": "https://www.cbsnews.com/news/u-s-stockpile-long-range-missiles-nearly-depleted-iran-war/",
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"

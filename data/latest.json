@@ -1,15 +1,22 @@
 [
   [
     {
-      "title": "Shrugging Off Trump\u2019s Warning, Max Miller Pushes Ahead in Ohio",
-      "url": "https://www.nytimes.com/2026/08/04/us/politics/max-miller-ohio-congress-trump.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
+      "title": "Hasan Piker, Abdul El-Sayed mock James Carville threatening to leave Democrats and 'sweetening the deal'",
+      "url": "https://www.foxnews.com/media/hasan-piker-abdul-el-sayed-mock-james-carville-threatening-leave-democrats-sweetening-deal",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
     },
     {
-      "title": "Colombia: Marxist Gustavo Petro Threatens 'Civil War' If President-Elect Abelardo de la Espriella Takes Office",
-      "url": "https://www.breitbart.com/latin-america/2026/08/04/colombia-marxist-gustavo-petro-threatens-civil-war-if-president-elect-abelardo-de-la-espriella-takes-office/",
+      "title": "Senate Judiciary Committee advances Blanche's nomination for attorney general",
+      "url": "https://abcnews.com/Politics/senate-judiciary-committee-advances-todd-blanches-nomination-attorney/story?id=135353842",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    },
+    {
+      "title": "Zac Brown Band Gives Away Free Cruise Tickets to More than 37,000 Fans",
+      "url": "https://www.breitbart.com/entertainment/2026/08/04/zac-brown-band-gives-away-free-cruise-tickets-to-more-than-37000-fans/",
       "source": "Breitbart",
       "bias": "right",
       "domain": "breitbart.com"
@@ -22,25 +29,32 @@
       "domain": "apnews.com"
     },
     {
-      "title": "Rubio: Progress made to reopen Strait of Hormuz",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/rubio-progress-made-to-reopen-strait-of-hormuz?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "Progress made in Strait of Hormuz talks, Rubio says",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-us-denies-negotiations-begin-strikes-called-off/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
       "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
       "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "bias": "center",
       "domain": "bbc.com"
+    },
+    {
+      "title": "Oil prices dive on hopes that a deal to reopen the Strait of Hormuz will be made soon",
+      "url": "https://www.marketwatch.com/story/oil-prices-rise-after-vessel-reports-being-hit-in-strait-of-hormuz-db6ce867?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
+    },
+    {
+      "title": "Dow soars 900 points on strong corporate profits, hopes of Iran deal",
+      "url": "https://www.cbsnews.com/news/us-stocks-surge-dow-sp-500-iran-strait-hormuz/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "S&P 500 Hits Record High as Stock Market Worries About Iran and AI Ease",
+      "url": "https://www.nytimes.com/2026/08/04/business/stock-market-record.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
     },
     {
       "title": "The soaring demand for Patriot missiles, from the Middle East to Ukraine",
@@ -57,6 +71,50 @@
       "domain": "washingtonpost.com"
     },
     {
+      "title": "Gov. Greg Abbott halts new data centers as electricity\u00a0demand surges: \u2018Texans must come first\u2019",
+      "url": "https://nypost.com/2026/08/04/us-news/gov-greg-abbott-halts-new-data-centers-as-electricity-demand-skyrockets/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
+      "title": "Michigan Democrats Pick Between Moderate And Progressive In High-Profile Senate Primary",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaHcwWURFMDl0RjhsSFg0eU9XTm1WcmFBNTd5T1lhN3lDd3ZGRS1KaWNuTkI0dExYOVhqLXBqOHIwTktYeVh1eGJvSEZpWUt2OWZhQTkyVDRYUkVLM0ZYX3cydk1UN2g0N2U1allXUE5fd2E3d2xMaUtZYnppeE0yUm96Vk55RHh3RnM5dVRtY3dYNVk3OUJtNWRWUFFnZlRBNFY4R3piOUdDZ2xFTUc4ZlZTWkRIOGc4WFJFMFlDQk1GSUZ6V1gxWm8zc0JiY1AyREpCUEtadG52UGZmYnfSAeMBQVVfeXFMTnBXdVlLbzJHWWhZTTFXeF84eW5RRERyRWpDUjc5VThmM2dfSUE4d0VPYWZRVjI2aHZOdnlBeTA1d0lMaGM0LWxwc0JkS0RtUDdJM3BBSFo5ZklWMWhKb2xFTjllLUt2Yk4ybm53WEtMVkZINzNReVZCM1lBd2VNbkhkZDZleGdkLXhZVS1yRGdNZm9jUU1ub3gtWnFNZFpUcDVkUFMxLTZSSlhWcXJONHZWbU5waEhXMllfRzJaV2laMlRaTVpjMF8tMEpMcjItY2o1ZlBuT2hNRlVNV1ZnY0tJVWs?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    }
+  ],
+  [
+    {
+      "title": "Parts of Trump\u2019s New White House Helipad Disassembled, Photos Show",
+      "url": "https://www.nytimes.com/2026/08/04/us/politics/trump-helipad-white-house-construction.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Runaway online rumors sparked frantic rush by migrants to the Spanish territory of Ceuta",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZk1VZl9JbEszX1lWSXNPT0pCV244XzV4bVNXOWV6MEFWNkpnRDdfaUd6SEZUQlE0SDNZb3JvOEJDWmkwTkhXWndic2NBeVkxOHFJUlRienlGLWJqdEVMcUZMeVlMNDQ4SkwzSFF2TEh3dE9lR2JnYVljNTNPSGRlR0hXRGo5X1lyR0xpY25GbXQxOTA?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Investigation Exposes How Viral Rumors Triggered Spain\u2019s Ceuta Border Crisis",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbjJHd1F6WXNETi1RdlY1UDI2M01HM3BXZkRvWmEtemRJRXNZNmlzcGwyWVNtZ0hGbXhHN2NTU3lFMHk0cGhsUlNLc2xicVhlWWgxUXpkb0cyMUJNb0JqRGkxQXhYampMRjZxdnFBemhkMUxFX2IwTDBTd094N1Jsa0F0UmhZRVdRTVoxQXBrenJBcVHSAZgBQVVfeXFMT3MyMlpWaGtNNDN0QlRjTnZkTUk2T25BRjZUb2VwME9PZDUtUEVQd1p4ZHFBYXplWUp2ckRMcGF1MDNHbDdoU1ptTURvYmpWUkpObnE2ZVJubGozaTA0ZDY4blRlendLbmcyRk5fVEFMV2xWZEhwd3FLUTNna3U4ci1ZSVdFV1k1eTc3d2lVUUptUFZsbEtWUlU?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    },
+    {
+      "title": "Bono, Eddie Vedder and Hozier among mourners at Glen Hansard's funeral",
+      "url": "https://www.bbc.co.uk/news/articles/crk5lmglkdno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
       "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges",
       "url": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html",
       "source": "CNN",
@@ -64,11 +122,25 @@
       "domain": "cnn.com"
     },
     {
-      "title": "Washington wildfire arson suspect previously charged with first-degree murder, records show",
-      "url": "https://www.foxnews.com/us/washington-wildfire-arson-suspect-previously-charged-first-degree-murder-records-show",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
+      "title": "Victims killed in In-N-Out Burger shooting remembered by grieving relatives",
+      "url": "https://abcnews.com/US/victims-burger-shooting/story?id=135352228",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    },
+    {
+      "title": "Over a dozen hurt after fire breaks out at New York City subway station",
+      "url": "https://www.cbsnews.com/video/over-a-dozen-hurt-after-fire-breaks-out-at-new-york-city-subway-station/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "5 states hold primaries today. And, Spokane police arrest man connected to wildfire",
+      "url": "https://www.npr.org/2026/08/04/g-s1-137277/up-first-newsetter-michigan-primaries-todd-blanche-spokane-wildfires-chuck-edwards",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
     },
     {
       "title": "Guatemala volcano eruption prompts evacuation of hundreds of people",
@@ -78,46 +150,11 @@
       "domain": "theguardian.com"
     },
     {
-      "title": "Guatemala's Fuego volcano intensifies, prompts preventive evacuations",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa1JSZThSQXJtM2VFb3RwSGp4dTY2ampYVVBlUk1LR3hGMTRiRHQtYjhRS1BHVnZ6TU12M1A5SVBTUkZfSm1feW1ROXpIUXdKR0kwUFNQNlN1UlpXTTB4cTM1QmN2V2dlUnp2dUw5N1RsbzdIdFV1MS1kR01IVWdHQVFLXzhtdFAyY3BxOWh2NVJVblVuV2F4aUY3Q2trYldNTjQxYnE1MjhQbFVWc0NJMHAtd1o1N1N3dERkcnhwWU96dw?oc=5",
-      "source": "Reuters",
+      "title": "Evacuations ordered as Guatemala volcano erupts",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/evacuations-ordered-as-guatemala-volcano-erupts?traffic_source=rss",
+      "source": "Al Jazeera",
       "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "Fauci Won\u2019t Even Look At People Hurt By COVID Regulations He Pushed",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcFB2czZxc21TbGRoZ1ZKMnYzTGpPaDdTdWFrZy13WldNZEY5bTZxT3gzSWMyNFhxd0JhNkQ5bW9YOEpQOXlSeHNwdWNfZjlnWXN1YXMwTUVEcndpSlh4UVRVdHVZR1lneDBoRXdyQjc5c1R0Tno3X2NSMGZjTzV4Vmw0U01fS29KYWxuQ2g5Xy1hOXUtZEpUOTVsTW5jdw?oc=5",
-      "source": "Daily Wire",
-      "bias": "right",
-      "domain": "dailywire.com"
-    },
-    {
-      "title": "Residents ringing alarm bells over \u2018secretly negotiated\u2019 tax-sharing agreement that would bring Costco and gas station to OC city",
-      "url": "https://nypost.com/2026/08/04/business/brea-residents-ringing-alarm-bells-over-proposed-costco-and-gas-station/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "What to know about the victims of the In-N-Out Burger shooting",
-      "url": "https://abcnews.com/US/victims-burger-shooting/story?id=135352228",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    },
-    {
-      "title": "David Ellison Pens Op-Ed Defending \u2018My Politics\u2019 After CBS News Disaster",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOalliRjV4VjducGtZU2c5YnRncVRUZWNaUzJLR2YwUjFKaTg0RHE3SmhoSzRKd01ranE4dXJCeEYyRF9vRWppYmlmZkJnOWQ1T01CTlpCSVJ5c2ozbVJmZkl0RXU2YnhFZ3ZaY3lpNHZFcDFpTkdYY19YbkRkWWpTUkNNdXdld052OVpPUUdjdk5KNzAxV2l5THNodHp3d9IBowFBVV95cUxOOWxsQ2c3aGJXam1tT1p5SW5ESTl2T2VLN2JMcC1sdkUzR1RucVAzeHpOSDVLNnRiMVI2Ymg2QXRkSlpuN1hJa3l2cnZ5dmRZNG5XVXB4UTVwSVBEZW05d1B5Y2xEOThjemtDYUFsZzBpWjNPdXRHWVRDWTRPY2tTNzFnM1hpNVRyOG1mT0dCeDBSX1U1UTgxemt6U29uMlNUVWk0?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    },
-    {
-      "title": "These charts suggest the S&P 500 is looking like a bargain. Take them with a grain of salt.",
-      "url": "https://www.marketwatch.com/story/these-charts-suggest-the-s-p-500-is-looking-like-a-bargain-take-them-with-a-grain-of-salt-f109548f?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
+      "domain": "aljazeera.com"
     }
   ],
   [
@@ -129,112 +166,98 @@
       "domain": "bbc.com"
     },
     {
-      "title": "Gaza holds mass funeral for 112 people killed in Israel\u2019s 2023 Sabra attack",
-      "url": "https://www.aljazeera.com/news/2026/8/4/gaza-holds-mass-funeral-for-112-people-killed-in-israels-2023-sabra-attack?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "Tourist plane crashes during flight over Peru\u2019s Nazca Lines, killing 13",
-      "url": "https://www.theguardian.com/world/2026/aug/01/at-least-13-dead-as-tourist-plane-crashes-during-flight-over-perus-nazca-lines",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    },
-    {
-      "title": "Palestinians hold mass funeral for 112 bodies finally recovered from a 2023 Gaza strike",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWlgtZDJKWkRiTWNwOFRhUzM2WGhhTlR4clFocEt4TGNEV0VLb0gtbDEzQmlYZkt3OFNyckJpQ1JPUzQyRUdFVDFjbWdyaXQwNGV5dUYzeXFocWF3UnNqTkpUVnhrX3RudkJ0R3lYVXR1MmwxazZ1ZzF5SDdlQWNsWVVlZVZYVzJJNUJxQnFjYS0tQ1VyaWR2QkJZQTRYSDVG?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
       "title": "Gaza holds mass funeral for extended family recovered from wartime rubble",
       "url": "https://www.cbsnews.com/news/gaza-war-mass-funeral-extended-family/",
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"
-    }
-  ],
-  [
-    {
-      "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
-      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
     },
     {
-      "title": "Musk likely to face tough questions during SpaceX\u2019s first earnings call as a public company",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWExWNGc3WlZRU0Frc0ZwX1Zyb01Hd3NPOFowX1M3UEtGWmpmSzNSX3VHMEpIVy1PNkVXZWRZUU9oQ3V3Qk03MFdSZ2JQV05mZVd1OW9hOHdkcVlCeEZiVFBBSmhYa1I4MUJETllZdS1aV3hFMXQxekdEV0VjcUpaYzYwM2tvRkgwdXMzdlFzV05BY01iNWZmQg?oc=5",
-      "source": "Associated Press",
+      "title": "\u2018I wanted to hug whatever remained\u2019: Gaza families\u2019 3-year wait for funeral",
+      "url": "https://www.aljazeera.com/news/2026/8/4/i-wanted-to-hug-whatever-remained-gaza-families-3-year-wait-for-funeral?traffic_source=rss",
+      "source": "Al Jazeera",
       "bias": "center",
-      "domain": "apnews.com"
+      "domain": "aljazeera.com"
     }
   ],
   [
     {
-      "title": "French trans phenom Julie T\u00e9tart looks WNBA-ready \u2014 so why hasn\u2019t the \u2018inclusive\u2019 league called?",
-      "url": "https://www.foxnews.com/outkick-sports/french-trans-scoring-machine-julie-tetart-wnba-ready-inclusive-league-called",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
+      "title": "Chipotle pulls jalapenos from some restaurants amid salmonella probe",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX2RhdG9zUUlsMjlDaklJdXFRc0s4aGJXLVBrakhjUE14MkVYYy15SmgxNUxTMjRmOEJyQmtRZm9lTzFNMkkwNTV3V19NeFIxaDdwWTRTS29TN2lEZHNVQUxxX1A2c0ZaazRURmxtLUNtcTFZZmloVlZMclE0NDNOYUJzQ0I5ejFmaDBaTkhONHBuaXRMeFJjRzRqdkM1Y1dNeEdiQm1yNmRZTTRWRHdZTTBvMnRBcHFm?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
     },
     {
-      "title": "Exclusive \u2014 PragerU CEO Explains Young Americans Must Become Financially Literate: 'No Longer Optional'",
-      "url": "https://www.breitbart.com/economy/2026/08/04/exclusive-prageru-ceo-explains-young-americans-must-become-financially-literate-no-longer-optional/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
+      "title": "Chipotle removes jalapenos linked to Minnesota salmonella outbreak",
+      "url": "https://www.cbsnews.com/news/chipotle-jalapenos-minnesota-salmonella-outbreak/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
     }
   ],
   [
     {
-      "title": "Senate Democrats say banks turned blind eye to suspicious moves by Jeffrey Epstein",
-      "url": "https://www.npr.org/2026/08/04/nx-s1-5919238/jeffrey-epstein-jpmorgan-bank-of-america-deutsche-bank-senate-democrats",
+      "title": "Novo outlook hike falls flat as high Wegovy pill hopes unmet",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdXlQZTlFQVdGcUJLekdBcDJSVHlDeXcwTjdJWFZNWTFSZ083NV90WXFVNkdhVXlRN2JKbHF0c000Y1AxX0VPMDBqeURUaHpfUFcxd2ZFQ1VoQTNBWDVHVkhBZHpWY1oxbnRIU2ZwS3ZONHhmZUF4SVdrNTVkdkdGak1FcFZsdkRwZWlEX0ZOTjRDN3RpOVBZR1hLTEdxSzlRM3lmZ01KYkFOM2c?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Novo Nordisk stock is sliding again \u2014 and the Wegovy pill\u2019s surprise miss is partly to blame",
+      "url": "https://www.marketwatch.com/story/the-wegovy-pills-surprise-miss-is-one-reason-novo-nordisks-stock-is-down-ec0fe43d?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
+    }
+  ],
+  [
+    {
+      "title": "EPA cannot block billions in climate grants, US appeals court rules",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTXVZM0xxUG92N2JHRnBleUJLOU5fcHBZeWo2Tk5Bb2NXXy1sVXBGaDh2cDZGNlJFWTBDTVkySzNiUUcyM3VFc0l2QnByRDFHNjgzbkRDaVBVTi1nR1kxQUh3RERaZjhKWmdFdFdRSkRmd2tiMm4tcnE5SnR3b1ZYVTZTWXN0NVpzUmFic2NvOGZBMmx3d1d4TUFZVmZpMzJrRnM5MkljaTdUckN3eG04NlNmNW9LUQ?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "US court deals blow to Trump\u2019s bid to scrap climate grant programme",
+      "url": "https://www.aljazeera.com/news/2026/8/4/us-court-deals-blow-to-trumps-bid-to-scrap-climate-grant-programme?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    }
+  ],
+  [
+    {
+      "title": "Warsh Wanted \u2018Regime Change.\u2019 A Reset Might Need to Come First.",
+      "url": "https://www.nytimes.com/2026/08/04/business/kevin-warsh-federal-reserve-markets.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "So what\u2019s the plan to bring down inflation? The new Fed chair and his White House allies say you shouldn\u2019t ask.",
+      "url": "https://www.marketwatch.com/story/bessent-defends-warsh-saying-markets-are-going-through-detox-from-too-much-fed-guidance-39dfc765?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
+    }
+  ],
+  [
+    {
+      "title": "Europe heat wave fuels drought, fires and energy fears",
+      "url": "https://www.npr.org/2026/08/04/nx-s1-5919214/europe-heatwave-danube-rhine-wildfires",
       "source": "NPR",
       "bias": "left-center",
       "domain": "npr.org"
     },
     {
-      "title": "Senate Democrat\u2019s report says major banks \u2018looked the other way\u2019 on Epstein",
-      "url": "https://www.aljazeera.com/news/2026/8/4/senate-democrats-report-says-major-banks-looked-the-other-way-on-epstein?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    }
-  ],
-  [
-    {
-      "title": "Republicans clear Todd Blanche for top US Justice Department role",
-      "url": "https://www.aljazeera.com/news/2026/8/4/republicans-clear-todd-blanche-for-top-us-justice-department-role?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "Senate Judiciary Committee advances Blanche's nomination for attorney general",
-      "url": "https://abcnews.com/Politics/senate-judiciary-committee-advances-todd-blanches-nomination-attorney/story?id=135353842",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    }
-  ],
-  [
-    {
-      "title": "Eaton Fire in Altadena sparked by SoCal Edison electric tower, probe finds",
-      "url": "https://www.cbsnews.com/news/california-eaton-fire-report-socal-edison-electric-tower/",
+      "title": "Nazi ships, mammoth bones emerge as Danube River dries up",
+      "url": "https://www.cbsnews.com/news/danube-river-wwii-shipwrecks-mammoth-bones/",
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"
-    },
-    {
-      "title": "Southern California Edison equipment blamed for 2025 Eaton Fire in Los Angeles",
-      "url": "https://abcnews.com/Business/wireStory/southern-california-edison-equipment-blamed-2025-eaton-fire-135362332",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
     }
   ]
 ]

@@ -1,88 +1,11 @@
 [
   [
     {
-      "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
-      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
-    },
-    {
-      "title": "Musk likely to face tough questions during SpaceX\u2019s first earnings call as a public company",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWExWNGc3WlZRU0Frc0ZwX1Zyb01Hd3NPOFowX1M3UEtGWmpmSzNSX3VHMEpIVy1PNkVXZWRZUU9oQ3V3Qk03MFdSZ2JQV05mZVd1OW9hOHdkcVlCeEZiVFBBSmhYa1I4MUJETllZdS1aV3hFMXQxekdEV0VjcUpaYzYwM2tvRkgwdXMzdlFzV05BY01iNWZmQg?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "What to watch for in SpaceX's first public earnings report today",
-      "url": "https://www.cbsnews.com/news/spacex-first-earnings-report-ai-starlink/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "Democrat Wisconsin Gubernatorial Candidate Francesca Hong Said She Left Restaurant Due to 'Too Many Old White People'",
-      "url": "https://www.breitbart.com/politics/2026/08/03/wisconsin-francesca-hong-left-restaurant-too-many-old-white-people/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
-    },
-    {
-      "title": "FIFA denies Infantino sought Trump backing after failed World Cup selloff",
-      "url": "https://www.aljazeera.com/sports/2026/8/4/fifa-deny-infantino-sought-trump-backing-after-failed-world-cup-sell-off?traffic_source=rss",
+      "title": "War on Iran: Trump says Iran has one \u2018last chance\u2019",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/war-on-iran-trump-says-iran-has-one-last-chance?traffic_source=rss",
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
-    },
-    {
-      "title": "Sailors Working in Strait of Hormuz Are Caught in Crossfire of Iran War",
-      "url": "https://www.nytimes.com/2026/08/04/business/iran-strait-hormuz-shipping-sailors.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "Ted Cruz urges Senate to stay in Washington until Protect College Sports Act passes this week",
-      "url": "https://www.foxnews.com/outkick-sports/ted-cruz-urges-senate-stay-washington-protect-college-sports-act-passes-week",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "5 states hold primaries today. And, Spokane police arrest man connected to wildfire",
-      "url": "https://www.npr.org/2026/08/04/g-s1-137277/up-first-newsetter-michigan-primaries-todd-blanche-spokane-wildfires-chuck-edwards",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    },
-    {
-      "title": "Ebola kills over 1,700 as fastest-growing outbreak in eastern Congo",
-      "url": "https://nypost.com/2026/08/04/world-news/ebola-kills-over-1700-as-fastest-growing-outbreak-in-eastern-congo/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "Trump Fumes Over Jeanine Pirro\u2019s Reflecting Pool Case: \u2018She Choked\u2019",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQazBkZWJBOVJYdzVCY3NCc3hVamIxS0lnSEJCYy1tNWZOdTNDLWw0M1NtQTY2bnpnVDlLWXEzS1V3aThLY0ROQUwzRTlsTGdzWmVHeDg5blhjTGE2NkxlazgzekRUVmN3aldsdTFFb2Y2RUdYWnFwOFJQSnpmV1hlSGFfQzZkS0JLcG1PaE43VTUtWXdhT3fSAZsBQVVfeXFMUGkydThmYUQ5NjFxREVKcHdFcFhUWTAxY2JjWGZpRGw4NVpoQ01HbDlXQjRKaWE2RFc5NUl4OVRxQ2ozU0NpU1h1STByajgwRWRjT0xrd2VTSXZiNUxhUWlPV05uYXBINWlZcC1uZmVkekZkQkl0S2VGcU04OVYzdW1FUUQtSzhxWmRpeW1JRWxlelNBbHpoMWQ5TDA?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    },
-    {
-      "title": "Oil prices take a dive as Qatar and Bessent note talks to reopen Strait of Hormuz",
-      "url": "https://www.marketwatch.com/story/oil-prices-rise-after-vessel-reports-being-hit-in-strait-of-hormuz-db6ce867?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
-    },
-    {
-      "title": "S&P 500, Dow hit record highs on strong AI-linked earnings, Mideast deal hopes",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMHk5N1NJZXlfQ196NTA1SjFaUUtUaDd0UXNDY2FsLWM2aE1VTElKc1oxaXFMbmd1M2kwcXVmaFBKbEo3TmFmY2lfRVFraDFVcTZpTTNfbGU2VU9iZnQ0Q2xBR0ZCVHFmRUktbVk0VTR1RVVYNzVxNEVUa3dJbmFQXzQ0SldqNzVoSXAtRnF3SDJ0M0UwNEhRLVhsUTd3Yk9jdnhTQUJ0WGdOUEdRTHJfeUpKZUw?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
     },
     {
       "title": "Trump keeps making threats. The world has stopped flinching.",
@@ -92,18 +15,97 @@
       "domain": "washingtonpost.com"
     },
     {
-      "title": "Top Fifa official Wenger says scrapping World Cup plan 'absolutely necessary'",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2k7p4nxdy4o?at_medium=RSS&at_campaign=rss",
+      "title": "Talks With Iran to Reopen Strait of Hormuz Make Progress, Officials Say",
+      "url": "https://www.nytimes.com/2026/08/04/world/middleeast/strait-of-hormuz-deal-progress.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Trump offers Iran \u2018last chance\u2019 deal as repeated pauses fail to end war",
+      "url": "https://www.foxnews.com/politics/trump-offers-iran-last-chance-deal-repeated-pauses-fail-end-war",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Trump optimistic Iran talks will reopen strait, and other developments in the Middle East",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeXk4T2kzT3g2bk5zc040bF9IVk1UTlB2WXNoa2tPTldBbjdRY0F6dFo5dk1YY1N1YUFFaFpONHdWeG9YaENDaG9KcExEUHJCdUYwdEV1c3lGMURoenctSVlaUW93ODYwUi1SSGdRd3lWNkpGazlMYndZT0p3TzhWZ3lEWVBSZDdFblJVbnpIZnhLWTNvc2h0MU81SHJRNDBrb3c?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
+      "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "bias": "center",
       "domain": "bbc.com"
     },
     {
-      "title": "Chaos of border crossing gives way to limbo for Moroccans on Ceuta\u2019s streets",
-      "url": "https://www.theguardian.com/world/2026/aug/02/ceuta-border-crossing-spain-morocco",
+      "title": "Bessent defends Warsh, saying markets are going through \u2018detox\u2019 from too much Fed guidance",
+      "url": "https://www.marketwatch.com/story/bessent-defends-warsh-saying-markets-are-going-through-detox-from-too-much-fed-guidance-39dfc765?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
+    },
+    {
+      "title": "Investigation Exposes How Viral Rumors Triggered Spain\u2019s Ceuta Border Crisis",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbjJHd1F6WXNETi1RdlY1UDI2M01HM3BXZkRvWmEtemRJRXNZNmlzcGwyWVNtZ0hGbXhHN2NTU3lFMHk0cGhsUlNLc2xicVhlWWgxUXpkb0cyMUJNb0JqRGkxQXhYampMRjZxdnFBemhkMUxFX2IwTDBTd094N1Jsa0F0UmhZRVdRTVoxQXBrenJBcVHSAZgBQVVfeXFMT3MyMlpWaGtNNDN0QlRjTnZkTUk2T25BRjZUb2VwME9PZDUtUEVQd1p4ZHFBYXplWUp2ckRMcGF1MDNHbDdoU1ptTURvYmpWUkpObnE2ZVJubGozaTA0ZDY4blRlendLbmcyRk5fVEFMV2xWZEhwd3FLUTNna3U4ci1ZSVdFV1k1eTc3d2lVUUptUFZsbEtWUlU?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    },
+    {
+      "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges",
+      "url": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
+    },
+    {
+      "title": "Francesca Hong: 'Not Practical' to Abolish Senate When We Can Take Majority",
+      "url": "https://www.breitbart.com/clips/2026/08/04/francesca-hong-not-practical-to-abolish-senate-when-we-can-take-majority/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
+    },
+    {
+      "title": "5 states hold primaries today. And, Spokane police arrest man connected to wildfire",
+      "url": "https://www.npr.org/2026/08/04/g-s1-137277/up-first-newsetter-michigan-primaries-todd-blanche-spokane-wildfires-chuck-edwards",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "Suspect in attack on New York City federal building indicted on arson charge",
+      "url": "https://abcnews.com/US/suspect-attack-new-york-city-federal-building-indicted/story?id=135358756",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    },
+    {
+      "title": "Canadians spent $3.3bn less on travel to US in 2025 after Trump\u2019s return to office",
+      "url": "https://www.theguardian.com/world/2026/jul/28/canadians-us-travel-drop-trump",
       "source": "The Guardian",
       "bias": "left-center",
       "domain": "theguardian.com"
+    },
+    {
+      "title": "Behind closed doors, Trump, White House aides hope Rep. Max Miller exits race",
+      "url": "https://www.cbsnews.com/news/max-miller-trump-reelection-white-house/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
     },
     {
       "title": "At least 12 states face cyberattacks on their water systems, sources say",
@@ -111,26 +113,33 @@
       "source": "ABC News",
       "bias": "center",
       "domain": "abcnews.go.com"
+    },
+    {
+      "title": "FBI investigates as Michigan joins Minnesota in reporting cyberattacks on its water systems",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPejV5NEdoc3dyRHhtTTZXUVlOQXI0a0JIMjhOOWtGZ2xvNzlPS2h6WnJ0d25LejIwNDB4TzFYZWRFNk1CaUVQVXp1ZTdpXzNieFFRVUFYUHNfa2tKRGwzRWwwbElHa0dDcmc4Xzl1Y2hfN1JjYkpoVEhsZ2dEbkQweWk0RUxueW5JcW1ybGY0RUZUUFhGRzNadXJ5WQ?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
     }
   ],
   [
     {
-      "title": "French coastguards rescue 157 from burning migrant boat in English Channel",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMC1Ha0xsY2N0R2VONVJhNXAtYmNWTnJTMV9sYTMtYWxfUnpGaENHNHZXN1pFZ3pXSXRkZ0lCd2lqZE5lWUhhNU16RFhvejBoTTFEQ0hFZUhkNG9WN01BcUliaDRvWDlZbEk2cF9xeFdjd3MxWklqQlR4RERod2ExZHJRR2EtR3pmVzBnaVdweFpqQ1BDMUU5eFpBVTBxdVN4NHNKZ0sycUtzMVFh?oc=5",
+      "title": "Ukraine accuses Russia of war crime after video shows drone attacking vegetable seller in Kherson",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd0dKYnNEVVFrdlNXS1JkMXNlcVlYekZlTTFXZ21IVU5wLUpvRTRoZFVNUUtvcUZOWHlZZG84Z0huU3ltdlVrVFpMZ3dMV1dSano3bmlRM3Bnam5Qa0Vmd2ZsOGpxQWstTkNBV19DLXo1OWVsMDlzOUtwT3pYNm8wdW41VUhOOXBqQV90TjBsUDdnRVlJVEhGNnB3MExacFdES19PdGYyQkp3dmNhcGxnQy1LUFFJZ0U5YnB4UHFuV2RIQmtrQXc?oc=5",
       "source": "Reuters",
       "bias": "center",
       "domain": "reuters.com"
     },
     {
-      "title": "More than 150 people rescued in English Channel after boat catches fire",
-      "url": "https://www.aljazeera.com/news/2026/8/4/more-than-150-people-rescued-in-english-channel-after-boat-catches-fire?traffic_source=rss",
+      "title": "Drone appears to stalk man before exploding",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/drone-appears-to-stalk-man-before-exploding?traffic_source=rss",
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
     },
     {
-      "title": "More than 150 migrants rescued after boat catches fire in Channel",
-      "url": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
+      "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
+      "url": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "bias": "center",
       "domain": "bbc.com"
@@ -138,18 +147,89 @@
   ],
   [
     {
-      "title": "What will happen when a SpaceX rocket collides with the Moon?",
-      "url": "https://www.bbc.co.uk/news/articles/cx25yn22l97o?at_medium=RSS&at_campaign=rss",
+      "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
+      "url": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "bias": "center",
       "domain": "bbc.com"
     },
     {
-      "title": "SpaceX rocket is on a 5,400-mph collision course with the moon",
-      "url": "https://www.cbsnews.com/news/spacex-rocket-moon-collision/",
-      "source": "CBS News",
+      "title": "Photos: Thousands in Gaza City join mass funeral for 112 Palestinians",
+      "url": "https://www.aljazeera.com/gallery/2026/8/4/photos-thousands-in-gaza-city-join-mass-funeral-for-112-palestinians?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "Palestinians hold mass funeral for 112 bodies finally recovered from a 2023 Gaza strike",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWlgtZDJKWkRiTWNwOFRhUzM2WGhhTlR4clFocEt4TGNEV0VLb0gtbDEzQmlYZkt3OFNyckJpQ1JPUzQyRUdFVDFjbWdyaXQwNGV5dUYzeXFocWF3UnNqTkpUVnhrX3RudkJ0R3lYVXR1MmwxazZ1ZzF5SDdlQWNsWVVlZVZYVzJJNUJxQnFjYS0tQ1VyaWR2QkJZQTRYSDVG?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    }
+  ],
+  [
+    {
+      "title": "David Ellison breaks silence on Paramount-WBD merger fight, CNN insiders don\u2019t buy \u2018lip service\u2019 about network",
+      "url": "https://www.foxnews.com/media/david-ellison-breaks-silence-paramount-wbd-merger-fight-cnn-insiders-dont-buy-lip-service-about-network",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Paramount-WBD merger criticism based on David Ellison\u2019s politics, future of CNN, CEO writes",
+      "url": "https://nypost.com/2026/08/04/media/paramount-wbd-merger-criticism-based-on-david-ellisons-politics-future-of-cnn-ceo-writes/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    }
+  ],
+  [
+    {
+      "title": "Illegal immigrant suspect charged in crash that killed police officer and his girlfriend",
+      "url": "https://www.foxnews.com/us/illegal-immigrant-suspect-charged-crash-killed-police-officer-girlfriend",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Tourist plane crashes during flight over Peru\u2019s Nazca Lines, killing 13",
+      "url": "https://www.theguardian.com/world/2026/aug/01/at-least-13-dead-as-tourist-plane-crashes-during-flight-over-perus-nazca-lines",
+      "source": "The Guardian",
       "bias": "left-center",
-      "domain": "cbsnews.com"
+      "domain": "theguardian.com"
+    }
+  ],
+  [
+    {
+      "title": "EXCLUSIVE: US has used 'virtually all' of its long-range precision missiles during Iran war, sources say",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZjVoa01lTFhQYVMtVjRxRWZKSng1YzFUTTNJOVI1T1pWZVNKc1czOWhJWHB3VDFFWnVrY3lLT1FnSVBfU1M1RFdrU2FsYVlKZXdhVm9VbF9PaEFNeGVMR0ZtNmlEeGhkWG1iang1U0kzb3hmWENGSnNXODRzdnZYaE1LYkY4Vm1hbzJEcEl1ZzZIRVBQLS1nYUYyTWdDdjZjXzN0NmtuZm5IV2FEdlBQby1UUnBqc0FF?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "U.S. Running Dangerously Low On Key Missiles Amid Iran War: Reuters Sources",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcWZzOTdFcWc2eGtkX09jeVg5QTdCYS1NTHM4SXU0WExSb1BkeGtGX2MwSjhoeEdOb1R1T0J0eXJzS3EzRnhrTjVXWVF3WkJCNUtQVUxKWW9BenN5YjNwV3d6anpKczhLd1RzdDM5SWpxaFkyZlEzZ1BFcGh2aldEeG9rTVl0QdIBiwFBVV95cUxOekVyXzFXQ0tCUzhlbkNLam5pdDh6TVM0SVBXSVRGZWh5a25RYkxpREJCdlZlUC1LSGNvQmI5aXhZcnJ3VWpuMW1QSkVNNEF2RVhfZjV5SXl1M2F0dEpmcFhOcjZXanl1dFJGcmM5SXZIY2dGajNFM0wxUi1XcV8zY2kzUG9fV1ExNm9j?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    }
+  ],
+  [
+    {
+      "title": "U.S. Trade Deficit Dips in June Along With \u2018World Cup Effect\u2019",
+      "url": "https://www.nytimes.com/2026/08/04/business/economy/us-trade-deficit-june.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Sudden surge of multimillionaires sees all cash buyers flood superrich California city",
+      "url": "https://nypost.com/2026/08/04/real-estate/san-francisco-all-cash-luxury-home-purchases-surge-amid-ai-boom/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
     }
   ]
 ]

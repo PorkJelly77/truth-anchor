@@ -8,6 +8,13 @@
       "domain": "cnn.com"
     },
     {
+      "title": "Peruvian cardinal hails $150m lead poisoning settlement for 1,300 people as a \u2018historic milestone\u2019",
+      "url": "https://www.theguardian.com/global-development/2026/aug/05/peruvian-cardinal-historic-milestone-150m-lead-poisoning-settlement-1300-children",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    },
+    {
       "title": "Mike Rogers Secures Republican Nomination for Michigan Senate",
       "url": "https://www.breitbart.com/politics/2026/08/04/mike-rogers-secures-republican-nomination-michigan-senate/",
       "source": "Breitbart",
@@ -15,46 +22,25 @@
       "domain": "breitbart.com"
     },
     {
-      "title": "High-stakes Michigan Senate race among primaries in 5 states",
-      "url": "https://abcnews.com/Politics/high-stakes-michigan-senate-race-primaries-5-states/story?id=135365946",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    },
-    {
-      "title": "Iran\u2019s regime won\u2019t negotiate in good faith. Trump must break its grip",
-      "url": "https://www.foxnews.com/opinion/irans-regime-wont-negotiate-good-faith-trump-must-break-its-grip",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "US and Iran having 'very good discussions', Trump says",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUFpfZEh3NVhNLURNVl9ETWp2ak5nZEx4d0JYQ19WZ3Z6bTl3V2wyUzVLQmFnTkJrZTZtVXd1cnp2dkdXUmh0d1FXUmhfbGQ1a3dKY1ZzQ0pXQTdUcS02X1llNkdFbzFLN0k2YXk2X2JEUTVCV1RBeGdUaFA2VGFzSW9LYlRDQm5senFDSzFVRkxHaXdSazRBWUlTT1pjY00yU1Qw?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "US revokes Brazil ambassador\u2019s visa in escalation of diplomatic feud",
-      "url": "https://www.theguardian.com/us-news/2026/aug/04/us-revokes-brazil-ambassador-visa",
-      "source": "The Guardian",
+      "title": "Israeli Strikes May Undermine Trump\u2019s Peace Plan for Gaza",
+      "url": "https://www.nytimes.com/2026/08/05/world/middleeast/israel-strikes-gaza-peace-deal.html",
+      "source": "New York Times",
       "bias": "left-center",
-      "domain": "theguardian.com"
+      "domain": "nytimes.com"
     },
     {
-      "title": "Far-left streamer Hasan Piker dismisses Hamas\u2019s anti-women, anti-LGBTQ stances",
-      "url": "https://nypost.com/2026/08/05/media/far-left-twitch-streamer-hasan-piker-dismisses-hamass-anti-women-anti-lgbtq-stances/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
+      "title": "Trump says deal to reopen the Strait of Hormuz could come as early as Wednesday",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcXpENFpMQ0V4N2VNNW9aXzJoWmV5V0R5U2t1QmY1OUFuSmQwcUIxb0x2aUZIdk9WWFFVc2RZM0NHSnh4eFhiekFUdWNjWDVkMlFkdzVCSXJaQnVyNmUtazRkVk1fUHVtc2w0N19OQnNTQV9XV0FqQUF4anhhNmhybkp3TF85NTY2MXR5MW9scDNrYWswN244QTBDRXFIM0E?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
     },
     {
-      "title": "El-Sayed and Stevens in tight Michigan Democratic Senate primary contest",
-      "url": "https://www.cbsnews.com/news/abdul-el-sayed-haley-stevens-tight-contest-michigan-democratic-senate-primary-votes/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
+      "title": "Iran, Oman, US \u2018close\u2019 to Hormuz deal: What do they all want?",
+      "url": "https://www.aljazeera.com/news/2026/8/5/iran-oman-us-close-to-hormuz-deal-what-do-they-all-want?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
     },
     {
       "title": "Man Carrying Ammo Was Monitoring Security At Trump Golf Course Near LA, Authorities Say",
@@ -64,188 +50,62 @@
       "domain": "huffpost.com"
     },
     {
-      "title": "Authorities arrested a man with ammo and apparently monitoring security at Trump golf course near LA",
-      "url": "https://www.npr.org/2026/08/04/g-s1-137415/trump-golf-course-arrest-california",
+      "title": "Russian missile and drone barrage in Ukrainian capital region kills 17",
+      "url": "https://www.npr.org/2026/08/05/nx-s1-5921194/russian-missile-drone-barrage",
       "source": "NPR",
       "bias": "left-center",
       "domain": "npr.org"
     },
     {
-      "title": "Russian attacks kill 17, exploiting Ukraine\u2019s lack of missile interceptors",
-      "url": "https://www.aljazeera.com/news/2026/8/5/russian-attacks-kill-17-exploiting-ukraines-lack-of-missile-interceptors?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
+      "title": "Russia strike kills 21 as Ukraine says it needs more missile interceptors",
       "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "bias": "center",
       "domain": "bbc.com"
     },
     {
-      "title": "Ukraine fails to stop any missiles overnight, after Zelensky says no interceptors remain",
+      "title": "Ukraine fails to halt Russian barrage as Zelensky blames partners for \u2018horrific casualties\u2019",
       "url": "https://www.washingtonpost.com/world/2026/08/05/ukraine-fails-stop-russian-missile-barrage-after-zelensky-says-interceptors-gone/",
       "source": "Washington Post",
       "bias": "left-center",
       "domain": "washingtonpost.com"
     },
     {
-      "title": "How the Ukraine War Became a Fight for the Skies",
-      "url": "https://www.nytimes.com/2026/08/05/world/europe/russia-ukraine-air-war.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "Iran and Oman are working on a plan to reopen the Strait of Hormuz, and other Mideast developments",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObXBWcm1tUGMzTS10VXhUNlBaMENHZzBNMnRxVzhQZnEyN3kwSF9Cd0pQUHZLQS11Y0Jpd2tiTGIxRE1WVXNxa3lqWXBiSmdONXFjTkRXb195eThEeEpVYzlZOU1uaTE0d3M1N3Y5NU9IVGpTM0MzUkRjVzA4SnFXTk9RWDhZRzhPc1JZNVhKZUM1ZFBkSk9qeHJsanhpUzdaVUs4UFlMXzVxRE0?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    }
-  ],
-  [
-    {
-      "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges",
-      "url": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
-    },
-    {
-      "title": "Victims killed in In-N-Out Burger shooting remembered by grieving relatives",
-      "url": "https://abcnews.com/US/victims-burger-shooting/story?id=135352228",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    },
-    {
-      "title": "Idaho fast food restaurant shooting leaves 3 dead and 7 injured, city spokesman says",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYW9uN0pxS05KdmgwSlBrYXdBTjBJTDY2N05QS2FSbUIycnRaR3ZnYTdBVTU5OUxpWnpGZnJUS0tVUWR0dFJIbGNKZGVYZEdxS3RfZjk1bHVnc3h3TTRHN2g1TUFMRU8yZHk3NnE0elkzZXFtUEwxRWNuZjktOTdmcGpCbUxYQW9vM05nZUZ3?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "Grieving dad of NY kids killed in grandma, mom\u2019s murder-suicide, says murderers deserve \u2018special place in hell\u2019",
-      "url": "https://nypost.com/2026/08/05/us-news/brady-harmon-dad-of-ny-kids-killed-in-grandma-moms-murder-suicide-says-murderers-deserve-special-place-in-hell/",
-      "source": "New York Post",
+      "title": "GOP Rep Chuck Edwards drops re-election bid after House ethics report recommends censure",
+      "url": "https://www.foxnews.com/politics/gop-rep-chuck-edwards-drops-re-election-bid-house-ethics-report-recommends-censure",
+      "source": "Fox News",
       "bias": "right",
-      "domain": "nypost.com"
-    }
-  ],
-  [
-    {
-      "title": "House Ethics Committee will investigate Ohio Republican Max Miller",
-      "url": "https://www.npr.org/2026/08/04/g-s1-137389/max-miller-congress-house-ethics-committee-investigation",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
+      "domain": "foxnews.com"
     },
     {
-      "title": "House Ethics Panel Investigating Max Miller Amid Domestic Abuse Allegations",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVF83dUdfa3NLRmhwS2NHM2djMmxTdkZwWHVJSkFtaU5sWUpNV1Z4Rzd5SzBGQjN1N2pGVVUwb0dFLXIxT3VVcEFaNXVxbzQxOU52NXEzcWhQWjEyVnJ0M1pTREtJMkZmRVk1elR3TlAwMWFfVmY5UHRGLXNTQWJXMlJYcVNvZWJhXzJNYkNWajltOEU3QUxVUS1VTUNKYmE1OW1IM3VGYnVkd0RF0gGyAUFVX3lxTE9nRDJoTGJsQ0tKV2d6eUZUUnFjaFZqRGRaNzZGalRnTHhCZmJ2YlBrOUZGWmd2VmVzeHFyakRhWmR4YjgzRkhERXdXc1ZWZXp5UDBSNDF6Nm1KVHlmN0F0OEhiSlZnb1JVdmFFV1FhZkhJRldIUEg1cTZWS0UxMW5JRkpISmhVRXE0WGo5M1NFOUdqRGhpQ1dmRHBZU1V2ZW1UcERhNlRjNjI5N2tlU0FCckE?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    },
-    {
-      "title": "House Ethics Committee opens investigation into domestic abuse allegations against Rep. Max Miller",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcXp2OTVsQUNja0thVFFhbXRnMEJnZUVJYlNHaDc4bE1xallJYnRMX1NrNHpVcmVVYnBCb2twNk1oUGV5RGZ5UTZoV2hlVFNYYXJxcFBMSndhSmRQTzBzRDZBay1zS1NaWnNxZFI1OTZrS1l6NFBHUzZnbUhmbjVwNExWbC1zRlBTSXVOTnd3RXJUbkw2ZkNrWnM5M3lpUFJL?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    }
-  ],
-  [
-    {
-      "title": "Infantino holds crisis meeting in Morocco as FIFA stake sale fallout continues",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSmJPenJsYUFVUXJVNXRDN205US1NQnlqbFJ6aW1Pb3RNNlE0MHY0V2prVnZTVVlIQ2ExM3Q1WHp5bEpqa01UVHlHRDdZRXJlSTlTa3Z5R2hFdENLaUtRYnpMZEVhYWFfZE53X3V0eE9YMmM3QlBWamlvb0piMFU5U29Yb0ZVZ01acXhlZGE1Rzl4by15ZWdCUnUzTE0yc3lkWmdTZk9tUnJQUnRzUGdzVFJlT3lKQjlnZVd3Sm5vVQ?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "FIFA\u2019s Infantino set for crunch meeting after World Cup selloff crisis",
-      "url": "https://www.aljazeera.com/sports/2026/8/5/fifas-infantino-set-for-crunch-meeting-after-world-cup-selloff-crisis?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    }
-  ],
-  [
-    {
-      "title": "Vegetables to get smaller and more expensive due to hot weather, farmers warn",
-      "url": "https://www.bbc.co.uk/news/articles/c4gwv9590xeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "El Ni\u00f1o could push 50m people into acute hunger before end of next year",
-      "url": "https://www.theguardian.com/environment/2026/aug/05/el-nino-could-push-50m-people-acute-hunger-next-year",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    }
-  ],
-  [
-    {
-      "title": "Blogger Perez Hilton recovering in hospital after reports he self-harmed during livestream",
-      "url": "https://www.bbc.co.uk/news/articles/cly5kvdkyjro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "Police respond to Perez Hilton's home after he appeared to harm himself on livestream",
-      "url": "https://abcnews.com/US/police-respond-perez-hiltons-home-after-appeared-harm/story?id=135374913",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    }
-  ],
-  [
-    {
-      "title": "Todd Blanche Clears Committee Vote, Nearing Confirmation as Attorney General",
-      "url": "https://www.nytimes.com/2026/08/04/us/politics/blanche-confirmation-attorney-general-justice-department.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "Senate Judiciary Committee advances Blanche's nomination for attorney general",
-      "url": "https://www.cbsnews.com/news/todd-blanche-attorney-general-senate-judiciary-committee/",
+      "title": "Rep. Chuck Edwards drops reelection bid after sexual harassment allegations",
+      "url": "https://www.cbsnews.com/news/chuck-edwards-drops-reelection-bid-censure-recommendation-sexual-harassment-claims/",
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"
-    }
-  ],
-  [
-    {
-      "title": "S&P 500 Hits Record High as Stock Market Worries About Iran and AI Ease",
-      "url": "https://www.nytimes.com/2026/08/04/business/stock-market-record.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
     },
     {
-      "title": "Stocks return to record highs. Investors who sat tight during the recent momentum crash are being rewarded.",
-      "url": "https://www.marketwatch.com/story/stocks-return-to-record-highs-investors-who-sat-tight-during-the-recent-momentum-crash-are-being-rewarded-8c960105?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
+      "title": "High-stakes Michigan Senate race too close to call, as 5 states hold primaries",
+      "url": "https://abcnews.com/Politics/high-stakes-michigan-senate-race-primaries-5-states/story?id=135365946",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
     }
   ],
   [
     {
-      "title": "Elon Musk addresses memory-chip stock concerns with one simple observation",
-      "url": "https://www.marketwatch.com/story/elon-musk-addresses-memory-chip-stock-concerns-with-one-simple-observation-df134d47?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
+      "title": "What can scientists learn from a stray SpaceX rocket hitting the Moon?",
+      "url": "https://www.bbc.co.uk/news/articles/c62q0xerzrno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "SpaceX rocket segment to crash into the moon: What happened?",
+      "url": "https://www.aljazeera.com/news/2026/8/5/spacex-rocket-segment-to-crash-into-the-moon-what-happened?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
     },
     {
       "title": "SpaceX's revenue rises as its once-soaring stock price drifts back to Earth",
@@ -253,38 +113,91 @@
       "source": "NPR",
       "bias": "left-center",
       "domain": "npr.org"
-    }
-  ],
-  [
-    {
-      "title": "Fuego volcano in Guatemala spews more ash and mud, 1,700 evacuated",
-      "url": "https://www.aljazeera.com/news/2026/8/5/fuego-volcano-in-guatemala-spews-more-ash-and-mud-1700-evacuated?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
     },
     {
-      "title": "Guatemala volcano eruption prompts evacuation of hundreds of people",
-      "url": "https://www.theguardian.com/world/2026/aug/04/guatemala-volcano-eruption-prompts-evacuation-of-hundreds-of-people",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    }
-  ],
-  [
-    {
-      "title": "Piece of SpaceX rocket the size of a school bus crashes into the Moon",
-      "url": "https://www.aljazeera.com/news/2026/8/5/piece-of-spacex-rocket-the-size-of-a-school-bus-crashes-into-the-moon?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
+      "title": "Uber profit narrowly beat forecasts as trips across its platform surge",
+      "url": "https://www.marketwatch.com/story/uber-profit-narrowly-beat-forecasts-as-trips-across-its-platform-surge-4a22ce2d?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
     },
     {
-      "title": "SpaceX rocket on a 5,400-mph collision course with the moon",
-      "url": "https://www.cbsnews.com/news/spacex-rocket-moon-collision/",
+      "title": "SpaceX shows strong growth in its first earnings report since IPO",
+      "url": "https://www.cbsnews.com/news/spacex-earnings-elon-musk-ipo/",
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Takeaways from crucial primary elections across the country and more top headlines",
+      "url": "https://www.foxnews.com/us/takeaways-from-crucial-primary-elections-across-country-more-top-headlines",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "New Zealand capital delights in rare snowfall as southern city residents ski down world\u2019s steepest street",
+      "url": "https://www.theguardian.com/world/2026/aug/05/new-zealand-capital-rare-snow-wellington-dunedin-ski-down-worlds-steepest-street",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "Pakistan\u2019s Khan in jail for 3 years: PTI, Amnesty slam solitary confinement",
+      "url": "https://www.aljazeera.com/news/2026/8/5/pakistans-khan-in-jail-for-3-years-pti-amnesty-slam-solitary-confinement?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    }
+  ],
+  [
+    {
+      "title": "PGA Tour 2026: Wyndham Championship best bets, 'horses for the course' for the Sedgefield Country Club",
+      "url": "https://www.foxnews.com/outkick-sports/pga-tour-2026-wyndham-championship-best-bets-horses-course-sedgefield-country-club",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "2026 Wyndham Championship picks: PGA Tour best bets, odds, predictions for Sedgefield Country Club",
+      "url": "https://nypost.com/2026/08/05/betting/2026-wyndham-championship-picks-pga-tour-best-bets-odds-predictions-for-sedgefield-country-club/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    }
+  ],
+  [
+    {
+      "title": "UN rights chief says Iran executed at least 56 people since March",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeW9QZjd0R3djcFhWMjBZSmhadjhVekQyU0JzYW03NWdpN3VWMVZjelZuX0Rqa0RlbkZBRXF2YkFGcFBBZk93X3U4Y01neXEybmh3QlRrcnp2WEQ2LV9Ldk9DbTlLNThQTUlEOXNrYlZCdkVzeGpGcEdvYmFhYjBEM2YxaFVPY0FWSS1TblRuMFM1TDF3MmlJRFBtWm9oLUhzY0dtQlZmblpRTEpscTdxenEzclJSbG8?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "UN rights chief says Iran executed at least 56 people since March",
+      "url": "https://www.aljazeera.com/news/2026/8/5/un-rights-chief-says-iran-executed-at-least-56-people-since-march?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    }
+  ],
+  [
+    {
+      "title": "Drone carrying explosives found at German airport, police say",
+      "url": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "Turkish cargo ship catches fire after Black Sea drone attack",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-drone-attacks-turkish-ship-sv?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
     }
   ]
 ]

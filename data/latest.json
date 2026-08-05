@@ -1,95 +1,53 @@
 [
   [
     {
-      "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
-      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+      "title": "Millions in the US could face massive consequences unless McCarthy can navigate out of a debt trap he set for Biden",
+      "url": "https://www.cnn.com/2023/04/18/politics/mccarthy-biden-debt-ceiling/index.html",
       "source": "CNN",
       "bias": "left",
       "domain": "cnn.com"
     },
     {
-      "title": "Peruvian cardinal hails $150m lead poisoning settlement for 1,300 people as a \u2018historic milestone\u2019",
-      "url": "https://www.theguardian.com/global-development/2026/aug/05/peruvian-cardinal-historic-milestone-150m-lead-poisoning-settlement-1300-children",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    },
-    {
-      "title": "El-Sayed\u2019s Michigan Senate Primary Win Sets Up the Left\u2019s Biggest Test of the Fall",
-      "url": "https://www.nytimes.com/2026/08/05/us/politics/el-sayed-michigan-senate-primary-win.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "El-Sayed projected to win high-stakes Michigan Senate Democratic primary",
-      "url": "https://abcnews.com/Politics/high-stakes-michigan-senate-race-primaries-5-states/story?id=135365946",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    },
-    {
-      "title": "Explosive-Armed Drone Intercepted at German Airport: Cargo Jet Struck In-Flight Moments Later",
-      "url": "https://www.breitbart.com/europe/2026/08/05/bomb-drone-intercepted-at-german-airport-in-alleged-multi-vector-attack/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
-    },
-    {
-      "title": "Drone carrying explosives found at German airport, police say",
-      "url": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "SpaceX\u2019s stock falls as Wall Street gets spooked by the extent of AI spending",
-      "url": "https://www.marketwatch.com/story/spacexs-stock-falls-as-wall-street-gets-spooked-by-the-extent-of-ai-spending-9ce9ddb8?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
-    },
-    {
-      "title": "FAA investigating why commercial flights at DC airport weren\u2019t stopped for Trump helicopter",
-      "url": "https://nypost.com/2026/08/05/us-news/faa-investigating-why-commercial-flights-at-dc-airport-werent-stopped-for-trump-helicopter/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "White House declassifies secret FBI probe on whether Russia was involved in Trump's Comey firing",
-      "url": "https://www.cbsnews.com/video/white-house-declassifies-secret-fbi-probe-into-if-russia-was-involved-in-trumps-firing-of-comey/",
+      "title": "White House declassifies info on secret FBI probe into Trump firing of Comey",
+      "url": "https://www.cbsnews.com/video/white-house-declassifies-info-on-secret-fbi-probe-into-trump-firing-of-comey/",
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"
     },
     {
-      "title": "White House pushes 'watershed' fraud-fighting reform in Congress as Vance convenes task force",
-      "url": "https://www.foxnews.com/politics/white-house-pushes-watershed-fraud-fighting-reform-congress-vance-convenes-task-force",
-      "source": "Fox News",
+      "title": "Establishment Democrats Wasted $63.9 Million Trying to Take Down Abdul El-Sayed",
+      "url": "https://www.breitbart.com/midterm-election/2026/08/05/establishment-democrats-wasted-63-9-million-trying-to-take-down-abdul-el-sayed/",
+      "source": "Breitbart",
       "bias": "right",
-      "domain": "foxnews.com"
+      "domain": "breitbart.com"
     },
     {
-      "title": "Trump administration cancels Brazilian ambassador\u2019s visa in tit-for-tat",
-      "url": "https://www.washingtonpost.com/national-security/2026/08/04/trump-administration-cancels-brazilian-ambassadors-visa-tit-for-tat/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
+      "title": "Buying Support? Black Pastor Who Endorsed Abdul El-Sayed Got Paid Big",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRjk3dUdtZVlFY1pCcEpjU3hYVGJucW5tVTh6Qk5vVzdPcTlYcmQtQnhtV3R4TGc4SVMyZ2o0YUV1SUFlN2hadW1NUEp6STZPNlVUalBBdUZySVBqcnAwZEwwNDVpa19DTUladkVJMDhGMmxUV0xTUm41aDZ6OVB2R3ZCSEFFLUFSS3BjalJTQmZkSHN3aEFJWTRhUVkwam11?oc=5",
+      "source": "Daily Wire",
+      "bias": "right",
+      "domain": "dailywire.com"
     },
     {
-      "title": "Trump says deal to reopen the Strait of Hormuz could come as early as Wednesday",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcXpENFpMQ0V4N2VNNW9aXzJoWmV5V0R5U2t1QmY1OUFuSmQwcUIxb0x2aUZIdk9WWFFVc2RZM0NHSnh4eFhiekFUdWNjWDVkMlFkdzVCSXJaQnVyNmUtazRkVk1fUHVtc2w0N19OQnNTQV9XV0FqQUF4anhhNmhybkp3TF85NTY2MXR5MW9scDNrYWswN244QTBDRXFIM0E?oc=5",
-      "source": "Associated Press",
+      "title": "Progressive El-Sayed wins Michigan primary in jolt to Democrats",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa0p3Y0RnWFBLOTZuVEltR3Y5emZqWWRFU040dmhxSXBzUXpHcWNFMFBIanNoZV9GUTA2RU02QVN5aEdwT2JvR3loQmUtU2hYaU9hV1RPWE5PREJqUEJOQjU2NE5jaG9odk5RMnl5OEZLZlpBdlotZXdXRmF1UTc5eDZncURyNUg3ajJiemRZelMwLXI2WkJBZXFwR1JyRE5kNF9Ba19iWV9seERkeEpDZ3ozWnRGVEtLQ2VJ?oc=5",
+      "source": "Reuters",
       "bias": "center",
-      "domain": "apnews.com"
+      "domain": "reuters.com"
     },
     {
-      "title": "War on Iran: US-Iran deal edges closer",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/war-on-iran-us-iran-deal-edges-closer?traffic_source=rss",
+      "title": "El-Sayed wins Michigan Democratic Senate primary",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/el-sayed-wins-michigan-democratic-senate-primary?traffic_source=rss",
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
+    },
+    {
+      "title": "Abdul El-Sayed Triumphs In Michigan In Major Victory For Progressives",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRkpiU01qeUhJTkx2YmplZ1N3QTNBMjJQLVZEX2dSQ2wxSkRiMUFtMnZmUmhOU2w3RXpMOVpLOXVaRTI4Yzl4cGo5MDNTblpmWTRBVzlMMW8zNWFJSS15YU5QY2JDZ01DTTYtQVJMVWFOZnF0dU00eGpJbDNodG1IQm1TaUdIeUFjVF9qUlZDTEJ2cHRTYkVRQ3lVa0FJRGs3S3B4X2FPVjdQSl94eFHSAbMBQVVfeXFMTl9hazZ0VDhPQmpwQ2VxRlEwYzF2SXRkSWlVbjF3ZHN0SHc3VW05dkFodkljWWluX2pENUxpdmdkc05tNmc3Rk1iLVZ3Zy1HVmlzWDR2M1pmV2FUTHdDVzBraWVrd3hLUUlpcnBoOGc4MVNlemM5R2tUekdPWDY3REF4MDduVzJZOUhLay1NNjNLYW1jdEJOUWlaMnE1dUd1TzRFZUlLZUZRVi1aUlNybDJmREk?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
     },
     {
       "title": "Progressive Abdul El-Sayed wins Michigan's Democratic primary for Senate",
@@ -99,24 +57,15 @@
       "domain": "npr.org"
     },
     {
-      "title": "Trump's UFC Freedom 250 Fight Reportedly Lost Staggering Amount Of Money",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMFRxdHBhU1BxN25XWFVOX3AzV2RkNW1TV0ktclZRSEFNREVPZkY0S3BSTHVKRjFNdlRCUDhOQVJmSkJ1NTFWSW1oUVI5Y0hYR05LZEM4Mm94YUlBREoxSnVVMTg1ckl1WHhVM0wxeXFpSTZYRFJlQ3hLNXV1Q2pTanhwTlZKaWY1LUpVQU54VUdKVmNwZVBzSTYwaG1ZUUdpVEV30gGoAUFVX3lxTE5pYzQ3dHhxa3RTVl9neC1uekRkU0R0V0dlRnA3enRsU3p1WTgxbVRUYUp6Y0xsLWs0OFI1SUFoUEt4V1huQzEtbHVRcmE0cWJNZFpWOTVpeE50M3BKb3ZOVHhiN0JlMzZ6VUNfaHpHSGRQaFVLRENWNTBwNFRKTVFfQ2dFdzB0UTBScmlXaW94NEpZOWFwZ3dMX1dhMnV5VmJDR09MVzhBYg?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    }
-  ],
-  [
-    {
-      "title": "Spain's Ceuta seeks transfer of unaccompanied migrant minors to mainland Spain after border rush",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNamh6Wi15cnNtQ2dJZ3BZV1A1YTRsaG5MbHNWcW9nZi1qVm5lVGpYdlVqTE1JLWZ3VGZtNzBSTTJERXh3a0QzSmFHdnVua3htUDNhbF9WdVVwMUgwRUhxWUFvZUVDbHktb0lnaTBVeTIyVVhiZ21zREtaZkQ3eFFMUTdxSzJsQ05GRkhrMzNLMUlWNzJQdlJLeGJVcVI3MFNjWS1MMk9tYTlIbEpQOUMtYkg0N3NoT051cldQcHh4cmlMRUtN?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
+      "title": "Houston Texans star practices in pads for first time in nearly two years after 2024 career-threatening injury",
+      "url": "https://www.foxnews.com/sports/houston-texans-star-practices-pads-first-time-nearly-two-years-after-2024-career-threatening-injury",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
     },
     {
-      "title": "5 things investors should know about the stock market\u2019s latest rapid-fire comeback",
-      "url": "https://www.marketwatch.com/story/5-things-investors-should-know-about-the-stock-markets-latest-rapid-fire-comeback-55f23d87?mod=mw_rss_topstories",
+      "title": "Why AT&T, Verizon and T-Mobile shares are down after SpaceX\u2019s earnings",
+      "url": "https://www.marketwatch.com/story/why-at-t-verizon-and-t-mobile-shares-are-down-after-spacexs-earnings-033a07ce?mod=mw_rss_topstories",
       "source": "Wall Street Journal",
       "bias": "center-right",
       "domain": "wsj.com"
@@ -129,13 +78,6 @@
       "domain": "theguardian.com"
     },
     {
-      "title": "2 New Jersey municipal water systems targeted in cyberattacks",
-      "url": "https://abcnews.com/US/2-new-jersey-municipal-water-systems-targeted-cyberattacks/story?id=135383816",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    },
-    {
       "title": "Suspected Iran Cyberattacks on U.S. Water Supply Follow Years of Warnings and Neglect",
       "url": "https://www.nytimes.com/2026/08/05/us/politics/water-supply-warnings.html",
       "source": "New York Times",
@@ -143,8 +85,29 @@
       "domain": "nytimes.com"
     },
     {
-      "title": "Party in Spain's government questions co-hosting 2030 World Cup with Morocco after migration crisis",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNazVZMWlsWk1VYTl1REYzM0RJT05kTWlzZ3JLR0FCNFgzdEpOdFQ1TS15QVY2TTNlcHhaWDgtX2tuRmVad3NoRmlRX0RYemU1WVh0cDBlLUx3Q2owZlRKWnI2MG1LUmZxZkVKaE5Ba0dEdkZqNHNIUDF0cUxSR0VmTlJ6UnA5VFFJcnVBYjZLVWRJSWU0MXR2Wm8xQTZpRTl2T1NCazFYbw?oc=5",
+      "title": "Woman arrested after four stabbed in central London",
+      "url": "https://www.bbc.co.uk/news/articles/cn0nk17881yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "Trump administration cancels Brazilian ambassador\u2019s visa in tit-for-tat",
+      "url": "https://www.washingtonpost.com/national-security/2026/08/04/trump-administration-cancels-brazilian-ambassadors-visa-tit-for-tat/",
+      "source": "Washington Post",
+      "bias": "left-center",
+      "domain": "washingtonpost.com"
+    },
+    {
+      "title": "Iran live updates: Trump says more details on Iran to be announced 'in 48 hours'",
+      "url": "https://abcnews.com/International/live-updates/iran-live-updates-trump-deal-imminent-iran-oman/?id=135317231",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    },
+    {
+      "title": "Trump says deal to reopen the Strait of Hormuz could come this week",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcXpENFpMQ0V4N2VNNW9aXzJoWmV5V0R5U2t1QmY1OUFuSmQwcUIxb0x2aUZIdk9WWFFVc2RZM0NHSnh4eFhiekFUdWNjWDVkMlFkdzVCSXJaQnVyNmUtazRkVk1fUHVtc2w0N19OQnNTQV9XV0FqQUF4anhhNmhybkp3TF85NTY2MXR5MW9scDNrYWswN244QTBDRXFIM0E?oc=5",
       "source": "Associated Press",
       "bias": "center",
       "domain": "apnews.com"
@@ -152,25 +115,18 @@
   ],
   [
     {
-      "title": "Russia strike kills 21 as Ukraine says it needs more missile interceptors",
-      "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
+      "title": "Multiple people dead in North Carolina shooting, official says",
+      "url": "https://www.foxnews.com/us/multiple-people-dead-north-carolina-shooting-official-says",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
     },
     {
-      "title": "Russia kills 17 in ballistic missile attacks around Kyiv",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/5-8-sv-russia-attacks-kyiv-ua?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "Ukraine says missile interceptors may have saved lives in Russian attack",
-      "url": "https://www.cbsnews.com/video/ukraine-says-missile-interceptors-may-have-saved-lives-in-russian-attack/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
+      "title": "NYC apartment building erupts in flames, massive explosion after Bronx fire injures at least 5",
+      "url": "https://nypost.com/2026/08/05/us-news/bronx-apartment-building-erupts-in-flames-after-massive-explosion/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
     },
     {
       "title": "Russia\u2019s Deadly Missile Attack on Kyiv Exploits Ukraine\u2019s Depleted Air Defenses",
@@ -180,7 +136,7 @@
       "domain": "nytimes.com"
     },
     {
-      "title": "Russian missile and drone barrage in Ukrainian capital region kills 17",
+      "title": "A Russian barrage in Ukraine's capital kills 17 as air defenses fall short",
       "url": "https://www.npr.org/2026/08/05/nx-s1-5921194/russian-missile-drone-barrage",
       "source": "NPR",
       "bias": "left-center",
@@ -192,43 +148,50 @@
       "source": "Washington Post",
       "bias": "left-center",
       "domain": "washingtonpost.com"
+    },
+    {
+      "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
+      "url": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "US law enforcement reports deadly mass shooting in North Carolina",
+      "url": "https://www.aljazeera.com/news/2026/8/5/us-law-enforcement-reports-deadly-mass-shooting-in-north-carolina?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
     }
   ],
   [
     {
-      "title": "Israeli military strikes southern Lebanon after evacuation warning to village",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSUNJWWdZUW9teWxlNDE2eWVZWTFmd0JQdmwwYUNvSEpES1BhMjBJNF9LczlwUTZkaTZjMm5MNFhEUFN1RnpZclZHamljVnlGcW5GdkFMclYyUjQ4dEpHRWwtNjJLdjNoNWx5YlU3Q1FIUmhoV1hxMktXNnZXanZLLW9YS1JjRGp6ZkNMbTNGOVlETVRSUGREMnZ5dDVhUjYyWlB1RzBwenhtUDg3dDdIYVpoTXBlN2dFWTkyVnJn?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
+      "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
     },
     {
-      "title": "Israel Strikes Lebanon After Accusing Hezbollah of Cease-Fire Violation",
-      "url": "https://www.nytimes.com/2026/08/05/world/middleeast/israel-lebanon-hezbollah-cease-fire.html",
-      "source": "New York Times",
+      "title": "Judge reluctantly dismisses case against Oath Keepers militia group over Jan. 6 riot",
+      "url": "https://www.npr.org/2026/08/05/g-s1-137440/judge-dismisses-lawsuit-oath-keepers",
+      "source": "NPR",
       "bias": "left-center",
-      "domain": "nytimes.com"
+      "domain": "npr.org"
     },
     {
-      "title": "Netanyahu says no Israeli withdrawal from Gaza until Hamas has been completely disarmed",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWlgtZDJKWkRiTWNwOFRhUzM2WGhhTlR4clFocEt4TGNEV0VLb0gtbDEzQmlYZkt3OFNyckJpQ1JPUzQyRUdFVDFjbWdyaXQwNGV5dUYzeXFocWF3UnNqTkpUVnhrX3RudkJ0R3lYVXR1MmwxazZ1ZzF5SDdlQWNsWVVlZVZYVzJJNUJxQnFjYS0tQ1VyaWR2QkJZQTRYSDVG?oc=5",
-      "source": "Associated Press",
+      "title": "Peruvian cardinal hails $150m lead poisoning settlement for 1,300 people as a \u2018historic milestone\u2019",
+      "url": "https://www.theguardian.com/global-development/2026/aug/05/peruvian-cardinal-historic-milestone-150m-lead-poisoning-settlement-1300-children",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "Family 'devastated' by death of girl, 9, as man charged with murder",
+      "url": "https://www.bbc.co.uk/news/articles/c235evj1r04o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "Trump Touts A \u2018Historic\u2019 Gaza Disarmament Agreement",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRUVXeGdaUWt5czNmWmxISGtNRDUxdFYzSFdBMHhzaEszVF9jazZHaExKQ2o2T3o0RWx4Y2VWT1R0dUNnYkxNMzBwSDhDYVE2SkVKRE0tYmxTck9hbkJjdnVwYjBHTlhCVHkybUlndTUyeFRqYkY2T2pBdTZYQVo2V0JWR3IzNEU?oc=5",
-      "source": "Daily Wire",
-      "bias": "right",
-      "domain": "dailywire.com"
-    },
-    {
-      "title": "Gaza father opens play center to restore childhood amid Israeli attacks",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-gaza-jump-city-children-sv-mp4?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
+      "domain": "bbc.com"
     }
   ],
   [
@@ -240,27 +203,34 @@
       "domain": "cnn.com"
     },
     {
-      "title": "\u2018Lolla-pee-looza\u2019: Music fest fans crowd surf a \u2018pee bag\u2019 across the audience in revolting viral video",
-      "url": "https://nypost.com/2026/08/05/lifestyle/lollapalooza-fans-pass-around-bag-of-pee-in-revolting-video/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
+      "title": "Video shows drone attacking a street vendor in Ukraine",
+      "url": "https://www.cbsnews.com/news/ukraine-russia-drone-vegetable-vendor-kherson/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Russian drone factory director badly injured in car explosion",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaXJoY204ZmVSTl9SS3ZLS2luVnFtTmh1REZPZElkbmVxR0tvcjIycnFVYlA4UDE2UE55ZnpPbjhvQnZzTjBMd1JzRnhmRy1KdHBfU2VUaWc4MW5iLTBOTjd2UndhNDVzWnJObHppQUVkMmJ0eDVyTmMyRVh2dXplSUdCeUZXbGVWVDRFbmhIQ1RJMG1jWWsybUNKUE5obk5PMHRNQWR4STJtS0JUXzdMLWYzcFNRNlhl?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
     }
   ],
   [
     {
-      "title": "Ex neo-Nazi activist withdraws as Tory election candidate",
-      "url": "https://www.bbc.co.uk/news/articles/cy4kx8n2vwxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
+      "title": "Women spearheading resistance to Infantino as FIFA faces governance crisis",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ0l5WlZxSFZkVGM2eXNGWXJEdzBmTDRZNmRRbU1hNjFTdm8yQWF1RU9tcDktUlZ2UnEwS204bE9FQjlXYmlyYm44YmZqVXdaeGtDVkYwWkJoZUVBZjZmazdVc2dLSEd0WnJmaGlPMm5pc3g0VTQ0SWdubHZzcGJOc1I2aTJYeTBRZVBJNnJmck1jSkQ3NEZGSlpYdmpwYmszR2t3WDRCUmxpMkpvQUt4LURJQmJScWx5dXc?oc=5",
+      "source": "Reuters",
       "bias": "center",
-      "domain": "bbc.com"
+      "domain": "reuters.com"
     },
     {
-      "title": "White elephant in the room: Colombia swears in costumed anti-corruption activist as senator",
-      "url": "https://www.theguardian.com/world/2026/aug/04/white-elephant-colombia-anti-corruption-activist-senator-luis-carlos-rua",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
+      "title": "Gianni Infantino Calls Crisis Meeting As FIFA Revolt Grows",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTlVJLUZXRURDQjRGOF9zRGJIYklTcFUyMTl0aEY5aUVkLXVqUjJ2Ym51dUNCQkllbWVyNXVPQUVFMjFwdHhzQjBHRUV0d1JYMDFBTzg0U2lDSkJRWVNkRE5iYmJfbHpEazlKMDVpUW1IcFFuZ3ladUpTcDA1OW54TC0xeE1PTjNFdTFKVjlDYUzSAZYBQVVfeXFMTy1SRnE0enNKeFVCbHFCOFVNMlNDNzdkNHdFSmNUWkdoczZQcEhzcFNHMXQ2NVdJc0FOcnNaUXpCZ1N1a1o0bFJ6bE9GaXZsQjlHTU9FVkZkRE8zME1TbmxUTFpiNU15Wi1lOWFCcEtiTnllemRKamRGWF9QQm4wYzFwRXZJdjk4RmlHUXJuYUVhN3lrcTF3?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
     }
   ],
   [
@@ -281,15 +251,31 @@
   ],
   [
     {
-      "title": "Why some scientists are thrilled that a SpaceX rocket has crashed into the Moon",
-      "url": "https://www.bbc.co.uk/news/articles/c62q0xerzrno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
+      "title": "Pet owner wrestles python with bare hands to save family cat",
+      "url": "https://nypost.com/video/pet-owner-wrestles-python-with-bare-hands-to-save-family-cat/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
     },
     {
-      "title": "SpaceX rocket booster slams into moon, creating crater that could be 16 feet deep",
-      "url": "https://www.cbsnews.com/news/spacex-rocket-moon-collision/",
+      "title": "WATCH:  Mom says she was given days to live after spider-bite nightmare",
+      "url": "https://abcnews.com/video/135379658/",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    }
+  ],
+  [
+    {
+      "title": "Renowned Celebrity Blogger Hospitalized After Appearing To Harm Himself On Livestream",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONnhmNWNnbF9JUndmN0ZFY0VHM01mbjBEWkJ0RjRLS2Q5WGRXR3BPLTFXSENIalp5aXJfbmFYRjIzcHZmaURVZTFnTGxiSmhibmlCMnVKaFhVZ29wWWMzVW1sWHJTOE01TF82Ul9pVTktMHB3NEFDWlEzT3A0N3RMOVd5SGgxQVFkV3RkUFc4TnXSAZYBQVVfeXFMT2VfNURKbUVPWVd4Mm9kUXp0a1lXY3dqOHRSNnZZTm9YRUxtS1Izb21ZaGZPTEFWMkZWOXNFdWFpc3ZMVzFDRElBRE5sQThKRjBmeTh0eDR6cl8tNTFPc0V2eHRIOUlEMWM0Q1kyUnpZQ0xKM0hWWWliQUVaWUxKazlwSkJtdjYwSXAyVWFRYTRfUHdKWmtB?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    },
+    {
+      "title": "Perez Hilton hospitalized after livestreaming acts of self-harm, officials say",
+      "url": "https://www.cbsnews.com/news/perez-hilton-hospital-livestreaming-self-harm-officials/",
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"
@@ -297,18 +283,18 @@
   ],
   [
     {
-      "title": "U.S. economy keeps up the momentum, but rising costs put a lid on new hiring",
-      "url": "https://www.marketwatch.com/story/u-s-economy-keeps-up-the-momentum-but-rising-costs-put-a-cap-on-new-hiring-028d481b?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
+      "title": "Mexican influencer shot dead while streaming live on social media",
+      "url": "https://www.theguardian.com/world/2026/aug/05/mexico-cesar-gastelum-shot-dead-streaming-live-social-media",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
     },
     {
-      "title": "U.S. Services Sector Optimism Rises as Sales and Activity Accelerate",
-      "url": "https://www.breitbart.com/economy/2026/08/05/services-sector-pmis/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
+      "title": "$25 million reward offered for U.S.-born leader of powerful cartel",
+      "url": "https://www.cbsnews.com/news/us-reward-for-california-born-leader-jalisco-cartel-mexico/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
     }
   ]
 ]

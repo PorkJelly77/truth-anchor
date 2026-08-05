@@ -15,18 +15,25 @@
       "domain": "theguardian.com"
     },
     {
-      "title": "Mike Rogers Secures Republican Nomination for Michigan Senate",
-      "url": "https://www.breitbart.com/politics/2026/08/04/mike-rogers-secures-republican-nomination-michigan-senate/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
+      "title": "Family 'devastated' by death of girl, 9, as man charged with murder",
+      "url": "https://www.bbc.co.uk/news/articles/c235evj1r04o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
     },
     {
-      "title": "Israeli Strikes May Undermine Trump\u2019s Peace Plan for Gaza",
-      "url": "https://www.nytimes.com/2026/08/05/world/middleeast/israel-strikes-gaza-peace-deal.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
+      "title": "Trump Touts A \u2018Historic\u2019 Gaza Disarmament Agreement",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRUVXeGdaUWt5czNmWmxISGtNRDUxdFYzSFdBMHhzaEszVF9jazZHaExKQ2o2T3o0RWx4Y2VWT1R0dUNnYkxNMzBwSDhDYVE2SkVKRE0tYmxTck9hbkJjdnVwYjBHTlhCVHkybUlndTUyeFRqYkY2T2pBdTZYQVo2V0JWR3IzNEU?oc=5",
+      "source": "Daily Wire",
+      "bias": "right",
+      "domain": "dailywire.com"
+    },
+    {
+      "title": "Gaza father opens play center to restore childhood amid Israeli attacks",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-gaza-jump-city-children-sv-mp4?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
     },
     {
       "title": "Trump says deal to reopen the Strait of Hormuz could come as early as Wednesday",
@@ -36,32 +43,134 @@
       "domain": "apnews.com"
     },
     {
-      "title": "Iran, Oman, US \u2018close\u2019 to Hormuz deal: What do they all want?",
-      "url": "https://www.aljazeera.com/news/2026/8/5/iran-oman-us-close-to-hormuz-deal-what-do-they-all-want?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "El-Sayed projected to win high-stakes Michigan Senate Democratic primary",
+      "url": "https://abcnews.com/Politics/high-stakes-michigan-senate-race-primaries-5-states/story?id=135365946",
+      "source": "ABC News",
       "bias": "center",
-      "domain": "aljazeera.com"
+      "domain": "abcnews.go.com"
     },
     {
-      "title": "Man Carrying Ammo Was Monitoring Security At Trump Golf Course Near LA, Authorities Say",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNR1lXTWlsUFgxalZvTlJmbm4zaXlYWDYzN3lkU004S2Nfd3ZNek84Mm91MnVRZ3RrMFp2T0RnbGFUbEdUR2NsVHBDSnJhYndjTTAwV3JMMWxNNGlWVU01aWJnRGM0RG10M0FKTEFzLW5tM1RpWVVJdTQxRHNRUU1vdGdkNG43b29ZRkHSAY8BQVVfeXFMT3FOSFJEU3lVNHBjR2pOQWU4MWJkRFlvOGZLWGd4NkN2Vi1PZFlvM19vUGxlMWFOUmF3WG9XeWJDQWIzTFZnQTZacDlUUUJZY2sxUHc5endXZXVhaVg5QVVlN2JZU2lmSnNFTm5vaGxsYTRRcG1BaXRmSkJvVEI4YldoSkpIWHA1REhSeVVKYmc?oc=5",
+      "title": "Progressive Abdul El-Sayed wins Michigan Democratic Senate primary, CBS News projects",
+      "url": "https://www.cbsnews.com/video/progressive-abdul-el-sayed-wins-michigan-democratic-senate/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Takeaways From the Primary Elections in Michigan",
+      "url": "https://www.nytimes.com/2026/08/05/us/politics/michigan-primary-elections-takeaways.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Progressive Abdul El-Sayed wins Michigan's Democratic primary for Senate",
+      "url": "https://www.npr.org/2026/08/05/nx-s1-5920403/michigan-senate-el-sayed-stevens-democrats",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "Perez Hilton under involuntary psych hold after apparent self-harm livestream: source",
+      "url": "https://www.foxnews.com/entertainment/perez-hilton-under-involuntary-psych-hold-after-apparent-self-harm-livestream-source",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Renowned Celebrity Blogger Hospitalized After Appearing To Harm Himself On Livestream",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONnhmNWNnbF9JUndmN0ZFY0VHM01mbjBEWkJ0RjRLS2Q5WGRXR3BPLTFXSENIalp5aXJfbmFYRjIzcHZmaURVZTFnTGxiSmhibmlCMnVKaFhVZ29wWWMzVW1sWHJTOE01TF82Ul9pVTktMHB3NEFDWlEzT3A0N3RMOVd5SGgxQVFkV3RkUFc4TnXSAZYBQVVfeXFMT2VfNURKbUVPWVd4Mm9kUXp0a1lXY3dqOHRSNnZZTm9YRUxtS1Izb21ZaGZPTEFWMkZWOXNFdWFpc3ZMVzFDRElBRE5sQThKRjBmeTh0eDR6cl8tNTFPc0V2eHRIOUlEMWM0Q1kyUnpZQ0xKM0hWWWliQUVaWUxKazlwSkJtdjYwSXAyVWFRYTRfUHdKWmtB?oc=5",
       "source": "HuffPost",
       "bias": "left",
       "domain": "huffpost.com"
     },
     {
-      "title": "Russian missile and drone barrage in Ukrainian capital region kills 17",
-      "url": "https://www.npr.org/2026/08/05/nx-s1-5921194/russian-missile-drone-barrage",
+      "title": "Trump administration cancels Brazilian ambassador\u2019s visa in tit-for-tat",
+      "url": "https://www.washingtonpost.com/national-security/2026/08/04/trump-administration-cancels-brazilian-ambassadors-visa-tit-for-tat/",
+      "source": "Washington Post",
+      "bias": "left-center",
+      "domain": "washingtonpost.com"
+    },
+    {
+      "title": "ADP Disappoints: U.S. Businesses Add Just 44,000 Jobs In July",
+      "url": "https://www.breitbart.com/economy/2026/08/05/adp-disappoints-u-s-businesses-add-just-44000-jobs-in-july/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
+    },
+    {
+      "title": "The typhus rats: Why a medieval disease is rocking LA",
+      "url": "https://nypost.com/2026/08/05/opinion/the-typhus-rats-why-a-medieval-disease-is-rocking-la/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
+      "title": "Shopify\u2019s stock heads for best day in a year after the company \u2018left no doubt\u2019 about its growth trajectory",
+      "url": "https://www.marketwatch.com/story/shopifys-stock-heads-for-best-day-in-a-year-after-the-company-left-no-doubt-about-its-growth-trajectory-79551270?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
+    }
+  ],
+  [
+    {
+      "title": "Rep. Chuck Edwards Drops Re-election Bid in North Carolina After Ethics Rebuke",
+      "url": "https://www.nytimes.com/2026/08/05/us/politics/chuck-edwards-north-carolina.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "North Carolina Rep Chuck Edwards Drops Re-Election Bid Following Ethics Investigation",
+      "url": "https://www.breitbart.com/politics/2026/08/05/north-carolina-rep-edwards-drops-re-election-bid-following-ethics-investigation/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
+    },
+    {
+      "title": "Rep. Chuck Edwards withdraws from reelection campaign in North Carolina",
+      "url": "https://abcnews.com/Politics/rep-chuck-edwards-withdraws-reelection-campaign-north-carolina/story?id=135378821",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    },
+    {
+      "title": "House Ethics Committee opens investigation into domestic abuse allegations against Rep. Max Miller",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcXp2OTVsQUNja0thVFFhbXRnMEJnZUVJYlNHaDc4bE1xallJYnRMX1NrNHpVcmVVYnBCb2twNk1oUGV5RGZ5UTZoV2hlVFNYYXJxcFBMSndhSmRQTzBzRDZBay1zS1NaWnNxZFI1OTZrS1l6NFBHUzZnbUhmbjVwNExWbC1zRlBTSXVOTnd3RXJUbkw2ZkNrWnM5M3lpUFJL?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "House Ethics Committee opens investigation into Ohio Republican Max Miller",
+      "url": "https://www.npr.org/2026/08/05/nx-s1-5918342/house-ethics-committee-opens-investigation-into-ohio-republican-max-miller",
       "source": "NPR",
       "bias": "left-center",
       "domain": "npr.org"
     },
+    {
+      "title": "House Ethics Panel Investigating Max Miller Amid Domestic Abuse Allegations",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVF83dUdfa3NLRmhwS2NHM2djMmxTdkZwWHVJSkFtaU5sWUpNV1Z4Rzd5SzBGQjN1N2pGVVUwb0dFLXIxT3VVcEFaNXVxbzQxOU52NXEzcWhQWjEyVnJ0M1pTREtJMkZmRVk1elR3TlAwMWFfVmY5UHRGLXNTQWJXMlJYcVNvZWJhXzJNYkNWajltOEU3QUxVUS1VTUNKYmE1OW1IM3VGYnVkd0RF0gGyAUFVX3lxTE9nRDJoTGJsQ0tKV2d6eUZUUnFjaFZqRGRaNzZGalRnTHhCZmJ2YlBrOUZGWmd2VmVzeHFyakRhWmR4YjgzRkhERXdXc1ZWZXp5UDBSNDF6Nm1KVHlmN0F0OEhiSlZnb1JVdmFFV1FhZkhJRldIUEg1cTZWS0UxMW5JRkpISmhVRXE0WGo5M1NFOUdqRGhpQ1dmRHBZU1V2ZW1UcERhNlRjNjI5N2tlU0FCckE?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    }
+  ],
+  [
     {
       "title": "Russia strike kills 21 as Ukraine says it needs more missile interceptors",
       "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "bias": "center",
       "domain": "bbc.com"
+    },
+    {
+      "title": "Russia\u2019s Deadly Missile Attack on Kyiv Exploits Ukraine\u2019s Depleted Air Defenses",
+      "url": "https://www.nytimes.com/2026/08/05/world/europe/ukraine-war-kyiv-russia-missile-attack.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
     },
     {
       "title": "Ukraine fails to halt Russian barrage as Zelensky blames partners for \u2018horrific casualties\u2019",
@@ -71,71 +180,20 @@
       "domain": "washingtonpost.com"
     },
     {
-      "title": "GOP Rep Chuck Edwards drops re-election bid after House ethics report recommends censure",
-      "url": "https://www.foxnews.com/politics/gop-rep-chuck-edwards-drops-re-election-bid-house-ethics-report-recommends-censure",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "Rep. Chuck Edwards drops reelection bid after sexual harassment allegations",
-      "url": "https://www.cbsnews.com/news/chuck-edwards-drops-reelection-bid-censure-recommendation-sexual-harassment-claims/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "High-stakes Michigan Senate race too close to call, as 5 states hold primaries",
-      "url": "https://abcnews.com/Politics/high-stakes-michigan-senate-race-primaries-5-states/story?id=135365946",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    }
-  ],
-  [
-    {
-      "title": "What can scientists learn from a stray SpaceX rocket hitting the Moon?",
-      "url": "https://www.bbc.co.uk/news/articles/c62q0xerzrno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "SpaceX rocket segment to crash into the moon: What happened?",
-      "url": "https://www.aljazeera.com/news/2026/8/5/spacex-rocket-segment-to-crash-into-the-moon-what-happened?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "SpaceX's revenue rises as its once-soaring stock price drifts back to Earth",
-      "url": "https://www.npr.org/2026/08/04/nx-s1-5918536/spacex-first-earnings-report-since-ipo",
+      "title": "Russian missile and drone barrage in Ukrainian capital region kills 17",
+      "url": "https://www.npr.org/2026/08/05/nx-s1-5921194/russian-missile-drone-barrage",
       "source": "NPR",
       "bias": "left-center",
       "domain": "npr.org"
-    },
-    {
-      "title": "Uber profit narrowly beat forecasts as trips across its platform surge",
-      "url": "https://www.marketwatch.com/story/uber-profit-narrowly-beat-forecasts-as-trips-across-its-platform-surge-4a22ce2d?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
-    },
-    {
-      "title": "SpaceX shows strong growth in its first earnings report since IPO",
-      "url": "https://www.cbsnews.com/news/spacex-earnings-elon-musk-ipo/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
     }
   ],
   [
     {
-      "title": "Takeaways from crucial primary elections across the country and more top headlines",
-      "url": "https://www.foxnews.com/us/takeaways-from-crucial-primary-elections-across-country-more-top-headlines",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
+      "title": "It\u2019s the worst time in years to invest in AI credit markets: \u2018Almost no upside and plenty of downside\u2019",
+      "url": "https://www.marketwatch.com/story/its-the-worst-time-in-years-to-invest-in-ai-credit-markets-almost-no-upside-and-plenty-of-downside-a200d5c7?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
     },
     {
       "title": "New Zealand capital delights in rare snowfall as southern city residents ski down world\u2019s steepest street",
@@ -145,43 +203,66 @@
       "domain": "theguardian.com"
     },
     {
-      "title": "Pakistan\u2019s Khan in jail for 3 years: PTI, Amnesty slam solitary confinement",
+      "title": "Pakistan\u2019s Khan in jail for 3 years: PTI rallies over \u2018arbitrary detention\u2019",
       "url": "https://www.aljazeera.com/news/2026/8/5/pakistans-khan-in-jail-for-3-years-pti-amnesty-slam-solitary-confinement?traffic_source=rss",
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
-    }
-  ],
-  [
-    {
-      "title": "PGA Tour 2026: Wyndham Championship best bets, 'horses for the course' for the Sedgefield Country Club",
-      "url": "https://www.foxnews.com/outkick-sports/pga-tour-2026-wyndham-championship-best-bets-horses-course-sedgefield-country-club",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
     },
     {
-      "title": "2026 Wyndham Championship picks: PGA Tour best bets, odds, predictions for Sedgefield Country Club",
-      "url": "https://nypost.com/2026/08/05/betting/2026-wyndham-championship-picks-pga-tour-best-bets-odds-predictions-for-sedgefield-country-club/",
-      "source": "New York Post",
+      "title": "Can't Beat Em: Over 1,000 Lawyers Call for Ban of German Anti-Mass Migration AfD Party",
+      "url": "https://www.breitbart.com/europe/2026/08/05/cant-beat-em-over-1000-lawyers-call-for-ban-of-german-anti-mass-migration-afd-party/",
+      "source": "Breitbart",
       "bias": "right",
-      "domain": "nypost.com"
+      "domain": "breitbart.com"
     }
   ],
   [
     {
-      "title": "UN rights chief says Iran executed at least 56 people since March",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeW9QZjd0R3djcFhWMjBZSmhadjhVekQyU0JzYW03NWdpN3VWMVZjelZuX0Rqa0RlbkZBRXF2YkFGcFBBZk93X3U4Y01neXEybmh3QlRrcnp2WEQ2LV9Ldk9DbTlLNThQTUlEOXNrYlZCdkVzeGpGcEdvYmFhYjBEM2YxaFVPY0FWSS1TblRuMFM1TDF3MmlJRFBtWm9oLUhzY0dtQlZmblpRTEpscTdxenEzclJSbG8?oc=5",
+      "title": "Lilly's Mounjaro, Zepbound sales surge, widening lead over Novo Nordisk",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQUM2ak5mV1hSTDU0UzlDQVoxVERuOTNXT1p5OTJmbkdjaWFlVHBnLTVORDZkQmdBY0hFYlZCZzJsaV9lZTl5QXBFMUFLNDBkYmxoRi1CUXZncTVOZnE3NXFzb1dGdG93d2Q3MHpQelNsLV9jbzREblJEMmtOSTZBbTkwaGxzc3ItV0RPNGJHNk04Ti1kaEQ0UG04ekxRNk94SHBuUFprcl9kY2Y3dmxuTjh5RHBaQWdlR1Y4T0hTTjRZY1QwMnhjaXJzQTJNZjl1WlpPUFFmcVBCTkNBc253?oc=5",
       "source": "Reuters",
       "bias": "center",
       "domain": "reuters.com"
     },
     {
-      "title": "UN rights chief says Iran executed at least 56 people since March",
-      "url": "https://www.aljazeera.com/news/2026/8/5/un-rights-chief-says-iran-executed-at-least-56-people-since-march?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Lilly\u2019s revenue soars 48%, driven by demand for its GLP-1s",
+      "url": "https://www.marketwatch.com/story/lillys-revenue-soars-48-driven-by-demand-of-its-glp-1s-7361c223?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
+    }
+  ],
+  [
+    {
+      "title": "EXCLUSIVE: Under Patel, FBI forges unprecedented law enforcement ties with China, Russia",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVWpCMFNYSzRIWWQzeExhSXl5RFdsYUNSSGZkcnlwblpJMjg3Nno4c0Y0UlNabThLdy1EbzdySG1pNTdUcVBxRWJHX2RxT251Vnk2aGhoYkM2dW8xdHpCVV8wamt5WW93NnJ6LWpHdkRhVWNPRzZlUmZFV3paQ29YSG5MRndac0V6ZlZwOVNpcDhWT1RROHl6NzBRTVlCVHhOdWxIcG9iT2l4ekdhbWxtRGlvbXIwVG1FOEx3bnpXekI?oc=5",
+      "source": "Reuters",
       "bias": "center",
-      "domain": "aljazeera.com"
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Under Patel, FBI Forges Unprecedented Law Enforcement Ties With China, Russia",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVEpUemQ3WTVIaUlTV0hUbXlnb0c2R3dqMmdFbEgyS1RRVENxWW5KTnpmUFU3UWVuNjBzSU9sVUNMRmw5QUpSbXNqSmtLT2dlRGFEaDFBUmJ4VlQ0bG5yUHRBS3dlQ2E1YTB4MFhFdFB3ZVoySEwyOGhPWWZjNVBiZWkxYzZPc19pSkVEaDNCaTBhZWxIRXpr0gGcAUFVX3lxTE1KYlNPLVVWTHN3cHRQcGduY1MzWVU3WDJEVmt3eUZjaExBSkY0U21kdmFWN09fYkRZV1BRVmxhMGswaHpOUUx2YTJYcW5Pb0xncnh4ZFRqZlJ2OUdrakVPdnVnUHNGM2VYZFRSWFBhaDRHMmg2Z0NqU1FfR2ZidVhzY2FEOUc3cm9hYUFZbk9FeEZGRG9hNkF1c0tYVw?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    }
+  ],
+  [
+    {
+      "title": "Disney and TikTok strike short-form video-sharing deal",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWXl3dzBUMWFzY3VBNUl4U3NoODJFcFBIVkFCWHc1WHkwUmNRRE5PeUFjY2N4VWxBYXBJeXRPTXNmUEVEOXFmQmpsY1dQeUF3QUNTVmFOMTBXWWltYmsxd1BfVWQxUnpNNUJ5VlpISEN6aVlkbnlBLWsxdGdET0pZQV9EMDZqTldXSDF2SHEzYU4zODR1bVNoWTM3Sjc5MG9GTWRyU05zakE4VGxMamc?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Disney partners with TikTok to offer creator content on its app",
+      "url": "https://www.cbsnews.com/news/disney-tiktok-deal-creator-content-marvel-pixar-star-wars/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
     }
   ],
   [
@@ -193,11 +274,27 @@
       "domain": "bbc.com"
     },
     {
-      "title": "Turkish cargo ship catches fire after Black Sea drone attack",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-drone-attacks-turkish-ship-sv?traffic_source=rss",
+      "title": "Germany investigates explosive device attached to drone at Leipzig airport",
+      "url": "https://www.aljazeera.com/news/2026/8/5/germany-investigates-explosive-device-attached-to-drone-at-leipzig-airport?traffic_source=rss",
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
+    }
+  ],
+  [
+    {
+      "title": "Powerful El Ni\u00f1o could push 49M more people into acute hunger in vulnerable parts of the world: UN agency",
+      "url": "https://nypost.com/2026/08/05/world-news/powerful-el-nino-could-push-49-million-more-people-into-acute-hunger-un-agency-says/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
+      "title": "El Ni\u00f1o could push 50m people into acute hunger before end of next year",
+      "url": "https://www.theguardian.com/environment/2026/aug/05/el-nino-could-push-50m-people-acute-hunger-next-year",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
     }
   ]
 ]

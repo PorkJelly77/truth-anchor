@@ -1,46 +1,32 @@
 [
   [
     {
-      "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
-      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+      "title": "Millions in the US could face massive consequences unless McCarthy can navigate out of a debt trap he set for Biden",
+      "url": "https://www.cnn.com/2023/04/18/politics/mccarthy-biden-debt-ceiling/index.html",
       "source": "CNN",
       "bias": "left",
       "domain": "cnn.com"
     },
     {
-      "title": "Inside Trump's 'contentious' Oval Office meeting with Jeanine Pirro: Sources",
-      "url": "https://abcnews.com/Politics/inside-trumps-contentious-oval-office-meeting-jeanine-pirro/story?id=135393382",
-      "source": "ABC News",
+      "title": "Trump administration cancels Brazilian ambassador\u2019s visa in tit-for-tat",
+      "url": "https://www.washingtonpost.com/national-security/2026/08/04/trump-administration-cancels-brazilian-ambassadors-visa-tit-for-tat/",
+      "source": "Washington Post",
+      "bias": "left-center",
+      "domain": "washingtonpost.com"
+    },
+    {
+      "title": "Iran says it has agreed Strait of Hormuz shipping route with Oman",
+      "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "bias": "center",
-      "domain": "abcnews.go.com"
+      "domain": "bbc.com"
     },
     {
-      "title": "Buying Support? Black Pastor Who Endorsed Abdul El-Sayed Got Paid Big",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRjk3dUdtZVlFY1pCcEpjU3hYVGJucW5tVTh6Qk5vVzdPcTlYcmQtQnhtV3R4TGc4SVMyZ2o0YUV1SUFlN2hadW1NUEp6STZPNlVUalBBdUZySVBqcnAwZEwwNDVpa19DTUladkVJMDhGMmxUV0xTUm41aDZ6OVB2R3ZCSEFFLUFSS3BjalJTQmZkSHN3aEFJWTRhUVkwam11?oc=5",
-      "source": "Daily Wire",
-      "bias": "right",
-      "domain": "dailywire.com"
-    },
-    {
-      "title": "How Abdul El-Sayed went from political oblivion to progressive breakthrough in Michigan Senate race",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb21OakF0VFB5eUd5WV84MmZLTDJUaTA5SjhMbjVKX3pOMGczZWE0X2tjZkplbV94TkJjejZNbmpVNkREc242Zk9MTDI0SVhid1ViUjVucFpIazNGdld1a2pHY1JvaEZfZjE3YmlVajlLU0pJV2FfMVdYbVl4cmttRGVRQk1JYXY5VVVjS2o1TzhRY3A0SkJZd0FjVC1tRmFX?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "Far-left Senate candidate Abdul El-Sayed took over $115K from members of alleged Hamas-linked group: report",
-      "url": "https://nypost.com/2026/08/05/us-news/abdul-el-sayed-took-over-115k-from-members-of-alleged-hamas-linked-group-report/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "SEE IT: Michigan Dem predicts far-left El-Sayed will win Senate race after backing his primary rival",
-      "url": "https://www.foxnews.com/politics/michigan-dem-predicts-far-left-el-sayed-win-senate-race-backing-primary-rival",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
+      "title": "Trump comments on Democratic primaries, Iran in remarks to supporters",
+      "url": "https://www.cbsnews.com/video/trump-comments-on-primaries-iran-in-remarks-to-supporters/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
     },
     {
       "title": "Exclusive: Greer Blasts Democrat State Attorneys General For Choosing Foreign Sweatshops Over American Workers",
@@ -57,46 +43,39 @@
       "domain": "theguardian.com"
     },
     {
-      "title": "Trump administration cancels Brazilian ambassador\u2019s visa in tit-for-tat",
-      "url": "https://www.washingtonpost.com/national-security/2026/08/04/trump-administration-cancels-brazilian-ambassadors-visa-tit-for-tat/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
-    },
-    {
-      "title": "How Trump made an estimated $2.2 billion during the first year of his second term",
-      "url": "https://www.npr.org/2026/08/05/nx-s1-5919997/how-trump-made-an-estimated-2-2-billion-during-the-first-year-of-his-second-term",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    },
-    {
-      "title": "How China\u2019s A.I. Is Surging Across Africa",
-      "url": "https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "El-Sayed's victory in Michigan sends tremors through Democratic Party",
-      "url": "https://www.bbc.co.uk/news/articles/cp309ng0xq1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
+      "title": "Clashes on anniversary of Imran Khan imprisonment",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/5-8-clip-teargas-ik-protests-pk?traffic_source=rss",
+      "source": "Al Jazeera",
       "bias": "center",
-      "domain": "bbc.com"
+      "domain": "aljazeera.com"
     },
     {
-      "title": "Taxes are on the ballot this fall, as Republicans and Democrats grow further apart on whether to cut or raise them",
+      "title": "Dems in the hot seat for skipping crucial hearing on radical group hiding in US: 'Embarrassment'",
+      "url": "https://www.foxnews.com/politics/dems-hot-seat-skipping-crucial-hearing-radical-group-hiding-us-embarrassment",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "US Senate confirms Schwartz as CDC director",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdUlSeHMyTFMzMzBSYXp5UHJJZ2dQTEZJYTJ5c1dtdWZHaXJ0WUNMRnVIRkpJY2c5dlRWcVdybmVPbFhJcHZ1XzBaZHRPWUJlY181eDItTEtraEY3d0V6dGJRVE9ReXFJcnktcGJEY25nRWtTbGFpRzQ5UXZXSkVVRWJZYTNrM21fQ0E?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Missouri voters just rejected a bid to ditch income tax, while other tax votes loom in Florida and California this fall",
       "url": "https://www.marketwatch.com/story/taxes-are-on-the-ballot-this-fall-as-republicans-and-democrats-grow-further-apart-on-whether-to-raise-them-c7990380?mod=mw_rss_topstories",
       "source": "Wall Street Journal",
       "bias": "center-right",
       "domain": "wsj.com"
     },
     {
-      "title": "Progressive El-Sayed wins Michigan primary in jolt to Democrats",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa0p3Y0RnWFBLOTZuVEltR3Y5emZqWWRFU040dmhxSXBzUXpHcWNFMFBIanNoZV9GUTA2RU02QVN5aEdwT2JvR3loQmUtU2hYaU9hV1RPWE5PREJqUEJOQjU2NE5jaG9odk5RMnl5OEZLZlpBdlotZXdXRmF1UTc5eDZncURyNUg3ajJiemRZelMwLXI2WkJBZXFwR1JyRE5kNF9Ba19iWV9seERkeEpDZ3ozWnRGVEtLQ2VJ?oc=5",
-      "source": "Reuters",
+      "title": "How Abdul El-Sayed went from political oblivion to progressive breakthrough in Michigan Senate race",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb21OakF0VFB5eUd5WV84MmZLTDJUaTA5SjhMbjVKX3pOMGczZWE0X2tjZkplbV94TkJjejZNbmpVNkREc242Zk9MTDI0SVhid1ViUjVucFpIazNGdld1a2pHY1JvaEZfZjE3YmlVajlLU0pJV2FfMVdYbVl4cmttRGVRQk1JYXY5VVVjS2o1TzhRY3A0SkJZd0FjVC1tRmFX?oc=5",
+      "source": "Associated Press",
       "bias": "center",
-      "domain": "reuters.com"
+      "domain": "apnews.com"
     },
     {
       "title": "Donavan McKinney Defeats Shri Thanedar In Michigan Primary",
@@ -106,108 +85,62 @@
       "domain": "huffpost.com"
     },
     {
-      "title": "SpaceX shares slide on the heels of first quarterly report",
-      "url": "https://www.aljazeera.com/economy/2026/8/5/spacex-shares-slide-on-the-heels-of-first-quarterly-report?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "Inside the eBay stalking scandal | 60 Minutes Archive",
-      "url": "https://www.cbsnews.com/video/inside-the-ebay-stalking-scandal-60-minutes-archive/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    }
-  ],
-  [
-    {
-      "title": "US Senate confirms Schwartz as CDC director",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdUlSeHMyTFMzMzBSYXp5UHJJZ2dQTEZJYTJ5c1dtdWZHaXJ0WUNMRnVIRkpJY2c5dlRWcVdybmVPbFhJcHZ1XzBaZHRPWUJlY181eDItTEtraEY3d0V6dGJRVE9ReXFJcnktcGJEY25nRWtTbGFpRzQ5UXZXSkVVRWJZYTNrM21fQ0E?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "Senate votes to confirm Dr. Erica Schwartz as CDC director",
-      "url": "https://abcnews.com/Health/senate-votes-confirm-dr-erica-schwartz-cdc-director/story?id=135398156",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    },
-    {
-      "title": "Dr. Erica Schwartz confirmed as CDC director, filling a leadership vacuum",
-      "url": "https://www.npr.org/2026/08/05/nx-s1-5920379/cdc-director-confirmed-erica-schwartz",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    },
-    {
-      "title": "Senate confirms Dr. Erica Schwartz as CDC director",
-      "url": "https://www.cbsnews.com/news/erica-schwartz-confirmed-senate-cdc-director/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "Dr. Erica Schwartz confirmed as CDC director following monthslong vacancy",
-      "url": "https://nypost.com/2026/08/05/us-news/dr-erica-schwartz-confirmed-as-cdc-director/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    }
-  ],
-  [
-    {
-      "title": "Suspected Iran Cyberattacks on U.S. Water Supply Follow Years of Warnings and Neglect",
-      "url": "https://www.nytimes.com/2026/08/05/us/politics/water-supply-warnings.html",
+      "title": "Helicopter Carrying Trump Flies Near Passenger Jet in Washington Airspace",
+      "url": "https://www.nytimes.com/2026/08/05/us/politics/trump-helicopter-jet-marine-one.html",
       "source": "New York Times",
       "bias": "left-center",
       "domain": "nytimes.com"
     },
     {
-      "title": "2 New Jersey municipal water systems targeted in cyberattacks",
-      "url": "https://abcnews.com/US/2-new-jersey-municipal-water-systems-targeted-cyberattacks/story?id=135383816",
+      "title": "Federal officials confirm Marine One safety incident while Trump on board",
+      "url": "https://abcnews.com/US/federal-officials-investigating-marine-safety-incident-trump-board/story?id=135384184",
       "source": "ABC News",
       "bias": "center",
       "domain": "abcnews.go.com"
     },
     {
-      "title": "More than half of Americans think kids should learn Spanish at school \u2014 as 45 million people speak it at home",
-      "url": "https://nypost.com/2026/08/05/us-news/more-than-half-of-americans-think-kids-should-learn-spanish-at-school/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
+      "title": "How Trump made an estimated $2.2 billion during the first year of his second term",
+      "url": "https://www.npr.org/2026/08/05/nx-s1-5919997/how-trump-made-an-estimated-2-2-billion-during-the-first-year-of-his-second-term",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
     },
     {
-      "title": "El Ni\u00f1o could push 50m people into acute hunger before end of next year",
-      "url": "https://www.theguardian.com/environment/2026/aug/05/el-nino-could-push-50m-people-acute-hunger-next-year",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
+      "title": "Buying Support? Black Pastor Who Endorsed Abdul El-Sayed Got Paid Big",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRjk3dUdtZVlFY1pCcEpjU3hYVGJucW5tVTh6Qk5vVzdPcTlYcmQtQnhtV3R4TGc4SVMyZ2o0YUV1SUFlN2hadW1NUEp6STZPNlVUalBBdUZySVBqcnAwZEwwNDVpa19DTUladkVJMDhGMmxUV0xTUm41aDZ6OVB2R3ZCSEFFLUFSS3BjalJTQmZkSHN3aEFJWTRhUVkwam11?oc=5",
+      "source": "Daily Wire",
+      "bias": "right",
+      "domain": "dailywire.com"
     }
   ],
   [
     {
-      "title": "Newly released video shows scene of Jeremy Renner's snowplow accident",
-      "url": "https://www.cnn.com/videos/us/2023/04/18/jeremy-renner-snowplow-accident-bodycam-nc-melas-contd-vpx.cnn",
+      "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
       "source": "CNN",
       "bias": "left",
       "domain": "cnn.com"
     },
     {
-      "title": "Terrifying 'human safaris' on display in shocking video that reveals depths of Russia's deadly campaign",
-      "url": "https://www.foxnews.com/world/terrifying-human-safaris-display-shocking-video-reveals-depths-russias-deadly-campaign",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
+      "title": "Peruvian cardinal hails $150m lead poisoning settlement for 1,300 people as a \u2018historic milestone\u2019",
+      "url": "https://www.theguardian.com/global-development/2026/aug/05/peruvian-cardinal-historic-milestone-150m-lead-poisoning-settlement-1300-children",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
     },
     {
-      "title": "Drone carrying explosives found at German airport, police say",
-      "url": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
+      "title": "Family 'devastated' by death of girl, 9, as man charged with murder",
+      "url": "https://www.bbc.co.uk/news/articles/c235evj1r04o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "bias": "center",
       "domain": "bbc.com"
+    },
+    {
+      "title": "Judge reluctantly dismisses case against Oath Keepers militia group over Jan. 6 riot",
+      "url": "https://www.npr.org/2026/08/05/g-s1-137440/judge-dismisses-lawsuit-oath-keepers",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
     }
   ],
   [
@@ -235,18 +168,98 @@
   ],
   [
     {
+      "title": "Sandisk\u2019s stock falls as the company\u2019s forecast doesn\u2019t live up to high expectations",
+      "url": "https://www.marketwatch.com/story/sandisks-stock-falls-as-the-companys-forecast-doesnt-live-up-to-high-expectations-8fd13d9b?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
+    },
+    {
+      "title": "SpaceX shares slide on the heels of first quarterly report",
+      "url": "https://www.aljazeera.com/economy/2026/8/5/spacex-shares-slide-on-the-heels-of-first-quarterly-report?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "New Zealand capital delights in rare snowfall as southern city residents ski down world\u2019s steepest street",
+      "url": "https://www.theguardian.com/world/2026/aug/05/new-zealand-capital-rare-snow-wellington-dunedin-ski-down-worlds-steepest-street",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    }
+  ],
+  [
+    {
+      "title": "Illegal immigrants among 70 arrested in Mississippi child exploitation crackdown: Feds",
+      "url": "https://www.foxnews.com/us/illegal-immigrants-among-70-arrested-mississippi-child-exploitation-crackdown-feds",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Rashida Tlaib rips TSA for targeting immigrants while introducing bill to scrap ICE airport arrests",
+      "url": "https://nypost.com/2026/08/05/us-news/rashida-tlaib-rips-tsa-for-targeting-immigrants-while-introducing-bill-to-scrap-ice-airport-arrests/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    }
+  ],
+  [
+    {
+      "title": "Infantino sorry for errors but stays Fifa president",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "Gianni Infantino Calls Crisis Meeting As FIFA Revolt Grows",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTlVJLUZXRURDQjRGOF9zRGJIYklTcFUyMTl0aEY5aUVkLXVqUjJ2Ym51dUNCQkllbWVyNXVPQUVFMjFwdHhzQjBHRUV0d1JYMDFBTzg0U2lDSkJRWVNkRE5iYmJfbHpEazlKMDVpUW1IcFFuZ3ladUpTcDA1OW54TC0xeE1PTjNFdTFKVjlDYUzSAZYBQVVfeXFMTy1SRnE0enNKeFVCbHFCOFVNMlNDNzdkNHdFSmNUWkdoczZQcEhzcFNHMXQ2NVdJc0FOcnNaUXpCZ1N1a1o0bFJ6bE9GaXZsQjlHTU9FVkZkRE8zME1TbmxUTFpiNU15Wi1lOWFCcEtiTnllemRKamRGWF9QQm4wYzFwRXZJdjk4RmlHUXJuYUVhN3lrcTF3?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    }
+  ],
+  [
+    {
+      "title": "University of Cambridge professor at centre of plagiarism row resigns",
+      "url": "https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "Star Scholar Jason Arday Resigns From Cambridge",
+      "url": "https://www.nytimes.com/2026/08/05/books/review/cambridge-jason-arday-resignation-investigation.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    }
+  ],
+  [
+    {
+      "title": "Suspected Iran Cyberattacks on U.S. Water Supply Follow Years of Warnings and Neglect",
+      "url": "https://www.nytimes.com/2026/08/05/us/politics/water-supply-warnings.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "At least 12 states report cyberattacks on water systems possibly linked to Iran",
+      "url": "https://www.cbsnews.com/news/more-states-water-systems-cyberattacks-iran-backed-hackers/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    }
+  ],
+  [
+    {
       "title": "Ousted Bangladeshi leader vows to return from exile despite facing a death sentence",
       "url": "https://www.npr.org/2026/08/05/g-s1-137523/ousted-bangladeshi-leader-vows-to-return-from-exile-despite-facing-a-death-sentence",
       "source": "NPR",
       "bias": "left-center",
       "domain": "npr.org"
-    },
-    {
-      "title": "Guatemala volcano eruption prompts evacuation of hundreds of people",
-      "url": "https://www.theguardian.com/world/2026/aug/04/guatemala-volcano-eruption-prompts-evacuation-of-hundreds-of-people",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
     },
     {
       "title": "Sheikh Hasina says she will return to Bangladesh in December",
@@ -258,25 +271,50 @@
   ],
   [
     {
-      "title": "Stream It Or Skip It: \u2018Big Chicken: A Fast Food Conspiracy\u2019 on Netflix, in Which Mo Gilligan Eats Stupid Amounts of Fried Chicken to Prove a Point",
-      "url": "https://decider.com/2026/08/05/big-chicken-a-fast-food-conspiracy-netflix-review-stream-it-or-skip-it/",
+      "title": "Dr. Erica Schwartz confirmed as CDC director, filling a leadership vacuum",
+      "url": "https://www.npr.org/2026/08/05/nx-s1-5920379/cdc-director-confirmed-erica-schwartz",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "Erica Schwartz confirmed as new CDC chief amid US agency turmoil",
+      "url": "https://www.aljazeera.com/news/2026/8/5/erica-schwartz-confirmed-as-new-cdc-chief-amid-us-agency-turmoil?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    }
+  ],
+  [
+    {
+      "title": "Lindsay Clancy sobs as nanny describes slain son Callan, 3, as \u2018happiest, sweetest, easiest baby\u2019",
+      "url": "https://nypost.com/2026/08/05/us-news/lindsay-clancy-sobs-as-nanny-describes-slain-son-callan-3-as-happiest-sweetest-easiest-baby/",
       "source": "New York Post",
       "bias": "right",
       "domain": "nypost.com"
     },
     {
-      "title": "Mexican influencer shot dead while streaming live on social media",
-      "url": "https://www.theguardian.com/world/2026/aug/05/mexico-cesar-gastelum-shot-dead-streaming-live-social-media",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    },
-    {
-      "title": "Popular influencer shot dead during livestream outside restaurant",
-      "url": "https://www.cbsnews.com/news/influencer-killed-livestream-mexico-cesar-gastelum/",
+      "title": "Clancy family nanny testifies that Lindsay was \"a wonderful mom\"",
+      "url": "https://www.cbsnews.com/news/lindsay-clancy-trial-day-7-testimony/",
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"
+    }
+  ],
+  [
+    {
+      "title": "AP Exclusive: Trump's immigration crackdown has detained more than 50 military spouses and parents",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORnozbmNJWkxCLUZVcG1RTzhucVVaeHFYMndzTTZKcWhsUUZ3cDcwaFRrN0JpRDFGaTZLYUc1UnNieTZDNDI1bjZQMk5MNUZ6SW9qUWw1Wk5hbVBfbENzM1ZrZkk1U1ZEMU05MjFkTjJMaERSTlItX19lX2FCUVhfSVhmMHdpYzB5Qk4yTVRnUE5McDc0eXRFWVZmWHB6Z0laMWdWWXFoZmZXamZ3aDBBVGhCdw?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Trump's Immigration Crackdown Has Detained More Than 50 Military Spouses And Parents",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc3NaMEh0RU8zUHNhVzJOd05pWTBtR3prX2h0aEhSZlJXcm5YRkozOHZtblBiX1I5LVBoNjlnUUI1bDZhZDFhUzZzLTJGR2ZlOWdVWFBkX2VSTGNTNEZ1SnlUNkJQY19TUGRqRFp3UVpRTzBsVnNKUS1IeHEzQlhSLURCX29waEZBM3JhRVp3TWF3UTAycGY5Y1VOakEwUdIBowFBVV95cUxQamNDcVZCdnk1SXo5ak9IMk9Wck9oc3JybTVrNGJBSUZnZFBhdGFpRFZ3QWg0MjdncDVhYmtHVjg0UGgtOXBHa3dnNEplQ3pLM0dkeHF1dVZrM21OYS1DQ2N4WlJKa3BMb0FLeElNZUsyMm9LaDdlM21feW9JMmNRSFdvcHZWSFZ6d1FSX1BXb0dmUVVGdDAtZGV4VldsTjJnZFR3?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
     }
   ],
   [
@@ -288,11 +326,11 @@
       "domain": "huffpost.com"
     },
     {
-      "title": "Perez Hilton hospitalized after livestreaming acts of self-harm, officials say",
-      "url": "https://www.cbsnews.com/news/perez-hilton-hospital-livestreaming-self-harm-officials/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
+      "title": "Perez Hilton's family speaks out after he appears to harm himself on livestream",
+      "url": "https://abcnews.com/US/police-respond-perez-hiltons-home-after-appeared-harm/story?id=135374913",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
     }
   ]
 ]

@@ -1,116 +1,95 @@
 [
   [
     {
-      "title": "Millions in the US could face massive consequences unless McCarthy can navigate out of a debt trap he set for Biden",
-      "url": "https://www.cnn.com/2023/04/18/politics/mccarthy-biden-debt-ceiling/index.html",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
-    },
-    {
-      "title": "Trump administration cancels Brazilian ambassador\u2019s visa in tit-for-tat",
-      "url": "https://www.washingtonpost.com/national-security/2026/08/04/trump-administration-cancels-brazilian-ambassadors-visa-tit-for-tat/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
-    },
-    {
-      "title": "Iran says it has agreed Strait of Hormuz shipping route with Oman",
-      "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "Trump comments on Democratic primaries, Iran in remarks to supporters",
-      "url": "https://www.cbsnews.com/video/trump-comments-on-primaries-iran-in-remarks-to-supporters/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "Exclusive: Greer Blasts Democrat State Attorneys General For Choosing Foreign Sweatshops Over American Workers",
-      "url": "https://www.breitbart.com/economy/2026/08/05/exclusive-greer-blasts-democrat-state-attorneys-general-for-choosing-foreign-sweatshops-over-american-workers/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
-    },
-    {
-      "title": "US to shut five consulates as critics fear China could fill diplomatic vacuum",
-      "url": "https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    },
-    {
-      "title": "Clashes on anniversary of Imran Khan imprisonment",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/5-8-clip-teargas-ik-protests-pk?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "Dems in the hot seat for skipping crucial hearing on radical group hiding in US: 'Embarrassment'",
-      "url": "https://www.foxnews.com/politics/dems-hot-seat-skipping-crucial-hearing-radical-group-hiding-us-embarrassment",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "US Senate confirms Schwartz as CDC director",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdUlSeHMyTFMzMzBSYXp5UHJJZ2dQTEZJYTJ5c1dtdWZHaXJ0WUNMRnVIRkpJY2c5dlRWcVdybmVPbFhJcHZ1XzBaZHRPWUJlY181eDItTEtraEY3d0V6dGJRVE9ReXFJcnktcGJEY25nRWtTbGFpRzQ5UXZXSkVVRWJZYTNrM21fQ0E?oc=5",
+      "title": "Hopes fade in Colombia as more bodies recovered days after powerful quake",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTVVtWHRQWDU1UXU5RHBDM2hOaG1YcVdpMHIyTGtFbnJtQi13c09KUnFlUlRzaDZLSldMZF91NnhFTmhjTERDaXduYktlSTZ0V0h2N2R0M0VoSzBfNjdGcmJCUkhLX01aRkUyRDA5dFZVZWkxazhMT3dNTUs2T1JLX3dCY25KdVlJRjFQTThiV0JNR2VXVEZ5VFh3cGloSnI0SlpEZXVFWXFtblRaXy1CZ18tanp0akpGNGRLQXZ4a09DUQ?oc=5",
       "source": "Reuters",
       "bias": "center",
       "domain": "reuters.com"
     },
     {
-      "title": "Missouri voters just rejected a bid to ditch income tax, while other tax votes loom in Florida and California this fall",
-      "url": "https://www.marketwatch.com/story/taxes-are-on-the-ballot-this-fall-as-republicans-and-democrats-grow-further-apart-on-whether-to-raise-them-c7990380?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
-    },
-    {
-      "title": "How Abdul El-Sayed went from political oblivion to progressive breakthrough in Michigan Senate race",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb21OakF0VFB5eUd5WV84MmZLTDJUaTA5SjhMbjVKX3pOMGczZWE0X2tjZkplbV94TkJjejZNbmpVNkREc242Zk9MTDI0SVhid1ViUjVucFpIazNGdld1a2pHY1JvaEZfZjE3YmlVajlLU0pJV2FfMVdYbVl4cmttRGVRQk1JYXY5VVVjS2o1TzhRY3A0SkJZd0FjVC1tRmFX?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "Donavan McKinney Defeats Shri Thanedar In Michigan Primary",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSnliR1VIWXF3YXdzM3ZQTHNTMlRmRXl0aUNtS3VheExqb1ZYNVN0VDFUbWdUeWhFZ2VvRWtQYmk5MjE2bWJvNGxjQVJpS0lCdkNLMmNyM212cnpVbFdidFdld05wZ29oZmJrVVI5ZjRUVFJzMm9QcWtaQnYzM1JfVVhiNjN6S0U2SjExTE4zM0hWZ9IBlwFBVV95cUxQemtTUWxZR2RnQmZCbGE1NDdON1dxSF9wZEtJNXB5TldCMVBTa3doajQzSE9xSms5aDZWTHd3dzdPM09EbmlMRUF3MlpRNmduVGRyM25jVTFkazVoY0tySExGRktYLUpxaW1RTkNLcU55c3NRcUJ2czVVcnA1ZVU0MTY2N1ExZDlOSVdneThWalNudE9xTVBB?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    },
-    {
-      "title": "Helicopter Carrying Trump Flies Near Passenger Jet in Washington Airspace",
-      "url": "https://www.nytimes.com/2026/08/05/us/politics/trump-helicopter-jet-marine-one.html",
-      "source": "New York Times",
+      "title": "Rescue teams search for survivors in Indonesia after powerful earthquake",
+      "url": "https://www.theguardian.com/world/2026/aug/16/rescue-teams-search-for-survivors-in-indonesia-after-powerful-earthquake",
+      "source": "The Guardian",
       "bias": "left-center",
-      "domain": "nytimes.com"
+      "domain": "theguardian.com"
     },
     {
-      "title": "Federal officials confirm Marine One safety incident while Trump on board",
-      "url": "https://abcnews.com/US/federal-officials-investigating-marine-safety-incident-trump-board/story?id=135384184",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    },
-    {
-      "title": "How Trump made an estimated $2.2 billion during the first year of his second term",
-      "url": "https://www.npr.org/2026/08/05/nx-s1-5919997/how-trump-made-an-estimated-2-2-billion-during-the-first-year-of-his-second-term",
+      "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 47",
+      "url": "https://www.npr.org/2026/08/15/nx-s1-5932405/earthquake-indonesia",
       "source": "NPR",
       "bias": "left-center",
       "domain": "npr.org"
     },
     {
-      "title": "Buying Support? Black Pastor Who Endorsed Abdul El-Sayed Got Paid Big",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRjk3dUdtZVlFY1pCcEpjU3hYVGJucW5tVTh6Qk5vVzdPcTlYcmQtQnhtV3R4TGc4SVMyZ2o0YUV1SUFlN2hadW1NUEp6STZPNlVUalBBdUZySVBqcnAwZEwwNDVpa19DTUladkVJMDhGMmxUV0xTUm41aDZ6OVB2R3ZCSEFFLUFSS3BjalJTQmZkSHN3aEFJWTRhUVkwam11?oc=5",
-      "source": "Daily Wire",
+      "title": "Videos capture the moment a devastating 7.7 magnitude earthquake hits Indonesia",
+      "url": "https://www.cbsnews.com/video/indonesia-earthquake-videos/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Va. State shooting: Suspect arrested, found hiding in dorm closet, police say",
+      "url": "https://abcnews.com/US/5-injured-shooting-virginia-state-university-arrests-made/story?id=135669705",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    },
+    {
+      "title": "Police have arrested a 19-year-old in connection with Virginia State University shooting",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMUl1eTVsMHVkaVpUS0Y3SXVicEl6T09oUkNrNE91cWtqUi1qeXVKLVlRdEZyUE1uY0lQcmowckFWbjMzTVpreHYtMWVNbkRORXNuQ3FGdXViT3NZMjRCQWVYRFk3ekZyeWQzQnYyUW4yLVVBS0lMNkRsWXV0ZUxMNjdWMTVhNENtZVBvLW4wbEhVZ1c2WFBKM2FFay1xYjQ1Y2d6VnBKY0dtNWphUU5B?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Virginia State University mass shooting suspect caught after police manhunt for perp in campus bloodbath",
+      "url": "https://nypost.com/2026/08/15/us-news/virginia-state-university-mass-shooting-suspect-caught-after-police-manhunt-for-perp-in-campus-bloodbath/",
+      "source": "New York Post",
       "bias": "right",
-      "domain": "dailywire.com"
+      "domain": "nypost.com"
+    },
+    {
+      "title": "Pics: Thousands of Illegal Migrants Set Up Makeshift Garbage Huts on Beach of Spanish Ceuta, Weeks After Invasion",
+      "url": "https://www.breitbart.com/europe/2026/08/15/pics-thousands-of-illegal-migrants-set-up-garbage-huts-on-ceuta-beach-sparking-warnings-of-disease-outbreak/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
+    },
+    {
+      "title": "Observers say Zambia\u2019s election marred by reports of intimidation, violence",
+      "url": "https://www.aljazeera.com/news/2026/8/16/observers-say-zambias-election-marred-by-reports-of-intimidation-violence?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "As China Pushes to Expand in Asia, Trump Focuses on Iran",
+      "url": "https://www.nytimes.com/2026/08/15/us/politics/china-expansion-asia-trump-iran.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Trump Tells Americans To Accept High Gas Prices As Iran Remains Defiant On Strait Of Hormuz",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTG9HVlBWdEtuQkUwZkZ6ZUN3NU44ZVZjM1BTZC1XQmJvRFFfeWcyS1BPRDhjc1A4SUJyaGw2bV9MREJhUW5TcTNmTi1iWFlYa3ZsUmxuRi1PR1lDMkhuY0lKNlFRSWJibDFlcHJHS3dxT0hhNl9DSHlvTkhWWTgwY1JENWZRWi1OVW1wLU1rMXJuWlhzRmN5cDBaNkxTRVE2TGlKYVNVS0k0TlBLWTVyY0I3Sk90NV9nUGxfTkJveTRiUjV0TlFad1hmNW5ueVp6NTZabkxUSUNPNlhGdFVDWkdhUdIB6AFBVV95cUxQazVKa2ljV25CMGxDUVNpbjRxUU5oSW82NldOeEhYZzNEWGxnQjlYVE82aVhvQS00S0FUTnR5MjBRNF9GNnJQUEVhNDdYVGJfUEl3alUzSjJQYUttUDhLYlVwcGVGdHVkYlNEdHlvS01oblFpYXZYVGZtSGM3TXJjenlndVh4NGJXa21pTkhOejZQdE5jTWd1UEdCSTRXd3piMTVfVVJwVWY4QThGTU1YV0w2Wm5MT01FUmVCSXNfdEkyeFVRalV0YTY5RHhfUkM0Y0t2STNPZXB4WWNaczh4empwdG5RWmtD?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    },
+    {
+      "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+      "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "At least 47 dead after 7.7-magnitude quake strikes Indonesia",
+      "url": "https://www.washingtonpost.com/world/2026/08/15/77-magnitude-earthquake-off-flores-island-indonesia-kills-least-38/",
+      "source": "Washington Post",
+      "bias": "left-center",
+      "domain": "washingtonpost.com"
     }
   ],
   [
@@ -122,116 +101,43 @@
       "domain": "cnn.com"
     },
     {
-      "title": "Peruvian cardinal hails $150m lead poisoning settlement for 1,300 people as a \u2018historic milestone\u2019",
-      "url": "https://www.theguardian.com/global-development/2026/aug/05/peruvian-cardinal-historic-milestone-150m-lead-poisoning-settlement-1300-children",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    },
-    {
-      "title": "Family 'devastated' by death of girl, 9, as man charged with murder",
-      "url": "https://www.bbc.co.uk/news/articles/c235evj1r04o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "Judge reluctantly dismisses case against Oath Keepers militia group over Jan. 6 riot",
-      "url": "https://www.npr.org/2026/08/05/g-s1-137440/judge-dismisses-lawsuit-oath-keepers",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    }
-  ],
-  [
-    {
-      "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
-      "url": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "Ukraine fails to halt Russian barrage as Zelensky blames partners for \u2018horrific casualties\u2019",
-      "url": "https://www.washingtonpost.com/world/2026/08/05/ukraine-fails-stop-russian-missile-barrage-after-zelensky-says-interceptors-gone/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
-    },
-    {
-      "title": "A Russian barrage in Ukraine's capital kills 17 as air defenses fall short",
-      "url": "https://www.npr.org/2026/08/05/nx-s1-5921194/russian-missile-drone-barrage",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    }
-  ],
-  [
-    {
-      "title": "Sandisk\u2019s stock falls as the company\u2019s forecast doesn\u2019t live up to high expectations",
-      "url": "https://www.marketwatch.com/story/sandisks-stock-falls-as-the-companys-forecast-doesnt-live-up-to-high-expectations-8fd13d9b?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
-    },
-    {
-      "title": "SpaceX shares slide on the heels of first quarterly report",
-      "url": "https://www.aljazeera.com/economy/2026/8/5/spacex-shares-slide-on-the-heels-of-first-quarterly-report?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "New Zealand capital delights in rare snowfall as southern city residents ski down world\u2019s steepest street",
-      "url": "https://www.theguardian.com/world/2026/aug/05/new-zealand-capital-rare-snow-wellington-dunedin-ski-down-worlds-steepest-street",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    }
-  ],
-  [
-    {
-      "title": "Illegal immigrants among 70 arrested in Mississippi child exploitation crackdown: Feds",
-      "url": "https://www.foxnews.com/us/illegal-immigrants-among-70-arrested-mississippi-child-exploitation-crackdown-feds",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "Rashida Tlaib rips TSA for targeting immigrants while introducing bill to scrap ICE airport arrests",
-      "url": "https://nypost.com/2026/08/05/us-news/rashida-tlaib-rips-tsa-for-targeting-immigrants-while-introducing-bill-to-scrap-ice-airport-arrests/",
+      "title": "Selena Gomez\u2019s lawyer gives scathing response to \u2018fraud\u2019 lawsuit against singer and her mom",
+      "url": "https://pagesix.com/2026/08/15/celebrity-news/selena-gomezs-lawyer-responds-to-lawsuit-against-singer-her-mom/",
       "source": "New York Post",
       "bias": "right",
       "domain": "nypost.com"
-    }
-  ],
-  [
-    {
-      "title": "Infantino sorry for errors but stays Fifa president",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
     },
     {
-      "title": "Gianni Infantino Calls Crisis Meeting As FIFA Revolt Grows",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTlVJLUZXRURDQjRGOF9zRGJIYklTcFUyMTl0aEY5aUVkLXVqUjJ2Ym51dUNCQkllbWVyNXVPQUVFMjFwdHhzQjBHRUV0d1JYMDFBTzg0U2lDSkJRWVNkRE5iYmJfbHpEazlKMDVpUW1IcFFuZ3ladUpTcDA1OW54TC0xeE1PTjNFdTFKVjlDYUzSAZYBQVVfeXFMTy1SRnE0enNKeFVCbHFCOFVNMlNDNzdkNHdFSmNUWkdoczZQcEhzcFNHMXQ2NVdJc0FOcnNaUXpCZ1N1a1o0bFJ6bE9GaXZsQjlHTU9FVkZkRE8zME1TbmxUTFpiNU15Wi1lOWFCcEtiTnllemRKamRGWF9QQm4wYzFwRXZJdjk4RmlHUXJuYUVhN3lrcTF3?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    }
-  ],
-  [
-    {
-      "title": "University of Cambridge professor at centre of plagiarism row resigns",
-      "url": "https://www.bbc.co.uk/news/articles/c1e146jw618o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
+      "title": "Canadian airline WestJet agrees to settle flight attendants\u2019 sexual harassment class action",
+      "url": "https://www.theguardian.com/world/2026/aug/12/canadian-airline-westjet-settle-flight-attendants-sexual-harassment-class-action",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
     },
     {
-      "title": "Star Scholar Jason Arday Resigns From Cambridge",
-      "url": "https://www.nytimes.com/2026/08/05/books/review/cambridge-jason-arday-resignation-investigation.html",
+      "title": "CBS Chief Correspondent Matt Gutman Accused of Harassment in ABC Producer Suit",
+      "url": "https://www.breitbart.com/the-media/2026/08/15/cbs-matt-gutman-accused-sexualized-remarks-abc-producer-lawsuit/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
+    },
+    {
+      "title": "Security video helps lead to a masked killer who tried to hide the crime",
+      "url": "https://www.cbsnews.com/news/kenneth-fandrich-oregon-murder-steven-milner-veterinarian-security-video-masked-killer/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "The Daily Wire - Breaking News, Videos & Podcasts",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5DS2g1RUcwNXdQUnBuWDBfV3MxaHNqWDJfTG5fSUVmZi1jVTJ0YzRDQXRpNTdwM1AtaVlnZlM1OA?oc=5",
+      "source": "Daily Wire",
+      "bias": "right",
+      "domain": "dailywire.com"
+    },
+    {
+      "title": "Prosecutors Examined Firm With Tie to Judge in Trump Hush-Money Trial",
+      "url": "https://www.nytimes.com/2026/08/15/us/politics/prosecutors-examined-firm-with-tie-to-judge-in-trump-hush-money-trial.html",
       "source": "New York Times",
       "bias": "left-center",
       "domain": "nytimes.com"
@@ -239,79 +145,160 @@
   ],
   [
     {
-      "title": "Suspected Iran Cyberattacks on U.S. Water Supply Follow Years of Warnings and Neglect",
-      "url": "https://www.nytimes.com/2026/08/05/us/politics/water-supply-warnings.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "At least 12 states report cyberattacks on water systems possibly linked to Iran",
-      "url": "https://www.cbsnews.com/news/more-states-water-systems-cyberattacks-iran-backed-hackers/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    }
-  ],
-  [
-    {
-      "title": "Ousted Bangladeshi leader vows to return from exile despite facing a death sentence",
-      "url": "https://www.npr.org/2026/08/05/g-s1-137523/ousted-bangladeshi-leader-vows-to-return-from-exile-despite-facing-a-death-sentence",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    },
-    {
-      "title": "Sheikh Hasina says she will return to Bangladesh in December",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/05-08-sv-hasina-returns-bangladesh-bn?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "UK's Burnham urges reflection on death of academic Arday",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMGRVd2o3N0NVMl9rek5FaXJmMGVxN0pTcWFyc3lScVRpTE5DQ0hYYmNLaDB3MUY3UHNTcFBlN0ZfbUwyalNMVHFvSWN5eE4tOHVNTHVfWm9jTm03Y3gyUGVpVVpVczRKV3dPdVFob2x3MHE4LUEwSHZFMk11N0lRaTg1ZGxGdUNDZ1IyMFUtWmFITDhIaHNZeDNldTVvZ0tDWWc3VzlxV0dvOW5f?oc=5",
+      "source": "Reuters",
       "bias": "center",
-      "domain": "aljazeera.com"
-    }
-  ],
-  [
-    {
-      "title": "Dr. Erica Schwartz confirmed as CDC director, filling a leadership vacuum",
-      "url": "https://www.npr.org/2026/08/05/nx-s1-5920379/cdc-director-confirmed-erica-schwartz",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
+      "domain": "reuters.com"
     },
     {
-      "title": "Erica Schwartz confirmed as new CDC chief amid US agency turmoil",
-      "url": "https://www.aljazeera.com/news/2026/8/5/erica-schwartz-confirmed-as-new-cdc-chief-amid-us-agency-turmoil?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Jason Arday death 'tragedy on so many levels' says PM",
+      "url": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "bias": "center",
-      "domain": "aljazeera.com"
-    }
-  ],
-  [
+      "domain": "bbc.com"
+    },
     {
-      "title": "Lindsay Clancy sobs as nanny describes slain son Callan, 3, as \u2018happiest, sweetest, easiest baby\u2019",
-      "url": "https://nypost.com/2026/08/05/us-news/lindsay-clancy-sobs-as-nanny-describes-slain-son-callan-3-as-happiest-sweetest-easiest-baby/",
-      "source": "New York Post",
+      "title": "UK Left Blames Death of Ex-Cambridge Professor Arday on 'Racism', Media Scrutiny of Plagiarism Claims",
+      "url": "https://www.breitbart.com/europe/2026/08/15/uk-left-blames-death-of-ex-cambridge-professor-arday-on-racism-media-scrutiny-of-plagiarism-claims/",
+      "source": "Breitbart",
       "bias": "right",
-      "domain": "nypost.com"
+      "domain": "breitbart.com"
     },
     {
-      "title": "Clancy family nanny testifies that Lindsay was \"a wonderful mom\"",
-      "url": "https://www.cbsnews.com/news/lindsay-clancy-trial-day-7-testimony/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    }
-  ],
-  [
-    {
-      "title": "AP Exclusive: Trump's immigration crackdown has detained more than 50 military spouses and parents",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORnozbmNJWkxCLUZVcG1RTzhucVVaeHFYMndzTTZKcWhsUUZ3cDcwaFRrN0JpRDFGaTZLYUc1UnNieTZDNDI1bjZQMk5MNUZ6SW9qUWw1Wk5hbVBfbENzM1ZrZkk1U1ZEMU05MjFkTjJMaERSTlItX19lX2FCUVhfSVhmMHdpYzB5Qk4yTVRnUE5McDc0eXRFWVZmWHB6Z0laMWdWWXFoZmZXamZ3aDBBVGhCdw?oc=5",
+      "title": "Black professor at Cambridge who faced plagiarism claims is found dead",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT2tUV0pUa2lOMy0yZ1N5NzRhR0IzWmV5S1k2X1drUjRoNU13NWloWm5kbUFnLTBoYUQ1VG1oTEtxeHJ5Rm1uV2ZvLXgzUHU1N1dWeV84UXVPYVJKTDF0dkN0Z01IRlZNa2ZnOERLSEoyNXNwOEhJSjl6aWFBb2JpdEMxX2hHa3lKMXk3UnNkY3lOUGRXd3JFcE9FaVRBQ3EzYTBJYmhlUl9tdTZLamhVdg?oc=5",
       "source": "Associated Press",
       "bias": "center",
       "domain": "apnews.com"
     },
     {
-      "title": "Trump's Immigration Crackdown Has Detained More Than 50 Military Spouses And Parents",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc3NaMEh0RU8zUHNhVzJOd05pWTBtR3prX2h0aEhSZlJXcm5YRkozOHZtblBiX1I5LVBoNjlnUUI1bDZhZDFhUzZzLTJGR2ZlOWdVWFBkX2VSTGNTNEZ1SnlUNkJQY19TUGRqRFp3UVpRTzBsVnNKUS1IeHEzQlhSLURCX29waEZBM3JhRVp3TWF3UTAycGY5Y1VOakEwUdIBowFBVV95cUxQamNDcVZCdnk1SXo5ak9IMk9Wck9oc3JybTVrNGJBSUZnZFBhdGFpRFZ3QWg0MjdncDVhYmtHVjg0UGgtOXBHa3dnNEplQ3pLM0dkeHF1dVZrM21OYS1DQ2N4WlJKa3BMb0FLeElNZUsyMm9LaDdlM21feW9JMmNRSFdvcHZWSFZ6d1FSX1BXb0dmUVVGdDAtZGV4VldsTjJnZFR3?oc=5",
+      "title": "Professor\u2019s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring",
+      "url": "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Jason Arday, Cambridge professor accused of plagiarism, is found dead",
+      "url": "https://www.npr.org/2026/08/15/nx-s1-5932488/jason-arday-dead",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "Shocking death of former professor reverberates at Cambridge \u2014 and well beyond",
+      "url": "https://www.washingtonpost.com/world/2026/08/15/death-black-scholar-jason-arday-reverberates-cambridge-beyond/",
+      "source": "Washington Post",
+      "bias": "left-center",
+      "domain": "washingtonpost.com"
+    }
+  ],
+  [
+    {
+      "title": "Millions in the US could face massive consequences unless McCarthy can navigate out of a debt trap he set for Biden",
+      "url": "https://www.cnn.com/2023/04/18/politics/mccarthy-biden-debt-ceiling/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
+    },
+    {
+      "title": "Trump administration wants to allow companies to hack foreign cybercriminals",
+      "url": "https://www.npr.org/2026/08/15/nx-s1-5930311/trump-companies-hack-foreign-cybercriminals",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "BP to develop offshore gasfield in Venezuela with firms linked to Trump administration",
+      "url": "https://www.theguardian.com/business/2026/aug/14/bp-offshore-gasfield-venezuela-donald-trump",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "Where the Teacher Is a Hero",
+      "url": "https://www.nytimes.com/2026/08/15/opinion/poverty-america-arkansas.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    }
+  ],
+  [
+    {
+      "title": "Jessica Simpson turns heads in bikini photos from trip to Turks and Caicos",
+      "url": "https://www.foxnews.com/entertainment/jessica-simpson-turns-heads-bikini-photos-trip-turks-caicos",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Jessica Simpson turns heads in bikini photos from trip to Turks and Caicos",
+      "url": "https://pagesix.com/2026/08/15/style/jessica-simpson-shares-bikini-photos-from-birthday-trip-to-turks-and-caicos/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    }
+  ],
+  [
+    {
+      "title": "Henry Winkler opens up about the unexpected career he considered before becoming an actor",
+      "url": "https://www.foxnews.com/entertainment/henry-winkler-opens-about-unexpected-career-considered-before-becoming-actor",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Groom-to-be found dead in hotel rubble after Colombia earthquake hits 2 days before his wedding",
+      "url": "https://nypost.com/2026/08/15/world-news/groom-to-be-24-found-dead-underneath-collapsed-hotel-rubble-after-devastating-7-4-magnitude-earthquake-struck-colombia-2-days-before-his-wedding/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    }
+  ],
+  [
+    {
+      "title": "Qatar denies detaining Iranian pilots, says it found remains of one",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbU82UzByeVFKQzJGdkhlQ0Y0YjkxQk1mZlVYdVMyV3d4TVhLRXJXa19JcU51TUJnZEFoaFpiUkkxT2tuY3hkVUY2Q2xYeU5Bd3ZHVlZlM3dCU09jMXoxR0Ntb0xTZThlREdtS0VMRXFZa3IzdDJEWnhyRE11U3VMbVFkUUs4UXVRQ1hPTU1laDZ4UUhqTmhuc282dXBZN2ExX0pyajFhRnJ0Y2p2MDJTNkhWS2pyWXAw?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Iran Says Qatar Captured Its Pilots Months Ago, a Claim Qatar Rejects",
+      "url": "https://www.nytimes.com/2026/08/15/world/middleeast/iran-missing-pilots-qatar.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    }
+  ],
+  [
+    {
+      "title": "Hurricane Lala leaves thousands without power in Hawaii amid 'life-threatening' conditions",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOVphU1pueVRWM1VzVGpzSmQ4MGN4aEliMDZvUG5tQWNlSC1xYWxSbDRZaG0zQ3BsclpscUk5MWxNcG5peVh0S2pmYU5URmE2RkJaQ0xEVXJGemVaYTQ5YUJsTmtzbUxRdTREbXF0dEU2R0VoSUREWHcxQU42TFBrNFJoUm5STTZ5RjU3R2NMUXZmZ3pUcllsVUUxbXVyTlREalRBR2tENGx4SlpSNGJRZl9R?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Hurricane Lala lashes Hawaii's Big Island as a Category 1 storm",
+      "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Trump's 2024 grocery photo op now haunts Republicans in the midterms",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTkhYMUdicFdKRWlLX3R6U0lvcXZQdS1zUjhhX1FsSndyd1dNMVQ4UGs2YjFXaFRNenQ0UGVJUGktcXlPOFl4MENrNXNfLWxQaTdyaUdramJ3Y1FKR3gxZUxleDlRM0xmM2FFeGZ0bzFneElSRUVEYWhPek9fY0h4WDBSd3MyazFIbTJlZURhLXYwSGNJelVSZ0NPSWtycHFtRTNvTGx5eDU?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Trump's 2024 Grocery Photo Op Now Haunts Republicans In The Midterms",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWFctMG1KSmRkZm01MzY2bmJCNVF2YXo1TktnR3lyMl9mcWVVSDMzN08zS3pxNzh1OGRnQ21lcWpGWVd5OEhIWmQwUHlUSTlNdzRISko0TjNhTUtqNF9QS3RzemlEMVJBV3dMRGpVNFdidno1dW9taUc3bWlDM0ZSX1JtZ1NqU2JQVjVOQlBoNmdtcHQwWGxBUmI1V04zWVF4V3YxeEdn0gGrAUFVX3lxTE1mckdTLVNWVDRuX3FjQzkwNkl5d3FYSUdlRGRUZlg4ZGFQOWFJNTd1dWt4cTg0ZWlNZ09zcnpLOXJlNkVvaENRLWdYUVlNNnlUSVBCNXdHVzQteGdZQ3VhY1dpck0xT3ktbDgxRkhVTFNuaTZGc1hCWXFBLTJPYXhNckNRMnppWTItRHA4S29XZ0JHUUhiS2xEdzVHYUVPRTVEcDFYUGlIa29Ycw?oc=5",
       "source": "HuffPost",
       "bias": "left",
       "domain": "huffpost.com"
@@ -319,18 +306,98 @@
   ],
   [
     {
-      "title": "Renowned Celebrity Blogger Hospitalized After Appearing To Harm Himself On Livestream",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONnhmNWNnbF9JUndmN0ZFY0VHM01mbjBEWkJ0RjRLS2Q5WGRXR3BPLTFXSENIalp5aXJfbmFYRjIzcHZmaURVZTFnTGxiSmhibmlCMnVKaFhVZ29wWWMzVW1sWHJTOE01TF82Ul9pVTktMHB3NEFDWlEzT3A0N3RMOVd5SGgxQVFkV3RkUFc4TnXSAZYBQVVfeXFMT2VfNURKbUVPWVd4Mm9kUXp0a1lXY3dqOHRSNnZZTm9YRUxtS1Izb21ZaGZPTEFWMkZWOXNFdWFpc3ZMVzFDRElBRE5sQThKRjBmeTh0eDR6cl8tNTFPc0V2eHRIOUlEMWM0Q1kyUnpZQ0xKM0hWWWliQUVaWUxKazlwSkJtdjYwSXAyVWFRYTRfUHdKWmtB?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
+      "title": "Democrats Make South Carolina the First Contest in 2028 Presidential Primary Calendar",
+      "url": "https://www.nytimes.com/2026/08/15/us/politics/democrats-new-presidential-primary-calendar.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
     },
     {
-      "title": "Perez Hilton's family speaks out after he appears to harm himself on livestream",
-      "url": "https://abcnews.com/US/police-respond-perez-hiltons-home-after-appeared-harm/story?id=135374913",
-      "source": "ABC News",
+      "title": "US Democrats finalise major shakeup to 2028 presidential primary calendar",
+      "url": "https://www.aljazeera.com/news/2026/8/15/us-democrats-finalise-major-shakeup-to-2028-presidential-primary-calendar?traffic_source=rss",
+      "source": "Al Jazeera",
       "bias": "center",
-      "domain": "abcnews.go.com"
+      "domain": "aljazeera.com"
+    }
+  ],
+  [
+    {
+      "title": "The Midwest braces for more heavy flooding, as Indiana seeks federal aid",
+      "url": "https://www.npr.org/2026/08/15/nx-s1-5932552/midwest-flooding-indiana-fema",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "At least five reported dead amid flooding in US state of Indiana",
+      "url": "https://www.aljazeera.com/news/2026/8/15/at-least-five-reported-dead-amid-flooding-in-us-state-of-indiana?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    }
+  ],
+  [
+    {
+      "title": "U.S., Canada race for deal to avert Trump\u2019s threat of 50 percent tariffs",
+      "url": "https://www.washingtonpost.com/business/2026/08/15/canada-tariffs-trump-deadline/",
+      "source": "Washington Post",
+      "bias": "left-center",
+      "domain": "washingtonpost.com"
+    },
+    {
+      "title": "The Latest Horror Story Out Of Canada\u2019s \u2018Free\u2019 Healthcare System",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd3FsdGExY1R3Z0pEenRLT3BSSF9XOEE1WndTUzRmQUtPdlcyV05OVjZSX3YwR0txNFJzN0xKOU5OdmZYdU9RTmpUTU9HbjRGUk80NDNibnpwUGEzaEpGM2pPakhja0Vpd1phZjNWNTJEbmYyd3lIT3MyUzZDbjhrNFBQYldzdldfY3RHUGFpeDg0aEJ2ZGJB?oc=5",
+      "source": "Daily Wire",
+      "bias": "right",
+      "domain": "dailywire.com"
+    }
+  ],
+  [
+    {
+      "title": "IDF troops stood by as West Bank settlers besieged Palestinian homes",
+      "url": "https://www.washingtonpost.com/world/2026/08/14/idf-troops-stood-by-west-bank-settlers-besieged-palestinian-homes/",
+      "source": "Washington Post",
+      "bias": "left-center",
+      "domain": "washingtonpost.com"
+    },
+    {
+      "title": "Israeli settlers\u2019 siege of Palestinian homes draws a sharp US rebuke",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZjg4cjNRa214Zmg2OEk1S1ltSkZnd2RLcmlReHNZaDJZeTlfZVU3VjZtb1o5WjVTVV9WRnNmRTgtRnRvS3I5TWR1bUtjWExlV2t2NllOb1lTUV9kNEJodFdqdDFSOEJxWXVJRHR1SWxzN1UzTVJhTFM5TkE5SUZkdGxZMllaRzkzM2twRjJmTW9BcUVwaWNyV2FVYlFITHZqUjhFRWNGMC16b2g3dlh0ZWN6Q1dVd3FXM01RRA?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    }
+  ],
+  [
+    {
+      "title": "American missionary kidnapped in Niger released after 9 months, group says",
+      "url": "https://www.washingtonpost.com/world/2026/08/14/american-kevin-rideout-released-after-niger-kidnapping-missionary-group-says/",
+      "source": "Washington Post",
+      "bias": "left-center",
+      "domain": "washingtonpost.com"
+    },
+    {
+      "title": "American missionary kidnapped in Niger freed after nine months",
+      "url": "https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    }
+  ],
+  [
+    {
+      "title": "Farage beats Binface! But scandal still shadows Trump\u2019s British ally.",
+      "url": "https://www.washingtonpost.com/world/2026/08/13/embattled-trump-ally-farage-may-beat-count-binface-his-troubles-continue/",
+      "source": "Washington Post",
+      "bias": "left-center",
+      "domain": "washingtonpost.com"
+    },
+    {
+      "title": "Reform UK's Nigel Farage beats a slate of fringe candidates in election boycotted by major parties",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRGxQNEpxUFR3NkJFN1JaeWxBMU8zVFpqNmJnTmNjcXQ5aWZnLXotc3lmUEw1eVZHS2dNUWxhRWdCdEdlVzVqeWEzMDEzaTRJbTVybFoyV2tyMDhJcGo1X2pZcGtCOEhUblBvekJpVmJkR2lnN1hPaTJlQ2lPRjRYMTRoSFFSZjY3T1VGMXA5OF8yem9aMThuRkgwcjJHdWxUSTY0MVd4WFRybTF5M3E5dFBFSV9QbnU2cXc?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
     }
   ]
 ]

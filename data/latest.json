@@ -1,11 +1,18 @@
 [
   [
     {
-      "title": "Hopes fade in Colombia as more bodies recovered days after powerful quake",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTVVtWHRQWDU1UXU5RHBDM2hOaG1YcVdpMHIyTGtFbnJtQi13c09KUnFlUlRzaDZLSldMZF91NnhFTmhjTERDaXduYktlSTZ0V0h2N2R0M0VoSzBfNjdGcmJCUkhLX01aRkUyRDA5dFZVZWkxazhMT3dNTUs2T1JLX3dCY25KdVlJRjFQTThiV0JNR2VXVEZ5VFh3cGloSnI0SlpEZXVFWXFtblRaXy1CZ18tanp0akpGNGRLQXZ4a09DUQ?oc=5",
-      "source": "Reuters",
+      "title": "At least 12 people killed in Hungary bus crash",
+      "url": "https://www.aljazeera.com/news/2026/8/16/at-least-12-people-killed-in-hungary-bus-crash?traffic_source=rss",
+      "source": "Al Jazeera",
       "bias": "center",
-      "domain": "reuters.com"
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+      "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
     },
     {
       "title": "Rescue teams search for survivors in Indonesia after powerful earthquake",
@@ -15,53 +22,32 @@
       "domain": "theguardian.com"
     },
     {
-      "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 47",
-      "url": "https://www.npr.org/2026/08/15/nx-s1-5932405/earthquake-indonesia",
-      "source": "NPR",
+      "title": "At least 47 dead after 7.7-magnitude quake strikes Indonesia",
+      "url": "https://www.washingtonpost.com/world/2026/08/15/77-magnitude-earthquake-off-flores-island-indonesia-kills-least-38/",
+      "source": "Washington Post",
       "bias": "left-center",
-      "domain": "npr.org"
+      "domain": "washingtonpost.com"
     },
     {
-      "title": "Videos capture the moment a devastating 7.7 magnitude earthquake hits Indonesia",
-      "url": "https://www.cbsnews.com/video/indonesia-earthquake-videos/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "Va. State shooting: Suspect arrested, found hiding in dorm closet, police say",
-      "url": "https://abcnews.com/US/5-injured-shooting-virginia-state-university-arrests-made/story?id=135669705",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    },
-    {
-      "title": "Police have arrested a 19-year-old in connection with Virginia State University shooting",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMUl1eTVsMHVkaVpUS0Y3SXVicEl6T09oUkNrNE91cWtqUi1qeXVKLVlRdEZyUE1uY0lQcmowckFWbjMzTVpreHYtMWVNbkRORXNuQ3FGdXViT3NZMjRCQWVYRFk3ekZyeWQzQnYyUW4yLVVBS0lMNkRsWXV0ZUxMNjdWMTVhNENtZVBvLW4wbEhVZ1c2WFBKM2FFay1xYjQ1Y2d6VnBKY0dtNWphUU5B?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "Virginia State University mass shooting suspect caught after police manhunt for perp in campus bloodbath",
-      "url": "https://nypost.com/2026/08/15/us-news/virginia-state-university-mass-shooting-suspect-caught-after-police-manhunt-for-perp-in-campus-bloodbath/",
+      "title": "At least 5 people in Indiana have died as severe storms, flooding cross state",
+      "url": "https://nypost.com/2026/08/16/us-news/indiana-authorities-say-at-least-5-people-have-died-as-severe-weather-crosses-the-state/",
       "source": "New York Post",
       "bias": "right",
       "domain": "nypost.com"
     },
     {
-      "title": "Pics: Thousands of Illegal Migrants Set Up Makeshift Garbage Huts on Beach of Spanish Ceuta, Weeks After Invasion",
-      "url": "https://www.breitbart.com/europe/2026/08/15/pics-thousands-of-illegal-migrants-set-up-garbage-huts-on-ceuta-beach-sparking-warnings-of-disease-outbreak/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
+      "title": "The Midwest braces for more heavy flooding, as Indiana seeks federal aid",
+      "url": "https://www.npr.org/2026/08/15/nx-s1-5932552/midwest-flooding-indiana-fema",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
     },
     {
-      "title": "As China Pushes to Expand in Asia, Trump Focuses on Iran",
-      "url": "https://www.nytimes.com/2026/08/15/us/politics/china-expansion-asia-trump-iran.html",
-      "source": "New York Times",
+      "title": "Iran strikes another ship in Strait of Hormuz as Israel steps up Lebanon attacks",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-strait-of-hormuz-uae-accuses-attacks-vance-oil-gas/",
+      "source": "CBS News",
       "bias": "left-center",
-      "domain": "nytimes.com"
+      "domain": "cbsnews.com"
     },
     {
       "title": "Trump Tells Americans To Accept High Gas Prices As Iran Remains Defiant On Strait Of Hormuz",
@@ -71,69 +57,25 @@
       "domain": "huffpost.com"
     },
     {
-      "title": "Yemeni government forces hit back after new Houthi offensive",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-2026-houthis-yemen-sv?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "At least 47 dead after 7.7-magnitude quake strikes Indonesia",
-      "url": "https://www.washingtonpost.com/world/2026/08/15/77-magnitude-earthquake-off-flores-island-indonesia-kills-least-38/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
-    },
-    {
-      "title": "Rescuers search for survivors of powerful Indonesia earthquake",
-      "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    }
-  ],
-  [
-    {
-      "title": "UK's Burnham urges reflection on death of academic Arday",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMGRVd2o3N0NVMl9rek5FaXJmMGVxN0pTcWFyc3lScVRpTE5DQ0hYYmNLaDB3MUY3UHNTcFBlN0ZfbUwyalNMVHFvSWN5eE4tOHVNTHVfWm9jTm03Y3gyUGVpVVpVczRKV3dPdVFob2x3MHE4LUEwSHZFMk11N0lRaTg1ZGxGdUNDZ1IyMFUtWmFITDhIaHNZeDNldTVvZ0tDWWc3VzlxV0dvOW5f?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "Jason Arday death 'tragedy on so many levels' says PM",
-      "url": "https://www.bbc.co.uk/news/articles/c9982znvyk4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "Professor\u2019s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring",
-      "url": "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "Black professor at Cambridge who faced plagiarism claims is found dead",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT2tUV0pUa2lOMy0yZ1N5NzRhR0IzWmV5S1k2X1drUjRoNU13NWloWm5kbUFnLTBoYUQ1VG1oTEtxeHJ5Rm1uV2ZvLXgzUHU1N1dWeV84UXVPYVJKTDF0dkN0Z01IRlZNa2ZnOERLSEoyNXNwOEhJSjl6aWFBb2JpdEMxX2hHa3lKMXk3UnNkY3lOUGRXd3JFcE9FaVRBQ3EzYTBJYmhlUl9tdTZLamhVdg?oc=5",
+      "title": "Police have arrested a 19-year-old in connection with Virginia State University shooting",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMUl1eTVsMHVkaVpUS0Y3SXVicEl6T09oUkNrNE91cWtqUi1qeXVKLVlRdEZyUE1uY0lQcmowckFWbjMzTVpreHYtMWVNbkRORXNuQ3FGdXViT3NZMjRCQWVYRFk3ekZyeWQzQnYyUW4yLVVBS0lMNkRsWXV0ZUxMNjdWMTVhNENtZVBvLW4wbEhVZ1c2WFBKM2FFay1xYjQ1Y2d6VnBKY0dtNWphUU5B?oc=5",
       "source": "Associated Press",
       "bias": "center",
       "domain": "apnews.com"
     },
     {
-      "title": "Jason Arday, Cambridge professor accused of plagiarism, is found dead",
-      "url": "https://www.npr.org/2026/08/15/nx-s1-5932488/jason-arday-dead",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
+      "title": "Iran live updates: Qatar denies capture of 3 Iranian military pilots",
+      "url": "https://abcnews.com/International/live-updates/iran-live-updates-negotiations-us-messages-exchanged-tehran/?id=135508900",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
     },
     {
-      "title": "Shocking death of former professor reverberates at Cambridge \u2014 and well beyond",
-      "url": "https://www.washingtonpost.com/world/2026/08/15/death-black-scholar-jason-arday-reverberates-cambridge-beyond/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
+      "title": "Iran disputes Qatar, Kuwait accounts of captured Iranian personnel",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRUtLNEdDbkQxTWtlR1o5NHFQWkg3NkI2ZzBzeWZ5bWJsX2k0Ymh1UTEzRlpjTkFYRjQ5R3gtN084LWVoNGFZeXpIaTgwYTl6WnlNSGY0bnpyS1NablA1Y3dWSHJUTThrYzVzUmpVUW9IbGk1X095eDVISEEzaG45Y3N6bS1Db3gzc3RKN012TGVJR2w2aW1oTjhudE0waDRfX0wyajcwdGNCQ1JObzh3U2Z1TWNBdzR3RU9lRVQ0ekRHWHNQb2k0?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
     }
   ],
   [
@@ -159,41 +101,55 @@
       "domain": "theguardian.com"
     },
     {
-      "title": "Where the Teacher Is a Hero",
-      "url": "https://www.nytimes.com/2026/08/15/opinion/poverty-america-arkansas.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    }
-  ],
-  [
-    {
-      "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges",
-      "url": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
-    },
-    {
-      "title": "Al Sharpton: If Dems Take House, Should Subpoena Police Who Said No Foul Play in Death of Black Teen Nolan Wells",
-      "url": "https://www.breitbart.com/politics/2026/08/15/al-sharpton-if-dems-take-house-should-subpoena-police-who-said-no-foul-play-in-death-of-black-teen-nolan-wells/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
-    },
-    {
-      "title": "US Democrats finalise major shakeup to 2028 presidential primary calendar",
-      "url": "https://www.aljazeera.com/news/2026/8/15/us-democrats-finalise-major-shakeup-to-2028-presidential-primary-calendar?traffic_source=rss",
+      "title": "Cincinnati Open: Djokovic stunned by Tirante in second round",
+      "url": "https://www.aljazeera.com/sports/2026/8/16/cincinnati-open-djokovic-stunned-by-tirante-in-second-round?traffic_source=rss",
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
     },
     {
-      "title": "Democrats Make South Carolina the First Contest in 2028 Presidential Primary Calendar",
-      "url": "https://www.nytimes.com/2026/08/15/us/politics/democrats-new-presidential-primary-calendar.html",
-      "source": "New York Times",
+      "title": "Distressed Novak Djokovic comes clean on health condition after collapsing at Cincinnati Open",
+      "url": "https://nypost.com/2026/08/16/sports/novak-djokovic-speaks-out-on-health-after-collapsing-at-cincinnati-open/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
+      "title": "U.S., Canada race for deal to avert Trump\u2019s threat of 50 percent tariffs",
+      "url": "https://www.washingtonpost.com/business/2026/08/15/canada-tariffs-trump-deadline/",
+      "source": "Washington Post",
       "bias": "left-center",
-      "domain": "nytimes.com"
+      "domain": "washingtonpost.com"
+    }
+  ],
+  [
+    {
+      "title": "Jason Arday, Cambridge professor accused of plagiarism, is found dead",
+      "url": "https://www.npr.org/2026/08/15/nx-s1-5932488/jason-arday-dead",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "Statue Of Liberty Tragedy: Woman And Baby Dead After Boat Capsizes",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWkdhZVB1SnRoWWhPVk1mNFpiUFZyMVZ2anBRSUd6UDQ3UTJ1MDBnUFYxNVNGUF84dXdjSk1BdnFraU5tSmkzNWx3WG0zNEVqcm5PWHBLdm1YZ0hGazNRYk12UjZKQUY3bkEtY3ZSN0oweXpvS0tPVTRvTGh5U291dFFtSjBGX1FnR1NlS1dzV0xmdkQzaG9tV24wdmRITmNkeXEtb2dvanY0VUNCa183UW1ERDNDVUV0VklqSVVhZnhMdw?oc=5",
+      "source": "Daily Wire",
+      "bias": "right",
+      "domain": "dailywire.com"
+    },
+    {
+      "title": "Black professor at Cambridge who faced plagiarism claims is found dead",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT2tUV0pUa2lOMy0yZ1N5NzRhR0IzWmV5S1k2X1drUjRoNU13NWloWm5kbUFnLTBoYUQ1VG1oTEtxeHJ5Rm1uV2ZvLXgzUHU1N1dWeV84UXVPYVJKTDF0dkN0Z01IRlZNa2ZnOERLSEoyNXNwOEhJSjl6aWFBb2JpdEMxX2hHa3lKMXk3UnNkY3lOUGRXd3JFcE9FaVRBQ3EzYTBJYmhlUl9tdTZLamhVdg?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Shocking death of former professor reverberates at Cambridge \u2014 and well beyond",
+      "url": "https://www.washingtonpost.com/world/2026/08/15/death-black-scholar-jason-arday-reverberates-cambridge-beyond/",
+      "source": "Washington Post",
+      "bias": "left-center",
+      "domain": "washingtonpost.com"
     }
   ],
   [
@@ -212,8 +168,8 @@
       "domain": "breitbart.com"
     },
     {
-      "title": "Security video helps lead to a masked killer who tried to hide the crime",
-      "url": "https://www.cbsnews.com/news/kenneth-fandrich-oregon-murder-steven-milner-veterinarian-security-video-masked-killer/",
+      "title": "Police race to save murder evidence from being turned into scrap metal",
+      "url": "https://www.cbsnews.com/news/kenneth-fandrich-steven-milner-oregon-murder-junkyard-evidence-48-hours/",
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"
@@ -228,22 +184,45 @@
   ],
   [
     {
-      "title": "Hurricane Lala leaves thousands without power in Hawaii amid 'life-threatening' conditions",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOVphU1pueVRWM1VzVGpzSmQ4MGN4aEliMDZvUG5tQWNlSC1xYWxSbDRZaG0zQ3BsclpscUk5MWxNcG5peVh0S2pmYU5URmE2RkJaQ0xEVXJGemVaYTQ5YUJsTmtzbUxRdTREbXF0dEU2R0VoSUREWHcxQU42TFBrNFJoUm5STTZ5RjU3R2NMUXZmZ3pUcllsVUUxbXVyTlREalRBR2tENGx4SlpSNGJRZl9R?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
+      "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges",
+      "url": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
     },
     {
-      "title": "Hurricane Lala leaves thousands without power in Hawaii amid \u2018life-threatening\u2019 conditions",
-      "url": "https://nypost.com/2026/08/16/us-news/hurricane-lala-leaves-thousands-without-power-in-hawaii-amid-life-threatening-conditions/",
-      "source": "New York Post",
+      "title": "Al Sharpton: If Dems Take House, Should Subpoena Police Who Said No Foul Play in Death of Black Teen Nolan Wells",
+      "url": "https://www.breitbart.com/politics/2026/08/15/al-sharpton-if-dems-take-house-should-subpoena-police-who-said-no-foul-play-in-death-of-black-teen-nolan-wells/",
+      "source": "Breitbart",
       "bias": "right",
-      "domain": "nypost.com"
+      "domain": "breitbart.com"
     },
     {
-      "title": "Hurricane Lala lashes Hawaii's Big Island as a Category 1 storm",
-      "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/",
+      "title": "How a Ukrainian Bank Worker Came to Face Life in a Russian Prison",
+      "url": "https://www.nytimes.com/2026/08/16/world/europe/russia-detained-ukrainians-war-murdid.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    }
+  ],
+  [
+    {
+      "title": "How Republicans Embraced Brandon Herrera, a Texas Republican Candidate and Gun Influencer",
+      "url": "https://www.nytimes.com/2026/08/16/us/politics/herrera-trump-republican-texas-house.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Exclusive \u2014 Ken Paxton: \u2018If We Lose Texas, the Senate\u2019s Gone\u2019",
+      "url": "https://www.breitbart.com/politics/2026/08/15/exclusive-ken-paxton-if-we-lose-texas-the-senates-gone/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
+    },
+    {
+      "title": "Ukraine's own ballistic missiles could strike Russia within months, says former minister",
+      "url": "https://www.cbsnews.com/news/fired-defense-minister-mykhailo-fedorov-ukraine-technological-war-russia/",
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"
@@ -251,31 +230,15 @@
   ],
   [
     {
-      "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
-      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
-    },
-    {
-      "title": "Prosecutors Examined Firm With Tie to Judge in Trump Hush-Money Trial",
-      "url": "https://www.nytimes.com/2026/08/15/us/politics/prosecutors-examined-firm-with-tie-to-judge-in-trump-hush-money-trial.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    }
-  ],
-  [
-    {
-      "title": "Jessica Simpson turns heads in bikini photos from trip to Turks and Caicos",
-      "url": "https://www.foxnews.com/entertainment/jessica-simpson-turns-heads-bikini-photos-trip-turks-caicos",
+      "title": "Alaska runner hospitalized after using bear spray to fight off brown bear on Alaska trail",
+      "url": "https://www.foxnews.com/us/alaska-runner-hospitalized-bear-spray-fight-off-brown-bear-alaska-trail",
       "source": "Fox News",
       "bias": "right",
       "domain": "foxnews.com"
     },
     {
-      "title": "Jessica Simpson turns heads in bikini photos from trip to Turks and Caicos",
-      "url": "https://pagesix.com/2026/08/15/style/jessica-simpson-shares-bikini-photos-from-birthday-trip-to-turks-and-caicos/",
+      "title": "Alaska runner hospitalized after using bear spray to fight off brown bear on trail",
+      "url": "https://nypost.com/2026/08/16/us-news/alaska-runner-hospitalized-after-using-bear-spray-to-fight-off-brown-bear-on-trail/",
       "source": "New York Post",
       "bias": "right",
       "domain": "nypost.com"
@@ -283,63 +246,15 @@
   ],
   [
     {
-      "title": "Henry Winkler opens up about the unexpected career he considered before becoming an actor",
-      "url": "https://www.foxnews.com/entertainment/henry-winkler-opens-about-unexpected-career-considered-before-becoming-actor",
+      "title": "Nevada man funneled 140 guns to violent Mexican drug cartels, including powerful 'military-style' rifles: DOJ",
+      "url": "https://www.foxnews.com/us/nevada-man-funneled-140-guns-violent-mexican-drug-cartels-powerful-military-style-rifles-doj",
       "source": "Fox News",
       "bias": "right",
       "domain": "foxnews.com"
     },
     {
-      "title": "Groom-to-be found dead in hotel rubble after Colombia earthquake hits 2 days before his wedding",
-      "url": "https://nypost.com/2026/08/15/world-news/groom-to-be-24-found-dead-underneath-collapsed-hotel-rubble-after-devastating-7-4-magnitude-earthquake-struck-colombia-2-days-before-his-wedding/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    }
-  ],
-  [
-    {
-      "title": "Qatar denies detaining Iranian pilots, says it found remains of one",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbU82UzByeVFKQzJGdkhlQ0Y0YjkxQk1mZlVYdVMyV3d4TVhLRXJXa19JcU51TUJnZEFoaFpiUkkxT2tuY3hkVUY2Q2xYeU5Bd3ZHVlZlM3dCU09jMXoxR0Ntb0xTZThlREdtS0VMRXFZa3IzdDJEWnhyRE11U3VMbVFkUUs4UXVRQ1hPTU1laDZ4UUhqTmhuc282dXBZN2ExX0pyajFhRnJ0Y2p2MDJTNkhWS2pyWXAw?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "Iran Says Qatar Captured Its Pilots Months Ago, a Claim Qatar Rejects",
-      "url": "https://www.nytimes.com/2026/08/15/world/middleeast/iran-missing-pilots-qatar.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    }
-  ],
-  [
-    {
-      "title": "Trump's 2024 grocery photo op now haunts Republicans in the midterms",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTkhYMUdicFdKRWlLX3R6U0lvcXZQdS1zUjhhX1FsSndyd1dNMVQ4UGs2YjFXaFRNenQ0UGVJUGktcXlPOFl4MENrNXNfLWxQaTdyaUdramJ3Y1FKR3gxZUxleDlRM0xmM2FFeGZ0bzFneElSRUVEYWhPek9fY0h4WDBSd3MyazFIbTJlZURhLXYwSGNJelVSZ0NPSWtycHFtRTNvTGx5eDU?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "Trump's 2024 Grocery Photo Op Now Haunts Republicans In The Midterms",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWFctMG1KSmRkZm01MzY2bmJCNVF2YXo1TktnR3lyMl9mcWVVSDMzN08zS3pxNzh1OGRnQ21lcWpGWVd5OEhIWmQwUHlUSTlNdzRISko0TjNhTUtqNF9QS3RzemlEMVJBV3dMRGpVNFdidno1dW9taUc3bWlDM0ZSX1JtZ1NqU2JQVjVOQlBoNmdtcHQwWGxBUmI1V04zWVF4V3YxeEdn0gGrAUFVX3lxTE1mckdTLVNWVDRuX3FjQzkwNkl5d3FYSUdlRGRUZlg4ZGFQOWFJNTd1dWt4cTg0ZWlNZ09zcnpLOXJlNkVvaENRLWdYUVlNNnlUSVBCNXdHVzQteGdZQ3VhY1dpck0xT3ktbDgxRkhVTFNuaTZGc1hCWXFBLTJPYXhNckNRMnppWTItRHA4S29XZ0JHUUhiS2xEdzVHYUVPRTVEcDFYUGlIa29Ycw?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    }
-  ],
-  [
-    {
-      "title": "The Midwest braces for more heavy flooding, as Indiana seeks federal aid",
-      "url": "https://www.npr.org/2026/08/15/nx-s1-5932552/midwest-flooding-indiana-fema",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    },
-    {
-      "title": "At least five reported dead amid flooding in US state of Indiana",
-      "url": "https://www.aljazeera.com/news/2026/8/15/at-least-five-reported-dead-amid-flooding-in-us-state-of-indiana?traffic_source=rss",
+      "title": "Australia to begin gun buyback scheme in response to Bondi shooting",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/australia-to-begin-gun-buyback-scheme-in-response-to-bondi-shooting?traffic_source=rss",
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
@@ -347,34 +262,66 @@
   ],
   [
     {
-      "title": "U.S., Canada race for deal to avert Trump\u2019s threat of 50 percent tariffs",
-      "url": "https://www.washingtonpost.com/business/2026/08/15/canada-tariffs-trump-deadline/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
+      "title": "Suspected Russian drone shot down in Romanian airspace",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaEYyM3ZsTmtyUnloWUNXS0V4aUx6elJfWmp5UGlZRjJId3N2bkVSYzBZUHdpRXZudEc3aGJoemhNTGdoQUJ5al95MG9EMFA0OW1FVWlGRHBUeVdiRnBQZ1RsY1JZQ1FBQVAxNHNYRDN3REktaXpWOEFWM2RKQ09NNE4xYVpqc0czcE5jcXpLT0ZRLXM4UFFtSDlfREpxQnAwd3liT1IwaG50bmk1X2VRajRMb1FkbDhabTctR25CM0lBd3d2aHZ3?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
     },
     {
-      "title": "The Latest Horror Story Out Of Canada\u2019s \u2018Free\u2019 Healthcare System",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd3FsdGExY1R3Z0pEenRLT3BSSF9XOEE1WndTUzRmQUtPdlcyV05OVjZSX3YwR0txNFJzN0xKOU5OdmZYdU9RTmpUTU9HbjRGUk80NDNibnpwUGEzaEpGM2pPakhja0Vpd1phZjNWNTJEbmYyd3lIT3MyUzZDbjhrNFBQYldzdldfY3RHUGFpeDg0aEJ2ZGJB?oc=5",
-      "source": "Daily Wire",
-      "bias": "right",
-      "domain": "dailywire.com"
+      "title": "NATO fighter jet shoots down drone in Romania near border with Ukraine",
+      "url": "https://www.cbsnews.com/news/nato-fighter-jet-shoots-down-drone-romania-ukraine/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
     }
   ],
   [
     {
-      "title": "IDF troops stood by as West Bank settlers besieged Palestinian homes",
-      "url": "https://www.washingtonpost.com/world/2026/08/14/idf-troops-stood-by-west-bank-settlers-besieged-palestinian-homes/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
+      "title": "Vietnam Airlines Boeing 787 returned to Munich after takeoff incident",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUjk0ZFl5R3ZQblJ0T0MwemxocHVlbmo0a3FpbkFHUUp5SG9IWjhDcGQ4SDF1Q09ZOWRRdjZDclFxbnFGNUQ4Nmw3WTBRMURtSUVmc1duQlVsZ3c5QmhiclVaWHBRSEhadmc1TnFxTFo5RjNvVWZqYkd5Sm5MUFJYTFlVYWU3YWVSZjF2LVZwT0lTbE9ZMU1fUTZaWVJNYzhWODZDcWNIc0xQQXUxeUJ4cjNNcEtvZmtsT2FFUUp2dE1wMjFzSU5oekxCalNJTjBaeWRDX1JJUURwa0k?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
     },
     {
-      "title": "Israeli settlers\u2019 siege of Palestinian homes draws a sharp US rebuke",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZjg4cjNRa214Zmg2OEk1S1ltSkZnd2RLcmlReHNZaDJZeTlfZVU3VjZtb1o5WjVTVV9WRnNmRTgtRnRvS3I5TWR1bUtjWExlV2t2NllOb1lTUV9kNEJodFdqdDFSOEJxWXVJRHR1SWxzN1UzTVJhTFM5TkE5SUZkdGxZMllaRzkzM2twRjJmTW9BcUVwaWNyV2FVYlFITHZqUjhFRWNGMC16b2g3dlh0ZWN6Q1dVd3FXM01RRA?oc=5",
-      "source": "Associated Press",
+      "title": "Vietnam Airlines flight forced to dump fuel, return to airport after tail strikes runway",
+      "url": "https://nypost.com/2026/08/16/world-news/vietnam-airlines-flight-forced-to-dump-fuel-return-to-airport-after-tail-strikes-runway/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    }
+  ],
+  [
+    {
+      "title": "Russia attacks Kyiv overnight, injuring three, Ukraine officials say",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRDQ2bnhPSnIySk54TjdqYmlQeVd3eEkxSU00ckF6OHZjUkI1S3ZUQm9VRUFvakFsajBqcjFVWlE5cTZsNjFNdUozMGlxQ0tvWTQ2Unl2SjF4UlJpMVlHSFdxOV9xa3hXcWFqMFloSGNFNHVSTVM2UUItcDdhaUZ5dzRTa3Z0eEpPdV9PUVBhV3Z3WVhGZ1NQNjd5LVA5RWNOTjhXV3IxOGJEanUzM1BwcFNycFczNDdMWUEzYXhDQkk?oc=5",
+      "source": "Reuters",
       "bias": "center",
-      "domain": "apnews.com"
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Ukraine launches one of the largest aerial attacks on Russia yet",
+      "url": "https://www.cbsnews.com/news/ukraine-moscow-russia-drone-attack-largest-wildberries/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
+      "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "One dead as Hurricane Lala lashes Hawaii's Big Island as a Category 1 storm",
+      "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
     }
   ],
   [
@@ -391,6 +338,38 @@
       "source": "The Guardian",
       "bias": "left-center",
       "domain": "theguardian.com"
+    }
+  ],
+  [
+    {
+      "title": "Islam Makhachev beats Ian Machado Garry at UFC 330 to set record with 17th consecutive win",
+      "url": "https://nypost.com/2026/08/16/sports/islam-makhachev-beats-ian-machado-garry-at-ufc-330/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
+      "title": "UFC 330: Makhachev secures record-setting win against Machado Garry",
+      "url": "https://www.aljazeera.com/sports/2026/8/16/ufc-330-makhachev-secures-record-setting-win-against-machado-garry?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    }
+  ],
+  [
+    {
+      "title": "Photos: Patriotic music and flags mark Taliban rule anniversary in Kabul",
+      "url": "https://www.aljazeera.com/gallery/2026/8/16/photos-patriotic-music-and-flags-mark-taliban-rule-anniversary-in-kabul?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "While Taliban leaders mark 5 years in power in Afghanistan, a UN official warns of a rights crisis",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV0Zrd0laR0k5T3h2SHhKclo1Zjh4RkVUWDA2SUhfajNRZFNlSGpZbXVBUlQ5bXVrQkZqVFJxLXJFS01MbkRIUVVmbXlFTE4zZWtBSDJPTl9TNXM2WkF1YnV5VlBUaGQ4QkhoU0EzVnJfcDRiOUJic01DeFZxV1BZVzN3UHRjU1Z3eDdxTXd2eDJOQlBqWktadkJoc0Z6eDVNYzlqb2FwNE9kdw?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
     }
   ]
 ]

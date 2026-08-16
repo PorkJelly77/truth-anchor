@@ -1,32 +1,11 @@
 [
   [
     {
-      "title": "Iran betting it can outlast Trump if Dems take Congress, Gingrich says: \u2018Trying to win in America politically\u2019 like North Vietnam",
-      "url": "https://nypost.com/2026/08/16/us-news/iran-betting-it-can-outlast-trump-if-dems-take-congress-gingrich-says/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "Frustration with Trump grows among U.S.\u2019s Persian Gulf allies, officials say",
-      "url": "https://www.washingtonpost.com/world/2026/08/15/frustration-with-trump-grows-among-us-persian-gulf-allies-officials-say/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
-    },
-    {
-      "title": "Jared Kushner met with Hamas leaders in Egypt to discuss Gaza peace deal",
-      "url": "https://www.cbsnews.com/news/jared-kushner-hamas-netanyahu-gaza-peace-deal-negotiations/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "Japan\u2019s defence minister heads to Australia to meet Marles in wake of melon-gate controversy",
-      "url": "https://www.theguardian.com/world/2026/aug/16/japans-defence-minister-heads-to-australia-to-meet-marles-in-wake-of-melon-gate-controversy",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
+      "title": "Millions in the US could face massive consequences unless McCarthy can navigate out of a debt trap he set for Biden",
+      "url": "https://www.cnn.com/2023/04/18/politics/mccarthy-biden-debt-ceiling/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
     },
     {
       "title": "Trump's envoys meet mediators, Israel strikes Gaza",
@@ -43,6 +22,13 @@
       "domain": "bbc.com"
     },
     {
+      "title": "Gallego blames Trump administration for Lincoln conditions: 'True lack of leadership'",
+      "url": "https://abcnews.com/Politics/gallego-blames-trump-administration-uss-lincoln-conditions-true/story?id=135685345",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    },
+    {
       "title": "Kushner meets with Hamas on the Gaza road map ahead of talks with Netanyahu",
       "url": "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks",
       "source": "NPR",
@@ -50,55 +36,39 @@
       "domain": "npr.org"
     },
     {
-      "title": "GOP Sen. Bill Cassidy on Trump\u2019s vaccine executive order: \u2018Stupid thing to do\u2019",
-      "url": "https://abcnews.com/Politics/gop-sen-bill-cassidy-trumps-vaccine-executive-order/story?id=135685348",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    },
-    {
-      "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges",
-      "url": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
-    },
-    {
-      "title": "Tommy John, Pitcher Who Gave His Name to Career-Saving Surgery, Dies at 83",
-      "url": "https://www.nytimes.com/2026/08/16/sports/baseball/tommy-john-dead.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "Gov. Beshear: 'It\u2019s Time' to Abolish the Electoral College",
-      "url": "https://www.breitbart.com/clips/2026/08/16/gov-beshear-its-time-to-abolish-the-electoral-college/",
+      "title": "Obama-Appointed Judge Defers to Supreme Court Ruling, Gives Trump a Somali Deportation Win",
+      "url": "https://www.breitbart.com/immigration/2026/08/16/obama-appointed-judge-defers-to-supreme-court-ruling-gives-trump-a-somali-deportation-win/",
       "source": "Breitbart",
       "bias": "right",
       "domain": "breitbart.com"
     },
     {
-      "title": "Kushner meets Hamas leaders in Egypt to push Trump\u2019s Gaza plan",
-      "url": "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss",
+      "title": "Kushner Meets With Hamas to Advance Trump\u2019s Gaza Plan",
+      "url": "https://www.nytimes.com/2026/08/16/world/middleeast/kushner-hamas-talks.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "What could stop Israeli settler attacks on Palestinians?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/16/what-could-stop-israeli-settler-attacks-on-palestinians?traffic_source=rss",
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
     },
     {
-      "title": "US pulls last aircraft carrier in Asia as Trump focuses on Iran and the Western Hemisphere",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS1ZVeVR3dkRTVHNDamZQUkxBc0FUS1RVQlh4WnJnM0hESmZYZUhMdkk1a3JaNE9IQUFMT2hGWU1CU1VkYkxCbUVpUGp0YzJNYmU2U05tZ2ViNE5hWVVnZUtyUW0zNjVLMk9IRDBVSzR0cTFlY0dsUDRGUXlEaWlFUFN5Qk5LTnJkQ0R5NDRpSUpiWmFoQVpKQ2VHaHJIY0o5SmN2OUE5Zm1ndw?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    }
-  ],
-  [
+      "title": "U.S. commander calls mental health a priority after he visits USS Lincoln",
+      "url": "https://www.washingtonpost.com/world/2026/08/16/us-commander-calls-mental-health-priority-after-he-visits-uss-lincoln/",
+      "source": "Washington Post",
+      "bias": "left-center",
+      "domain": "washingtonpost.com"
+    },
     {
-      "title": "In Spain's Ceuta, hundreds of migrants stage protest and demand asylum",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUjduYzlVZEN3NjI2YktjT0dyU3g2cVVudlhDLV95RERScG5tZ0RHb01Sdy0tTDZnMHQxdXRTa2c5dm5DY1dmTnN5WVJnVGQzemhsYjQwem9XVDNyQ1V0cHN4S2J2NzRkREd1ZWwtRWZ4RU90SDRZckpYaXo0ZEotTkx0eHI4anlfQzV4Y25VODA0MnZySVhxUXNfekowTGtmb1NLZGE3UWVuVnRDTG1MaVRRZw?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
+      "title": "French ambassador to CAR investigated over claims he hosted dozens of women",
+      "url": "https://www.theguardian.com/world/2026/aug/13/france-ambassador-car-central-african-republic-investigation-bruno-foucher",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
     },
     {
       "title": "CENTCOM chief visits USS Abraham Lincoln amid morale concerns",
@@ -108,62 +78,34 @@
       "domain": "cbsnews.com"
     },
     {
-      "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
-      "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "US admiral praises USS Lincoln crew amid reported mental health concerns",
-      "url": "https://www.aljazeera.com/news/2026/8/16/us-admiral-praises-uss-lincoln-crew-amid-reported-mental-health-concerns?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "Rescue teams search for survivors in Indonesia after powerful earthquake",
-      "url": "https://www.theguardian.com/world/2026/aug/16/rescue-teams-search-for-survivors-in-indonesia-after-powerful-earthquake",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    },
-    {
-      "title": "At least 47 dead after 7.7-magnitude quake strikes Indonesia",
-      "url": "https://www.washingtonpost.com/world/2026/08/15/77-magnitude-earthquake-off-flores-island-indonesia-kills-least-38/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
-    },
-    {
-      "title": "A good \u2013 and bad \u2013 week for Italy's art police and museum security",
-      "url": "https://www.npr.org/2026/08/16/nx-s1-5933052/sicily-art-heist-museum-parma",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    },
-    {
-      "title": "Thieves steal 4 Renaissance artworks in a Sicilian museum heist during an Italian holiday",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdnlrWmxPWkVSVUdZaG9JZXY1UTVpbDFIWUI2NEF4SG1pbnBVaVhQaXRxUjhIOVN5Sk5Pd0VJck1sbTZwLTFsbVpIMDNqVjQ3S2ZjV0t1S0dJU1hjcHpwc2J5dExUaC1zNXNqUG5uX0ZOQzZJZS1DVG1aOGJELVZ5RXktSm5ycXR5d2hDTEZUWEIwS3BXTVNTOUhRcW8?oc=5",
+      "title": "Rescuers in Indonesia recover 6 more bodies in earthquake aftermath, raising death toll to 53",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOekM5VXhLY1NEVEZnWUFWdzdpd3VnekF5UUkzdzQxSDFLWnJpbHlzN2ZQU2hwTDRVcWthLTJMWmNWUjVQdXRyejZwNllFMm1TNHFSZ05DQjBVQXc3Z01Tc3BiX29TVHVwNlhfakI5eHl5UTZmUm82VGtaR3o2eF9UODl3RHZQTHFwQ2RxdjJqLTJoaHVJSUFSdTBQV3VIdw?oc=5",
       "source": "Associated Press",
       "bias": "center",
       "domain": "apnews.com"
+    },
+    {
+      "title": "Long Island street takeover erupts as drivers block road, perform donuts, burnouts: police",
+      "url": "https://www.foxnews.com/us/long-island-street-takeover-erupts-drivers-block-road-perform-donuts-burnouts-police",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
     }
   ],
   [
     {
-      "title": "More than 100,000 without power in Hawaii as Lala downgraded to tropical storm",
+      "title": "More than 200,000 without power in Hawaii, 100 homes damaged as Lala shifts to tropical storm",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVWp3QXBkLU5sd2piVkkwODRCOEpFZFV6MGY2OFZyUlM2TUcxcXVubEgzS2R5VlZVUFMzZEo3d0ZGS0FxS1BxVXgwQWdVdHZVbGpMaGJIRzFOOG50YUp2T2RXbl9wTEhPUlpvTmZZOGlVamdnQUlmUGxPaktaTElqN0dTS1lZLTR6NUtfZ3NOb1JUT1lUcGJZQmtBY1d0bkpxeWtfSnNjUUM3dXBEQTNoQl9BbmE0SjRBVjdveWhkTzdmREU?oc=5",
       "source": "Reuters",
       "bias": "center",
       "domain": "reuters.com"
     },
     {
-      "title": "Tropical Storm Lala brings drenching rain, wind across the Hawaiian islands",
-      "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
+      "title": "Lala weakens to tropical storm, brings heavy rain, wind, flooding to Hawaii",
+      "url": "https://abcnews.com/US/tropical-storm-lala-forecast-impact-hawaiian-islands-weekend/story?id=135610026",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
     },
     {
       "title": "Lala is again a tropical storm, sending drenching rain and winds across Hawaii",
@@ -173,41 +115,41 @@
       "domain": "npr.org"
     },
     {
-      "title": "Lala weakens to tropical storm, brings heavy rain, wind, flooding to Hawaii",
-      "url": "https://abcnews.com/US/tropical-storm-lala-forecast-impact-hawaiian-islands-weekend/story?id=135610026",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
+      "title": "Tropical Storm Lala brings drenching rain, wind across the Hawaiian Islands",
+      "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
     }
   ],
   [
     {
-      "title": "Indiana Prepares for More Rain After Days of Deadly Storms",
-      "url": "https://www.nytimes.com/2026/08/16/us/indiana-storms-flooding.html",
+      "title": "Tommy John, Pitcher Who Gave His Name to Career-Saving Surgery, Dies at 83",
+      "url": "https://www.nytimes.com/2026/08/16/sports/baseball/tommy-john-dead.html",
       "source": "New York Times",
       "bias": "left-center",
       "domain": "nytimes.com"
     },
     {
-      "title": "Multiple people dead as flooding continues in Indiana",
-      "url": "https://www.npr.org/2026/08/16/nx-s1-5934670/indiana-flooding-deaths",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    },
-    {
-      "title": "Indiana storms linked to 7 deaths as floods trigger rescues and evacuations",
-      "url": "https://www.cbsnews.com/news/indiana-floods-white-river-evacuations-rescues/",
+      "title": "Tommy John, MLB All-Star pitcher who had a surgery named after him, dies at 83",
+      "url": "https://www.cbsnews.com/news/tommy-john-mlb-baseball-player-dies-83/",
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"
     },
     {
-      "title": "Indiana authorities say at least 5 people have died as severe weather crosses the state",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRHBMaDlITnhZaG5xYXhPTUxhUlhIMnFHYTVKZXhZQWcwSmswLVo0aWx5dHI1T3l0bXg5eDZzSzhyUEhyNDMyWkFHVEhRQ19WcVJMM3prWWFLRjFEQ1ZjS1dqZk03M01zSmVtNGFRODZzTmsyVHpmTTQtV2dwMGRTclVUc1FBTkM5T2cyeVR1OEVPN0V6eHc?oc=5",
+      "title": "Tommy John, namesake for a pioneering elbow surgery that saved his career, dead at 83",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaWRlRkF0X3FrMFRldHpCeU54VkJNUk9lb2lLNWpXb0tXcEI2azh3SHpMX0cyajNucFZEUkw0Z3JwYndQWE1uTDYzRWlyN0FYeEpOZTFPOWx3ODJOWUJOM3JmYVBHOUZuSHFDSjNncnZPOV9jbjllSGNYX245QUw4UFZhUndaZw?oc=5",
       "source": "Associated Press",
       "bias": "center",
       "domain": "apnews.com"
+    },
+    {
+      "title": "Tommy John, namesake for a pioneering elbow surgery that saved his career, dies at 83",
+      "url": "https://www.npr.org/2026/08/16/g-s1-138941/tommy-john-elbow-surgery-baseball-pitcher-yankees-dodgers",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
     }
   ],
   [
@@ -217,13 +159,6 @@
       "source": "Washington Post",
       "bias": "left-center",
       "domain": "washingtonpost.com"
-    },
-    {
-      "title": "Former Police Officer Convicted of Sharing 'Grossly Offensive' Meme About Islam in Britain",
-      "url": "https://www.breitbart.com/europe/2026/08/16/former-police-officer-convicted-of-sharing-grossly-offensive-meme-about-islam-in-britain/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
     },
     {
       "title": "Black professor at Cambridge who faced plagiarism claims is found dead",
@@ -238,6 +173,13 @@
       "source": "Daily Wire",
       "bias": "right",
       "domain": "dailywire.com"
+    },
+    {
+      "title": "Former Police Officer Convicted of Sharing 'Grossly Offensive' Meme About Islam in Britain",
+      "url": "https://www.breitbart.com/europe/2026/08/16/former-police-officer-convicted-of-sharing-grossly-offensive-meme-about-islam-in-britain/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
     }
   ],
   [
@@ -265,6 +207,29 @@
   ],
   [
     {
+      "title": "Indiana Prepares for More Rain After Days of Deadly Storms",
+      "url": "https://www.nytimes.com/2026/08/16/us/indiana-storms-flooding.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Multiple people dead as flooding continues in Indiana",
+      "url": "https://www.npr.org/2026/08/16/nx-s1-5934670/indiana-flooding-deaths",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "Indiana storms linked to 7 deaths as floods trigger rescues and evacuations",
+      "url": "https://www.cbsnews.com/news/indiana-floods-white-river-evacuations-rescues/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    }
+  ],
+  [
+    {
       "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
       "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
       "source": "CNN",
@@ -281,6 +246,38 @@
   ],
   [
     {
+      "title": "Newly released video shows scene of Jeremy Renner's snowplow accident",
+      "url": "https://www.cnn.com/videos/us/2023/04/18/jeremy-renner-snowplow-accident-bodycam-nc-melas-contd-vpx.cnn",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
+    },
+    {
+      "title": "Moment \u2018Dawn of the Dead\u2019 actor\u2019s home burns down as firefighters battle blaze: \u2018Devastated\u2019",
+      "url": "https://nypost.com/2026/08/16/us-news/moment-dawn-of-the-dead-actors-home-burns-down/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    }
+  ],
+  [
+    {
+      "title": "Trump instructs Pentagon to reduce military exercises with South Korea",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaGdQYThHbnV2b3NnalEycy1sZGpyNGNLaGNYODl2TmhhUnNma2ZhMk1MTURNQWxMalB3OUswYk10R2RJZGlBNnJoUkZzRGxGcE8xQklBZnlZYUs1d004Q09uUWdDeV96aFlJc0o2Nzh1aHZvRVBhZTV2SGU4RnZremZXWkw0YUp3SENRTDNFNkFyOWNVS2ROSEpCaVhpSmV2QWhMUGI5aVo3aUc3Z2pkWDBIQ2lRdw?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
+      "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    }
+  ],
+  [
+    {
       "title": "Trump wants more economic pressure on Iran. What are his options?",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcF9Wa1NYT2dtVW52UTI3RWVFeS1MbVdwY0RvZC1kWDJYd1BEdlUzanc4Z09Gbmd6cG9NMHhWTVJxYVM1N0pqMHZCOUhHdHdRZUdBeWhzZVVhN3VBYnlOZjY5NmJmWE41UWVHeXljWUlkMFloZnh2VUxCajE0dlFTTjFOTk9ZRVVMSVJXd0thR05XbktGWlBPYmJ1S0U0bDdkQlZLWlBxb2VIUlZO?oc=5",
       "source": "Reuters",
@@ -293,22 +290,6 @@
       "source": "HuffPost",
       "bias": "left",
       "domain": "huffpost.com"
-    }
-  ],
-  [
-    {
-      "title": "Ben Rice makes up for brutal error with game-winning home run as Yankees avoid sweep against Blue Jays",
-      "url": "https://nypost.com/2026/08/16/sports/ben-rice-makes-up-for-brutal-error-with-game-winning-home-run-for-yankees/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "WATCH:  Joshua Baez becomes first MLB player to hit 3 homers in debut",
-      "url": "https://abcnews.com/video/135680711/",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
     }
   ],
   [

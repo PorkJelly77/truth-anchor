@@ -1,18 +1,53 @@
 [
   [
     {
-      "title": "Arab allies join Trump in calling for Israel to drop opposition to US-backed Gaza peace plan",
-      "url": "https://nypost.com/2026/08/16/world-news/arab-allies-join-trump-in-calling-for-israel-to-drop-opposition-to-us-backed-gaza-peace-plan/",
+      "title": "Iran betting it can outlast Trump if Dems take Congress, Gingrich says: \u2018Trying to win in America politically\u2019 like North Vietnam",
+      "url": "https://nypost.com/2026/08/16/us-news/iran-betting-it-can-outlast-trump-if-dems-take-congress-gingrich-says/",
       "source": "New York Post",
       "bias": "right",
       "domain": "nypost.com"
     },
     {
-      "title": "Years of Trump Support Came Undone in 15 Minutes in an Airport.",
-      "url": "https://www.nytimes.com/2026/08/16/us/trump-immigration-crackdown.html",
-      "source": "New York Times",
+      "title": "Frustration with Trump grows among U.S.\u2019s Persian Gulf allies, officials say",
+      "url": "https://www.washingtonpost.com/world/2026/08/15/frustration-with-trump-grows-among-us-persian-gulf-allies-officials-say/",
+      "source": "Washington Post",
       "bias": "left-center",
-      "domain": "nytimes.com"
+      "domain": "washingtonpost.com"
+    },
+    {
+      "title": "Jared Kushner met with Hamas leaders in Egypt to discuss Gaza peace deal",
+      "url": "https://www.cbsnews.com/news/jared-kushner-hamas-netanyahu-gaza-peace-deal-negotiations/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Japan\u2019s defence minister heads to Australia to meet Marles in wake of melon-gate controversy",
+      "url": "https://www.theguardian.com/world/2026/aug/16/japans-defence-minister-heads-to-australia-to-meet-marles-in-wake-of-melon-gate-controversy",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "Trump's envoys meet mediators, Israel strikes Gaza",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQWlULVBMUTk3T05wRS0tNnBRUWFReXlURUhCaTNIZVlRaUtVOHczUm5CTi1YRWlveXN6cC1hWDBKOTJqbUpna3JYZUhzLTVrTnU0bXFWd3JncVNCeUc3NTNING9KeHFSNWpUWWhCNFBGUm1aQzBna3c1OFNtclBMZEY1VERJS0x1elM2ZEVwXzZVeTRzelkyM3ZoWTNGeGRGZkE?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+      "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "Kushner meets with Hamas on the Gaza road map ahead of talks with Netanyahu",
+      "url": "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
     },
     {
       "title": "GOP Sen. Bill Cassidy on Trump\u2019s vaccine executive order: \u2018Stupid thing to do\u2019",
@@ -22,11 +57,83 @@
       "domain": "abcnews.go.com"
     },
     {
+      "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges",
+      "url": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
+    },
+    {
+      "title": "Tommy John, Pitcher Who Gave His Name to Career-Saving Surgery, Dies at 83",
+      "url": "https://www.nytimes.com/2026/08/16/sports/baseball/tommy-john-dead.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Gov. Beshear: 'It\u2019s Time' to Abolish the Electoral College",
+      "url": "https://www.breitbart.com/clips/2026/08/16/gov-beshear-its-time-to-abolish-the-electoral-college/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
+    },
+    {
+      "title": "Kushner meets Hamas leaders in Egypt to push Trump\u2019s Gaza plan",
+      "url": "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "US pulls last aircraft carrier in Asia as Trump focuses on Iran and the Western Hemisphere",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS1ZVeVR3dkRTVHNDamZQUkxBc0FUS1RVQlh4WnJnM0hESmZYZUhMdkk1a3JaNE9IQUFMT2hGWU1CU1VkYkxCbUVpUGp0YzJNYmU2U05tZ2ViNE5hWVVnZUtyUW0zNjVLMk9IRDBVSzR0cTFlY0dsUDRGUXlEaWlFUFN5Qk5LTnJkQ0R5NDRpSUpiWmFoQVpKQ2VHaHJIY0o5SmN2OUE5Zm1ndw?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    }
+  ],
+  [
+    {
+      "title": "In Spain's Ceuta, hundreds of migrants stage protest and demand asylum",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUjduYzlVZEN3NjI2YktjT0dyU3g2cVVudlhDLV95RERScG5tZ0RHb01Sdy0tTDZnMHQxdXRTa2c5dm5DY1dmTnN5WVJnVGQzemhsYjQwem9XVDNyQ1V0cHN4S2J2NzRkREd1ZWwtRWZ4RU90SDRZckpYaXo0ZEotTkx0eHI4anlfQzV4Y25VODA0MnZySVhxUXNfekowTGtmb1NLZGE3UWVuVnRDTG1MaVRRZw?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "CENTCOM chief visits USS Abraham Lincoln amid morale concerns",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-strait-of-hormuz-uae-accuses-attacks-vance-oil-gas/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+      "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "US admiral praises USS Lincoln crew amid reported mental health concerns",
+      "url": "https://www.aljazeera.com/news/2026/8/16/us-admiral-praises-uss-lincoln-crew-amid-reported-mental-health-concerns?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    },
+    {
       "title": "Rescue teams search for survivors in Indonesia after powerful earthquake",
       "url": "https://www.theguardian.com/world/2026/aug/16/rescue-teams-search-for-survivors-in-indonesia-after-powerful-earthquake",
       "source": "The Guardian",
       "bias": "left-center",
       "domain": "theguardian.com"
+    },
+    {
+      "title": "At least 47 dead after 7.7-magnitude quake strikes Indonesia",
+      "url": "https://www.washingtonpost.com/world/2026/08/15/77-magnitude-earthquake-off-flores-island-indonesia-kills-least-38/",
+      "source": "Washington Post",
+      "bias": "left-center",
+      "domain": "washingtonpost.com"
     },
     {
       "title": "A good \u2013 and bad \u2013 week for Italy's art police and museum security",
@@ -41,124 +148,22 @@
       "source": "Associated Press",
       "bias": "center",
       "domain": "apnews.com"
-    },
-    {
-      "title": "Moroccan migrants stage sit-in as thousands remain stranded in Ceuta",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/moroccan-migrants-stage-sit-in-as-thousands-remain-stranded-in-ceuta?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "At least 47 dead after 7.7-magnitude quake strikes Indonesia",
-      "url": "https://www.washingtonpost.com/world/2026/08/15/77-magnitude-earthquake-off-flores-island-indonesia-kills-least-38/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
-    },
-    {
-      "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
-      "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "Face the Nation: Salvanto, Rabb, political panel",
-      "url": "https://www.cbsnews.com/video/face-the-nation-salvanto-rabb-political-panel/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "Gov. Beshear: 'It\u2019s Time' to Abolish the Electoral College",
-      "url": "https://www.breitbart.com/clips/2026/08/16/gov-beshear-its-time-to-abolish-the-electoral-college/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
-    },
-    {
-      "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges",
-      "url": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
-    },
-    {
-      "title": "Trump's envoys meet mediators, Israel strikes Gaza",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQWlULVBMUTk3T05wRS0tNnBRUWFReXlURUhCaTNIZVlRaUtVOHczUm5CTi1YRWlveXN6cC1hWDBKOTJqbUpna3JYZUhzLTVrTnU0bXFWd3JncVNCeUc3NTNING9KeHFSNWpUWWhCNFBGUm1aQzBna3c1OFNtclBMZEY1VERJS0x1elM2ZEVwXzZVeTRzelkyM3ZoWTNGeGRGZkE?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
     }
   ],
   [
     {
-      "title": "Famed ex-Yankees pitcher Tommy John dead at 83 after sending farewell message to fans",
-      "url": "https://www.foxnews.com/sports/famed-ex-yankees-pitcher-tommy-john-dead-83-farewell-message-fans",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "Tommy John, MLB All-Star pitcher who had a surgery named after him, dies at 83",
-      "url": "https://www.cbsnews.com/news/tommy-john-mlb-baseball-player-dies-83/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "Yankees mourn \u2018longtime favorite\u2019 Tommy John after his death at 83",
-      "url": "https://nypost.com/2026/08/16/sports/yankees-mourn-longtime-favorite-tommy-john-after-his-death-at-83/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "Tommy John, Pitcher Who Gave His Name to Career-Saving Surgery, Dies at 83",
-      "url": "https://www.nytimes.com/2026/08/16/sports/baseball/tommy-john-dead.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    }
-  ],
-  [
-    {
-      "title": "Pope calls for an end to West Bank violence against Palestinians",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdGQ4SWdqSHFLZE1qOUNXWDhnLVlQa09TeGtURVpuZC1BWjFPNE1CalBpTU5NM3c2Uy1qSi1mSnlmRjB6UTlab1hMd19Zd2tubTFLNUZoSWZqUWdyN2V3UFZXWlY3c3d6RGlNbGduMjRWMlZ5cDcyU3U4R3VfXzVUZlZ3T3A0TnBHdnZmWHQ2VmxLdmdSVFBBQVdrckZULUFJNEEyc0Q2cko1WmprZVdNeA?oc=5",
+      "title": "More than 100,000 without power in Hawaii as Lala downgraded to tropical storm",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVWp3QXBkLU5sd2piVkkwODRCOEpFZFV6MGY2OFZyUlM2TUcxcXVubEgzS2R5VlZVUFMzZEo3d0ZGS0FxS1BxVXgwQWdVdHZVbGpMaGJIRzFOOG50YUp2T2RXbl9wTEhPUlpvTmZZOGlVamdnQUlmUGxPaktaTElqN0dTS1lZLTR6NUtfZ3NOb1JUT1lUcGJZQmtBY1d0bkpxeWtfSnNjUUM3dXBEQTNoQl9BbmE0SjRBVjdveWhkTzdmREU?oc=5",
       "source": "Reuters",
       "bias": "center",
       "domain": "reuters.com"
     },
     {
-      "title": "IDF troops stood by as West Bank settlers besieged Palestinian homes",
-      "url": "https://www.washingtonpost.com/world/2026/08/14/idf-troops-stood-by-west-bank-settlers-besieged-palestinian-homes/",
-      "source": "Washington Post",
+      "title": "Tropical Storm Lala brings drenching rain, wind across the Hawaiian islands",
+      "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/",
+      "source": "CBS News",
       "bias": "left-center",
-      "domain": "washingtonpost.com"
-    },
-    {
-      "title": "Israeli army besieges Palestinian homes in occupied West Bank",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israeli-army-besieges-palestinian-homes-in-occupied-west-bank?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "Changing pubs into homes to be made harder under new rules",
-      "url": "https://www.bbc.co.uk/news/articles/clyllg1v0kdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    }
-  ],
-  [
-    {
-      "title": "As Lala Lashes Hawaii, the Atlantic Hurricane Season Remains Calm. So Far.",
-      "url": "https://www.nytimes.com/2026/08/16/weather/el-nino-lala-tropical-storm.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
+      "domain": "cbsnews.com"
     },
     {
       "title": "Lala is again a tropical storm, sending drenching rain and winds across Hawaii",
@@ -168,18 +173,41 @@
       "domain": "npr.org"
     },
     {
-      "title": "Hurricane Lala weakens to a tropical storm, but flooding persists in Hawaii",
-      "url": "https://www.aljazeera.com/news/2026/8/16/hurricane-lala-weakens-to-a-tropical-storm-but-flooding-persists-in-hawaii?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
       "title": "Lala weakens to tropical storm, brings heavy rain, wind, flooding to Hawaii",
       "url": "https://abcnews.com/US/tropical-storm-lala-forecast-impact-hawaiian-islands-weekend/story?id=135610026",
       "source": "ABC News",
       "bias": "center",
       "domain": "abcnews.go.com"
+    }
+  ],
+  [
+    {
+      "title": "Indiana Prepares for More Rain After Days of Deadly Storms",
+      "url": "https://www.nytimes.com/2026/08/16/us/indiana-storms-flooding.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Multiple people dead as flooding continues in Indiana",
+      "url": "https://www.npr.org/2026/08/16/nx-s1-5934670/indiana-flooding-deaths",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "Indiana storms linked to 7 deaths as floods trigger rescues and evacuations",
+      "url": "https://www.cbsnews.com/news/indiana-floods-white-river-evacuations-rescues/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Indiana authorities say at least 5 people have died as severe weather crosses the state",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRHBMaDlITnhZaG5xYXhPTUxhUlhIMnFHYTVKZXhZQWcwSmswLVo0aWx5dHI1T3l0bXg5eDZzSzhyUEhyNDMyWkFHVEhRQ19WcVJMM3prWWFLRjFEQ1ZjS1dqZk03M01zSmVtNGFRODZzTmsyVHpmTTQtV2dwMGRTclVUc1FBTkM5T2cyeVR1OEVPN0V6eHc?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
     }
   ],
   [
@@ -221,7 +249,7 @@
       "domain": "reuters.com"
     },
     {
-      "title": "Two dead and hundreds evacuated as twin fires break out on Greek island",
+      "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
       "url": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "bias": "center",
@@ -253,22 +281,6 @@
   ],
   [
     {
-      "title": "Sam's Club meal kit feeds a family for under $16 as shoppers seek affordable dinners",
-      "url": "https://www.foxnews.com/food-drink/sams-club-meal-kit-feeds-family-under-16-shoppers-seek-affordable-dinners",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "French ambassador to CAR investigated over claims he hosted dozens of women",
-      "url": "https://www.theguardian.com/world/2026/aug/13/france-ambassador-car-central-african-republic-investigation-bruno-foucher",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    }
-  ],
-  [
-    {
       "title": "Trump wants more economic pressure on Iran. What are his options?",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcF9Wa1NYT2dtVW52UTI3RWVFeS1MbVdwY0RvZC1kWDJYd1BEdlUzanc4Z09Gbmd6cG9NMHhWTVJxYVM1N0pqMHZCOUhHdHdRZUdBeWhzZVVhN3VBYnlOZjY5NmJmWE41UWVHeXljWUlkMFloZnh2VUxCajE0dlFTTjFOTk9ZRVVMSVJXd0thR05XbktGWlBPYmJ1S0U0bDdkQlZLWlBxb2VIUlZO?oc=5",
       "source": "Reuters",
@@ -285,27 +297,27 @@
   ],
   [
     {
-      "title": "What We Know About the Storms Battering the Midwest",
-      "url": "https://www.nytimes.com/2026/08/13/us/storm-damage-midwest.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
+      "title": "Ben Rice makes up for brutal error with game-winning home run as Yankees avoid sweep against Blue Jays",
+      "url": "https://nypost.com/2026/08/16/sports/ben-rice-makes-up-for-brutal-error-with-game-winning-home-run-for-yankees/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
     },
     {
-      "title": "Indiana authorities say at least 5 people have died as severe weather crosses the state",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRHBMaDlITnhZaG5xYXhPTUxhUlhIMnFHYTVKZXhZQWcwSmswLVo0aWx5dHI1T3l0bXg5eDZzSzhyUEhyNDMyWkFHVEhRQ19WcVJMM3prWWFLRjFEQ1ZjS1dqZk03M01zSmVtNGFRODZzTmsyVHpmTTQtV2dwMGRTclVUc1FBTkM5T2cyeVR1OEVPN0V6eHc?oc=5",
-      "source": "Associated Press",
+      "title": "WATCH:  Joshua Baez becomes first MLB player to hit 3 homers in debut",
+      "url": "https://abcnews.com/video/135680711/",
+      "source": "ABC News",
       "bias": "center",
-      "domain": "apnews.com"
+      "domain": "abcnews.go.com"
     }
   ],
   [
     {
-      "title": "GOP Rep. Mike Lawler eyes nuclear power plant to tackle NY\u2019s sky-high electricity costs in clear split from Dem rival",
-      "url": "https://nypost.com/2026/08/16/us-news/gop-rep-mike-lawler-eyes-nuclear-power-plant-to-tackle-nys-sky-high-electricity-costs/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
+      "title": "Brazil: Lula, Bolsonaro return to strongholds to launch runs for president",
+      "url": "https://www.aljazeera.com/news/2026/8/16/brazil-lula-bolsonaro-return-to-strongholds-to-launch-runs-for-president?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
     },
     {
       "title": "Brazil\u2019s Lula launches historic fourth term bid \u2013 but son of jailed Bolsonaro stands in his way",

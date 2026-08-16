@@ -1,25 +1,25 @@
 [
   [
     {
-      "title": "Lexington, Kentucky park shooting kills 1, injures 4 during live band performance",
-      "url": "https://www.foxnews.com/us/lexington-kentucky-park-shooting-kills-injures-live-band-performance",
-      "source": "Fox News",
+      "title": "Arab allies join Trump in calling for Israel to drop opposition to US-backed Gaza peace plan",
+      "url": "https://nypost.com/2026/08/16/world-news/arab-allies-join-trump-in-calling-for-israel-to-drop-opposition-to-us-backed-gaza-peace-plan/",
+      "source": "New York Post",
       "bias": "right",
-      "domain": "foxnews.com"
+      "domain": "nypost.com"
     },
     {
-      "title": "Moroccan migrants stage sit-in as thousands remain stranded in Ceuta",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/moroccan-migrants-stage-sit-in-as-thousands-remain-stranded-in-ceuta?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
+      "title": "Years of Trump Support Came Undone in 15 Minutes in an Airport.",
+      "url": "https://www.nytimes.com/2026/08/16/us/trump-immigration-crackdown.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
     },
     {
-      "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
-      "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
+      "title": "GOP Sen. Bill Cassidy on Trump\u2019s vaccine executive order: \u2018Stupid thing to do\u2019",
+      "url": "https://abcnews.com/Politics/gop-sen-bill-cassidy-trumps-vaccine-executive-order/story?id=135685348",
+      "source": "ABC News",
       "bias": "center",
-      "domain": "bbc.com"
+      "domain": "abcnews.go.com"
     },
     {
       "title": "Rescue teams search for survivors in Indonesia after powerful earthquake",
@@ -29,6 +29,27 @@
       "domain": "theguardian.com"
     },
     {
+      "title": "A good \u2013 and bad \u2013 week for Italy's art police and museum security",
+      "url": "https://www.npr.org/2026/08/16/nx-s1-5933052/sicily-art-heist-museum-parma",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "Thieves steal 4 Renaissance artworks in a Sicilian museum heist during an Italian holiday",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdnlrWmxPWkVSVUdZaG9JZXY1UTVpbDFIWUI2NEF4SG1pbnBVaVhQaXRxUjhIOVN5Sk5Pd0VJck1sbTZwLTFsbVpIMDNqVjQ3S2ZjV0t1S0dJU1hjcHpwc2J5dExUaC1zNXNqUG5uX0ZOQzZJZS1DVG1aOGJELVZ5RXktSm5ycXR5d2hDTEZUWEIwS3BXTVNTOUhRcW8?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Moroccan migrants stage sit-in as thousands remain stranded in Ceuta",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/moroccan-migrants-stage-sit-in-as-thousands-remain-stranded-in-ceuta?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    },
+    {
       "title": "At least 47 dead after 7.7-magnitude quake strikes Indonesia",
       "url": "https://www.washingtonpost.com/world/2026/08/15/77-magnitude-earthquake-off-flores-island-indonesia-kills-least-38/",
       "source": "Washington Post",
@@ -36,67 +57,69 @@
       "domain": "washingtonpost.com"
     },
     {
-      "title": "Belgium's biggest wildfire on record heads towards Germany",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ0o2UU1KNjEzdFpEUmI3WlhvRllVYlZibG5ySnR3U2VaZWxYdjFYSV9fTzJTdFQxTVdtdVZIYW1HSktyZmdJTlliSGVMaVoyTlhxLUduWlNkTUZFYU5RY3dZN0h4Z1pqNVMyU2R0M1QzMEdWeUJzMEhfYTZidTlmdW5kbmcyaGgzbTQ0amNZWW5GRkFSRHp2TjZabWR1LThOUzdNNWZuSzV6VENHRU1Naw?oc=5",
-      "source": "Reuters",
+      "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+      "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "bias": "center",
-      "domain": "reuters.com"
+      "domain": "bbc.com"
     },
     {
-      "title": "Firefighters battle massive wildfires in Belgium and Greece as 2 die on an island near Athens",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYktmWUtyRG1meHR2M1NtVDdScldwOVk4enpGWC1RUUJKUG5lUlNmekFhZGhpeElsaWgyUEQ3VnlTdldXX1A1enJHUXluZDRseHFfMG1VU0l3RHQ3LWhGS1dlTGx3aS1ORFhjYXEwTXRSVTZUYTlreFdkV2kxQ0tjQ1JONENqelJvSFp6NQ?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "Trump Tells Americans To Accept High Gas Prices As Iran Remains Defiant On Strait Of Hormuz",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTG9HVlBWdEtuQkUwZkZ6ZUN3NU44ZVZjM1BTZC1XQmJvRFFfeWcyS1BPRDhjc1A4SUJyaGw2bV9MREJhUW5TcTNmTi1iWFlYa3ZsUmxuRi1PR1lDMkhuY0lKNlFRSWJibDFlcHJHS3dxT0hhNl9DSHlvTkhWWTgwY1JENWZRWi1OVW1wLU1rMXJuWlhzRmN5cDBaNkxTRVE2TGlKYVNVS0k0TlBLWTVyY0I3Sk90NV9nUGxfTkJveTRiUjV0TlFad1hmNW5ueVp6NTZabkxUSUNPNlhGdFVDWkdhUdIB6AFBVV95cUxQazVKa2ljV25CMGxDUVNpbjRxUU5oSW82NldOeEhYZzNEWGxnQjlYVE82aVhvQS00S0FUTnR5MjBRNF9GNnJQUEVhNDdYVGJfUEl3alUzSjJQYUttUDhLYlVwcGVGdHVkYlNEdHlvS01oblFpYXZYVGZtSGM3TXJjenlndVh4NGJXa21pTkhOejZQdE5jTWd1UEdCSTRXd3piMTVfVVJwVWY4QThGTU1YV0w2Wm5MT01FUmVCSXNfdEkyeFVRalV0YTY5RHhfUkM0Y0t2STNPZXB4WWNaczh4empwdG5RWmtD?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    },
-    {
-      "title": "Is the Democratic Party Facing Its Own Tea Party Moment?",
-      "url": "https://www.nytimes.com/2026/08/16/us/politics/democratic-party-tea-party-moment.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "Democratic socialist candidate Chris Rabb says U.S. \"is not a purely capitalistic society\"",
-      "url": "https://www.cbsnews.com/video/democratic-socialist-candidate-chris-rabb-says-us-is-not-a-purely-capitalistic-society/",
+      "title": "Face the Nation: Salvanto, Rabb, political panel",
+      "url": "https://www.cbsnews.com/video/face-the-nation-salvanto-rabb-political-panel/",
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"
     },
     {
-      "title": "WATCH: 'Once-in-a-Lifetime' Heavy Rains Flood Central Indiana, Six Dead, Many More Missing, Trump Declares Disaster",
-      "url": "https://www.breitbart.com/weather/2026/08/16/watch-once-in-a-lifetime-heavy-rains-flood-central-indiana-six-dead-many-more-missing-trump-declares-disaster/",
+      "title": "Gov. Beshear: 'It\u2019s Time' to Abolish the Electoral College",
+      "url": "https://www.breitbart.com/clips/2026/08/16/gov-beshear-its-time-to-abolish-the-electoral-college/",
       "source": "Breitbart",
       "bias": "right",
       "domain": "breitbart.com"
     },
     {
-      "title": "Lala weakens to tropical storm, brings heavy rain, wind, flooding to Hawaii",
-      "url": "https://abcnews.com/US/tropical-storm-lala-forecast-impact-hawaiian-islands-weekend/story?id=135610026",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
+      "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges",
+      "url": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
     },
     {
-      "title": "Indiana football star who jumped into raging river ID\u2019d as latest victim of deadly Midwest floods",
-      "url": "https://nypost.com/2026/08/16/us-news/indiana-football-star-who-jumped-into-raging-river-idd-as-latest-victim-of-deadly-midwest-floods/",
+      "title": "Trump's envoys meet mediators, Israel strikes Gaza",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQWlULVBMUTk3T05wRS0tNnBRUWFReXlURUhCaTNIZVlRaUtVOHczUm5CTi1YRWlveXN6cC1hWDBKOTJqbUpna3JYZUhzLTVrTnU0bXFWd3JncVNCeUc3NTNING9KeHFSNWpUWWhCNFBGUm1aQzBna3c1OFNtclBMZEY1VERJS0x1elM2ZEVwXzZVeTRzelkyM3ZoWTNGeGRGZkE?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    }
+  ],
+  [
+    {
+      "title": "Famed ex-Yankees pitcher Tommy John dead at 83 after sending farewell message to fans",
+      "url": "https://www.foxnews.com/sports/famed-ex-yankees-pitcher-tommy-john-dead-83-farewell-message-fans",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Tommy John, MLB All-Star pitcher who had a surgery named after him, dies at 83",
+      "url": "https://www.cbsnews.com/news/tommy-john-mlb-baseball-player-dies-83/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Yankees mourn \u2018longtime favorite\u2019 Tommy John after his death at 83",
+      "url": "https://nypost.com/2026/08/16/sports/yankees-mourn-longtime-favorite-tommy-john-after-his-death-at-83/",
       "source": "New York Post",
       "bias": "right",
       "domain": "nypost.com"
     },
     {
-      "title": "A good \u2013 and bad \u2013 week for Italy's art police and museum security",
-      "url": "https://www.npr.org/2026/08/16/nx-s1-5933052/sicily-art-heist-museum-parma",
-      "source": "NPR",
+      "title": "Tommy John, Pitcher Who Gave His Name to Career-Saving Surgery, Dies at 83",
+      "url": "https://www.nytimes.com/2026/08/16/sports/baseball/tommy-john-dead.html",
+      "source": "New York Times",
       "bias": "left-center",
-      "domain": "npr.org"
+      "domain": "nytimes.com"
     }
   ],
   [
@@ -115,8 +138,8 @@
       "domain": "washingtonpost.com"
     },
     {
-      "title": "Timeline: The one-week siege of Qusra by Israeli settlers in the West Bank",
-      "url": "https://www.aljazeera.com/gallery/2026/8/16/timeline-the-one-week-siege-of-qusra-by-israeli-settlers-in-the-west-bank?traffic_source=rss",
+      "title": "Israeli army besieges Palestinian homes in occupied West Bank",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israeli-army-besieges-palestinian-homes-in-occupied-west-bank?traffic_source=rss",
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
@@ -131,11 +154,48 @@
   ],
   [
     {
+      "title": "As Lala Lashes Hawaii, the Atlantic Hurricane Season Remains Calm. So Far.",
+      "url": "https://www.nytimes.com/2026/08/16/weather/el-nino-lala-tropical-storm.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Lala is again a tropical storm, sending drenching rain and winds across Hawaii",
+      "url": "https://www.npr.org/2026/08/16/g-s1-138926/lala-tropical-storm-hawaii-hurricane",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "Hurricane Lala weakens to a tropical storm, but flooding persists in Hawaii",
+      "url": "https://www.aljazeera.com/news/2026/8/16/hurricane-lala-weakens-to-a-tropical-storm-but-flooding-persists-in-hawaii?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "Lala weakens to tropical storm, brings heavy rain, wind, flooding to Hawaii",
+      "url": "https://abcnews.com/US/tropical-storm-lala-forecast-impact-hawaiian-islands-weekend/story?id=135610026",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    }
+  ],
+  [
+    {
       "title": "Shocking death of former professor reverberates at Cambridge \u2014 and well beyond",
       "url": "https://www.washingtonpost.com/world/2026/08/15/death-black-scholar-jason-arday-reverberates-cambridge-beyond/",
       "source": "Washington Post",
       "bias": "left-center",
       "domain": "washingtonpost.com"
+    },
+    {
+      "title": "Former Police Officer Convicted of Sharing 'Grossly Offensive' Meme About Islam in Britain",
+      "url": "https://www.breitbart.com/europe/2026/08/16/former-police-officer-convicted-of-sharing-grossly-offensive-meme-about-islam-in-britain/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
     },
     {
       "title": "Black professor at Cambridge who faced plagiarism claims is found dead",
@@ -145,38 +205,31 @@
       "domain": "apnews.com"
     },
     {
-      "title": "Statue Of Liberty Tragedy: Woman And Baby Dead After Boat Capsizes",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWkdhZVB1SnRoWWhPVk1mNFpiUFZyMVZ2anBRSUd6UDQ3UTJ1MDBnUFYxNVNGUF84dXdjSk1BdnFraU5tSmkzNWx3WG0zNEVqcm5PWHBLdm1YZ0hGazNRYk12UjZKQUY3bkEtY3ZSN0oweXpvS0tPVTRvTGh5U291dFFtSjBGX1FnR1NlS1dzV0xmdkQzaG9tV24wdmRITmNkeXEtb2dvanY0VUNCa183UW1ERDNDVUV0VklqSVVhZnhMdw?oc=5",
+      "title": "Professor Recently Outed For Fraudulent Biography Found Dead",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQblJMV1AzLVlRNnRzRmN5MW5lRWJld1UzM0p2TUlNTG05NWNwNGgyTllUQkZmNy1FN29aVFVzMEE1c1V6RU9EaDVnWFZhSWFOOENLUVV2WE1HMHM3TUFPakZsVmdUbC15bFRyU2xqLU1YMTBYdGlIOTFVZTB3MzhZSnltMi1YellvUFcybTZIeTNmV1pkVmc?oc=5",
       "source": "Daily Wire",
       "bias": "right",
       "domain": "dailywire.com"
-    },
-    {
-      "title": "Who is DEI critic and Jason Arday accuser, Nathan Cofnas?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/who-is-dei-critic-and-jason-arday-accuser-nathan-cofnas?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
     }
   ],
   [
     {
-      "title": "'What are we going to do?' The mom of a trans teen grapples with Trump's Medicaid move",
-      "url": "https://www.npr.org/2026/08/16/nx-s1-5932491/transgender-health-care-medicaid-trump-oz",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
+      "title": "Elderly couple die as wildfires sweep Greek island of Salamina",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMzNiYlNyRktPbF9KUmUwSzVTSzhUdXlqbFRDX3VUUWZyMHJOaE5yYkpLcDNudjZjMjZPdGFITUJHS2o2cldYRHhMdWtyX3pVSDFKR3F1UmJZTWoyS2NXeUpIT2Y1eUk1UndXRXlQTjhmcnZ1SXRYRkhEQ2dBaENTVG41RWhfbmIydHN1WVB2ZW45Q1FMLXpuREVTMXVVeXA0MHRFQg?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
     },
     {
-      "title": "BP to develop offshore gasfield in Venezuela with firms linked to Trump administration",
-      "url": "https://www.theguardian.com/business/2026/aug/14/bp-offshore-gasfield-venezuela-donald-trump",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
+      "title": "Two dead and hundreds evacuated as twin fires break out on Greek island",
+      "url": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
     },
     {
-      "title": "Gallego blames Trump administration for Lincoln conditions: 'True lack of leadership'",
-      "url": "https://abcnews.com/Politics/gallego-blames-trump-administration-uss-lincoln-conditions-true/story?id=135685345",
+      "title": "WATCH:  Community comes together to thank firefighters after Washington state wildfires",
+      "url": "https://abcnews.com/video/135659486/",
       "source": "ABC News",
       "bias": "center",
       "domain": "abcnews.go.com"
@@ -184,18 +237,18 @@
   ],
   [
     {
-      "title": "Millions in the US could face massive consequences unless McCarthy can navigate out of a debt trap he set for Biden",
-      "url": "https://www.cnn.com/2023/04/18/politics/mccarthy-biden-debt-ceiling/index.html",
+      "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
       "source": "CNN",
       "bias": "left",
       "domain": "cnn.com"
     },
     {
-      "title": "U.S., Canada race for deal to avert Trump\u2019s threat of 50 percent tariffs",
-      "url": "https://www.washingtonpost.com/business/2026/08/15/canada-tariffs-trump-deadline/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
+      "title": "BBC asks a US court for help in getting testimony from the Trump family in defamation suit",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOC1kd19wN1hwS2Z0YWlGNzZTMzVSNzZXNE1NZmtHM0RZNVRkVVYtQzJadEIwWmZFWVNkTHhqbDFvb2hTS3BaZTVEWU5UVi1aYlhYVlpnTXdMTmxuWDgyN0FmY08yVElKWmxQdml0NGJfUWwyNlJ1Y2x0QUJySk8ya09rYnlxdXBkYTIyaXJnUS1ldDJVUFNZUXpnU1E5TU0?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
     }
   ],
   [
@@ -216,31 +269,47 @@
   ],
   [
     {
-      "title": "How Republicans Embraced Brandon Herrera, a Texas Republican Candidate and Gun Influencer",
-      "url": "https://www.nytimes.com/2026/08/16/us/politics/herrera-trump-republican-texas-house.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
+      "title": "Trump wants more economic pressure on Iran. What are his options?",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcF9Wa1NYT2dtVW52UTI3RWVFeS1MbVdwY0RvZC1kWDJYd1BEdlUzanc4Z09Gbmd6cG9NMHhWTVJxYVM1N0pqMHZCOUhHdHdRZUdBeWhzZVVhN3VBYnlOZjY5NmJmWE41UWVHeXljWUlkMFloZnh2VUxCajE0dlFTTjFOTk9ZRVVMSVJXd0thR05XbktGWlBPYmJ1S0U0bDdkQlZLWlBxb2VIUlZO?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
     },
     {
-      "title": "Exclusive \u2014 Ken Paxton: \u2018If We Lose Texas, the Senate\u2019s Gone\u2019",
-      "url": "https://www.breitbart.com/politics/2026/08/15/exclusive-ken-paxton-if-we-lose-texas-the-senates-gone/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
+      "title": "Trump Wants More Economic Pressure On Iran. What Are His Options?",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZmZCeml4cGZZYUdReG5SanQyX1dFN0o0cmxCOW9XMk1NV2stcC1PbzJoOTJoU25feG9VQUtMSDhUWEE1a2dUZlNDYU1RREhzYmNlRjkyVnZHWGEwUk9QV1dPWjF2c0tMVWxaVG5TWmVGQXAtVU1XM2JFNEphWHdvbWJhZHZ6Nk5GZnF4dllNQdIBlAFBVV95cUxNOUdzY1U0YWZTTW1CUE1sRVp3TVJaOGh5clF2bGxibld1akhBRW1fVTk1Wm5sN19XRmM1WFZuOWpORzhBQ0tmeUZQNk14NkVqWV9VSHkyMm0wR3hSS0dYdEliQ1lGMmlIcFBVa2FVNHNDU2Y5QkpMUDRQUnZNd1MtZGNpSm16bDZ2WHlaQVAxOEVIdkhr?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
     }
   ],
   [
     {
-      "title": "It\u2019s a Crowded Place With Some of the City\u2019s Trickiest Traffic",
-      "url": "https://www.nytimes.com/2026/08/16/nyregion/new-york-harbor-safety.html",
+      "title": "What We Know About the Storms Battering the Midwest",
+      "url": "https://www.nytimes.com/2026/08/13/us/storm-damage-midwest.html",
       "source": "New York Times",
       "bias": "left-center",
       "domain": "nytimes.com"
     },
     {
-      "title": "Ontario free to axe Toronto bike lanes, region\u2019s top court rules",
-      "url": "https://www.theguardian.com/world/2026/aug/14/ontario-free-to-axe-toronto-bike-lanes-regions-top-court-rules",
+      "title": "Indiana authorities say at least 5 people have died as severe weather crosses the state",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRHBMaDlITnhZaG5xYXhPTUxhUlhIMnFHYTVKZXhZQWcwSmswLVo0aWx5dHI1T3l0bXg5eDZzSzhyUEhyNDMyWkFHVEhRQ19WcVJMM3prWWFLRjFEQ1ZjS1dqZk03M01zSmVtNGFRODZzTmsyVHpmTTQtV2dwMGRTclVUc1FBTkM5T2cyeVR1OEVPN0V6eHc?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    }
+  ],
+  [
+    {
+      "title": "GOP Rep. Mike Lawler eyes nuclear power plant to tackle NY\u2019s sky-high electricity costs in clear split from Dem rival",
+      "url": "https://nypost.com/2026/08/16/us-news/gop-rep-mike-lawler-eyes-nuclear-power-plant-to-tackle-nys-sky-high-electricity-costs/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
+      "title": "Brazil\u2019s Lula launches historic fourth term bid \u2013 but son of jailed Bolsonaro stands in his way",
+      "url": "https://www.theguardian.com/world/2026/aug/16/lula-brazil-president-fourth-term-jair-flavio-bolsonaro",
       "source": "The Guardian",
       "bias": "left-center",
       "domain": "theguardian.com"

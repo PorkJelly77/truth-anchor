@@ -57,13 +57,6 @@
       "domain": "breitbart.com"
     },
     {
-      "title": "Observers say Zambia\u2019s election marred by reports of intimidation, violence",
-      "url": "https://www.aljazeera.com/news/2026/8/16/observers-say-zambias-election-marred-by-reports-of-intimidation-violence?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
       "title": "As China Pushes to Expand in Asia, Trump Focuses on Iran",
       "url": "https://www.nytimes.com/2026/08/15/us/politics/china-expansion-asia-trump-iran.html",
       "source": "New York Times",
@@ -78,11 +71,11 @@
       "domain": "huffpost.com"
     },
     {
-      "title": "Rescuers search for survivors of powerful Indonesia earthquake",
-      "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
+      "title": "Yemeni government forces hit back after new Houthi offensive",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-2026-houthis-yemen-sv?traffic_source=rss",
+      "source": "Al Jazeera",
       "bias": "center",
-      "domain": "bbc.com"
+      "domain": "aljazeera.com"
     },
     {
       "title": "At least 47 dead after 7.7-magnitude quake strikes Indonesia",
@@ -90,57 +83,13 @@
       "source": "Washington Post",
       "bias": "left-center",
       "domain": "washingtonpost.com"
-    }
-  ],
-  [
-    {
-      "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
-      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
     },
     {
-      "title": "Selena Gomez\u2019s lawyer gives scathing response to \u2018fraud\u2019 lawsuit against singer and her mom",
-      "url": "https://pagesix.com/2026/08/15/celebrity-news/selena-gomezs-lawyer-responds-to-lawsuit-against-singer-her-mom/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "Canadian airline WestJet agrees to settle flight attendants\u2019 sexual harassment class action",
-      "url": "https://www.theguardian.com/world/2026/aug/12/canadian-airline-westjet-settle-flight-attendants-sexual-harassment-class-action",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    },
-    {
-      "title": "CBS Chief Correspondent Matt Gutman Accused of Harassment in ABC Producer Suit",
-      "url": "https://www.breitbart.com/the-media/2026/08/15/cbs-matt-gutman-accused-sexualized-remarks-abc-producer-lawsuit/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
-    },
-    {
-      "title": "Security video helps lead to a masked killer who tried to hide the crime",
-      "url": "https://www.cbsnews.com/news/kenneth-fandrich-oregon-murder-steven-milner-veterinarian-security-video-masked-killer/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "The Daily Wire - Breaking News, Videos & Podcasts",
-      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5DS2g1RUcwNXdQUnBuWDBfV3MxaHNqWDJfTG5fSUVmZi1jVTJ0YzRDQXRpNTdwM1AtaVlnZlM1OA?oc=5",
-      "source": "Daily Wire",
-      "bias": "right",
-      "domain": "dailywire.com"
-    },
-    {
-      "title": "Prosecutors Examined Firm With Tie to Judge in Trump Hush-Money Trial",
-      "url": "https://www.nytimes.com/2026/08/15/us/politics/prosecutors-examined-firm-with-tie-to-judge-in-trump-hush-money-trial.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
+      "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+      "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
     }
   ],
   [
@@ -159,11 +108,11 @@
       "domain": "bbc.com"
     },
     {
-      "title": "UK Left Blames Death of Ex-Cambridge Professor Arday on 'Racism', Media Scrutiny of Plagiarism Claims",
-      "url": "https://www.breitbart.com/europe/2026/08/15/uk-left-blames-death-of-ex-cambridge-professor-arday-on-racism-media-scrutiny-of-plagiarism-claims/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
+      "title": "Professor\u2019s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring",
+      "url": "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
     },
     {
       "title": "Black professor at Cambridge who faced plagiarism claims is found dead",
@@ -171,13 +120,6 @@
       "source": "Associated Press",
       "bias": "center",
       "domain": "apnews.com"
-    },
-    {
-      "title": "Professor\u2019s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring",
-      "url": "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
     },
     {
       "title": "Jason Arday, Cambridge professor accused of plagiarism, is found dead",
@@ -219,6 +161,105 @@
     {
       "title": "Where the Teacher Is a Hero",
       "url": "https://www.nytimes.com/2026/08/15/opinion/poverty-america-arkansas.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    }
+  ],
+  [
+    {
+      "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges",
+      "url": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
+    },
+    {
+      "title": "Al Sharpton: If Dems Take House, Should Subpoena Police Who Said No Foul Play in Death of Black Teen Nolan Wells",
+      "url": "https://www.breitbart.com/politics/2026/08/15/al-sharpton-if-dems-take-house-should-subpoena-police-who-said-no-foul-play-in-death-of-black-teen-nolan-wells/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
+    },
+    {
+      "title": "US Democrats finalise major shakeup to 2028 presidential primary calendar",
+      "url": "https://www.aljazeera.com/news/2026/8/15/us-democrats-finalise-major-shakeup-to-2028-presidential-primary-calendar?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "Democrats Make South Carolina the First Contest in 2028 Presidential Primary Calendar",
+      "url": "https://www.nytimes.com/2026/08/15/us/politics/democrats-new-presidential-primary-calendar.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    }
+  ],
+  [
+    {
+      "title": "The Daily Wire - Breaking News, Videos & Podcasts",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5DS2g1RUcwNXdQUnBuWDBfV3MxaHNqWDJfTG5fSUVmZi1jVTJ0YzRDQXRpNTdwM1AtaVlnZlM1OA?oc=5",
+      "source": "Daily Wire",
+      "bias": "right",
+      "domain": "dailywire.com"
+    },
+    {
+      "title": "CBS Chief Correspondent Matt Gutman Accused of Harassment in ABC Producer Suit",
+      "url": "https://www.breitbart.com/the-media/2026/08/15/cbs-matt-gutman-accused-sexualized-remarks-abc-producer-lawsuit/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
+    },
+    {
+      "title": "Security video helps lead to a masked killer who tried to hide the crime",
+      "url": "https://www.cbsnews.com/news/kenneth-fandrich-oregon-murder-steven-milner-veterinarian-security-video-masked-killer/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Canadian airline WestJet agrees to settle flight attendants\u2019 sexual harassment class action",
+      "url": "https://www.theguardian.com/world/2026/aug/12/canadian-airline-westjet-settle-flight-attendants-sexual-harassment-class-action",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    }
+  ],
+  [
+    {
+      "title": "Hurricane Lala leaves thousands without power in Hawaii amid 'life-threatening' conditions",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOVphU1pueVRWM1VzVGpzSmQ4MGN4aEliMDZvUG5tQWNlSC1xYWxSbDRZaG0zQ3BsclpscUk5MWxNcG5peVh0S2pmYU5URmE2RkJaQ0xEVXJGemVaYTQ5YUJsTmtzbUxRdTREbXF0dEU2R0VoSUREWHcxQU42TFBrNFJoUm5STTZ5RjU3R2NMUXZmZ3pUcllsVUUxbXVyTlREalRBR2tENGx4SlpSNGJRZl9R?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Hurricane Lala leaves thousands without power in Hawaii amid \u2018life-threatening\u2019 conditions",
+      "url": "https://nypost.com/2026/08/16/us-news/hurricane-lala-leaves-thousands-without-power-in-hawaii-amid-life-threatening-conditions/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
+      "title": "Hurricane Lala lashes Hawaii's Big Island as a Category 1 storm",
+      "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
+    },
+    {
+      "title": "Prosecutors Examined Firm With Tie to Judge in Trump Hush-Money Trial",
+      "url": "https://www.nytimes.com/2026/08/15/us/politics/prosecutors-examined-firm-with-tie-to-judge-in-trump-hush-money-trial.html",
       "source": "New York Times",
       "bias": "left-center",
       "domain": "nytimes.com"
@@ -274,22 +315,6 @@
   ],
   [
     {
-      "title": "Hurricane Lala leaves thousands without power in Hawaii amid 'life-threatening' conditions",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOVphU1pueVRWM1VzVGpzSmQ4MGN4aEliMDZvUG5tQWNlSC1xYWxSbDRZaG0zQ3BsclpscUk5MWxNcG5peVh0S2pmYU5URmE2RkJaQ0xEVXJGemVaYTQ5YUJsTmtzbUxRdTREbXF0dEU2R0VoSUREWHcxQU42TFBrNFJoUm5STTZ5RjU3R2NMUXZmZ3pUcllsVUUxbXVyTlREalRBR2tENGx4SlpSNGJRZl9R?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "Hurricane Lala lashes Hawaii's Big Island as a Category 1 storm",
-      "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    }
-  ],
-  [
-    {
       "title": "Trump's 2024 grocery photo op now haunts Republicans in the midterms",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTkhYMUdicFdKRWlLX3R6U0lvcXZQdS1zUjhhX1FsSndyd1dNMVQ4UGs2YjFXaFRNenQ0UGVJUGktcXlPOFl4MENrNXNfLWxQaTdyaUdramJ3Y1FKR3gxZUxleDlRM0xmM2FFeGZ0bzFneElSRUVEYWhPek9fY0h4WDBSd3MyazFIbTJlZURhLXYwSGNJelVSZ0NPSWtycHFtRTNvTGx5eDU?oc=5",
       "source": "Reuters",
@@ -302,22 +327,6 @@
       "source": "HuffPost",
       "bias": "left",
       "domain": "huffpost.com"
-    }
-  ],
-  [
-    {
-      "title": "Democrats Make South Carolina the First Contest in 2028 Presidential Primary Calendar",
-      "url": "https://www.nytimes.com/2026/08/15/us/politics/democrats-new-presidential-primary-calendar.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "US Democrats finalise major shakeup to 2028 presidential primary calendar",
-      "url": "https://www.aljazeera.com/news/2026/8/15/us-democrats-finalise-major-shakeup-to-2028-presidential-primary-calendar?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
     }
   ],
   [
@@ -382,22 +391,6 @@
       "source": "The Guardian",
       "bias": "left-center",
       "domain": "theguardian.com"
-    }
-  ],
-  [
-    {
-      "title": "Farage beats Binface! But scandal still shadows Trump\u2019s British ally.",
-      "url": "https://www.washingtonpost.com/world/2026/08/13/embattled-trump-ally-farage-may-beat-count-binface-his-troubles-continue/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
-    },
-    {
-      "title": "Reform UK's Nigel Farage beats a slate of fringe candidates in election boycotted by major parties",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRGxQNEpxUFR3NkJFN1JaeWxBMU8zVFpqNmJnTmNjcXQ5aWZnLXotc3lmUEw1eVZHS2dNUWxhRWdCdEdlVzVqeWEzMDEzaTRJbTVybFoyV2tyMDhJcGo1X2pZcGtCOEhUblBvekJpVmJkR2lnN1hPaTJlQ2lPRjRYMTRoSFFSZjY3T1VGMXA5OF8yem9aMThuRkgwcjJHdWxUSTY0MVd4WFRybTF5M3E5dFBFSV9QbnU2cXc?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
     }
   ]
 ]

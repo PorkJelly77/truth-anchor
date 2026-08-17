@@ -1,18 +1,11 @@
 [
   [
     {
-      "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
-      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+      "title": "Millions in the US could face massive consequences unless McCarthy can navigate out of a debt trap he set for Biden",
+      "url": "https://www.cnn.com/2023/04/18/politics/mccarthy-biden-debt-ceiling/index.html",
       "source": "CNN",
       "bias": "left",
       "domain": "cnn.com"
-    },
-    {
-      "title": "Supreme Court Again Rebuffs Trump\u2019s Push To Toss $5 Million E. Jean Carroll Verdict",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQWt4QVpkdkFNS29jRVpJNDdYcjE2MlprTHJ5WlgtTDBJUk9IS3JaYUVJSE52enBMOXprWWpoZk82Q2ozRHQ0VFZwQUtaNzlWemltZHRybDhwbmx4bkhlQjlNQ3Z5RjNSMVlybjhYTWU3YXFIdG43NGJiRERJZmFLeWhPR3Bib0NfNFNtZTNfdHpaY2ZvVGpzNTduR3AyX2hGeG9FUlhZbDI1dXB6SWdrRXhXbkdVcUZuQ1l6NnI5NC1WYmE2bXZDb2NzSDFMR0Y1OFVZVtIB2gFBVV95cUxQRE1YWG1DRVh0Zk5USGtWRVBXb1BtNFpjSUh1ZmpDemZtTlR6ZmtKUTY4UHVla29YSEpFZ04yT05BUGV2Nnh1dEtnVWlJLWt6MTdHMWZXd0tUeG9jamNfNUhESEJodjBIVlJMczVDQ29Udy1aR291X3BVblRxSS1waXlqQzJjQmxadWJLSkFRbi1KdjI5S2FmWXh3MUN3cGlIWk1zUGhZX2lVei1ocGtlQUtkSXktODZmLXl0Umd4bXFNcDNlSUJUMjBaSHBZbW5sN3dVdWM0VTc0dw?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
     },
     {
       "title": "Jared Kushner meets Hamas on Mideast trip to push Gaza deal",
@@ -22,15 +15,50 @@
       "domain": "washingtonpost.com"
     },
     {
-      "title": "Democrats rebuke Trump over scaling back military drills with South Korea",
-      "url": "https://www.aljazeera.com/news/2026/8/17/democrats-rebuke-trump-over-scaling-back-military-drills-with-south-korea?traffic_source=rss",
+      "title": "Iran threatens to go on offensive in Strait of Hormuz if diplomacy with US fails",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcVl4WFplN0o4aVNSQ0REMXZlRmNzNTk4dURRMV8wUXhVQjNzVkZ0S3R4el9XSnE1MWZfLXc1RlZtZmJITURZRS1NaThGcXBKV0NZY2JXRGU1c093dzM1M0ZLcUtaRERHS1B4QUtXU3pwUk5XVWpSTEtXXzlTQ1BBZU85ZE50NHZQN2hXa1FTODlNRHU5UzhWS0tzMGktMktwMXI3X3pNYmRFMVIzSTlJbzl5SWRQa05qZ0lXWnM1bw?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "USS Washington to relieve USS Lincoln. And, Jared Kushner to meet with Netanyahu",
+      "url": "https://www.npr.org/2026/08/17/g-s1-138973/up-first-newsletter-uss-lincoln-meta-israel-hamas-ukraine-russia",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "Palestinians, Israelis sceptical of Gaza plan as Kushner visits region",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss",
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
     },
     {
-      "title": "Hayden Panettiere autopsy shows actress had \u2018no signs of trauma\u2019 at time of death",
-      "url": "https://pagesix.com/2026/08/17/celebrity-news/hayden-panettiere-autopsy-shows-actress-had-no-signs-of-trauma-at-time-of-death/",
+      "title": "Donald Trump Blames Vandals For Damaged Grass In Same Spot He Held His Big July 4 Celebration",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTEdMTzhqTUdMeHNBVmhMbXdoMi1jd2MxekhsVE1nNmltU3RYUGo2US1HYVhGODVYYm5CQUhPSGl5SVc0bHpHbV9iSGdUTFdfTVBnZnExdEUzaG5BaXp0a0hrRUhKckkxZGNIbndxNWxyaUtyUnc5UThnOGx1cmJWYTVvMnpkYkhjbXNudi1UR05Oazd3YlBwblpR0gGfAUFVX3lxTFBnNXFqUVFHREN2SEJxbERsREw4Nl85c1l0T29oS05CNkt0ODRUajNYLUZGQlVqYTZITy1aQUZoSld5ekY0X1FBMzZ0ajREcWZTNXFKbXZpVzFydE1OZ1dEbjJpcnRPR2l6eUFrWUxGS2wzMnpKOTY3aTg3QXJ4eXR0TjFlZlVuckh2Nlpod0xDcHJnZGFZeUprZm1iclVPNA?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    },
+    {
+      "title": "Several Massachusetts Democrats Break with Party over \u2018Barbaric\u2019 New Law Legalizing Abortions Up Until Birth",
+      "url": "https://www.breitbart.com/politics/2026/08/17/several-massachusetts-democrats-break-with-party-over-barbaric-new-law-legalizing-abortions-up-until-birth/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
+    },
+    {
+      "title": "Actress Hayden Panettiere dies at 36, found in cardiac arrest",
+      "url": "https://abcnews.com/US/hayden-panettiere-dies-36/story?id=135698473",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    },
+    {
+      "title": "Narcan found at scene of Hayden Panettiere\u2019s apparent overdose",
+      "url": "https://pagesix.com/2026/08/17/celebrity-news/narcan-found-at-scene-of-hayden-panettieres-apparent-overdose/",
       "source": "New York Post",
       "bias": "right",
       "domain": "nypost.com"
@@ -43,18 +71,11 @@
       "domain": "nytimes.com"
     },
     {
-      "title": "Actress Hayden Panettiere remembered as 'amazing talent' after death at 36",
-      "url": "https://abcnews.com/GMA/Culture/actress-hayden-panettiere-remembered-amazing-talent-after-death/story?id=135700489",
-      "source": "ABC News",
+      "title": "Actors lead tributes to 'amazing' Hayden Panettiere after Heroes star dies aged 36",
+      "url": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "bias": "center",
-      "domain": "abcnews.go.com"
-    },
-    {
-      "title": "Hayden Panettiere, known for \"Heroes\" and \"Remember the Titans,\" dies at 36",
-      "url": "https://www.cbsnews.com/news/hayden-panettiere-dies-at-36/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
+      "domain": "bbc.com"
     },
     {
       "title": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
@@ -64,6 +85,13 @@
       "domain": "theguardian.com"
     },
     {
+      "title": "Italy-Spain border feud exposes Europe\u2019s deepening immigration divide",
+      "url": "https://www.foxnews.com/world/italy-spain-border-feud-exposes-europes-deepening-immigration-divide",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
       "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSW9mTFNZNmhNT3Rucy1OdzIyUzZxYlZVMk1oY2liVkNobXMtYXJPTUI2MFZfYWt3QkJwTVhaNnlEbzY2M0I4NWZtVFRyLVpwX3JQdUZXOVlkZVZXNThuQmRXMjFsOFN2QWRnX3ZCNk1DRlUyQWZIdUNrM0IwWGFRdHhIWHQ?oc=5",
       "source": "Associated Press",
@@ -71,46 +99,34 @@
       "domain": "apnews.com"
     },
     {
-      "title": "Iran threatens to go on offensive in Strait of Hormuz if diplomacy with US fails",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcVl4WFplN0o4aVNSQ0REMXZlRmNzNTk4dURRMV8wUXhVQjNzVkZ0S3R4el9XSnE1MWZfLXc1RlZtZmJITURZRS1NaThGcXBKV0NZY2JXRGU1c093dzM1M0ZLcUtaRERHS1B4QUtXU3pwUk5XVWpSTEtXXzlTQ1BBZU85ZE50NHZQN2hXa1FTODlNRHU5UzhWS0tzMGktMktwMXI3X3pNYmRFMVIzSTlJbzl5SWRQa05qZ0lXWnM1bw?oc=5",
+      "title": "Where the Trump administration's lawsuits seeking voter data stand",
+      "url": "https://www.cbsnews.com/news/trump-lawsuits-state-voter-rolls-justice-department/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    }
+  ],
+  [
+    {
+      "title": "US Supreme Court again rebuffs Trump in $5 million E. Jean Carroll case",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaFZYVzgyUG8ybXVocm05ZExDWjZvUkpDVDdUUmJGRDZlRVl6dVhUVjNldTUwcVpQblhOcHZJQXA0ZDVrbjNkWUhjSHRUQUtrOGJwWjBDTVlnMjd1T2EtbmlQcHpVdjQ4UGMtWWZxVV9teDk5TUdDYTdYbmZMQVQ1TnZ5SS1ESzVQMzR1ajJpdk4wUVBua1Y3bFNmeG5aOUJVd3l3bGRQTk5oSV9n?oc=5",
       "source": "Reuters",
       "bias": "center",
       "domain": "reuters.com"
     },
     {
-      "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
-      "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
+      "title": "Supreme Court Says No To Trump",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQWt4QVpkdkFNS29jRVpJNDdYcjE2MlprTHJ5WlgtTDBJUk9IS3JaYUVJSE52enBMOXprWWpoZk82Q2ozRHQ0VFZwQUtaNzlWemltZHRybDhwbmx4bkhlQjlNQ3Z5RjNSMVlybjhYTWU3YXFIdG43NGJiRERJZmFLeWhPR3Bib0NfNFNtZTNfdHpaY2ZvVGpzNTduR3AyX2hGeG9FUlhZbDI1dXB6SWdrRXhXbkdVcUZuQ1l6NnI5NC1WYmE2bXZDb2NzSDFMR0Y1OFVZVg?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
     },
     {
-      "title": "Texas Police: Intruder Dead After Shootout with Homeowner",
-      "url": "https://www.breitbart.com/2nd-amendment/2026/08/16/texas-police-intruder-dead-after-shootout-with-homeowner/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
-    },
-    {
-      "title": "Texas dad faces murder charge after estranged wife found dead at suburban home: police",
-      "url": "https://www.foxnews.com/us/texas-dad-faces-murder-charge-estranged-wife-found-dead-suburban-home-police",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "DHS defends investigating agency critics and giving them warning notices",
-      "url": "https://www.npr.org/2026/08/17/nx-s1-5934692/dhs-free-speech-investigations",
-      "source": "NPR",
+      "title": "Supreme Court Again Rejects Trump\u2019s Appeal of $5 Million E. Jean Carroll Payment",
+      "url": "https://www.nytimes.com/2026/08/17/us/politics/supreme-court-trump-carroll.html",
+      "source": "New York Times",
       "bias": "left-center",
-      "domain": "npr.org"
-    },
-    {
-      "title": "EXCLUSIVE: Trump Admin Opens New Front In War On Fraud, This Time In Child Sex-Changes",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdk5MdEV0U3FKel9YVl9wNEJkOVhxaWozd09nVE9fNDZ1M0xhZ3pQdElXZDM4NnhOS24tRllGNmkwbEJRWlF2LTdkby1TUTRwYldJalhwOUZrY3BLLWdFQkF6TzVUOEYxLVNkRTJUNnh4eWNZR0puT2xiU3pqSXVrc3doNkM5RmZ2UWFJem1zZkpjVzM0OG81eW83d3NiUEd2LWNRckhqcVFKa2RHSTFNb1BrZGNSZw?oc=5",
-      "source": "Daily Wire",
-      "bias": "right",
-      "domain": "dailywire.com"
+      "domain": "nytimes.com"
     }
   ],
   [
@@ -138,114 +154,34 @@
   ],
   [
     {
-      "title": "Newly released video shows scene of Jeremy Renner's snowplow accident",
-      "url": "https://www.cnn.com/videos/us/2023/04/18/jeremy-renner-snowplow-accident-bodycam-nc-melas-contd-vpx.cnn",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
-    },
-    {
-      "title": "Police execute controlled World War II\u2013era Mine explosion",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/police-execute-controlled-world-war-ii-era-mine?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    }
-  ],
-  [
-    {
-      "title": "GIANNO CALDWELL: Florida needs Byron Donalds to protect the DeSantis legacy",
-      "url": "https://www.foxnews.com/opinion/gianno-caldwell-florida-needs-byron-donalds-protect-desantis-legacy",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "Democrat Gubernatorial Hopeful David Jolly Fled Florida in Fear During Pandemic, Mocked 'Personal Freedom'",
-      "url": "https://www.breitbart.com/politics/2026/08/17/democrat-gubernatorial-hopeful-david-jolly-fled-florida-in-fear-during-pandemic-mocked-personal-freedom/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
-    }
-  ],
-  [
-    {
-      "title": "Russian state economist fired after stark warning about Moscow\u2019s economic future",
-      "url": "https://www.foxnews.com/world/russian-state-economist-fired-after-stark-warning-about-moscows-economic-future",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "How Russian dissidents are being punished by both Russia and Europe",
-      "url": "https://www.aljazeera.com/opinions/2026/8/17/how-russian-dissidents-are-being-punished-by-both-russia-and-europe?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    }
-  ],
-  [
-    {
-      "title": "Cursed: All four of the Arizona Cardinals first four draft picks are injured, with two out for the season",
-      "url": "https://www.foxnews.com/sports/cursed-all-four-arizona-cardinals-first-four-draft-picks-injured-two-out-season",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "WATCH:  Joshua Baez becomes first MLB player to hit 3 homers in debut",
-      "url": "https://abcnews.com/video/135680711/",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    }
-  ],
-  [
-    {
-      "title": "Ilhan Omar staffer shredded for downplaying healthcare CEO\u2019s killing after Luigi Mangione guilty plea",
-      "url": "https://www.foxnews.com/politics/ilhan-omar-staffer-shredded-downplaying-healthcare-ceos-killing-luigi-mangione-guilty-plea",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "Luigi Mangione pleads guilty to federal stalking charges in the killing of UnitedHealthcare CEO",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQczhJdEhZeEpuNk90Wk5ycmQtczVyYm9xeThwR3RXWFlhVGpoYmxOZ0NTeGpLeHRCOVpXNkdzcmp4X0RSVUtLeVRnSWRzazd1SGdYSDdndkJYejNQRmxwOWdvR0NUNmItb0puczF2ODB6SWxKVlRsMWEyeFpzRVpCcmF1US1aZXh3QjhfZm9lUXFMVVYwZXEzWlNQc2ZjVmhXV2c?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    }
-  ],
-  [
-    {
-      "title": "Houthis say they attacked Saudi vessels off Yemen\u2019s Mocha",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTEViWjVJeVRDNlYyWjhiN2VaLVltUW9OcUJLRGJfU055NkVreDRrUHNxUDlZS3VFVVVDMUhJZk1tNE9JMlhUeGctaWlzY0VtSFo0ekZrRGFfYWU3elI3dVNNX0J1b0k4NTRsQzdTOHlvZEtrTFBvUXRBa1dIaHlONUNjY0NmUjlKV19FRDh6TTl6R0FqbGZpWHJXRDFFZzBBaDJpUE5wS3lDSDlHQUZB?oc=5",
+      "title": "Russia jails anti-war politician for 11 years in further clampdown on dissent",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTGg0V1h5Uy1BaUZqcjJXSWRmSHI3V1pjTTNERF8zaU1lSC04aW0wRWRXZGRJLUxqRHNVX3lhU3dTSkUzZUEyamdLZFRlSU1CZWo0ZVZwdUsxMGg1S2xSaWhuV3Q4VXlxLXFDaVhVM2Fub185VWpfdVQ1b1BYVGZKaS1UY2w3S0RZaGpmU0lxTWJBaS1PNWptWVF4LVVPaDlKYXhkeUdzcktoQW9mWGVlbzZnZ3JKSlZUTzZpZHZMVEdPd1A5WEh0cDUwZUxuLVNM?oc=5",
       "source": "Reuters",
       "bias": "center",
       "domain": "reuters.com"
     },
     {
-      "title": "Houthis Claim Strike on Saudi Vessel as Red Sea Violence Escalates",
-      "url": "https://www.nytimes.com/2026/08/17/world/middleeast/houthis-saudi-strike.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
+      "title": "Russia maintains election ban on opposition Yabloko, jails deputy head",
+      "url": "https://www.aljazeera.com/news/2026/8/17/russia-maintains-election-ban-on-opposition-yabloko-jails-deputy-head?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
     }
   ],
   [
     {
-      "title": "The size of the American workforce has fallen by over 1 million people in the past year. Here\u2019s what\u2019s going on.",
-      "url": "https://www.marketwatch.com/story/the-size-of-the-american-workforce-has-fallen-by-over-1-million-people-in-the-past-year-heres-whats-going-on-b8141aa3?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
+      "title": "Nvidia to provide up to $105 billion guarantee for OpenAI's Ohio data center",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZkxQZ0FIUUQ0X2p6bVF1NWw1eF9PQnBtRVJVbUk4eV83UkU5X0JjdmE0RnFDdkZOLVJNWWlCejVmOTdmdTFoT3FGWmhGOGVYdFdwcXNwWlAtaEVNRnFPYkZFVzhmY3ZBQ0xERGUtWFF6QWdxcVFqR2k4dkdDTkJHNURIdUJ0Rk05NE94ekVPMjYtaWNodnItODdIdGU4Qmw5bndYZ095UF9nRFc5RnRheGxtNXFCM2VWbXd5M2pCTGw?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
     },
     {
-      "title": "Ghanaian Migrant Arrested 4 Times in 2 Weeks on Sex-Crime Charges",
-      "url": "https://www.breitbart.com/border/2026/08/16/ghanaian-migrant-arrested-4-times-in-2-weeks-on-sex-crime-charges/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
+      "title": "Nvidia to Back Ohio Data Center With as Much as $105 Billion",
+      "url": "https://www.nytimes.com/2026/08/17/technology/nvidia-ohio-data-center-openai.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
     }
   ],
   [
@@ -266,66 +202,18 @@
   ],
   [
     {
-      "title": "Lindsay Clancy cried about Andrea Yates case, coworker says: \u2018How could a mother hurt her children?\u2019",
-      "url": "https://nypost.com/2026/08/17/us-news/lindsay-clancy-cried-about-andrea-yates-case-coworker-says/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "Watch Live: Prosecution rests in Lindsay Clancy murder trial, defense takes over",
-      "url": "https://www.cbsnews.com/news/lindsay-clancy-trial-watch-live-day-14/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    }
-  ],
-  [
-    {
-      "title": "Lula and Bolsonaro\u2019s son launch rival bids for Brazil presidency",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/lula-and-bolsonaros-son-launch-rival-bids-for-brazil-presidency?traffic_source=rss",
+      "title": "CAIR slams Texas governor\u2019s \u2018anti-Muslim stunt\u2019 on airport washing stations",
+      "url": "https://www.aljazeera.com/news/2026/8/17/cair-slams-texas-governors-anti-muslim-stunt-on-airport-washing-stations?traffic_source=rss",
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
     },
     {
-      "title": "Brazil\u2019s Lula launches historic fourth term bid \u2013 but son of jailed Bolsonaro stands in his way",
-      "url": "https://www.theguardian.com/world/2026/aug/16/lula-brazil-president-fourth-term-jair-flavio-bolsonaro",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    }
-  ],
-  [
-    {
-      "title": "Firefighters battle wildfires in Belgium and Greece as 2 die on an island near Athens",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYktmWUtyRG1meHR2M1NtVDdScldwOVk4enpGWC1RUUJKUG5lUlNmekFhZGhpeElsaWgyUEQ3VnlTdldXX1A1enJHUXluZDRseHFfMG1VU0l3RHQ3LWhGS1dlTGx3aS1ORFhjYXEwTXRSVTZUYTlreFdkV2kxQ0tjQ1JONENqelJvSFp6NQ?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "WATCH:  Community comes together to thank firefighters after Washington state wildfires",
-      "url": "https://abcnews.com/video/135659486/",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    }
-  ],
-  [
-    {
-      "title": "Former Hurricane Lala drenches Hawaii, flash floods sweep away Big Island homes",
-      "url": "https://www.cbsnews.com/news/tropical-storm-lala-big-island-hawaii-hurricane-track/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "WATCH:  Lala batters the Hawaiian Islands",
-      "url": "https://abcnews.com/video/135694250/",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
+      "title": "One Of America\u2019s Busiest Airports Is About To Get Islamic Foot Washing Stations In Bathrooms",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNHRJc2JuNTJDR190cDd3REdsbWE4c2JBQk1qWG96a3ZzTi1Ma2lEWHBvbEVfSWZzSHVub1kxdDVzQy05YWRTYVd4Tl9jSHF5b1RNb1BWWExNNGJERzlEUjVSaEhvMkYyS3Boal9USGxQZ2JVTzV1Z2tES0xGbVRacnZmLUo2b1NpTzM0OFlBWnVRM0JpUFR2ZERqd1RVQktVT09ablNQbnF6bkhGU1RUR1RKbE43bGg2SnJaYnJWaw?oc=5",
+      "source": "Daily Wire",
+      "bias": "right",
+      "domain": "dailywire.com"
     }
   ]
 ]

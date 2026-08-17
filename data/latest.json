@@ -8,6 +8,41 @@
       "domain": "cnn.com"
     },
     {
+      "title": "Jared Kushner meets Hamas on Mideast trip to push Gaza deal",
+      "url": "https://www.washingtonpost.com/world/2026/08/16/jared-kushner-meets-hamas-mideast-trip-push-gaza-deal/",
+      "source": "Washington Post",
+      "bias": "left-center",
+      "domain": "washingtonpost.com"
+    },
+    {
+      "title": "USS Washington to relieve USS Lincoln. And, Jared Kushner to meet with Netanyahu",
+      "url": "https://www.npr.org/2026/08/17/g-s1-138973/up-first-newsletter-uss-lincoln-meta-israel-hamas-ukraine-russia",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSW9mTFNZNmhNT3Rucy1OdzIyUzZxYlZVMk1oY2liVkNobXMtYXJPTUI2MFZfYWt3QkJwTVhaNnlEbzY2M0I4NWZtVFRyLVpwX3JQdUZXOVlkZVZXNThuQmRXMjFsOFN2QWRnX3ZCNk1DRlUyQWZIdUNrM0IwWGFRdHhIWHQ?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "DRC\u2019s fast-growing Ebola outbreak spreads to sixth province",
+      "url": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "Top Admiral Praises Sailors but Concedes Hardships After Visit to U.S.S. Lincoln",
+      "url": "https://www.nytimes.com/2026/08/16/us/politics/uss-lincoln-iran-admiral.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
       "title": "Democrats Swamp State Legislatures with 250 Pro-Migrant Bills to Obstruct Trump's Deportation Mandate",
       "url": "https://www.breitbart.com/immigration/2026/08/16/democrats-swamp-state-legislatures-with-250-pro-migrant-bills-to-obstruct-trumps-deportation-mandate/",
       "source": "Breitbart",
@@ -15,60 +50,18 @@
       "domain": "breitbart.com"
     },
     {
-      "title": "Hayden Panettiere\u2019s death had no \u2018signs of foul play\u2019: Report",
-      "url": "https://pagesix.com/2026/08/17/celebrity-news/hayden-panettieres-death-at-36-had-no-signs-of-foul-play-report/",
+      "title": "Hayden Panettiere promoted her memoir in last public appearance before tragic death",
+      "url": "https://pagesix.com/2026/08/17/celebrity-news/hayden-panettiere-promoted-her-memoir-in-last-public-appearance-before-tragic-death/",
       "source": "New York Post",
       "bias": "right",
       "domain": "nypost.com"
     },
     {
-      "title": "Actress Hayden Panettiere remembered as 'amazing talent' after death at 36",
-      "url": "https://abcnews.com/GMA/Culture/actress-hayden-panettiere-remembered-amazing-talent-after-death/story?id=135700489",
+      "title": "WATCH:  Lala batters the Hawaiian Islands",
+      "url": "https://abcnews.com/video/135694250/",
       "source": "ABC News",
       "bias": "center",
       "domain": "abcnews.go.com"
-    },
-    {
-      "title": "Hayden Panettiere dead at 36",
-      "url": "https://www.foxnews.com/entertainment/hayden-panettiere-dead-36",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "In pictures: Hayden Panettiere's life and career, from child actor to Scream star",
-      "url": "https://www.bbc.co.uk/news/articles/c75g0n2wy6lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "Tommy John, namesake for a pioneering elbow surgery that saved his career, dead at 83",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaWRlRkF0X3FrMFRldHpCeU54VkJNUk9lb2lLNWpXb0tXcEI2azh3SHpMX0cyajNucFZEUkw0Z3JwYndQWE1uTDYzRWlyN0FYeEpOZTFPOWx3ODJOWUJOM3JmYVBHOUZuSHFDSjNncnZPOV9jbjllSGNYX245QUw4UFZhUndaZw?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "CBS News poll on whether Democrats split over socialism",
-      "url": "https://www.cbsnews.com/news/democrats-socialism-economy-political-parties-opinion-poll/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "Kushner Meets With Hamas to Advance Trump\u2019s Gaza Plan",
-      "url": "https://www.nytimes.com/2026/08/16/world/middleeast/kushner-hamas-talks.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "Kushner to hold talks with Netanyahu after rare meeting with Hamas",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcEx3MFJPNUM1WXN5SzhvTjJKMjk5aXZHWkxtMlBSaS14RTZpaDZsV3cweGdLdGo3dWJDU1ZCZVlob1NESk1CT0l3OFh6OGRXVFVVLXRtb3d0UGRNMlpkSGFobzk4c1dmZ0dtRUxQcEtVQ0tLVWZZbENQRlRSR0FkNWw4eDNtcTk2bkpRNXEyNDN2OFp6clItN0ZPRWUwbmFVQlZUdEdRVmU2R2NiY2hLTFRTOWJGM1VL?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
     },
     {
       "title": "Todd Blanche Dodges Vowing To Never Do Anything \u2018Illegal\u2019 For Trump",
@@ -78,39 +71,32 @@
       "domain": "huffpost.com"
     },
     {
-      "title": "Jared Kushner meets Hamas on Mideast trip to push Gaza deal",
-      "url": "https://www.washingtonpost.com/world/2026/08/16/jared-kushner-meets-hamas-mideast-trip-push-gaza-deal/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
-    },
-    {
-      "title": "Morning news brief",
-      "url": "https://www.npr.org/2026/08/17/nx-s1-5930235/morning-news-brief",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    },
-    {
-      "title": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
-      "url": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    },
-    {
-      "title": "Kushner to meet Netanyahu to push Trump Gaza plan",
-      "url": "https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss",
+      "title": "Trump scales down war games with South Korea: Why it matters",
+      "url": "https://www.aljazeera.com/news/2026/8/17/trump-scales-down-war-games-with-south-korea-why-it-matters?traffic_source=rss",
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
     },
     {
-      "title": "U.S. stock futures little changed as investors ponder the Fed\u2019s next move",
-      "url": "https://www.marketwatch.com/story/u-s-stock-futures-little-changed-as-investors-ponder-the-feds-next-move-27bcbea4?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
+      "title": "Trump threatens Oman, Iran war in stalemate as 60-day talks window ends",
+      "url": "https://www.cbsnews.com/live-updates/us-iran-war-deal-expired-strait-of-hormuz/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Trump confirms IRGC backchannel, but calls for Iran's 'white flag of surrender'",
+      "url": "https://www.foxnews.com/world/trump-confirms-irgc-backchannel-calls-irans-white-flag-surrender",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
+      "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
     }
   ],
   [
@@ -134,35 +120,10 @@
       "source": "Washington Post",
       "bias": "left-center",
       "domain": "washingtonpost.com"
-    }
-  ],
-  [
-    {
-      "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
-      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
     },
     {
-      "title": "BBC asks a US court for help in getting testimony from the Trump family in defamation suit",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOC1kd19wN1hwS2Z0YWlGNzZTMzVSNzZXNE1NZmtHM0RZNVRkVVYtQzJadEIwWmZFWVNkTHhqbDFvb2hTS3BaZTVEWU5UVi1aYlhYVlpnTXdMTmxuWDgyN0FmY08yVElKWmxQdml0NGJfUWwyNlJ1Y2x0QUJySk8ya09rYnlxdXBkYTIyaXJnUS1ldDJVUFNZUXpnU1E5TU0?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    }
-  ],
-  [
-    {
-      "title": "America\u2019s broken permitting system is quietly raising your cost of living",
-      "url": "https://www.foxnews.com/opinion/americas-broken-permitting-system-quietly-raising-cost-living",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "Photos: Rising energy prices disrupt education on Cambodia\u2019s Tonle Sap lake",
-      "url": "https://www.aljazeera.com/gallery/2026/8/17/photos-rising-energy-prices-disrupt-education-on-cambodias-tonle-sap-lake?traffic_source=rss",
+      "title": "Jason Arday\u2019s death is institutional murder",
+      "url": "https://www.aljazeera.com/opinions/2026/8/17/jason-ardays-death-is-institutional-murder?traffic_source=rss",
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
@@ -170,34 +131,25 @@
   ],
   [
     {
-      "title": "China's economy loses steam as consumption, output miss forecasts",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQU1zd0xiWmtwQ3dnX2tSQlRPUjJYMWM2aHpFRkR6UC1uWlVHUWJ6V3FzN0E0TThVSFJtYjlyREVPUDlidHBWbWd6YnBZbnExU0FlTElqMFNKRmRVLXlMeHZobkI0NGl5Y0dTSWlxZ2RpZ1R2N0NDM19aZEI2Y1pob2JlQmNhTGxNX1Zwb2Z6TjhOdUJEdjVHS1VuTUN3WmEtY3BGc0NnMGc1R0tTaDZZVw?oc=5",
+      "title": "Drones target office of Iraqi Kurdistan's PM, no casualties reported",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX1RqUHdlLUdxNkQweWdveHJybEs3OWpDaTFNRUhpWDFsSGd1V1hub0QzaTdNSlA3Sm1oX1I3NmEzNDdXRWx6UHZxUTJ0c0dmd1hUSzFfSnBraG5WVUQ5Y0RvLWlXUnY1Wi1OWnRQdFhISExZWWYyN2N0UUhJdWlMZzE3LUZXMTJrTFUtcmhIZkFmaU9YZGJONkN4NG9WSTByREhvVkpheWE1S2REbVBNcVNvNmNNQzhjVG9qcHRheG9NcnM?oc=5",
       "source": "Reuters",
       "bias": "center",
       "domain": "reuters.com"
     },
     {
-      "title": "Japan\u2019s economy slows, missing growth forecasts",
-      "url": "https://www.aljazeera.com/economy/2026/8/17/japans-economy-slows-missing-growth-forecasts?traffic_source=rss",
+      "title": "Iraqi Kurdish PM Barzani\u2019s office targeted in drone attack",
+      "url": "https://www.aljazeera.com/news/2026/8/17/iraqi-kurdish-pm-barzanis-office-targeted-in-drone-attack?traffic_source=rss",
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
-    }
-  ],
-  [
+    },
     {
-      "title": "Rain on way for UK with temperatures to drop to overnight lows of 3C in some places",
-      "url": "https://www.bbc.co.uk/weather/articles/cy8eevy3zzxo?at_medium=RSS&at_campaign=rss",
+      "title": "Burnham exchanged messages with person posing as Trump's chief of staff",
+      "url": "https://www.bbc.co.uk/news/articles/clyvj5zdjj2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "bias": "center",
       "domain": "bbc.com"
-    },
-    {
-      "title": "Europe endures its fifth heat wave this summer, 50% of continent in a drought",
-      "url": "https://www.cbsnews.com/video/europe-endures-fifth-heat-wave-summer-drought/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
     }
   ],
   [
@@ -214,38 +166,6 @@
       "source": "NPR",
       "bias": "left-center",
       "domain": "npr.org"
-    }
-  ],
-  [
-    {
-      "title": "How to beat an earthquake: The Colombian city where no one died",
-      "url": "https://www.washingtonpost.com/world/2026/08/15/how-beat-an-earthquake-colombian-city-where-no-one-died/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
-    },
-    {
-      "title": "Outrage as Colombia\u2019s president hands out footballs as residents await aid",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/outrage-as-colombias-president-hands-out-footballs-as-residents-await-aid?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    }
-  ],
-  [
-    {
-      "title": "American missionary Kevin Rideout set to head home to US after more than 9 months in captivity",
-      "url": "https://nypost.com/2026/08/17/world-news/american-missionary-kevin-rideout-set-to-head-home-to-us-after-more-than-9-months-in-captivity-in-niger/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "American missionary kidnapped in Niger freed after nine months",
-      "url": "https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
     }
   ],
   [

@@ -1,11 +1,25 @@
 [
   [
     {
-      "title": "Millions in the US could face massive consequences unless McCarthy can navigate out of a debt trap he set for Biden",
-      "url": "https://www.cnn.com/2023/04/18/politics/mccarthy-biden-debt-ceiling/index.html",
+      "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
       "source": "CNN",
       "bias": "left",
       "domain": "cnn.com"
+    },
+    {
+      "title": "Supreme Court rejects final Trump appeal of $5 million E. Jean Carroll verdict",
+      "url": "https://abcnews.com/Politics/supreme-court-rejects-final-trump-appeal-5-million/story?id=135707525",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    },
+    {
+      "title": "BBC asks court to subpoena Trump family members for defamation defense",
+      "url": "https://www.cbsnews.com/news/trump-bbc-defamation-lawsuit-florida-court-subpoena-ivanka-jared-kushner/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
     },
     {
       "title": "Jared Kushner meets Hamas on Mideast trip to push Gaza deal",
@@ -15,11 +29,25 @@
       "domain": "washingtonpost.com"
     },
     {
-      "title": "USS Washington to relieve USS Lincoln. And, Jared Kushner to meet with Netanyahu",
-      "url": "https://www.npr.org/2026/08/17/g-s1-138973/up-first-newsletter-uss-lincoln-meta-israel-hamas-ukraine-russia",
+      "title": "DHS defends investigating agency critics and giving them warning notices",
+      "url": "https://www.npr.org/2026/08/17/nx-s1-5934692/dhs-free-speech-investigations",
       "source": "NPR",
       "bias": "left-center",
       "domain": "npr.org"
+    },
+    {
+      "title": "Hayden Panettiere Is Dead: Star of \u2018Nashville\u2019 and \u2018Heroes\u2019 Was 36",
+      "url": "https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-dead.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Trump threatens to bomb Oman if it 'gets in the way' over Iran issue",
+      "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
     },
     {
       "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
@@ -29,74 +57,60 @@
       "domain": "apnews.com"
     },
     {
-      "title": "DRC\u2019s fast-growing Ebola outbreak spreads to sixth province",
-      "url": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    },
-    {
-      "title": "Top Admiral Praises Sailors but Concedes Hardships After Visit to U.S.S. Lincoln",
-      "url": "https://www.nytimes.com/2026/08/16/us/politics/uss-lincoln-iran-admiral.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "Democrats Swamp State Legislatures with 250 Pro-Migrant Bills to Obstruct Trump's Deportation Mandate",
-      "url": "https://www.breitbart.com/immigration/2026/08/16/democrats-swamp-state-legislatures-with-250-pro-migrant-bills-to-obstruct-trumps-deportation-mandate/",
-      "source": "Breitbart",
+      "title": "EXCLUSIVE: Trump Admin Opens New Front In War On Fraud, This Time In Child Sex-Changes",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdk5MdEV0U3FKel9YVl9wNEJkOVhxaWozd09nVE9fNDZ1M0xhZ3pQdElXZDM4NnhOS24tRllGNmkwbEJRWlF2LTdkby1TUTRwYldJalhwOUZrY3BLLWdFQkF6TzVUOEYxLVNkRTJUNnh4eWNZR0puT2xiU3pqSXVrc3doNkM5RmZ2UWFJem1zZkpjVzM0OG81eW83d3NiUEd2LWNRckhqcVFKa2RHSTFNb1BrZGNSZw?oc=5",
+      "source": "Daily Wire",
       "bias": "right",
-      "domain": "breitbart.com"
+      "domain": "dailywire.com"
     },
     {
-      "title": "Hayden Panettiere promoted her memoir in last public appearance before tragic death",
-      "url": "https://pagesix.com/2026/08/17/celebrity-news/hayden-panettiere-promoted-her-memoir-in-last-public-appearance-before-tragic-death/",
+      "title": "Melania Trump reunites 34th Ukrainian child with family: \u2018Nothing more powerful\u2019",
+      "url": "https://nypost.com/2026/08/17/us-news/melania-trump-reunites-34th-ukrainian-child-with-family-nothing-more-powerful/",
       "source": "New York Post",
       "bias": "right",
       "domain": "nypost.com"
     },
     {
-      "title": "WATCH:  Lala batters the Hawaiian Islands",
-      "url": "https://abcnews.com/video/135694250/",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
+      "title": "Texas Police: Intruder Dead After Shootout with Homeowner",
+      "url": "https://www.breitbart.com/2nd-amendment/2026/08/16/texas-police-intruder-dead-after-shootout-with-homeowner/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
     },
     {
-      "title": "Todd Blanche Dodges Vowing To Never Do Anything \u2018Illegal\u2019 For Trump",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMDRUTUxIT0RuRTc4WUY3dy1YeWdrT2xHOFI5UE5vMjJIYlhKZ2YydEpVbFl4M2pxcW5rLWxndVRHQWtTY3pDM0N0bWg2STl3R3ozTVpxTmItaFlGRXFLenR4V0FkUTM2akg4ZWgxbV85OFp1LVR3UDNQTVpQM3B6d19TN1ZSdU9paklUNU9fSlo1T1EwQ3fSAZsBQVVfeXFMTkxvQlRqS05VSXFZcVV6Q242WU1FTElDVVNSTVp3YTE2WFVDZzJ2ekl3LWhvZHotZ1VSS1ZaZ0FYUVNRWU1EQ19VSHduNTBDaVZDVU53cWJhM0lYMzhzMTB5MEhsQjJpZG9LQUlzSTdYMVhJSnhnQjE4UzJPbkVGZ015M1RObzV6ak1tbmFROG5qd2tXVDZwTzhkQUk?oc=5",
+      "title": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
+      "url": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "Israel's Ben-Gvir Advocates Killing '30 To 40' Palestinians In Gaza A Night",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbFp4Rm5FWmhyZzA5RU1tUWZUbW9BdXZvNXVRS3BETUlLT0c4SVBlRjR1aGs3SVVCZFljMC1TVFVMNDdpUlMzaG95VmsyNlFCMnhYbjdLVGdKZUF4bTd6b2h5X2x0azU1QVJjQzVBWHpLYjFfQkl3SmNyMkJWSjNhbnpqUEtOV3owd0l6a9IBkgFBVV95cUxPUHJuWEUzRkZSa1dqVi14VmltYnQtQ3ZnU1AxQ1ZlMjZkWXp6dmJ5T1pZdmJYOHhVQXN3NkZMMW40SlRDTjk2ZGU1U0hUdVlucVgtZEk4bWs4b3BRc3VTSEttM1NCeDZEdldUay01MGlJZHM4UF9QUmhBUDhPYTNKMlgyRDBkTVpxZjU3WXlsakVCZw?oc=5",
       "source": "HuffPost",
       "bias": "left",
       "domain": "huffpost.com"
     },
     {
-      "title": "Trump scales down war games with South Korea: Why it matters",
-      "url": "https://www.aljazeera.com/news/2026/8/17/trump-scales-down-war-games-with-south-korea-why-it-matters?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "Trump threatens Oman, Iran war in stalemate as 60-day talks window ends",
-      "url": "https://www.cbsnews.com/live-updates/us-iran-war-deal-expired-strait-of-hormuz/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "Trump confirms IRGC backchannel, but calls for Iran's 'white flag of surrender'",
-      "url": "https://www.foxnews.com/world/trump-confirms-irgc-backchannel-calls-irans-white-flag-surrender",
+      "title": "Trump can protect California avocado farmers and take a bite out of Mexican cartels, too",
+      "url": "https://www.foxnews.com/opinion/trump-protect-california-avocado-farmers-bite-mexican-cartels",
       "source": "Fox News",
       "bias": "right",
       "domain": "foxnews.com"
     },
     {
-      "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
-      "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
+      "title": "Iran signals readiness for \u2018US ground operations\u2019 as MoU expires",
+      "url": "https://www.aljazeera.com/news/2026/8/17/iran-signals-readiness-for-us-ground-operations-as-mou-expires?traffic_source=rss",
+      "source": "Al Jazeera",
       "bias": "center",
-      "domain": "bbc.com"
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "Iran threatens to go on offensive in Strait of Hormuz if diplomacy with US fails",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcVl4WFplN0o4aVNSQ0REMXZlRmNzNTk4dURRMV8wUXhVQjNzVkZ0S3R4el9XSnE1MWZfLXc1RlZtZmJITURZRS1NaThGcXBKV0NZY2JXRGU1c093dzM1M0ZLcUtaRERHS1B4QUtXU3pwUk5XVWpSTEtXXzlTQ1BBZU85ZE50NHZQN2hXa1FTODlNRHU5UzhWS0tzMGktMktwMXI3X3pNYmRFMVIzSTlJbzl5SWRQa05qZ0lXWnM1bw?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
     }
   ],
   [
@@ -120,52 +134,118 @@
       "source": "Washington Post",
       "bias": "left-center",
       "domain": "washingtonpost.com"
-    },
-    {
-      "title": "Jason Arday\u2019s death is institutional murder",
-      "url": "https://www.aljazeera.com/opinions/2026/8/17/jason-ardays-death-is-institutional-murder?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
     }
   ],
   [
     {
-      "title": "Drones target office of Iraqi Kurdistan's PM, no casualties reported",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX1RqUHdlLUdxNkQweWdveHJybEs3OWpDaTFNRUhpWDFsSGd1V1hub0QzaTdNSlA3Sm1oX1I3NmEzNDdXRWx6UHZxUTJ0c0dmd1hUSzFfSnBraG5WVUQ5Y0RvLWlXUnY1Wi1OWnRQdFhISExZWWYyN2N0UUhJdWlMZzE3LUZXMTJrTFUtcmhIZkFmaU9YZGJONkN4NG9WSTByREhvVkpheWE1S2REbVBNcVNvNmNNQzhjVG9qcHRheG9NcnM?oc=5",
+      "title": "Tupac Shakur murder trial kicks off as Duane 'Keffe D' Davis faces jury nearly three decades after shooting",
+      "url": "https://www.foxnews.com/us/tupac-shakur-murder-trial-kicks-duane-keffe-d-davis-faces-jury-nearly-three-decades-shooting",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Watch Live: Lindsay Clancy murder trial resumes, prosecution may rest today",
+      "url": "https://www.cbsnews.com/news/lindsay-clancy-trial-watch-live-day-14/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    }
+  ],
+  [
+    {
+      "title": "US awards Raytheon $22.9B Tomahawk deal as Trump dismisses weapons stockpile concerns",
+      "url": "https://www.foxnews.com/politics/us-awards-raytheon-22-9b-tomahawk-deal-trump-dismisses-weapons-stockpile-concerns",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "US awards Raytheon $22.9 billion seven-year deal to boost Tomahawk output",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZ0hQT00ybHQzbWM2bDJBam45dVpTWmdscVpRM2t1YnItV0RXbmNPUW14Qml5dVNTdGtvSUx0VVk5Sk41ZFdVdjhuSmt5eFRHVzFkc1lsUndIYU5Jd05FcXlmaHhLaFpvR0RKVEhXeFFwczhZUVJtaENuWXhId0Y2NWN6VkdnRXV4dDdrWG9tLU4wcVZzWUNvYjVQR2ZRSTRFdFYxQWNtdGRzczRXell5UkUzOWh5dkhrYmh1cFlFa3M2TXU0dnZ0Qw?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    }
+  ],
+  [
+    {
+      "title": "Taylor Sheridan's 'Lioness' keeps fans hooked as latest episode raises the stakes in a big way",
+      "url": "https://www.foxnews.com/outkick-culture/taylor-sheridan-lioness-keeps-fans-hooked-latest-episode-raises-stakes-big-way",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Mets On HEATER As Big Prospect News Drops | Presented By Your Local Ford Stores",
+      "url": "https://nypost.com/video/mets-on-heater-as-big-prospect-news-drops-presented-by-your-local-ford-stores/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    }
+  ],
+  [
+    {
+      "title": "El-Sayed taunts Trump, claims he's going to make him 'main character of the midterms'",
+      "url": "https://www.foxnews.com/media/el-sayed-taunts-trump-claims-hes-going-make-him-main-character-midterms",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "CBS News poll on whether Democrats split over socialism",
+      "url": "https://www.cbsnews.com/news/democrats-socialism-economy-political-parties-opinion-poll/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Trump crypto firm backs venture offering AI from restricted Chinese companies",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTHhDcEM5cGN4V2duaGh3RmNtbVZndFdfWHBjSkF5ekRiN1JBVnRULTBUeTVld0I3czliYWZsckdXbVJfLTdJcldxY0V1VnV6NU1sME1uM3BWLUttZzR4RDVPSkJsTXlRQkRSTkFJc2pLelNEYXNBWHpUX1BGdzFBTGtmaFFwdE1DclphZDZncHMyTk5oNmFZSWhQRmVrUHdkaFpCb3ZBWWY4eExmcGZEMkJZekFPTEI3VG4zUQ?oc=5",
       "source": "Reuters",
       "bias": "center",
       "domain": "reuters.com"
     },
     {
-      "title": "Iraqi Kurdish PM Barzani\u2019s office targeted in drone attack",
-      "url": "https://www.aljazeera.com/news/2026/8/17/iraqi-kurdish-pm-barzanis-office-targeted-in-drone-attack?traffic_source=rss",
+      "title": "Trump family crypto firm granted conditional approval to establish a bank",
+      "url": "https://www.cbsnews.com/news/trump-family-crypto-bank-charter/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Lula and Bolsonaro\u2019s son launch rival bids for Brazil presidency",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/lula-and-bolsonaros-son-launch-rival-bids-for-brazil-presidency?traffic_source=rss",
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
     },
     {
-      "title": "Burnham exchanged messages with person posing as Trump's chief of staff",
-      "url": "https://www.bbc.co.uk/news/articles/clyvj5zdjj2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
+      "title": "Brazil\u2019s Lula launches historic fourth term bid \u2013 but son of jailed Bolsonaro stands in his way",
+      "url": "https://www.theguardian.com/world/2026/aug/16/lula-brazil-president-fourth-term-jair-flavio-bolsonaro",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
     }
   ],
   [
     {
-      "title": "Neighbors in rural Texas county are not happy about Elon Musk\u2019s plan to erect world\u2019s largest building",
-      "url": "https://www.marketwatch.com/story/neighbors-in-rural-texas-county-are-not-happy-about-elon-musks-plan-to-erect-worlds-largest-building-2183edcb?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
+      "title": "Police have arrested a 19-year-old in connection with Virginia State University shooting",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMUl1eTVsMHVkaVpUS0Y3SXVicEl6T09oUkNrNE91cWtqUi1qeXVKLVlRdEZyUE1uY0lQcmowckFWbjMzTVpreHYtMWVNbkRORXNuQ3FGdXViT3NZMjRCQWVYRFk3ekZyeWQzQnYyUW4yLVVBS0lMNkRsWXV0ZUxMNjdWMTVhNENtZVBvLW4wbEhVZ1c2WFBKM2FFay1xYjQ1Y2d6VnBKY0dtNWphUU5B?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
     },
     {
-      "title": "Elon Musk's Starbase wants to expand in south Texas",
-      "url": "https://www.npr.org/2026/08/17/nx-s1-5910496/elon-musk-starbase-texas-spacex",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
+      "title": "Ghanaian Migrant Arrested 4 Times in 2 Weeks on Sex-Crime Charges",
+      "url": "https://www.breitbart.com/border/2026/08/16/ghanaian-migrant-arrested-4-times-in-2-weeks-on-sex-crime-charges/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
     }
   ],
   [

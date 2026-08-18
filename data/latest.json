@@ -8,18 +8,25 @@
       "domain": "cnn.com"
     },
     {
-      "title": "Appeals Court Rejects Trump\u2019s Strategy of Picking U.S. Attorneys",
-      "url": "https://www.nytimes.com/2026/08/17/us/us-attorneys-interim-appointments.html",
-      "source": "New York Times",
+      "title": "South Korea president calls for military independence in wake of Trump call to cut joint drills",
+      "url": "https://www.theguardian.com/world/2026/aug/18/south-korea-president-trump-military-drills-control-opcon-kim-jong-un",
+      "source": "The Guardian",
       "bias": "left-center",
-      "domain": "nytimes.com"
+      "domain": "theguardian.com"
     },
     {
-      "title": "Iran threatens new offensive while US rules out extending ceasefire deal",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcVl4WFplN0o4aVNSQ0REMXZlRmNzNTk4dURRMV8wUXhVQjNzVkZ0S3R4el9XSnE1MWZfLXc1RlZtZmJITURZRS1NaThGcXBKV0NZY2JXRGU1c093dzM1M0ZLcUtaRERHS1B4QUtXU3pwUk5XVWpSTEtXXzlTQ1BBZU85ZE50NHZQN2hXa1FTODlNRHU5UzhWS0tzMGktMktwMXI3X3pNYmRFMVIzSTlJbzl5SWRQa05qZ0lXWnM1bw?oc=5",
-      "source": "Reuters",
+      "title": "US states call for big changes to Instagram and Facebook as Meta child privacy trial begins",
+      "url": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "bias": "center",
-      "domain": "reuters.com"
+      "domain": "bbc.com"
+    },
+    {
+      "title": "Trump lashes out at CNN reporter over South Korea question",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-lashes-out-at-cnn-reporter-over-south-korea-question?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
     },
     {
       "title": "Jared Kushner meets Hamas on Mideast trip to push Gaza deal",
@@ -29,67 +36,32 @@
       "domain": "washingtonpost.com"
     },
     {
-      "title": "CNN fires back at Trump White House over attacks on reporter, calls them 'beneath the office'",
-      "url": "https://www.foxnews.com/media/cnn-fires-back-trump-white-house-attacks-reporter-calls-beneath-office",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
+      "title": "How Israel\u2019s Financial Chokehold Is Stifling the West Bank Economy",
+      "url": "https://www.nytimes.com/2026/08/18/world/middleeast/west-bank-economy.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
     },
     {
-      "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
-      "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
+      "title": "Chris Pratt\u2019s Pacific Palisades home returns to the market for just under $20 million",
+      "url": "https://www.marketwatch.com/story/chris-pratts-pacific-palisades-home-returns-to-the-market-for-just-under-20-million-1b83f5c3?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
     },
     {
-      "title": "Trump says Iran will not make the deal he believes is necessary",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/trump-says-iran-will-not-make-the-deal-he-believes-is-necessary?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "Trump threatens Oman, Iran war in stalemate as 60-day talks window ends",
-      "url": "https://www.cbsnews.com/live-updates/us-iran-war-deal-expired-strait-of-hormuz/",
+      "title": "Iran not interested in deal that \"makes sense\" for U.S., Kushner says",
+      "url": "https://www.cbsnews.com/live-updates/us-iran-war-deal-strait-of-hormuz/",
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"
     },
     {
-      "title": "WATCH:  Joshua Baez becomes first MLB player to hit 3 homers in debut",
-      "url": "https://abcnews.com/video/135680711/",
+      "title": "Trump contradicts Vance, says nukes, not oil prices, No. 1 priority in Iran",
+      "url": "https://abcnews.com/Politics/trump-contradicts-vance-nukes-oil-prices-1-priority/story?id=135711978",
       "source": "ABC News",
       "bias": "center",
       "domain": "abcnews.go.com"
-    },
-    {
-      "title": "DRC\u2019s fast-growing Ebola outbreak spreads to sixth province",
-      "url": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    },
-    {
-      "title": "WATCH: WNBA Security Accused of Forcing Mom, Daughter to Cover XX-XY Shirts amid Transgender Debate",
-      "url": "https://www.breitbart.com/sports/2026/08/17/watch-wnba-security-accused-forcing-mom-daughter-cover-xx-xy-shirts-amid-transgender-debate/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
-    },
-    {
-      "title": "White House Responds To Criticism From Sen. Ossoff By Calling Him A \u2018Cuck Loser\u2019",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTkxJU1dOaDNwdjBfanFsWUdoMG0yTkJzRjBSTjdxeC1NM2g1d2tLWDQyWWNKMXQyc3Jrd0l1M3U3bkFncXBlUy14aUR5MlJpV2VkWkhpcjRNd040bEM1RThGdV9JTDJHNHYyS2k3WDhNUW5yaG01RkxRRjdCZ3JJd0VSMTFqN2NkNlBNb3pCaXhET1NnM0Fv0gGcAUFVX3lxTE13UFFLcXB3UlY4bXgtQkFadC1kZlJrMWxVcldHUkNvaDc4M0xVOFZYRkhNT0QwX05JVkhSanpRZnNMcG8zd09PRnFoNUNoYUVLRC1tQlZJUnhDVFJXaGNoOW5JZEpQeFNFZEtsMDlROHVCMFk5aGo4ZTN3dEJaeXJvMnd4UGdOSUJ0MG5HRmFOeWpaemx3bGtVbVFkUw?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    },
-    {
-      "title": "Jeanie Buss says siblings can\u2019t sell family\u2019s Lakers stake, vote is \u2018void\u2019",
-      "url": "https://nypost.com/2026/08/17/sports/jeanie-buss-siblings-cant-sell-familys-lakers-stake/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
     },
     {
       "title": "US pulls last aircraft carrier in Asia as Trump focuses on Iran and the Western Hemisphere",
@@ -99,120 +71,120 @@
       "domain": "apnews.com"
     },
     {
-      "title": "Part of a key firearms law lapsed following a federal court decision. What happens now?",
-      "url": "https://www.npr.org/2026/08/17/nx-s1-5935562/firearms-law-lapsed-federal-court-ruling",
+      "title": "This crowded Republican primary in Florida has drawn a unique cast of candidates",
+      "url": "https://www.npr.org/2026/08/18/nx-s1-5930699/florida-republican-19th-district-carpetbaggers",
       "source": "NPR",
       "bias": "left-center",
       "domain": "npr.org"
-    }
-  ],
-  [
-    {
-      "title": "Jets fans breathe sigh of relief after practice scare for $43M star running back",
-      "url": "https://www.foxnews.com/sports/jets-fans-breathe-sigh-relief-practice-scare-43m-star-running-back",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
     },
     {
-      "title": "Actress Hayden Panettiere dies at 36, found in cardiac arrest",
-      "url": "https://abcnews.com/US/hayden-panettiere-dies-36/story?id=135698473",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    },
-    {
-      "title": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
-      "url": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "Hayden Panettiere Shared Joyful Instagram Post Weeks Before Her Death",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT1FKR3c3LWxJMGFmOFRlbFhHNXZ6SkhwRXJSUnRCckhWMEFKTHBoTGNuZGtKNTBXZGJtWkd0bmtIV2tiMlRuSWlacW5SVUtTRFhPb3l0a1AwRy1iNEY0TXBCSjN5MXYtbFlaRVdIZklpZktacktMMHZaaXJoTklyUHV5aElKMHVuUXFjQmpHQVVPNjZ3UXBTRDF2c2bSAaIBQVVfeXFMTmxjdU9UX013Z1hNLThwa0RPaXdyZlFGbGo3ODBTcXFJRXVfMUVvOFZKS0hUeUJlSGtUS2ZpdmRraGpkNm1XVmJpeTUwY0Fob2d2S3poV2t0dEstcVhGYlR4QWQ1U3FfNFRxQXB6alpES2xPZWxaWmJMb1ktLXJDOFRZN3l3T2s4NHlLYm1CeW5PMmNvU01CS01FQlZQN1AtUUpB?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    },
-    {
-      "title": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
-      "url": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    },
-    {
-      "title": "California\u2019s water and power supply threatened as Lake Powell hits record low",
-      "url": "https://nypost.com/2026/08/17/us-news/lake-powell-hits-record-low-threatening-californias-water-and-power-supply/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "Lake Powell Hits Lowest Level On Record As Water Crisis Continues",
-      "url": "https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "Why this popular Treasury-bond ETF is trading at its lowest since 2004",
-      "url": "https://www.marketwatch.com/story/why-this-popular-treasury-bond-etf-is-trading-at-its-lowest-since-2004-27de9a77?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
-    },
-    {
-      "title": "Cambridge College Head Calls for Investigation into 'Media Onslaught' Against Alleged Plagiarist Professor",
-      "url": "https://www.breitbart.com/europe/2026/08/17/cambridge-college-head-calls-for-investigation-into-media-onslaught-against-alleged-plagiarist-professor/",
+      "title": "WNBA Admits Security in Atlanta Was Wrong for Asking Mother and Daughter to Cover 'XX-XY Athletics' Shirt",
+      "url": "https://www.breitbart.com/sports/2026/08/17/wnba-admits-security-atlanta-was-wrong-asking-mother-daughter-cover-xx-xy-athletics-shirt/",
       "source": "Breitbart",
       "bias": "right",
       "domain": "breitbart.com"
     },
     {
-      "title": "DHS defends investigating agency critics and giving them warning notices",
-      "url": "https://www.npr.org/2026/08/17/nx-s1-5934692/dhs-free-speech-investigations",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
+      "title": "MORNING GLORY: SCOTUS should urgently allow construction at the White House to proceed",
+      "url": "https://www.foxnews.com/opinion/morning-glory-scotus-should-urgently-allow-construction-white-house-proceed",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
     },
     {
-      "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 47 and toppling buildings",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXcybXB5SWdoQlRJUDd5anhCRHFhZmFEV05GOU9HZVozTjFFOTJsS081dVlpZDNHLThNQmh1R2hwMkZrZy15eDhpUnNlWE03LWFrMVlOMFNLN2x6U29wOHhwRGtKYzQzV2xkUjdDaS1JRllIZV9JZVUxVFZ3UlFjeTZtRXRiVWQ0NkhlV0V2TzhQaEVYRUpkQw?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
+      "title": "White House Triples Down After Trump Snaps At CNN Reporter",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON3RjcTZhaXBDZm5jcDY0STJpX05VLXg5c0hvYWVCTkpkVnJ5SDB0M01ualV6T19YQjRIYzZyLThTS2RnV2k1djFmeUJ1LXhXT1pZcWV4SklYaktBemRCLXBzeF9lTGZVZXRPckJ6bHBOcXdEeGlEcjg5NG5IcEhCQ0c4RFUxNEtvdDBPbGZ1TVBvQ0XSAZgBQVVfeXFMTm5kcV9YSzJ6Z0h0S0NQdkJNSEM3aHJVYVdBbWxwbW51U0JhVTR6NGVmOUQwNGZXR2ZsbXo5QmNkNGIyZGQtVE1GdXpSMVRxN01QMERNdVgtRGdLVkVlTWtYY29jb1NoVWVObGlzWnB0WWdwcHRoTkdtLU9wUjd2Zk14QUZBeU5lM1NlTmEwcWIwdGsxOVNjajA?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
     },
     {
-      "title": "As rubble clears, Colombia begins focusing on recovery after the earthquake",
-      "url": "https://www.aljazeera.com/news/2026/8/17/as-rubble-clears-colombia-begins-focusing-on-recovery-after-the-earthquake?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
+      "title": "Wife of hedge fund mogul barred from testifying in record-breaking NJ divorce case after hacking his email, stealing his mail: judge",
+      "url": "https://nypost.com/2026/08/18/us-news/wife-of-hedge-fund-mogul-barred-from-testifying-in-record-breaking-nj-divorce-case-after-hacking-his-email-stealing-his-mail-judge/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
     }
   ],
   [
     {
-      "title": "EXCLUSIVE: Trump approval falls to 33%, lowest of his presidency, Reuters/Ipsos poll finds",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQi1faldMbmRDZnpQWWdTWWtyQmZZOVRnU01BVEt5aVdEQ0xxeGlWdmlNR1k4c2lWODJmcjNHUkFFc3BwLTgzVjQyd0dkTXJnUGdvN1hJeHZ0SC1aYzlVZC1DQW1ZM0NjdWhUby1JRzBjQmg1cDdjMEEydjRlVTlkT2Q4ODJad2s3eXhEaVlEY1JnVm01Y0FQb2lhLS10dGpPSlQ2aFBjQy1kTkdyOFhWWGtkMWM?oc=5",
+      "title": "Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'",
+      "url": "https://www.bbc.co.uk/news/articles/c5ywe951z80o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "Hayden Panettiere\u2019s ex-fianc\u00e9 Wladimir Klitschko laments actress\u2019 death after obtaining custody of their daughter",
+      "url": "https://pagesix.com/2026/08/18/celebrity-news/hayden-panettieres-ex-fiance-wladimir-klitschko-laments-actress-death-after-obtaining-custody-of-their-daughter/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
+      "title": "Hayden Panettiere remembered by co-stars and friends after her death",
+      "url": "https://www.cbsnews.com/news/hayden-panettiere-death-celebrity-tributes-reactions/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "New Details Released Surrounding Death Of Hayden Panettiere",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRWJIUEdFZjhZOV9ESk5sRkZtODd2TWdlcWFKbWNaSUNKS1c3aTktRnZwN3dWazRuSExmb0VxdjU2eDFZczAtZHdyakRjeGh3SmRNQWpPaFpHODRodVhZREtZT3FpdmNJaEJlRktEZF9vUXBGeUtaejllQlg5UWRXT2t0RUp3Y1h0bjdxYTZEZ1RDRFJrWFR1OUFWWlhSU2U0UklKZWFQQndMZ1FsZjUyNFBKYjlqMWFa0gG-AUFVX3lxTFBjQzd3YThsV3dyVFNyX2xwSHliTTJMc2ZrczdIcEZhVW1keDVaUEZDd0ctdFY5dW40VDdlRWxOdjJpTTNiVlJHQnN4dTU0VTdhdDNxdHo4RkJNcHFqclpUSnREbEh6bVZ1Nk1fUXZVc0hCb2NkRVJ0UnNtY2NKd3FJZlJhUTg2ZnYxX1BVcEcyRWl0LUdBZkpIWjRIclJlTlRSdVJpSmV6YTlndUJDcnZMYWZUNmx1a3M5bXNTRGc?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    },
+    {
+      "title": "Hayden Panettiere 'left this world far too soon,' says ex-fiance Wladimir Klitschko",
+      "url": "https://abcnews.com/GMA/Culture/actress-hayden-panettiere-left-world-fiance-wladimir-klitschko/story?id=135730093",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    },
+    {
+      "title": "Hayden Panettiere, who starred in \u2018Heroes\u2019 and \u2018Nashville,\u2019 dies at 36",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ0VPOUpJN1VQNnRNNUV3U3dMWHc4TlpzbGNIc2l6OHBvVHVZWXdmc1JrNTVfVFdBemJMZGtRQnVkcUtnZjV4UzZ3UV9PR1o0ZzczSUh1UTh6M3owVC1xWS1NcjNLbmdOeXVwY0RyNmhjNTQxLXF0b2ttV1dCMHpuYS13bWhwQUZlVkE?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Russia warns Britain of 'consequences' for supplying drones to Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZUVfTGNVRktRc2R4dkg0YXI4SndIblJaQngxMHlLNFZ5Z285ZzF3UHBIMTl2VGVUanpfRmhSR1BXcDJoNTNPNV9GUFZDSTcyMGFSQU4wblUtWm9zOWZ0cFU3eEdxc0dtNDdsS2tBUWRlX3hTOGtzemJiSi1nek1QWm9lb3c3NC1ZYllvb3RiTS1yX1ZrdHNrbzFJZi1uNHVzTGJfUHFB?oc=5",
       "source": "Reuters",
       "bias": "center",
       "domain": "reuters.com"
     },
     {
-      "title": "Trump\u2019s approval rating sinks to new low at 33 percent",
-      "url": "https://www.aljazeera.com/economy/2026/8/17/trumps-approval-rating-sinks-to-new-low?traffic_source=rss",
+      "title": "Russia warns UK will pay for supplying drones to Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "Top Russian economist ousted after warning of growing costs of Ukraine war",
+      "url": "https://www.aljazeera.com/news/2026/8/18/top-russian-economist-ousted-after-warning-of-growing-costs-of-ukraine-war?traffic_source=rss",
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
     },
     {
-      "title": "Trump Approval Falls To 33%, Lowest Level Of His Presidency: Poll",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQWxnX0lneGJZZFVmMy13UGVPcU9XQ2NLci10R1hHczM1ODhtM1V5SWVEbXJPei1aZFFUNDRzbTJqUnNzX2xXUkJOUV9rNlhyUTFEOTRETVBKb1lqTG12TUxyZ2ducU5ObFBrRmNpTVpQNVZLLXM3MWdmcml3RE9ldzZnNklTd9IBiwFBVV95cUxQQWZfdWo5UjI5TVlDbTJIODVaU2tnX0FtVV9mYTNFaFg4d0FtUjk4S2R5WVFmajh1WTlBT0YtMUU5VVlNdmZlc25pNHJzVENEalBlb21NWGdXdjViNklTLVotZG5XOXZMT1JxLWMyd3FkblBfbG5MejR0ZmgtTE5Ja3kxV2pLZ1F3Mm9j?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
+      "title": "A Mother\u2019s Quest to Rescue Her Son From Russian-Occupied Ukraine",
+      "url": "https://www.nytimes.com/2026/08/18/world/europe/ukraine-russia-rescue.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Two Chicago-bound planes suffer tire blowouts three hours apart after landing at O\u2019Hare airport",
+      "url": "https://nypost.com/2026/08/18/us-news/american-airlines-plane-united-jet-suffer-tire-blowouts-within-hours-at-chicago-ohare-airport/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
     }
   ],
   [
@@ -224,11 +196,144 @@
       "domain": "cnn.com"
     },
     {
-      "title": "\u2018Truth or fiction\u2019: US trial of Tupac Shakur\u2019s accused killer begins",
-      "url": "https://www.aljazeera.com/news/2026/8/17/truth-or-fiction-us-trial-of-tupac-shakurs-accused-killer-begins?traffic_source=rss",
+      "title": "She told no one about her agony except ChatGPT. What her death reveals about AI risks",
+      "url": "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "DOJ asks court to reinstate criminal charges against Abrego Garcia",
+      "url": "https://www.cbsnews.com/news/doj-asks-court-reinstate-charges-kilmar-abrego-garcia/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Appeals court rules Trump admin unlawfully appointed Nevada's top federal prosecutor",
+      "url": "https://www.foxnews.com/politics/appeals-court-rules-trump-admin-unlawfully-appointed-nevadas-top-federal-prosecutor",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Philippine student live-streamed fatal school shooting before taking own life, official say",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObG5kajhPXzU2TjVKb09obHlMNDEwRTRyVUhjTVNIRlRHMDc3OVg1VXZsM3hLMGZEQm9hWDhvQXVHMWJ1ZDBZNmlhanVoanhLYXNsb1hJOHpwV05yS2MySTlseFpOR0xVVF8zeFF3Y3p5TlJmZ2xqbHZhY2pweFlDNU4xWDhMNDNHaFhtNV9DY2RDaGlsOXc2MzhwZTJORVY5R0VqSHNTTmZQVXVxdEF1ZDdXZTB1SDVGSXNRMy1HbjZpelN2RnZHaDRzUnBtZ0E?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Videos show deadly school shooting in Philippines",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/videos-show-deadly-school-shooting-in-philippines?traffic_source=rss",
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
+    },
+    {
+      "title": "Student kills schoolmate and himself in livestreamed Philippine school attack, official says",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOWJhMlJZekdIMG1VYmt2ZU5DZUR6N0RsR1BIekJsbXpJMzlSZDRBVmduRXd2RDVvY3MwbkljSVBzNTJLbGNuTnBiNGI1ZWw2Mm1EemJaRVEyTzF6ZHd6amplRG1mWGdUNnktMWRadkctM0gyajVVNk9oQVlmU3IxTmNESlNRRXBOV2JvMUxOOFc2ZmRDYld1OWxoSFF5QQ?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Newly released video shows scene of Jeremy Renner's snowplow accident",
+      "url": "https://www.cnn.com/videos/us/2023/04/18/jeremy-renner-snowplow-accident-bodycam-nc-melas-contd-vpx.cnn",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
+    },
+    {
+      "title": "Newly released data shows which American cities have the most passionate fanbases in the NFL",
+      "url": "https://www.foxnews.com/outkick-sports/newly-released-data-shows-american-cities-most-passionate-fanbases-nfl",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Virginia man acquitted by insanity in killing flees US during 48-hour mental hospital pass",
+      "url": "https://www.foxnews.com/us/virginia-man-acquitted-insanity-killing-flees-us-during-48-hour-mental-hospital-pass",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Virginia man acquitted by insanity in killing flees US during 48-hour mental hospital pass",
+      "url": "https://nypost.com/2026/08/18/us-news/virginia-man-acquitted-by-insanity-in-killing-flees-us-during-48-hour-mental-hospital-pass/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    }
+  ],
+  [
+    {
+      "title": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail, his party says",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVGZFRmk3eFl2TkpCVERjbnZWVzQxblROOXAtU1QzWjladlllUk8ySUxFQ0lYWVlld21JMF8xampzYWRyQktLd0xFbFl5VEJkNGxCWnlRbWVQMXZoTlRWZW0tNTFiWjk0SkFmYTc0dGdNaWI4SlVzR0o0LW9UQUR6c3plWTVPSW5ET3dPVjVDZGNvZTAxNXVhbzBWeG1SMC0tcHJiRElQaE53TnVfU1d2R0lKdmR4WTVXNlNCeUV6Qk9udDVJbTQwSFFDQmI?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Pakistan top court orders Imran Khan\u2019s hospital transfer amid access battle",
+      "url": "https://www.aljazeera.com/news/2026/8/18/pakistan-top-court-orders-imran-khans-hospital-transfer-amid-access-battle?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    }
+  ],
+  [
+    {
+      "title": "A dispute about fact vs. fiction at the trial over Tupac Shakur's 1996 killing",
+      "url": "https://www.npr.org/2026/08/18/g-s1-139061/tupac-shakur-killing-trial",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "Tupac Shakur was murdered in \"act of revenge,\" prosecutor tells jury",
+      "url": "https://www.cbsnews.com/news/tupac-shakur-murder-trial-opening-statements-keffe-d-davis/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Trump administration briefly pauses contentious border project in Texas' Big Bend National Park",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOU5vVk54X1dmbDBBVXItdUpaZy1nM1doRDQ1TFh6WE9ibHBzdDFTMjh3aTVJa255TTlpZkNaNzY0NnAzSUJnVHJZM2FVOWhDcVh3MzU0UEdLQVhPLUtHVE14S1NLR182VXFRS0dlQjNpNzdES1BPUFJfbU0yT1ltN2tCVlZTcDFRLTUyUGI1akpDZzJDOUtKa0Z4YlJHbkVaUXpEdWFERGhHNWM?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Trump Administration Briefly Pauses Contentious Border Project In Texas' Big Bend National Park",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM1NEVkVqTmdySjU5dXQxTDR5ZUFNQ2tRd21SOVVzVHpzYi1zd2Z4NDRkTURPRmRYQmt0d3BmYUhKc0FHazlaRUgzVFM0LWp3THhDZFdlbHUzdi1yV2RwNEw1bHBPN045WmY4Y19LSDdDY3V6M29wNmRSelAxU2pLbjNiY2s3MWJycTlVaUhESVBIZHh3VXfSAZsBQVVfeXFMUDdyOExDb1BEWWdfV0dKdG1VdDFTcFR5U1NJSTR1dGtmT1N3a0NHM1lYazZvTVBHdENvU0NXVGtnU2g5UER0ZUFhTmtORU1lYkhIWUZkREV1MzBtalYwSnR6NWR3ZXE5X19tbU9hVlcxNEdKY1hGSVVQX0NoMW5ST0FUZG9kR1hqa2ZpVTdhWWoxSFU0X3FFRVA1Y0E?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    }
+  ],
+  [
+    {
+      "title": "Homes destroyed by mudslide brought by Lala on Hawaii's Big Island",
+      "url": "https://www.cbsnews.com/news/tropical-storm-lala-hawaii-big-island-mudslide/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "WATCH:  Lala batters the Hawaiian Islands",
+      "url": "https://abcnews.com/video/135694250/",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
     }
   ]
 ]

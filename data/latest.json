@@ -1,53 +1,32 @@
 [
   [
     {
-      "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
-      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+      "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges",
+      "url": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html",
       "source": "CNN",
       "bias": "left",
       "domain": "cnn.com"
     },
     {
-      "title": "South Korea president calls for military independence in wake of Trump call to cut joint drills",
-      "url": "https://www.theguardian.com/world/2026/aug/18/south-korea-president-trump-military-drills-control-opcon-kim-jong-un",
-      "source": "The Guardian",
+      "title": "Family desperately searches for missing woman after getting mysterious texts demanding bitcoin",
+      "url": "https://www.cbsnews.com/video/family-desperately-searches-for-missing-woman-as-her-family-receives-mysterious-texts-bitcoin/",
+      "source": "CBS News",
       "bias": "left-center",
-      "domain": "theguardian.com"
+      "domain": "cbsnews.com"
     },
     {
-      "title": "Iran live updates: Trump posts map labeling Strait of Hormuz 'new\u2019 US territory",
-      "url": "https://abcnews.com/International/live-updates/iran-live-updates-tehran-adopt-offensive-aspect-irgc/?id=135700072",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    },
-    {
-      "title": "Hayden Panettiere reflected on Michelle Trachtenberg friendship months before death",
-      "url": "https://pagesix.com/2026/08/18/celebrity-news/hayden-panettiere-reflected-on-michelle-trachtenberg-friendship-months-before-death/",
+      "title": "Michelle Rodriguez declares it\u2019s \u2018not normal\u2019 how many young stars are dying after Hayden Panettiere\u2019s passing",
+      "url": "https://pagesix.com/2026/08/18/celebrity-news/michelle-rodriguez-declares-its-not-normal-how-many-young-stars-are-dying-after-hayden-panettieres-passing/",
       "source": "New York Post",
       "bias": "right",
       "domain": "nypost.com"
     },
     {
-      "title": "Wladimir Klitschko mourns former fianc\u00e9e Hayden Panettiere, vows to keep her memory alive for daughter Kaya",
-      "url": "https://www.foxnews.com/entertainment/wladimir-klitschko-mourns-former-fiancee-hayden-panettiere-vows-keep-memory-alive-daughter-kaya",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'",
-      "url": "https://www.bbc.co.uk/news/articles/c5ywe951z80o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "Why states fought to present a united case against Meta over youth social media harms",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOX3FHbXBtZHEzMmxmanl0Vm5UUTIyNWxXNHlRQk5TYUgyUWhzVVRFUURSb1BiMXpYZGRFZ2o1MDNLRzlQcXhReUVicFp6QjQ4REVmcjlMRG1uT3dtT3RLc0oxX1JSaTAyWXdjcjEtYldWd05CT252S2ZBRXlaNDA3dlFSNUF2U21xZ0U5dUJpZ2NxQ3NSQ3hlWlUyVmR2Q1BJdGY1YXNQX0dHUjBQaWZsTTBlczZ1QU9QWko0LVlrdU1oVTEydm5KTkdfRy1LUQ?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
+      "title": "Philippine school shooter kills fellow student and himself in livestreamed attack",
+      "url": "https://www.theguardian.com/world/2026/aug/18/philippines-school-shooting-two-dead-zamboanga",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
     },
     {
       "title": "Jared Kushner meets Hamas on Mideast trip to push Gaza deal",
@@ -57,11 +36,39 @@
       "domain": "washingtonpost.com"
     },
     {
-      "title": "US pulls last aircraft carrier in Asia as Trump focuses on Iran and the Western Hemisphere",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS1ZVeVR3dkRTVHNDamZQUkxBc0FUS1RVQlh4WnJnM0hESmZYZUhMdkk1a3JaNE9IQUFMT2hGWU1CU1VkYkxCbUVpUGp0YzJNYmU2U05tZ2ViNE5hWVVnZUtyUW0zNjVLMk9IRDBVSzR0cTFlY0dsUDRGUXlEaWlFUFN5Qk5LTnJkQ0R5NDRpSUpiWmFoQVpKQ2VHaHJIY0o5SmN2OUE5Zm1ndw?oc=5",
-      "source": "Associated Press",
+      "title": "Iran live updates: Trump posts map labeling Strait of Hormuz 'new' US territory",
+      "url": "https://abcnews.com/International/live-updates/iran-live-updates-tehran-adopt-offensive-aspect-irgc/?id=135700072",
+      "source": "ABC News",
       "bias": "center",
-      "domain": "apnews.com"
+      "domain": "abcnews.go.com"
+    },
+    {
+      "title": "Trump's Slight Of South Korea In Favor Of The North Raises Broader US Security Concerns",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOLWJJREN4Zi1TZEYzRGVlbmFmUjMtOTFzMThyLWRNOVZrZm9BaHlZTEZpdHdJQWNYMWZaQzNhdi1qZEQyUXUtWEJVWU8zYnhSc0J2MW4ycUdJNjhaMmFDRTRkRlNwR1V5THJ5SDdsdjQxUEpUS25MZk9meHFERGpMOFhR0gGHAUFVX3lxTE9MNEl5b2dUZzRKY1pRQ1Z4ZHVIQmE5Q05yRnZvU2JSandXZ2NZQ0FPT1BQQnVnUFkxNjhpaWRRdk9mT1RhblQtZmIyRkNTWDlTTDlRS0xsSlJBZmFVZEdZNHdqUzdQSmZqVHRuWXpoRG5OejY0NzUwNkUyZHk2MldqZDNYME9ocw?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    },
+    {
+      "title": "Trump says no talks are taking place with Iran and none are scheduled",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSHhKekZqU0IxWEQwY2JOckhOeTBJd0FraHloM25INUJuQXNnRk5BM1JzU05UTl9RbDVSUnVkbWVzYlpaaV9lRG16bloxZGxRRXQ5dlV2a1plTkpHXzQ5Smg0Nlk0c3VjdFZLSjdkRHIxLVl6Sm5yamhoVWF3SlowaDVYV01QdGE0emdOd3N6cnFOeW5FbDRsdEExSTNNMFFMOUtYQjFDakRUbWdVbVNoWkNCcm02RkhYcjUw?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Trump\u2019s affordability plan faces conservative pushback as pocketbook issues loom over midterms",
+      "url": "https://www.foxnews.com/politics/trumps-affordability-plan-faces-conservative-pushback-pocketbook-issues-loom-midterms",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Jimmy Kimmel infuriated Trump. Now Disney is suing the FCC over what it calls a \u2018retaliatory campaign.\u2019",
+      "url": "https://www.marketwatch.com/story/disney-sues-fcc-over-broadcast-license-threat-9fb4745d?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
     },
     {
       "title": "U.S. and Iran miss peace talks deadline. And, Alaska, Florida and Wyoming primaries",
@@ -71,122 +78,102 @@
       "domain": "npr.org"
     },
     {
-      "title": "\u2018What The Actual F**k\u2026\u2019: White House\u2019s \u2018Vindictive\u2019 Attack On CNN Journalist Sparks Fury",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeHRFenczYlV4X0lqY19PMzVRZmx3b3hNM25xNWRxMzdKSzkyZTQ1MHlWdDFXamtyWkc0dTJrbkhnNlR0bUR2TWNDMElpcnZYR2pJWXR1Mm13cFNPTElHSF9yNzhVQ2lLMmJ2Z01rNXZMb0ZCRnlYLXFxZGNFY3JqUm5ENFBEVnN5UEY0dkI3NllJcXZmUzIydzF30gGfAUFVX3lxTE52NXB0VFZ3UkJxd2NKbF91YmxmeUtwVjBQNEFqNm9GRk9Kb2c3RkphRXhVdU8tc2NaYmtFX3gzQlNHaGZydVZHUHd6SDV3cjF0SURoUjc4YnJTampJTXZZSHpNX19YS3Y0S05oUkNYOXpNNDdvSEExRno3MEdJd0lVb0d0d2hkaWd2bWtuM1JuSkRBUGlySVVGdVk1Qkw2NA?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
+      "title": "What to watch in the Alaska and Wyoming primary elections",
+      "url": "https://www.aljazeera.com/news/2026/8/18/what-to-watch-in-the-alaska-and-wyoming-primary-elections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
     },
     {
-      "title": "Iran not interested in deal that \"makes sense\" for U.S., Kushner says",
-      "url": "https://www.cbsnews.com/live-updates/us-iran-war-deal-strait-of-hormuz/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "It\u2019s Crunchtime Again for Canada to Avoid New U.S. Tariffs",
-      "url": "https://www.nytimes.com/2026/08/18/world/canada/trade-tariffs-trump-carney.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "WNBA Admits Security in Atlanta Was Wrong for Asking Mother and Daughter to Cover 'XX-XY Athletics' Shirt",
-      "url": "https://www.breitbart.com/sports/2026/08/17/wnba-admits-security-atlanta-was-wrong-asking-mother-daughter-cover-xx-xy-athletics-shirt/",
+      "title": "Single Family Housing Starts Fall to Lowest Level in Nearly Four Years",
+      "url": "https://www.breitbart.com/economy/2026/08/18/single-family-housing-starts-fall-to-lowest-level-in-nearly-four-years/",
       "source": "Breitbart",
       "bias": "right",
       "domain": "breitbart.com"
     },
     {
-      "title": "Japanese activist keeps protesting against Israel\u2019s genocide in Gaza",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/japanese-activist-keeps-protesting-against-israels-genocide-in-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Bond Yields Jump and Stocks Slip as Iran Stalemate Unsettles Investors",
+      "url": "https://www.nytimes.com/2026/08/18/business/oil-prices-bonds.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "AI stocks pull Wall Street further from its record as bond yields keep rising",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQajRMMnNScjR5Tk1jNTZNZ1loMVctaUFVWWtjNHZhRGZzTWNvQWkzalRDZ1pNVjFjRGd5RVZyRTJ5dkVVOVpmVEVlczg0d2NWOTQtYTlyTnBLTlJTZ2FFVnNhTm1BNll2bGRWTGF2c3JCZHNpRlBudFFrNEJlUTVJVVI5b1d6T29pRDNhNEpMYVd6RVRVX3VZ?oc=5",
+      "source": "Associated Press",
       "bias": "center",
-      "domain": "aljazeera.com"
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Earl Spencer to 'tell the truth' about his sister Princess Diana in new book",
+      "url": "https://www.bbc.co.uk/news/articles/cx25z3rkrrgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
     }
   ],
   [
     {
-      "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges",
-      "url": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html",
+      "title": "Millions in the US could face massive consequences unless McCarthy can navigate out of a debt trap he set for Biden",
+      "url": "https://www.cnn.com/2023/04/18/politics/mccarthy-biden-debt-ceiling/index.html",
       "source": "CNN",
       "bias": "left",
       "domain": "cnn.com"
     },
     {
-      "title": "She told no one about her agony except ChatGPT. What her death reveals about AI risks",
-      "url": "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    }
-  ],
-  [
+      "title": "White House tears into Ossoff with brutal takedown after jab at key Trump aide: \u2018Lightweight loser\u2019",
+      "url": "https://www.foxnews.com/politics/white-house-tears-ossoff-brutal-takedown-after-jab-key-trump-aide-lightweight-loser",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
     {
-      "title": "A 13-year-old dies after participating in a Benadryl TikTok 'challenge'",
-      "url": "https://www.cnn.com/2023/04/18/us/benadryl-tiktok-challenge-teen-death-wellness/index.html",
-      "source": "CNN",
+      "title": "White House Triples Down After Trump Snaps At CNN Reporter",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON3RjcTZhaXBDZm5jcDY0STJpX05VLXg5c0hvYWVCTkpkVnJ5SDB0M01ualV6T19YQjRIYzZyLThTS2RnV2k1djFmeUJ1LXhXT1pZcWV4SklYaktBemRCLXBzeF9lTGZVZXRPckJ6bHBOcXdEeGlEcjg5NG5IcEhCQ0c4RFUxNEtvdDBPbGZ1TVBvQ0XSAZgBQVVfeXFMTm5kcV9YSzJ6Z0h0S0NQdkJNSEM3aHJVYVdBbWxwbW51U0JhVTR6NGVmOUQwNGZXR2ZsbXo5QmNkNGIyZGQtVE1GdXpSMVRxN01QMERNdVgtRGdLVkVlTWtYY29jb1NoVWVObGlzWnB0WWdwcHRoTkdtLU9wUjd2Zk14QUZBeU5lM1NlTmEwcWIwdGsxOVNjajA?oc=5",
+      "source": "HuffPost",
       "bias": "left",
-      "domain": "cnn.com"
+      "domain": "huffpost.com"
     },
     {
-      "title": "Heroic mom of three dies after jumping into river to save her son, 7, on family fishing trip",
-      "url": "https://nypost.com/2026/08/18/us-news/illinois-mom-of-3-dies-after-jumping-into-river-to-save-son-7-on-family-fishing-trip/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    }
-  ],
-  [
-    {
-      "title": "Rotting food stench still hangs over neighborhood weeks after massive warehouse blaze",
-      "url": "https://www.foxnews.com/travel/rotting-food-stench-hangs-neighborhood-weeks-massive-warehouse-blaze",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "WATCH:  Firefighters continue to battle flames of massive gas tank explosion outside Tulsa",
-      "url": "https://abcnews.com/video/135722399/",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    }
-  ],
-  [
-    {
-      "title": "Mets rookie Carson Benge dazzles with two outfield assists in win over Padres",
-      "url": "https://www.foxnews.com/sports/mets-rookie-carson-benge-dazzles-two-outfield-assists-win-padres",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "WATCH:  Joshua Baez becomes first MLB player to hit 3 homers in debut",
-      "url": "https://abcnews.com/video/135680711/",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    }
-  ],
-  [
-    {
-      "title": "AI isn\u2019t just a problem, it\u2019s a solution. Some people are already making the most of it",
-      "url": "https://www.foxnews.com/opinion/ai-isnt-just-problem-its-solution-people-already-making-most",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "Many recent grads say AI is making it harder to get a job. Economists aren't so sure",
-      "url": "https://www.npr.org/2026/08/18/nx-s1-5910677/recent-college-graduates-employment-job-artificial-intelligence",
-      "source": "NPR",
+      "title": "Trump Takes Aim at CNN Reporter Kristen Holmes During Event to Honor California Lifeguard",
+      "url": "https://www.nytimes.com/2026/08/18/us/politics/trump-lifeguard-cnn-reporter.html",
+      "source": "New York Times",
       "bias": "left-center",
-      "domain": "npr.org"
+      "domain": "nytimes.com"
     }
   ],
   [
+    {
+      "title": "Lindsay Clancy's family was 'very concerned' about her mental health in the months before she killed her kids",
+      "url": "https://www.foxnews.com/us/lindsay-clancy-family-concerned-mental-health-months-before-killed-kids",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Watch Live: Former mother-in-law says Lindsay Clancy was \"begging for help\"",
+      "url": "https://www.cbsnews.com/news/lindsay-clancy-trial-watch-live-day-15/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Mom and sister testify about Lindsay Clancy's declining mental state before she killed her children",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRmZnc2VjQW84ajBSWlRrZGZyaHRVTnUxcXAxUjJXSFBQamN4eDdzYjAzUnJGdVFTRzZSU05wOXNFTC1BMjdwa0piZ3Y0Q0ZzckZmY1hkQWNOV2ZnMExwZERBR3Z0ZHlEYmZmTmhQTnZYbmo0bldLaGR0SWJjeWpXMTRfX2lmNTNtQ1dVRUI4UG8xQVRlSWxfUDJKXzFJbGlxSGZFeWdRcUhudGpsVHZV?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    }
+  ],
+  [
+    {
+      "title": "UK will continue to support Ukraine '100%', PM Burnham says",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS3A0elJfT3E2dEdPOXctTVNsTDkzelQ3TlFIT1B2YUJxTXVnajVyV2hXcVBodk9fQk1OTFRteDMyd0pkSlFiWEI1RkVfLU1pdDZPS0hiREt4QzJuakhwaENrSDNWQnlnU19yTm9FY25hSGF5NjI2UnRVdjZYRU1CNlNtOGlZT01ibnExLUFiSVR0OU9Fa3NIVllR?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
     {
       "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
       "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
@@ -204,50 +191,80 @@
   ],
   [
     {
-      "title": "OpenAI makes ChatGPT less 'human' for teens in new safety update",
-      "url": "https://www.bbc.co.uk/news/articles/czxqz91n5n8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "OpenAI Introduces \u2018ChatGPT for Teens\u2019 as Safety Concerns Grow",
-      "url": "https://www.nytimes.com/2026/08/18/technology/chatgpt-for-teens-openai.html",
+      "title": "States Seek $200 Billion From Meta Over Child Social Media Addiction Claims",
+      "url": "https://www.nytimes.com/2026/08/18/technology/meta-social-media-addiction-trial.html",
       "source": "New York Times",
       "bias": "left-center",
       "domain": "nytimes.com"
-    }
-  ],
-  [
+    },
     {
-      "title": "Trump administration briefly pauses contentious border project in Texas' Big Bend National Park",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOU5vVk54X1dmbDBBVXItdUpaZy1nM1doRDQ1TFh6WE9ibHBzdDFTMjh3aTVJa255TTlpZkNaNzY0NnAzSUJnVHJZM2FVOWhDcVh3MzU0UEdLQVhPLUtHVE14S1NLR182VXFRS0dlQjNpNzdES1BPUFJfbU0yT1ltN2tCVlZTcDFRLTUyUGI1akpDZzJDOUtKa0Z4YlJHbkVaUXpEdWFERGhHNWM?oc=5",
+      "title": "States take Meta to trial in California in the biggest fight yet over social media harms to children",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOG5rZWdhbGRKSkV4UlBQOEtWWVpoS05LbkFqcWVRMzFwWm9OV0pFRXpQNXB4R0tRNEJneDk5eHhYZlpJYWJDQnNjT0Q4QlpCTTlsbE5TUS1Rd2RZX0lSTFJpa21ycDZXWDNTcENUcG9Sc01UeHphX2V5bDR1dllld0I4V1d1Q3ZYSXpURVRfemRqUVhvLWQzd2RYaTZuN1lrY0E?oc=5",
       "source": "Associated Press",
       "bias": "center",
       "domain": "apnews.com"
     },
     {
-      "title": "Trump Administration Briefly Pauses Contentious Border Project In Texas' Big Bend National Park",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM1NEVkVqTmdySjU5dXQxTDR5ZUFNQ2tRd21SOVVzVHpzYi1zd2Z4NDRkTURPRmRYQmt0d3BmYUhKc0FHazlaRUgzVFM0LWp3THhDZFdlbHUzdi1yV2RwNEw1bHBPN045WmY4Y19LSDdDY3V6M29wNmRSelAxU2pLbjNiY2s3MWJycTlVaUhESVBIZHh3VXfSAZsBQVVfeXFMUDdyOExDb1BEWWdfV0dKdG1VdDFTcFR5U1NJSTR1dGtmT1N3a0NHM1lYazZvTVBHdENvU0NXVGtnU2g5UER0ZUFhTmtORU1lYkhIWUZkREV1MzBtalYwSnR6NWR3ZXE5X19tbU9hVlcxNEdKY1hGSVVQX0NoMW5ST0FUZG9kR1hqa2ZpVTdhWWoxSFU0X3FFRVA1Y0E?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
+      "title": "WATCH:  'Dance Dance Revolution' ignites sibling rivalry",
+      "url": "https://abcnews.com/video/135707633/",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
     }
   ],
   [
     {
-      "title": "Woman returns to her community to survey damage from Hurricane Lala in Hawaii: \"We need help\"",
-      "url": "https://www.cbsnews.com/video/woman-returns-to-her-community-to-survey-damage-from-hurricane-lala-in-hawaii-we-need-help/",
+      "title": "Palestinian American returns to his West Bank home, under siege by Israeli settlers",
+      "url": "https://www.npr.org/2026/08/18/nx-s1-5936098/palestinian-american-return-west-bank",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "Palestinian American returns to West Bank to defend his home under siege by Israeli settlers",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWlZTbzV4R3BNYUhaSzZEMzRXdlhvQkVQZ3pXcWZhbGZXRXV0WFBNODNfN1BWcW9BS3kwOWtOXzB3OTI2a0ZuSHhPOEV0aGRTeHd3Tm83a0U3NEl3YlozMC1MVUZKdjhyOXRiM0U4ZlozQXVJRnF4eXozQm80UTdSMVlWOVVyX09FcjBpMmtCaHdhWEdjaXd1amdSYk1NSllfb09uT0ZQc0RjYWk5cDBBdjRMdDQ?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Palestinian-American confronts Israeli settler at his besieged home",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/palestinian-american-confronts-israeli-settler-at-his-besieged-home?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    }
+  ],
+  [
+    {
+      "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
+    },
+    {
+      "title": "Supreme Court again rebuffs Trump\u2019s push to toss out $5 million verdict in E. Jean Carroll case",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWG5pa0EzRGh3aU54bTd2SnphaFFPVTdSY3ZHdzljZU5FUlEyRHRfbGx5aVk2MUpOdURyWjEwVndxMVdIcTROZUdFQWUxaVlBRkpOTk05YjBYNlBUbW9nWllmZkY5RjZkMUlMYS1naHNvdFJCY2dsZmxEODVscVg1YlUzeThJRXBmTXo4X0dEX3Rhc2J5VGNTWVRhVzJHc1Y0eGIxTEFGWG4?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Popular frozen fruit bars on recall over glass contamination fears \u2014 find out which varieties were affected",
+      "url": "https://nypost.com/2026/08/18/lifestyle/dreyers-recalls-outshine-fruit-bars-over-glass-contamination-fears/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
+      "title": "Outshine Fruit Bars recalled over possible glass, parent Dreyer's says",
+      "url": "https://www.cbsnews.com/news/outshine-fruit-bars-recall-glass-contamination-dreyers/",
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"
-    },
-    {
-      "title": "WATCH:  Lala batters the Hawaiian Islands",
-      "url": "https://abcnews.com/video/135694250/",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
     }
   ]
 ]

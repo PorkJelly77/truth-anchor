@@ -1,32 +1,11 @@
 [
   [
     {
-      "title": "Dad busted in Penn State frat bro cocaine trafficking ring case is prominent Pittsburgh lawyer",
-      "url": "https://nypost.com/2026/08/18/us-news/dad-busted-in-penn-state-frat-bro-cocaine-trafficking-ring-case-is-prominent-pittsburgh-lawyer/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "Trump Administration Plans to Deploy 1,000 Poll Monitors Across America for Midterm Elections",
-      "url": "https://www.breitbart.com/midterm-election/2026/08/18/trump-administration-plans-deploy-1000-poll-monitors-across-america-midterm-elections/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
-    },
-    {
       "title": "South Korea president calls for military independence in wake of Trump call to cut joint drills",
       "url": "https://www.theguardian.com/world/2026/aug/18/south-korea-president-trump-military-drills-control-opcon-kim-jong-un",
       "source": "The Guardian",
       "bias": "left-center",
       "domain": "theguardian.com"
-    },
-    {
-      "title": "Iran live updates: Trump posts map labeling Strait of Hormuz 'new' US territory",
-      "url": "https://abcnews.com/International/live-updates/iran-live-updates-tehran-adopt-offensive-aspect-irgc/?id=135700072",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
     },
     {
       "title": "Jared Kushner meets Hamas on Mideast trip to push Gaza deal",
@@ -36,11 +15,11 @@
       "domain": "washingtonpost.com"
     },
     {
-      "title": "Trump says US has no talks planned with Iran and other news from the Middle East",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUGE0ZXdacDJQQU1FSTNKRzRoV21MR3h5R1FIekhsU054VE9WSzdUdThYNmY3emZwQWpXUFczUklKU2MzZVdUeV9ZaWtoaF9IUXRaT24xS0Y2MmdlbnlxT1JicndhbWpfb1N4Z09GeDV4UGMyQUdLb3Utb3pqNTNDQTR2amh2cTVGZTJ5S3FVVzlWZmoyNHNLUy12WnM3YUtiMW01Vnp5TmRQWjdQS3c?oc=5",
-      "source": "Associated Press",
+      "title": "Iran live updates: Trump posts map labeling Strait of Hormuz 'new' US territory",
+      "url": "https://abcnews.com/International/live-updates/iran-live-updates-tehran-adopt-offensive-aspect-irgc/?id=135700072",
+      "source": "ABC News",
       "bias": "center",
-      "domain": "apnews.com"
+      "domain": "abcnews.go.com"
     },
     {
       "title": "Trump says no talks with Iran ongoing, and none scheduled",
@@ -50,34 +29,6 @@
       "domain": "cbsnews.com"
     },
     {
-      "title": "Two Ships Passing Through the Strait of Hormuz Are Attacked",
-      "url": "https://www.nytimes.com/2026/08/18/business/strait-of-hormuz-ship-attack.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "S. Korea stresses US alliance amid confusion over Trump drill cut",
-      "url": "https://www.npr.org/2026/08/18/g-s1-139096/s-korea-stresses-us-alliance-amid-confusion-over-trump-drill-cut",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    },
-    {
-      "title": "Rosie O'Donnell\u2019s return to late night reignites decades-old feud with Donald Trump",
-      "url": "https://www.foxnews.com/media/rosie-odonnells-return-late-night-reignites-decades-old-feud-donald-trump",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "Jimmy Kimmel infuriated Trump. Now Disney is suing the FCC over what it calls a \u2018retaliatory campaign\u2019 against ABC.",
-      "url": "https://www.marketwatch.com/story/disney-sues-fcc-over-broadcast-license-threat-9fb4745d?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
-    },
-    {
       "title": "A 13-year-old dies after participating in a Benadryl TikTok 'challenge'",
       "url": "https://www.cnn.com/2023/04/18/us/benadryl-tiktok-challenge-teen-death-wellness/index.html",
       "source": "CNN",
@@ -85,41 +36,99 @@
       "domain": "cnn.com"
     },
     {
-      "title": "Rosie O\u2019Donnell Ruthlessly Trolls Trump Without Using His Name In \u2018Kimmel\u2019 Debut",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdTVneHdyRTVfMlhjMFF3eG9sSThieDdQQTF4ZTNCbkJhYnowNGo0NWVlQ2Y1T295Z0NQUDJfR21qSHI2VjcteHFBeWVtT2tBUGptYmsxLWpBbWN5WklpRmRVYXNyV2NablU5RG1hUDNpWVlQQklxSUhiNlNuN01LbEd1SmhsUHpTTEJyT0VCUkp4RWPSAZgBQVVfeXFMTWxhbEpRNHdfMW1RWnd4bERnNDBPeE5MYXRvRVFfeG9oeGR6OVlwa0pkanpqalo5ZzZoV3R5d1pMTlJERElvS3ByZXNrRVJ4YkdGV1YyY2xpaG1iN0lwZVRDRjNVUWpNZUxPQlRSMHJMVUtTVkxNZjlzZUZSZEtwdW5rRy1JZEVZNFI0ZXVuS0pjOVh3UGhXOFc?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
+      "title": "Trump Administration Plans to Deploy 1,000 Poll Monitors Across America for Midterm Elections",
+      "url": "https://www.breitbart.com/midterm-election/2026/08/18/trump-administration-plans-deploy-1000-poll-monitors-across-america-midterm-elections/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
     },
     {
-      "title": "What to watch in the Alaska and Wyoming primary elections",
-      "url": "https://www.aljazeera.com/news/2026/8/18/what-to-watch-in-the-alaska-and-wyoming-primary-elections?traffic_source=rss",
+      "title": "'Profits won.' The child safety trial against Meta kicks off in federal court",
+      "url": "https://www.npr.org/2026/08/18/nx-s1-5935458/meta-child-safety-social-media-addiction-trial-opening",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "Meta Platforms faces pivotal trial as opening statements begin in California",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLWhfS2YxWEZCcDBpZ3EyYTc4YUt5alNaWmNZcWUxT2pZMlZUZ21rYmhZZU9vVHd6VkxfLTZCN0pSVWVwOHZCclc3TXJzUXRueDBVNmZfNzBnNV9UaTd1ZXJtZXYyTGpXa2Z3RXZFXzhqZFZlR2M4NUVGWDFDNjZZak5VZGpTVlZOWHRWaThTZkhXcWE3anZmcFdweFp1b0E5MG9PRQ?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Landmark trial on Meta\u2019s impact on children\u2019s mental health begins in US",
+      "url": "https://www.aljazeera.com/economy/2026/8/18/landmark-trial-on-metas-impact-on-childrens-mental-health-begins-in-us?traffic_source=rss",
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
     },
     {
-      "title": "Meta trial that could reshape Facebook, Instagram gets underway",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeHlhZEh6b2pmUkJKaXNMYUpEMEZsQ3BDLVlxcWZ6VU02ZjlsUVRLZ2EtRlBFYnFSOUJXaURCRmNjYkllYVRCZjUzdDhNNmtzZzNfSGg2RDhJUFY3cWRJbFpxQnhSQllwQ1RuUG83WTQ0TWozc1dMeGJUVlF6QmRZQy1vVmlLeElDNHBZOGFYUkR1VXMwYktFQ0hGWFZ6MDBXQXVOTFVpalp2cFFX?oc=5",
+      "title": "Gulf Oil Giants Push to Expand Overseas Stockpiles as Iran War Drags On",
+      "url": "https://www.nytimes.com/2026/08/18/business/saudi-uae-japan-oil-storage.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Russia shipping drones, explosives to rebuild Iran\u2019s supply: report",
+      "url": "https://nypost.com/2026/08/18/world-news/russia-shipping-drones-explosives-to-rebuild-irans-supply-report/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
+      "title": "White House defends Trump's ability to vote by mail",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcVhsN21VZ2ZlUnVlZXdMZnl6aGFaS2FiLVJSekRhU1JiRXdtenFzNE5NYi1zcnpqQ2xDdU9tNkpmVkVNZHY4RHVQdjhtUXBPSGVZTGF3aE5LNjUwajAyaldtTlpCM09SelF6NDg3Rm8zR3lwbWJtRV9fWG85R2Ztd3VuLUpoVE5YaGxDam11bWpaZDZncGk2VzBtR2k5cnR2T0E?oc=5",
       "source": "Reuters",
       "bias": "center",
       "domain": "reuters.com"
+    },
+    {
+      "title": "House Democrat Cooks Up Damning New Title For Trump Over Latest 180",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOM2JhVmFzc1pIZUdqUS10bHowdXdTakNPLU5ob29ldVBtTEJ5eVdwV2ctYldRNGRwMURIN1hEbDlMTXZmSmpwSE9NN21tdXNqU2oxZV96cWwzOTBVUmZkZVFiX09TcmNmMHo0ZFB2Um80Tms1RmV5dTVHaTBpbDBkb1Z2SnZoNnV1bk02SS02NFJ0c1BzOVVBLTROT2FnUHJOUWtoM2VOMmNnZWZtYUhneHBDbDljUdIBuwFBVV95cUxPdTFZTDltOGVvYUllRDdZbFdXeFprZkJFS2ZuUVBveUFzQTNSM2pvWGhUbjF2dFVoUGVMdERqQ2c4YzFzU3I2QmFVdnQ1MG5xdUFWUEpsS0kxWmo1SlREY3dOLWktaFRmaEtUNUM5Ri11WFdEQ3ZDWUNjWHFyMWhJWEk3dVZDOVVFaThCSDNJaHptd2F4clBpRGZIbndqVnlIQ0xscFloQ29ueGZpSjlHQTBydERXc2hMeXo4?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    },
+    {
+      "title": "Time to face facts: Fantasy football punishments have officially jumped the shark in 2026",
+      "url": "https://www.foxnews.com/outkick-sports/time-face-facts-fantasy-football-punishments-officially-jumped-shark-2026",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
     }
   ],
   [
     {
-      "title": "Newly released video shows scene of Jeremy Renner's snowplow accident",
-      "url": "https://www.cnn.com/videos/us/2023/04/18/jeremy-renner-snowplow-accident-bodycam-nc-melas-contd-vpx.cnn",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
+      "title": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies",
+      "url": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
     },
     {
-      "title": "Masked menace films himself chasing residents as terrified victims scream for help: Police",
-      "url": "https://www.foxnews.com/us/masked-menace-films-himself-chasing-residents-terrified-victims-scream-help-police",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
+      "title": "Watch Live: Former mother-in-law says Lindsay Clancy was \"begging for help\"",
+      "url": "https://www.cbsnews.com/news/lindsay-clancy-trial-watch-live-day-15/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Mom and sister testify about Lindsay Clancy's declining mental state before she killed her children",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRmZnc2VjQW84ajBSWlRrZGZyaHRVTnUxcXAxUjJXSFBQamN4eDdzYjAzUnJGdVFTRzZSU05wOXNFTC1BMjdwa0piZ3Y0Q0ZzckZmY1hkQWNOV2ZnMExwZERBR3Z0ZHlEYmZmTmhQTnZYbmo0bldLaGR0SWJjeWpXMTRfX2lmNTNtQ1dVRUI4UG8xQVRlSWxfUDJKXzFJbGlxSGZFeWdRcUhudGpsVHZV?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Israeli strike on Gaza City cafe kills six, including child",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/israeli-strike-on-gaza-city-cafe-kills-six-including-child?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
     },
     {
       "title": "Philippine school shooter kills fellow student and himself in livestreamed attack",
@@ -134,45 +143,6 @@
       "source": "Associated Press",
       "bias": "center",
       "domain": "apnews.com"
-    }
-  ],
-  [
-    {
-      "title": "UK will continue to support Ukraine '100%', PM Burnham says",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS3A0elJfT3E2dEdPOXctTVNsTDkzelQ3TlFIT1B2YUJxTXVnajVyV2hXcVBodk9fQk1OTFRteDMyd0pkSlFiWEI1RkVfLU1pdDZPS0hiREt4QzJuakhwaENrSDNWQnlnU19yTm9FY25hSGF5NjI2UnRVdjZYRU1CNlNtOGlZT01ibnExLUFiSVR0OU9Fa3NIVllR?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
-      "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "Why is Russia threatening UK with \u2018consequences\u2019 over Ukraine drones?",
-      "url": "https://www.aljazeera.com/news/2026/8/18/why-is-russia-threatening-uk-with-consequences-over-ukraine-drones?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    }
-  ],
-  [
-    {
-      "title": "Millions in the US could face massive consequences unless McCarthy can navigate out of a debt trap he set for Biden",
-      "url": "https://www.cnn.com/2023/04/18/politics/mccarthy-biden-debt-ceiling/index.html",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
-    },
-    {
-      "title": "House Democrat Cooks Up Damning New Title For Trump Over Latest 180",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOM2JhVmFzc1pIZUdqUS10bHowdXdTakNPLU5ob29ldVBtTEJ5eVdwV2ctYldRNGRwMURIN1hEbDlMTXZmSmpwSE9NN21tdXNqU2oxZV96cWwzOTBVUmZkZVFiX09TcmNmMHo0ZFB2Um80Tms1RmV5dTVHaTBpbDBkb1Z2SnZoNnV1bk02SS02NFJ0c1BzOVVBLTROT2FnUHJOUWtoM2VOMmNnZWZtYUhneHBDbDljUdIBuwFBVV95cUxPdTFZTDltOGVvYUllRDdZbFdXeFprZkJFS2ZuUVBveUFzQTNSM2pvWGhUbjF2dFVoUGVMdERqQ2c4YzFzU3I2QmFVdnQ1MG5xdUFWUEpsS0kxWmo1SlREY3dOLWktaFRmaEtUNUM5Ri11WFdEQ3ZDWUNjWHFyMWhJWEk3dVZDOVVFaThCSDNJaHptd2F4clBpRGZIbndqVnlIQ0xscFloQ29ueGZpSjlHQTBydERXc2hMeXo4?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
     }
   ],
   [
@@ -193,18 +163,34 @@
   ],
   [
     {
-      "title": "OpenAI unveils ChatGPT for Teens with stronger guardrails to tackle safety risks",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVlMzd203czRIQzl2a0RlczBUQnFHcklwTnNqc3hfdHNBSW5QdFVReFJZdTFBM1pvUGlLeWZJWUVHTHlzMUdTbHVBNXI1OWM2Q2FtS0ZON3hEcENqQ3J5Z0RvOFgwdm9FZzY0b3RfWlJIMmtINHZtQmdQYlplbi1rS3hkVGw3TXN3RThwZ3EwQzI0N2ZVVTN3WVBWVWI4c29wdGllRl9Pd09YTGxaRWxudHdZQmRaSFc4SEE?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
+      "title": "Blue state mayor arrested for fraud sparks uproar for not speaking English in viral clip: 'How is this real'",
+      "url": "https://www.foxnews.com/politics/blue-state-mayor-arrested-fraud-sparks-uproar-not-speaking-english-viral-clip-how-real",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
     },
     {
-      "title": "OpenAI launches ChatGPT for Teens, promising a more age-appropriate chatbot",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOXljQWxIQk1WUjZtTmV5WnNVbFRuOVZjTXJIVWM5MUtwNzJhU19iWXltb1lWcEgwTkU5SXFFVmxhUVVlSnotc2NMMTYyM1UzWXo5T0k4dFlPa0FZSWZyN25yMC1LWDFxUkMzcVFsSXI2SDdxMFVNN0N6dDg4ZURwZlpTaEJuX0lKbjlMTUQ5TWtjb3Fx?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
+      "title": "EXCLUSIVE: Trump Admin Opens New Front In War On Fraud, This Time In Child Sex-Changes",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdk5MdEV0U3FKel9YVl9wNEJkOVhxaWozd09nVE9fNDZ1M0xhZ3pQdElXZDM4NnhOS24tRllGNmkwbEJRWlF2LTdkby1TUTRwYldJalhwOUZrY3BLLWdFQkF6TzVUOEYxLVNkRTJUNnh4eWNZR0puT2xiU3pqSXVrc3doNkM5RmZ2UWFJem1zZkpjVzM0OG81eW83d3NiUEd2LWNRckhqcVFKa2RHSTFNb1BrZGNSZw?oc=5",
+      "source": "Daily Wire",
+      "bias": "right",
+      "domain": "dailywire.com"
+    }
+  ],
+  [
+    {
+      "title": "Socialists accused of 'motor mouth' rhetoric as longtime Dem strategist unloads on far-left candidate",
+      "url": "https://www.foxnews.com/politics/socialists-accused-motor-mouth-rhetoric-longtime-dem-strategist-unloads-far-left-candidate",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Polling Firm Showing Karen Bass, Francesca Hong in Lead Admits Fake Polls: 'Short-Term Social Experiment'",
+      "url": "https://www.breitbart.com/politics/2026/08/18/polling-firm-showing-karen-bass-francesca-hong-in-lead-admits-fake-polls-short-term-social-experiment/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
     }
   ],
   [
@@ -225,63 +211,31 @@
   ],
   [
     {
-      "title": "Florida Primary Underscores State\u2019s New Identity as a Republican Juggernaut",
-      "url": "https://www.nytimes.com/2026/08/18/us/politics/florida-primary-republican-dominance.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "This crowded Republican primary in Florida has drawn a unique cast of candidates",
-      "url": "https://www.npr.org/2026/08/18/nx-s1-5930699/florida-republican-19th-district-carpetbaggers",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    }
-  ],
-  [
-    {
-      "title": "Bond Yields Jump and Stocks Slip as Iran Stalemate Unsettles Investors",
+      "title": "Bond Sell-Off Sends Borrowing Costs to Highest Level Since 2007",
       "url": "https://www.nytimes.com/2026/08/18/business/oil-prices-bonds.html",
       "source": "New York Times",
       "bias": "left-center",
       "domain": "nytimes.com"
     },
     {
-      "title": "AI chip stocks were riding high. Here\u2019s why Micron and others are now pulling back.",
-      "url": "https://www.marketwatch.com/story/ai-chip-stocks-were-riding-high-heres-why-micron-and-others-are-now-pulling-back-cb4fd5af?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
-    }
-  ],
-  [
-    {
-      "title": "Solange and \u2018Bring It On\u2019 stars pay tribute to Hayden Panettiere after actress\u2019 shocking death: \u2018You are so deserving\u2019",
-      "url": "https://pagesix.com/2026/08/18/celebrity-news/solange-and-bring-it-on-stars-pay-tribute-to-hayden-panettiere-after-actress-death/",
-      "source": "New York Post",
+      "title": "Capital Spending Boom Lifts US Manufacturing Beyond AI",
+      "url": "https://www.breitbart.com/economy/2026/08/18/capital-spending-boom-lifts-us-manufacturing-beyond-ai/",
+      "source": "Breitbart",
       "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "Connie Britton\u2019s Response To Hayden Panettiere\u2019s Death Will Break Your Heart: 'Sleep Easy Now'",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQS0tlUEFMWEZSOFJHQWxldWpfeGtSdExuNThMSFQ1R1hwNlVHcW5pbUxVZU40RHNNRDhzRHgzd1FNTThKZ3VncXc5YW5fY0J2anVSYXF3dDZpdVRMZ2VVa0pIa1Btd3FKMHRCNnZGbUh4UHJFVTRuQktYN2hZSDNfMkc1ZFNkdE9sQkdJUFdzRVFDdWh5SUp6NDdtOW1xUzhu0gGmAUFVX3lxTFA3WmFqVmhXM2Y4X1hjZzlHYmh0T1lnbEJ1SERCNUJva0tpb3JsbEhyZERSd19FXzNyMUNUUjE4NlJlaXpMSk9yMVUtZHV0b21MLVJ3T1JTODhYUVZFNmZSMnU1cHpPVjhkd20wRTE0cXM5NXFmRlpaYU9MS2hPcTB0S1gzcHNpd3Q2TGhEOGxjUlJwa2tQUUloN3E2cWhlY1JfbUM4cVE?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
+      "domain": "breitbart.com"
     }
   ],
   [
     {
-      "title": "Disney sues US regulator, claiming political retaliation over ABC stations",
-      "url": "https://www.aljazeera.com/economy/2026/8/18/disney-sues-us-regulator-claiming-political-retaliation-over-abc-stations?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
+      "title": "U.S. Navy destroyer lost power for 4 days in South China Sea",
+      "url": "https://www.washingtonpost.com/national-security/2026/08/17/us-navy-destroyer-lost-power-4-days-south-china-sea/",
+      "source": "Washington Post",
+      "bias": "left-center",
+      "domain": "washingtonpost.com"
     },
     {
-      "title": "Disney and ABC sue FCC over early license review, alleging retaliation",
-      "url": "https://www.cbsnews.com/news/disney-abc-sue-fcc-early-license-renewal/",
+      "title": "USS Benfold went days without power in the South China Sea",
+      "url": "https://www.cbsnews.com/news/uss-benfold-navy-days-without-power-south-china-sea/",
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"

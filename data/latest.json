@@ -1,67 +1,88 @@
 [
   [
     {
-      "title": "Millions in the US could face massive consequences unless McCarthy can navigate out of a debt trap he set for Biden",
-      "url": "https://www.cnn.com/2023/04/18/politics/mccarthy-biden-debt-ceiling/index.html",
+      "title": "Newly released video shows scene of Jeremy Renner's snowplow accident",
+      "url": "https://www.cnn.com/videos/us/2023/04/18/jeremy-renner-snowplow-accident-bodycam-nc-melas-contd-vpx.cnn",
       "source": "CNN",
       "bias": "left",
       "domain": "cnn.com"
     },
     {
-      "title": "Your favorite cocktail could be an unexpected casualty of Trump's looming trade fight",
-      "url": "https://www.foxnews.com/politics/your-favorite-cocktail-could-unexpected-casualty-trumps-looming-trade-fight",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "Abdul El-Sayed\u2019s mom worked for \u2018global terrorist\u2019 group accused of funding bin Laden, Hamas and Taliban: report",
-      "url": "https://nypost.com/2026/08/18/us-news/abdul-el-sayeds-mom-worked-for-global-terrorist-group-accused-of-funding-bin-laden-hamas-and-taliban-report/",
+      "title": "Key takeaways from action-packed primary election night in Florida",
+      "url": "https://nypost.com/2026/08/19/us-news/florida-primary-key-takeaways-byron-donalds-wasserman-schultz-moskowitz-election-night/",
       "source": "New York Post",
       "bias": "right",
       "domain": "nypost.com"
     },
     {
-      "title": "Former Mexican governor charged in case of 43 students who vanished in 2014",
-      "url": "https://www.theguardian.com/world/2026/aug/12/former-mexican-governor-charged-in-case-of-43-students-who-vanished-in-2014",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    },
-    {
-      "title": "Tuesday primaries: Embattled Rep. Cory Mills projected to lose reelection bid",
-      "url": "https://abcnews.com/Politics/primaries-3-states-tuesday-narrow-field-key-senate/story?id=135721707",
+      "title": "Takeaways from Tuesday primaries: Trump endorsement only goes so far",
+      "url": "https://abcnews.com/Politics/takeaways-tuesday-primaries-trump-endorsement/story?id=135754500",
       "source": "ABC News",
       "bias": "center",
       "domain": "abcnews.go.com"
     },
     {
-      "title": "Cory Mills Loses Republican Primary Amid Assault Allegations and Ethics Investigation",
-      "url": "https://www.nytimes.com/2026/08/18/us/politics/mills-elijah-florida-republican-primary.html",
-      "source": "New York Times",
+      "title": "In cutting joint drills, Trump has given South Korea\u2019s president what he wants. So why is Seoul so uneasy?",
+      "url": "https://www.theguardian.com/world/2026/aug/19/trump-south-korea-alliance-military-seoul-security",
+      "source": "The Guardian",
       "bias": "left-center",
-      "domain": "nytimes.com"
+      "domain": "theguardian.com"
     },
     {
-      "title": "Scandal-ridden Cory Mills ousted in GOP primary in Florida's 7th District",
-      "url": "https://www.cbsnews.com/news/florida-7th-district-gop-primary-results-cory-mills-ryan-elijah/",
+      "title": "Trump says U.S. and Canada reached deal to delay 50% U.S. tariffs on Canadian imports",
+      "url": "https://www.npr.org/2026/08/19/g-s1-139156/trump-canada-tariffs",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "Trump holds off on new 50% tariffs for Canadian goods",
+      "url": "https://www.marketwatch.com/story/trump-holds-off-on-new-50-tariffs-for-canadian-goods-71f75005?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
+    },
+    {
+      "title": "Iran's top diplomat and Trump cast doubt on any hope for a peace deal",
+      "url": "https://www.cbsnews.com/live-updates/us-iran-war-deal-strait-of-hormuz/",
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"
     },
     {
-      "title": "Live Primary Election 2026 Results: Florida, Alaska Voters Head To Polls",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVmhSeG96cnplUnNpck0wb2pOTTJKQ213cXBYeXZ2eEtXNndHYl9oRGxtdXRpRElsWkpyVE5aY3JhU2szU0lfbVVrV0xJYlluUXJ3UDZZV2JOTnpSR2M0T2dnaUhEY2dqNjFJelpYRWNPRVQwLW5xTXN6Q1B3THlqTkhvUHVPMkxtTnNmamRGejZmT3V6c25udlB2SG4tV0nSAaQBQVVfeXFMTk1lcUxkZG5ENHVvcUhjbTdNa2R6TEtTVTZLbURNSnRXVU1LaFlqQXQ3QThXejVMdHRCUmg1STg0dGI3S0RWNGhrSTQ2WWVXUTBTcFlyVDFTd0lQa0RGZm9iSzZ5MVBiZU1WVFR5MVFobzZKYnp2azdnX0kxYWh3THRraWF2SWJVdzNCSndDZ1l4RkxfdEk0ZnhKRjlQMnBqYU9rTUc?oc=5",
+      "title": "South Korea minister says Trump appears to be pressuring Seoul over Iran, investment",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTVZrYXM5NGpibkZyR1hqU0JpVWV4S084VkR4UGhsUDItUlpodjhuSl90NkJXdXBSc3NEcFZ2QzVIZFpoLXpDNWliT014aW9IbnNOd2o4eWUyZ2gyOFU4bHhSam1uczNnMVRrdlhHcVBKZDNqdWk2eTBJUkdWcjdSZEJfZ0pwQ0YzVk9vbmU2RFdOOTdQVE53WDNyOFUzend2Z01CaHBGaVFWc2hrSWxPdXMzV3Zfa083S2poUTI4b3hhM3FtVURfWXRsTmp5cFNY?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Socialists capture major Florida victory on hit-or-miss night for Trump-endorsed primary candidates",
+      "url": "https://www.foxnews.com/politics/socialists-capture-major-florida-victory-hit-miss-night-trump-endorsed-primary-candidates",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Who won and lost in Florida primaries: Key takeaways",
+      "url": "https://www.aljazeera.com/news/2026/8/19/who-won-and-lost-in-florida-primaries-key-takeaways?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "Ashley Moody Wins Republican Nomination in Florida Senate Primary",
+      "url": "https://www.breitbart.com/politics/2026/08/18/ashley-moody-wins-republican-nomination-florida-senate-primary/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
+    },
+    {
+      "title": "Rep. Cory Mills Loses Florida Republican Primary Amid Domestic Violence Allegations",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQV1BCOUozR0lWN3BwTkVzWXcxR1F3alRGU2Y3TDM0QThCVHdtakRvU0dQR1d1dUYtQ2JOcDdhZUtsUDB5eGZuSzlBMGVSQlhraTd2bkhfVmZFT3JUclluaFNuQUFlWk96eFo2SDFSemRnel9ISDB4VFFKWHV4R1J6Y1lHYWVneVhjVXM4ZlpKb2kwQXBZZ05oUGxpQ1dBTFJKa3lDRkJrbng2ODIwZFUyVWVaZDA5NjVrV0VLdENqbnJhaUh5emNOOFBlZlEyYmlNNm5SVzhfONIB3AFBVV95cUxQWkNrSGpfZlZVRzR0bDVtVlhpdkFOSzRSQ0VtMzZKUGRSdTRyTERrQ21UT280RzdBQk1hdVUyMzJFRy1rajBwLWxhSGZGSktxWWlCOUVFY1pzZnNDZ2MwUk11SjhXa3dPWEp6YWFqTWVjMkVCT05jWXNwT043bWFXOTJwRkppci02RFlXSUUyU0x6X0dJbFl1X0p3TV9wcHRHSW40bVp1RjZoUTM5RnlZNEdCc3h5dFpzMHRpVFJldHVXZzhpMlFpU1pFRW9iRzVKMjFtSkQxNWRpbWxo?oc=5",
       "source": "HuffPost",
       "bias": "left",
       "domain": "huffpost.com"
-    },
-    {
-      "title": "Key results from Florida primaries, so far",
-      "url": "https://www.npr.org/2026/08/18/nx-s1-5936403/what-to-watch-for-in-the-florida-primaries",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
     },
     {
       "title": "U.S. Navy destroyer lost power for 4 days in South China Sea",
@@ -71,78 +92,133 @@
       "domain": "washingtonpost.com"
     },
     {
-      "title": "Iran Calls Trump \u2018Delusional,\u2019 Declares \u2018Post-American Order\u2019 \u2014 After He Claims Hormuz as \u2018New U.S. Territory\u2019",
-      "url": "https://www.breitbart.com/politics/2026/08/18/iran-calls-trump-delusional-declares-post-american-order-after-he-claims-hormuz-as-new-u-s-territory/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
+      "title": "Trump\u2019s Ballroom Is Rising at Breakneck Speed: 20 Hours a Day, 7 Days a Week",
+      "url": "https://www.nytimes.com/2026/08/18/us/politics/trump-ballroom-construction.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
     },
     {
-      "title": "Quebec separatist says no independence referendum while Trump in office",
-      "url": "https://www.aljazeera.com/news/2026/8/19/quebec-separatist-says-no-independence-referendum-while-trump-in-office?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Trump administration briefly pauses contentious border project in Texas' Big Bend National Park",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOU5vVk54X1dmbDBBVXItdUpaZy1nM1doRDQ1TFh6WE9ibHBzdDFTMjh3aTVJa255TTlpZkNaNzY0NnAzSUJnVHJZM2FVOWhDcVh3MzU0UEdLQVhPLUtHVE14S1NLR182VXFRS0dlQjNpNzdES1BPUFJfbU0yT1ltN2tCVlZTcDFRLTUyUGI1akpDZzJDOUtKa0Z4YlJHbkVaUXpEdWFERGhHNWM?oc=5",
+      "source": "Associated Press",
       "bias": "center",
-      "domain": "aljazeera.com"
-    },
+      "domain": "apnews.com"
+    }
+  ],
+  [
     {
-      "title": "Trump administration moves to rescind rule that protects millions of forest acres",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOTVaQzJXRGt5bG5SR3c4UElzeEFnRWV6UkRSdENUb3FZd1NOdVpMYW0xUHlTbXJIemdOaFJLMWUwckpSZWY3OGI0YldRd0RhYklKcnhxZGo4VTAyS1hhNC1VTHBvRlpzZTh4WmJKOHQ0ekRjazQ5Q2lKNU81TzVOSkVVVjVVWkJKMEZ4d0FfYlA2WXpZQmRuV2Exd1U2TGtsNVBna3dwZ1JtYWpOY3FxTHQzZ3REeGRSZklsbFRRT2RIY1JldjUw?oc=5",
+      "title": "Ukraine's anti-corruption agencies launch probe ahead of key defence minister vote",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ1NQSTlGd29mNDhxaWozY05hSzhNbFlEcG93ODYzUFhiSkRjUHp5a0p3UnZUeWlFY2dHYTFtU3lGWFdsc3cwcFdlUFd0amhZU1FOS0FZTDQ1bDA2Q1JGUUlMLUNjd2hVajdHRXZ4R2huMVpWTk5LYk0yLTVIMzF4S1Vqb195eXlJS1dtbm54VGdNSzZkSlBSYXl3MjVFb05UVVdwQlZkZTJZQW1EdkxGY09Va1F5MzI2REVFQ0ZzalFnQ2JUR2c?oc=5",
       "source": "Reuters",
       "bias": "center",
       "domain": "reuters.com"
     },
     {
-      "title": "Meta hooked children on Facebook and Instagram, court hears",
-      "url": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
+      "title": "Ukraine\u2019s sacked defence minister calls for wartime elections",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/ukraines-sacked-defence-minister-calls-for-wartime-elections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "Sacked Ukrainian defence minister calls for presidential election",
+      "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "bias": "center",
       "domain": "bbc.com"
     },
     {
-      "title": "Trial for Meta begins with states arguing its platforms preyed on vulnerability of young brains",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLWhfS2YxWEZCcDBpZ3EyYTc4YUt5alNaWmNZcWUxT2pZMlZUZ21rYmhZZU9vVHd6VkxfLTZCN0pSVWVwOHZCclc3TXJzUXRueDBVNmZfNzBnNV9UaTd1ZXJtZXYyTGpXa2Z3RXZFXzhqZFZlR2M4NUVGWDFDNjZZak5VZGpTVlZOWHRWaThTZkhXcWE3anZmcFdweFp1b0E5MG9PRQ?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "Meta is facing its \u2018Big Tobacco\u2019 moment \u2014 and investors can profit",
-      "url": "https://www.marketwatch.com/story/meta-is-facing-its-big-tobacco-moment-and-investors-can-profit-e0f27b2d?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
-    }
-  ],
-  [
-    {
-      "title": "Liberia agrees to accept 1,200 third-country deportees from US within a year",
-      "url": "https://www.foxnews.com/world/liberia-agrees-accept-1200-third-country-deportees-us-within-year",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "Liberia Agrees To Take 1,200 Third-Country Deportees From The U.S.",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRGlTZU5wNm90dzBHMXU3bnJOclloaU15TGY3RU9OWUR6Y1NEellkX2ZyRGt1XzNQOGpWbUlFcjlIMmNPYTd2YjdCbkx2UTFZSUZKOEEydTFNNzNaM3QtN1JjYUh4LWw0Q0R4QjMwbF9mM041WHdOUnMtZ1dEMjREWVM0aERFNGtjb3ZMUXV1QV9UOHhuSU9VN20xTXVmN3dEMUHSAacBQVVfeXFMT24xMHM2X0VERXhITE04bEZ2TXdRUDM5NnhnTW8wdHhuTmZkNks0R25oNTdoODBmQzNPN1R5NWZyYWkwcTI3LWpDYjJNX216eEVfb3FMd09tS3JaZHBTYnNyOVkxMmhnMnpNcEZXZXZ6ekh4YXpGeFJwWjJXQjBnQ0FBWUowMFhrWnFRVWZVRXk4dDF2VVB1Qk8yUkY4NmNxbTlCY1NhVTA?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    },
-    {
-      "title": "Liberia Agrees to Take 1,200 Deportees From U.S.",
-      "url": "https://www.nytimes.com/2026/08/18/us/politics/liberia-deportees.html",
-      "source": "New York Times",
+      "title": "Ukraine's fired defense minister calls for elections despite war with Russia",
+      "url": "https://www.cbsnews.com/news/ukraine-election-fedorov-zelensky-war-russia/",
+      "source": "CBS News",
       "bias": "left-center",
-      "domain": "nytimes.com"
+      "domain": "cbsnews.com"
     }
   ],
   [
     {
-      "title": "Congo\u2019s rapid Ebola outbreak is now most fatal in nation\u2019s history with over 2,300 deaths, government says",
-      "url": "https://nypost.com/2026/08/18/world-news/congos-rapid-ebola-outbreak-is-now-deadliest-in-nations-history/",
+      "title": "Mushroom murderer trial undermined by 'catastrophic' hotel mix-up, appeal court told",
+      "url": "https://www.bbc.co.uk/news/articles/czjlxenlgkko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "Australia mushroom killer Erin Patterson appeals 3 murder convictions after poisoning elderly relatives",
+      "url": "https://nypost.com/2026/08/19/world-news/australia-mushroom-killer-erin-patterson-appeals-3-murder-convictions-after-poisoning-elderly-relatives/",
       "source": "New York Post",
       "bias": "right",
       "domain": "nypost.com"
+    },
+    {
+      "title": "Erin Patterson appeals 3 murder convictions over death cap mushroom lunch",
+      "url": "https://abcnews.com/International/wireStory/erin-patterson-appeals-3-murder-convictions-australia-death-135760199",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    },
+    {
+      "title": "Maradona\u2019s doctors missed renal red flag, Argentinian court told",
+      "url": "https://www.aljazeera.com/sports/2026/8/19/maradonas-doctors-missed-renal-red-flag-court-in-argentina-told?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    }
+  ],
+  [
+    {
+      "title": "Tennis player Nick Kyrgios suspended after testing positive for cocaine",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/c4g612r12yno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "Nick Kyrgios tests positive for cocaine with tennis career in sad spiral: \u2018Helpless and alone\u2019",
+      "url": "https://nypost.com/2026/08/19/sports/nick-kyrgios-says-he-tested-positive-for-cocaine-suspended-from-tennis/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
+      "title": "Nick Kyrgios provisionally suspended after positive test for cocaine",
+      "url": "https://www.aljazeera.com/sports/2026/8/19/nick-kyrgios-provisionally-suspended-after-positive-test-for-cocaine?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    }
+  ],
+  [
+    {
+      "title": "Chinese robotic company\u2019s stock soars over 600% in trading debut",
+      "url": "https://www.marketwatch.com/story/chinese-robotic-companys-stock-soars-over-600-in-trading-debut-e735426d?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
+    },
+    {
+      "title": "Shares in humanoid robot firm Unitree surge 600% on Chinese stock market debut",
+      "url": "https://www.theguardian.com/technology/2026/aug/19/unitree-shares-surge-humanoid-robot-firm-chinese-stock-market-debut",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "WATCH:  Chinese robotics company unveils robot that can outrun Usain Bolt: David Muir reports",
+      "url": "https://abcnews.com/video/135754463/",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    }
+  ],
+  [
+    {
+      "title": "Congo's Ebola outbreak reaches 5,000 cases as it outpaces response efforts",
+      "url": "https://www.npr.org/2026/08/19/g-s1-139164/congo-ebola-outbreak",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
     },
     {
       "title": "DRC\u2019s fast-growing Ebola outbreak spreads to sixth province",
@@ -152,8 +228,88 @@
       "domain": "theguardian.com"
     },
     {
-      "title": "How Ebola became the deadliest outbreak in DR Congo\u2019s history",
-      "url": "https://www.aljazeera.com/news/2026/8/19/how-ebola-became-the-deadliest-outbreak-in-dr-congos-history?traffic_source=rss",
+      "title": "Ebola Congo cases surpass 5,000 as record-setting pace of spread continues",
+      "url": "https://www.cbsnews.com/news/ebola-congo-cases-5000-record-setting-spread-pace-continues/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Millions in the US could face massive consequences unless McCarthy can navigate out of a debt trap he set for Biden",
+      "url": "https://www.cnn.com/2023/04/18/politics/mccarthy-biden-debt-ceiling/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
+    },
+    {
+      "title": "Natalie Harp, Trump\u2019s Most Devoted Aide, Is Always by His Side. What Exactly Does She Do?",
+      "url": "https://www.nytimes.com/2026/08/18/us/politics/natalie-harp-trump-devotion-white-house.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    }
+  ],
+  [
+    {
+      "title": "Iran war forces America to confront the strategic cost of deterring China",
+      "url": "https://www.foxnews.com/opinion/iran-war-forces-america-confront-strategic-cost-deterring-china",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Trump says US has no talks planned with Iran and other news from the Middle East",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUGE0ZXdacDJQQU1FSTNKRzRoV21MR3h5R1FIekhsU054VE9WSzdUdThYNmY3emZwQWpXUFczUklKU2MzZVdUeV9ZaWtoaF9IUXRaT24xS0Y2MmdlbnlxT1JicndhbWpfb1N4Z09GeDV4UGMyQUdLb3Utb3pqNTNDQTR2amh2cTVGZTJ5S3FVVzlWZmoyNHNLUy12WnM3YUtiMW01Vnp5TmRQWjdQS3c?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Turkey slams Israel's 'untenable' claims after strikes on Syrian base",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeTdCNlA1LTNVZ0ttZ2VXTGJLVnR5YjBnUnZMNFVWVzc5cUJEcHdxekdHLXBzcDNLUnp1TUx4N3J6SzJQQ0pOTEtSRFVWOTJpZC1xZEd4QTA1TkpEaG1mOXdTM2pQWU5kV3FqWTM3SlJUZEYyb180ZWxMRHlSZlVveDMtWkNJMTFwMWs0VTB6R1M1aHhNRVAzdXc2V29oOVBBRV8wM2FmWnE4OTNJVWpWU3E0Z0VBcnQ4?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Israel strikes an air base in Syria to prevent Turkish troops from deploying",
+      "url": "https://www.npr.org/2026/08/19/nx-s1-5937400/israel-strikes-syria",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    }
+  ],
+  [
+    {
+      "title": "Pakistan government to challenge Imran Khan hospital move, says law minister",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbW40aTA3U1piZS03SW9vM3lNRlFUR01aVWdDR3pzS1ViZHA5czBFMVduOHZwclZMeTBNVU1LQVpTOEw5WXZmdTVZTVNOdTQwWGlFYWY4LW45QVFVUlcxYkNsbUd1UG5URmNJSElTZGNnVHVQdFNxNGJkQkFBMVIyR0tkbUZ6YU56MXktSUN1cGRaNVRMaHNOVWp0OEloQ2pRQWFvTURFRExQeFlXUXBzUkVTLWpvd3c0eWx5V0xrUzF3MDlCY0E?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Pakistan\u2019s top court orders imprisoned former PM Imran Khan taken to hospital, allows family visits",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPai1pa0VGaklKbXMzY1lIZEdLNkljUDc2YkZJNEtKT3ZucFh3WGNKSlBhc3MtNDZNV20tY3FHQ2J2akg1TUxWR1NFUFhqQ3ZlRmVHQVhKdFJlS3JPeVlVTGxvVmE3dFUzd2NlOTBIczZkaThsUFQ4NXFYaUhUdHJRWWNRZVdwN3VSWE9QWWpGNng5SVBrSEhfbXVobkJYUTZ4MTNfNmREYWFRUmRkRVJNd2xUUkY?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Attacks on aid workers hit record high in 2025, UN says",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYmtzR2tmZkZCUlRxU3JkRjZla3I2ODFrRERhVmRrS3pBaHRUM3BYLXNjSEJUdTFIc1dOMVVrUDFpRlQzc3lMNkFXMlpQSjNkbFJJcUpvV0tBTkFvUU9NeWxsT1RkcDBIUzNuRm9QeGhUR0g3d1ZUeEhaSFlXUkRlT3dCcFRqS19zVThMclVOV2lSLXlPOEI0dmJWbGR3QQ?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Aid workers faced record number of attacks in 2025, UN says",
+      "url": "https://www.aljazeera.com/news/2026/8/19/aid-workers-faced-record-number-of-attacks-in-2025-un-says?traffic_source=rss",
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
@@ -161,82 +317,34 @@
   ],
   [
     {
-      "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
-      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
-    },
-    {
-      "title": "Prosecutors hammer Tyler Robinson's bid to derail death penalty in Charlie Kirk murder case",
-      "url": "https://www.foxnews.com/us/prosecutors-hammer-tyler-robinson-bid-derail-death-penalty-charlie-kirk-murder-case",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    }
-  ],
-  [
-    {
-      "title": "Maryland rocked by third beaver attack in weeks after 2 animals test positive for rabies",
-      "url": "https://www.foxnews.com/us/maryland-rocked-third-beaver-attack-weeks-2-animals-test-positive-rabies",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "Three dead after family get into difficulty in sea",
-      "url": "https://www.bbc.co.uk/news/articles/cm2gmjd36pvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    }
-  ],
-  [
-    {
-      "title": "Ukraine's ousted defence minister calls for wartime elections",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM2I5VUo0cWlLNnZ2Vnp6dlMwcnFsc2R4ZElfZFdFN3VQYTE1MnFhc242TEQzb1BmU1duV0NnSWRuSzBVajN0d3VIMkVuMG9rSmYtNFd6MF81cjJRWThVYjRXamFfWGpFTlNvbGpKUFpEWXpXQWJqTkxLRld1NzBUQnc2dnhpU0N5NDF6N25QV3J2bFA1cW9TdE9lWHduTGRmV0RoV0pESF9SNEJEZWJtelIxaXZUUXNKajBB?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "Sacked Ukrainian defence minister calls for presidential election",
-      "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    }
-  ],
-  [
-    {
-      "title": "Boyfriend Who Abused Hayden Panettiere Had Returned to Her Life",
-      "url": "https://www.nytimes.com/2026/08/18/arts/television/hayden-panettiere-brian-hickerson.html",
-      "source": "New York Times",
+      "title": "Liberia agrees to take 1,200 third-country deportees from the U.S.",
+      "url": "https://www.npr.org/2026/08/19/nx-s1-5937389/liberia-to-take-deportees-from-us",
+      "source": "NPR",
       "bias": "left-center",
-      "domain": "nytimes.com"
+      "domain": "npr.org"
     },
     {
-      "title": "Hayden Panettiere\u2019s boyfriend Brian Hickerson allegedly sent threatening texts after 2020 arrest",
-      "url": "https://pagesix.com/2026/08/18/celebrity-news/hayden-panettieres-boyfriend-brian-hickerson-allegedly-sent-threatening-texts-after-2020-arrest/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
+      "title": "Liberia Agrees To Take 1,200 Third-Country Deportees From The U.S.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRGlTZU5wNm90dzBHMXU3bnJOclloaU15TGY3RU9OWUR6Y1NEellkX2ZyRGt1XzNQOGpWbUlFcjlIMmNPYTd2YjdCbkx2UTFZSUZKOEEydTFNNzNaM3QtN1JjYUh4LWw0Q0R4QjMwbF9mM041WHdOUnMtZ1dEMjREWVM0aERFNGtjb3ZMUXV1QV9UOHhuSU9VN20xTXVmN3dEMUHSAacBQVVfeXFMT24xMHM2X0VERXhITE04bEZ2TXdRUDM5NnhnTW8wdHhuTmZkNks0R25oNTdoODBmQzNPN1R5NWZyYWkwcTI3LWpDYjJNX216eEVfb3FMd09tS3JaZHBTYnNyOVkxMmhnMnpNcEZXZXZ6ekh4YXpGeFJwWjJXQjBnQ0FBWUowMFhrWnFRVWZVRXk4dDF2VVB1Qk8yUkY4NmNxbTlCY1NhVTA?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
     }
   ],
   [
     {
-      "title": "Student kills schoolmate and himself in livestreamed Philippine school attack, official says",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOWJhMlJZekdIMG1VYmt2ZU5DZUR6N0RsR1BIekJsbXpJMzlSZDRBVmduRXd2RDVvY3MwbkljSVBzNTJLbGNuTnBiNGI1ZWw2Mm1EemJaRVEyTzF6ZHd6amplRG1mWGdUNnktMWRadkctM0gyajVVNk9oQVlmU3IxTmNESlNRRXBOV2JvMUxOOFc2ZmRDYld1OWxoSFF5QQ?oc=5",
+      "title": "Musiala collapses for Bayern again as \u2018neurological disorder\u2019 diagnosed",
+      "url": "https://www.aljazeera.com/sports/2026/8/19/musiala-collapses-for-bayern-again-as-neurological-disorder-diagnosed?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "Bayern midfielder Musiala reveals 'neurological' issue after collapse during game for 2nd time",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUEhHcVlsS1lXVzlZRHdqcnNiU1JTTndxWk9MeTFHQlY0U0FjdTE5Nm9jNkJQZFdxRVBBa18tN3F0ZjNUejk2S3RrckFWYjMza2xiamVIWnJDMG05czRwU0tIME56ZWNJMzBadGFVN2UtZkxWS1JPTndCd0JFdFYwX3h0a0VsZms1amdGaV85SGM?oc=5",
       "source": "Associated Press",
       "bias": "center",
       "domain": "apnews.com"
-    },
-    {
-      "title": "Philippine school shooter kills fellow student and himself in livestreamed attack",
-      "url": "https://www.theguardian.com/world/2026/aug/18/philippines-school-shooting-two-dead-zamboanga",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
     }
   ]
 ]

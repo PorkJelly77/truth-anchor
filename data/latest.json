@@ -1,25 +1,32 @@
 [
   [
     {
-      "title": "Newly released video shows scene of Jeremy Renner's snowplow accident",
-      "url": "https://www.cnn.com/videos/us/2023/04/18/jeremy-renner-snowplow-accident-bodycam-nc-melas-contd-vpx.cnn",
+      "title": "Millions in the US could face massive consequences unless McCarthy can navigate out of a debt trap he set for Biden",
+      "url": "https://www.cnn.com/2023/04/18/politics/mccarthy-biden-debt-ceiling/index.html",
       "source": "CNN",
       "bias": "left",
       "domain": "cnn.com"
     },
     {
-      "title": "Steve Hilton wants to have dinner with you as governor hopeful looks to wine and dine California voters",
-      "url": "https://nypost.com/2026/08/19/us-news/california-gop-candidate-steve-hilton-invites-voters-to-dinner/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
+      "title": "Mary Peltola and Dan Sullivan Advance in Key Alaska Senate Contest",
+      "url": "https://www.nytimes.com/2026/08/19/us/politics/peltola-sullivan-alaska-senate-primary.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
     },
     {
-      "title": "Rep. Cory Mills Loses Florida Republican Primary Amid Domestic Violence Allegations",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQV1BCOUozR0lWN3BwTkVzWXcxR1F3alRGU2Y3TDM0QThCVHdtakRvU0dQR1d1dUYtQ2JOcDdhZUtsUDB5eGZuSzlBMGVSQlhraTd2bkhfVmZFT3JUclluaFNuQUFlWk96eFo2SDFSemRnel9ISDB4VFFKWHV4R1J6Y1lHYWVneVhjVXM4ZlpKb2kwQXBZZ05oUGxpQ1dBTFJKa3lDRkJrbng2ODIwZFUyVWVaZDA5NjVrV0VLdENqbnJhaUh5emNOOFBlZlEyYmlNNm5SVzhfONIB3AFBVV95cUxQWkNrSGpfZlZVRzR0bDVtVlhpdkFOSzRSQ0VtMzZKUGRSdTRyTERrQ21UT280RzdBQk1hdVUyMzJFRy1rajBwLWxhSGZGSktxWWlCOUVFY1pzZnNDZ2MwUk11SjhXa3dPWEp6YWFqTWVjMkVCT05jWXNwT043bWFXOTJwRkppci02RFlXSUUyU0x6X0dJbFl1X0p3TV9wcHRHSW40bVp1RjZoUTM5RnlZNEdCc3h5dFpzMHRpVFJldHVXZzhpMlFpU1pFRW9iRzVKMjFtSkQxNWRpbWxo?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
+      "title": "Florida democratic socialist Angie Nixon says \"it's not about labels\"",
+      "url": "https://www.cbsnews.com/news/angie-nixon-interview-democratic-socialist-victory-florida/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "5 takeaways from Florida Senate primary: GOP Sen Ashley Moody will face DSA's Nixon",
+      "url": "https://www.foxnews.com/politics/5-takeaways-florida-senate-primary-gop-sen-ashley-moody-face-dsa-nixon",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
     },
     {
       "title": "Takeaways from Tuesday primaries: Trump endorsement only goes so far",
@@ -43,39 +50,11 @@
       "domain": "theguardian.com"
     },
     {
-      "title": "Trump says US has no talks planned with Iran and other news from the Middle East",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUGE0ZXdacDJQQU1FSTNKRzRoV21MR3h5R1FIekhsU054VE9WSzdUdThYNmY3emZwQWpXUFczUklKU2MzZVdUeV9ZaWtoaF9IUXRaT24xS0Y2MmdlbnlxT1JicndhbWpfb1N4Z09GeDV4UGMyQUdLb3Utb3pqNTNDQTR2amh2cTVGZTJ5S3FVVzlWZmoyNHNLUy12WnM3YUtiMW01Vnp5TmRQWjdQS3c?oc=5",
+      "title": "Trump administration briefly pauses contentious border project in Texas' Big Bend National Park",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOU5vVk54X1dmbDBBVXItdUpaZy1nM1doRDQ1TFh6WE9ibHBzdDFTMjh3aTVJa255TTlpZkNaNzY0NnAzSUJnVHJZM2FVOWhDcVh3MzU0UEdLQVhPLUtHVE14S1NLR182VXFRS0dlQjNpNzdES1BPUFJfbU0yT1ltN2tCVlZTcDFRLTUyUGI1akpDZzJDOUtKa0Z4YlJHbkVaUXpEdWFERGhHNWM?oc=5",
       "source": "Associated Press",
       "bias": "center",
       "domain": "apnews.com"
-    },
-    {
-      "title": "Ashley Moody Wins Republican Nomination in Florida Senate Primary",
-      "url": "https://www.breitbart.com/politics/2026/08/18/ashley-moody-wins-republican-nomination-florida-senate-primary/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
-    },
-    {
-      "title": "\u2018Tit for tat\u2019: Why is Trump cosying up to North Korea\u2019s Kim Jong Un again?",
-      "url": "https://www.aljazeera.com/news/2026/8/19/tit-for-tat-why-is-trump-cozying-up-to-north-koreas-kim-jong-un-again?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "With Limited Options, Trump Tries Economic Pressure on Iran \u2014 Again",
-      "url": "https://www.nytimes.com/2026/08/19/world/europe/iran-trump-economic-sanctions-leverage.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
-      "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
     },
     {
       "title": "U.S. Navy destroyer lost power for 4 days in South China Sea",
@@ -85,163 +64,64 @@
       "domain": "washingtonpost.com"
     },
     {
-      "title": "Hayden Panettiere\u2019s ex Brian Hickerson reportedly handed police bag of medication after her death",
-      "url": "https://www.foxnews.com/entertainment/hayden-panettiere-ex-brian-hickerson-reportedly-handed-police-bag-medication-after-her-death",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
+      "title": "In Upset, Florida Democratic Socialist Nixon Wins Democratic Senate Primary",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQjVqMGlJemJWNHJ1WnF1dE9YdUlQR1F0WG1RX0FCbzNJdmVieHcyOG5YRmV2aldtQ3M3VWxnNzRDR3J2eDNqTTBCMXJfcG5jUUpwZllRZGlMYTR0eFYtTndtWG55aDJBQWpQSUNfRDdHcFV0eXAtOS1CN3V4dERVYzM3ZXlYX2VEWDBqRTNfd3hIeUdCMTY1Um9fUkcxZndlMDJUVlFMRGVKNUHSAbABQVVfeXFMT1pJYjVRV2dHZVF0eDJKMVRqRHQxUEFtRXRqQTdGdHZRVzhXWHpyUWhaeG1YQkVqNkx3VWxLOF9xczBlM054M1pVakNaU1pWdjlxTGgzaWdGR3F1Zm5nX3VXdER4dklfd1JsaWEtM1lRcUlReWJUNVdJQmhYNXRyZHBUc1ZGTG4tM1pBU0VrajE3RG91UFgzNnJTenNYaVJTSWJvVG1sdV9sdF9COWFNemY?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
     },
     {
-      "title": "Hayden Panettiere was with on-and-off boyfriend when she died, police say",
-      "url": "https://www.cbsnews.com/video/hayden-panettiere-was-with-on-and-off-boyfriend-when-she-died-police-say/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
+      "title": "\u2018Have I Been Flocked\u2019 Website Lets You Check If Police Searched for Your Car Using Flock Camera System",
+      "url": "https://www.breitbart.com/tech/2026/08/19/have-i-been-flocked-website-lets-you-check-if-police-searched-for-your-car-using-flock-camera-system/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
     }
   ],
   [
     {
-      "title": "Aussie tennis star Nick Kyrgios hit with suspension after testing positive for cocaine at ATP event",
-      "url": "https://www.foxnews.com/outkick-sports/aussie-tennis-star-nick-kyrgios-suspension-testing-positive-cocaine-atp-event",
+      "title": "Lindsay Clancy described a male voice ordering her to \u2018kill her children and kill herself\u2019: testimony",
+      "url": "https://www.foxnews.com/us/lindsay-clancy-described-male-voice-ordering-kill-children-kill-herself-testimony",
       "source": "Fox News",
       "bias": "right",
       "domain": "foxnews.com"
     },
     {
-      "title": "Kyrgios provisionally suspended after testing positive for cocaine",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY3Z5QmRMZ0Iwa2Y0SmhJVFl2OXRaSm9KdnB5Zl9veERjTVhGQlhaRjJmYVJuUEZuQ09lempsWWx3QWNKLVlvUGFGdFVjbC1BOGs1ZDNuOEtrYWV2Zl93Wk16TDZsUmdxZHdyRWZQNG43c1B2c1M1bWhIWU9zNHJXQk0wbmpvRVFmbElFNWZteGlkblA1T2VoaFVySDM5U0JVMG01RVhpYlU1WVZTVEtfdVU0U1FJVFpMUU1qMy1waUpuaXB1N2xfZg?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "Nick Kyrgios provisionally suspended after positive test for cocaine",
-      "url": "https://www.aljazeera.com/sports/2026/8/19/nick-kyrgios-provisionally-suspended-after-positive-test-for-cocaine?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "Australian tennis player Nick Kyrgios suspended after positive cocaine test",
-      "url": "https://www.cbsnews.com/news/australia-nick-kyrgios-tennis-suspended-cocaine-positive/",
+      "title": "Watch Live: Lindsay Clancy trial resumes with cross-examination of psychologist",
+      "url": "https://www.cbsnews.com/news/lindsay-clancy-trial-watch-live-day-16/",
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"
     },
     {
-      "title": "Tennis player Nick Kyrgios suspended after testing positive for cocaine",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/c4g612r12yno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
+      "title": "Mom and sister testify about Lindsay Clancy's declining mental state before she killed her children",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRmZnc2VjQW84ajBSWlRrZGZyaHRVTnUxcXAxUjJXSFBQamN4eDdzYjAzUnJGdVFTRzZSU05wOXNFTC1BMjdwa0piZ3Y0Q0ZzckZmY1hkQWNOV2ZnMExwZERBR3Z0ZHlEYmZmTmhQTnZYbmo0bldLaGR0SWJjeWpXMTRfX2lmNTNtQ1dVRUI4UG8xQVRlSWxfUDJKXzFJbGlxSGZFeWdRcUhudGpsVHZV?oc=5",
+      "source": "Associated Press",
       "bias": "center",
-      "domain": "bbc.com"
-    }
-  ],
-  [
-    {
-      "title": "Ukraine's parliament approves Yevhenii Khmara as new defence minister",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVWJuOFZuMlV0em9ZTURsT21Xemd4cjVidGpoRWFBX2xRTkl2RnRiMGM2Vkh0bWpsWE1ndDV0SVZ0LUF0SlAtTXFFanpPSHRxSlNkWmd4RU1kcDZvZHlMV2ZLNEdtdjdIZ0NZa1Z6azZ3SE0yZXFZWFJra1JPanlScm96aW9hY0ROSGRmaWtVMU5yOEJSRXg5VGVGSHhPSExzR0dBejFzSV93ZjhhdnJYeDRpUEY?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
+      "domain": "apnews.com"
     },
     {
-      "title": "Sacked Ukrainian defence minister calls for presidential election",
-      "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "At least six killed in Russian air attacks on Ukraine",
-      "url": "https://www.aljazeera.com/news/2026/8/19/at-least-five-killed-in-russian-air-attacks-on-ukraine?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "Defense minister dismissed by Zelensky demands elections in Ukraine",
-      "url": "https://www.washingtonpost.com/world/2026/08/19/mykhailo-fedorov-dismissed-by-zelensky-demands-elections-ukraine/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
-    }
-  ],
-  [
-    {
-      "title": "Chinese robotic company\u2019s stock soars over 600% in trading debut",
-      "url": "https://www.marketwatch.com/story/chinese-robotic-companys-stock-soars-over-600-in-trading-debut-e735426d?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
-    },
-    {
-      "title": "Shares in humanoid robot firm Unitree surge 600% on Chinese stock market debut",
-      "url": "https://www.theguardian.com/technology/2026/aug/19/unitree-shares-surge-humanoid-robot-firm-chinese-stock-market-debut",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    },
-    {
-      "title": "China\u2019s Unitree soars in market debut as investors bet on humanoid robots",
-      "url": "https://www.aljazeera.com/economy/2026/8/19/chinas-unitree-soars-in-market-debut-as-investors-bet-on-humanoid-robots?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "WATCH:  Chinese robotics company unveils robot that can outrun Usain Bolt: David Muir reports",
-      "url": "https://abcnews.com/video/135754463/",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    }
-  ],
-  [
-    {
-      "title": "Turkey accuses Netanyahu of pursuing \u2018expansionist\u2019 policies after Israeli strike on Syrian airbase",
-      "url": "https://www.foxnews.com/politics/turkey-accuses-netanyahu-pursuing-expansionist-policies-israeli-strike-syrian-airbase",
-      "source": "Fox News",
+      "title": "Lindsay Clancy\u2019s ex-husband Patrick spotted lounging with new wife as heartbreaking trial continues",
+      "url": "https://nypost.com/2026/08/19/us-news/lindsay-clancys-ex-husband-patrick-spotted-lounging-with-new-wife-as-heartbreaking-trial-continues/",
+      "source": "New York Post",
       "bias": "right",
-      "domain": "foxnews.com"
+      "domain": "nypost.com"
+    }
+  ],
+  [
+    {
+      "title": "Moderna surges as Merck-partnered melanoma vaccine cuts recurrence in large trial",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV1VaQ05TQmRfMmJzTUkwU2puSHBUcE9FdzY2OW5SaXVFc2FpR25rclJEY1NHS1lrYWdaWE5OUVdhZ2VfTGVHak45akZnYm0wbEZVdXpOYjJEYkpVc3VXaDRrQnZBMDlJbWJLZUY2M2dFc0lycDc1LUtiSmxEWnlsVThSY1RRRG5WM050bEZLR1puWlhDMGlJczRZM0tXb2lHYzlSSmxTRFlQdm52THFDbG1zZlBWLUNUZG9qVjFoQlI?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
     },
     {
-      "title": "Israel strikes an air base in Syria to prevent Turkish troops from deploying",
-      "url": "https://www.npr.org/2026/08/19/nx-s1-5937400/israel-strikes-syria",
-      "source": "NPR",
+      "title": "Moderna stock surges as melanoma vaccine trial shows \"landmark moment\"",
+      "url": "https://www.cbsnews.com/news/moderna-stock-melanoma-cancer-vaccine/",
+      "source": "CBS News",
       "bias": "left-center",
-      "domain": "npr.org"
-    },
-    {
-      "title": "Turkey slams Israel's 'untenable' claims after strikes on Syrian base",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeTdCNlA1LTNVZ0ttZ2VXTGJLVnR5YjBnUnZMNFVWVzc5cUJEcHdxekdHLXBzcDNLUnp1TUx4N3J6SzJQQ0pOTEtSRFVWOTJpZC1xZEd4QTA1TkpEaG1mOXdTM2pQWU5kV3FqWTM3SlJUZEYyb180ZWxMRHlSZlVveDMtWkNJMTFwMWs0VTB6R1M1aHhNRVAzdXc2V29oOVBBRV8wM2FmWnE4OTNJVWpWU3E0Z0VBcnQ4?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    }
-  ],
-  [
-    {
-      "title": "SK Hynix plans $28.6 billion buyback after share price declines",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUlJGSW1ENWNua28tWENjMFMtWjJmTGl6eUFuNFZkbHlvdU9SbWJONF9SeFNLdjRXXy0tVzVPN2VMLV9yUjg0UUZlNm5QNDRYT1FlZ25JVmlJNXRrRE5XVU95ZXB2VTlWMFNCLS1PLXZ4bS0zZ3YtN29OM0sxcHlPb3pwN083b0NfN1I0T1M1V3c0dDFYOW54TGV3WjFqbWJySTRMQUxiZ0hheVVNV21LaURVaw?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "SK Hynix suggests its stock is too cheap as it embarks on $29 billion buyback",
-      "url": "https://www.marketwatch.com/story/sk-hynix-suggests-its-stock-is-too-cheap-as-it-embarks-on-29-billion-buyback-c8b35d4f?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
-    }
-  ],
-  [
-    {
-      "title": "Former Meta engineer resumes testimony in landmark trial over social media's harm to young users",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWEF4WlNJc2c1RjE1QVBCMDVobUhWSXotRWswaWtpQnVTem02RUF4Ykw3QTJzWnI0NmlCQmVkY1NDNUxJdVhfcGEtbEpPd3VaSkZsQUdGTjh1RnNNaGFWNTZEdi1jdmsxRFR5cGp3WDdKT1lRbmgtOUZuMm9VcDRDcE1TS2VKLWxlRVFvM2J1c2hscnBsaXRNcmd6cHZlQmRoNnBCTV80WTZDYW1qZG8yVEVZUXhUUXI0T0NJaS1VQ1ZlSi1pSWRYQUp3?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
+      "domain": "cbsnews.com"
     },
     {
       "title": "Trial for Meta begins with states arguing its platforms preyed on vulnerability of young brains",
@@ -249,6 +129,137 @@
       "source": "Associated Press",
       "bias": "center",
       "domain": "apnews.com"
+    },
+    {
+      "title": "Moderna\u2019s experimental vaccine prevents cancer recurrence, in \u2018historic\u2019 win for personalized medicine. Its stock is soaring.",
+      "url": "https://www.marketwatch.com/story/modernas-stock-doubles-on-promising-cancer-vaccine-results-896b1f2c?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
+    }
+  ],
+  [
+    {
+      "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
+    },
+    {
+      "title": "Karmelo Anthony's defense targets judge who said jury 'got it right' after murder conviction",
+      "url": "https://www.foxnews.com/us/carmelo-anthony-defense-targets-judge-said-jury-got-right-murder-conviction",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Details on potential motive behind Tupac's murder",
+      "url": "https://www.cbsnews.com/video/details-motive-behind-tupacs-murder/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    }
+  ],
+  [
+    {
+      "title": "German prosecutors say second Nord Stream suspect arrested in Croatia",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLWlWVTh4SHQtVndlUE9yV0hKLXVlUEZYeUVLN2gwcHY1dDlYTlRuWVRETFlSU1VWNEFKVFktT3BXWThnTDVVU2pIc0lEZkMwVmFyOHA2X25vczlySUpCZE1BNFlvZGJNaE5xSHlqcnpnOTAzempYVERnN3dUWUNfSC14eHRKWGVuaXFkaUh5SElINkE4VDhCQUI4Xzh1bDE3VzBIallsY25meG1SNDktYWl2WQ?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Second Ukrainian national arrested over 2022 Nord Stream pipeline blast",
+      "url": "https://www.aljazeera.com/news/2026/8/19/second-ukrainian-national-arrested-over-2022-nord-stream-pipeline-blast?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
+      "url": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    }
+  ],
+  [
+    {
+      "title": "With Limited Options, Trump Tries Economic Pressure on Iran \u2014 Again",
+      "url": "https://www.nytimes.com/2026/08/19/world/europe/iran-trump-economic-sanctions-leverage.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "War on Iran: Iran allegedly targets the UAE",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/war-on-iran-iran-allegedly-targets-the-uae?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "UAE says it is suspending trade with Iran after missile attack",
+      "url": "https://www.washingtonpost.com/world/2026/08/19/uae-says-it-is-suspending-trade-with-iran-after-missile-attack/",
+      "source": "Washington Post",
+      "bias": "left-center",
+      "domain": "washingtonpost.com"
+    }
+  ],
+  [
+    {
+      "title": "Israel numbers Palestinian detainee foreheads: What we know",
+      "url": "https://www.aljazeera.com/news/2026/8/19/israel-numbers-palestinian-detainee-foreheads-what-we-know?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "Spain to allow 500 children in Ceuta to go to mainland in immigration U-turn",
+      "url": "https://www.theguardian.com/world/2026/aug/19/spain-allows-500-migrant-minors-in-ceuta-to-relocate-to-the-mainland-in-u-turn",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "IDF launching criminal investigations into 2 attacks on Palestinians",
+      "url": "https://abcnews.com/International/idf-launching-criminal-investigations-2-attacks-palestinians/story?id=135769241",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    }
+  ],
+  [
+    {
+      "title": "Lindsey Graham\u2019s sister admits she\u2019s \u2018not that informed on national security\u2019 while seeking full Senate term",
+      "url": "https://www.foxnews.com/politics/lindsey-grahams-sister-admits-shes-not-informed-national-security-while-seeking-full-senate-term",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "\u2018I\u2019m Not That Informed on National Security,\u2019 Graham Says in South Carolina Debate",
+      "url": "https://www.nytimes.com/2026/08/18/us/politics/south-carolina-senate-runoff-debate-graham-norman.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    }
+  ],
+  [
+    {
+      "title": "US Treasury to double sizes of some debt buyback operations to at least $4 billion",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVG9LQ251bHQzZlRLUDhWa1JjNTNUUkh3TVN4YUZ3M09OU3d2MVYxUFdjTUdZYVBtQ1dsTEhQb0JpMXJxV1B2QjZwUFdWTVo3YU5VQjlxVGJKdDJUUXE1VFUzNDFDcWhkWE9fM1lCb21XcTRzN3FKQ3hIYW9KSXByWGVUQnB4XzlQbHJtWFl2V2RkV1FOZjhVendlV2djM2ZBRnJoMGVHRS01cTZpR3lvUQ?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Pressure on bonds abates as Treasury announces buybacks. What may come next.",
+      "url": "https://www.marketwatch.com/story/pressure-on-bonds-abates-as-treasury-announces-buybacks-what-may-come-next-af7d7c76?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
     }
   ],
   [
@@ -260,27 +271,11 @@
       "domain": "nytimes.com"
     },
     {
-      "title": "The bond selloff is rattling investors, but here\u2019s why they shouldn\u2019t expect a deeper stock downturn",
-      "url": "https://www.marketwatch.com/story/the-bond-selloff-is-rattling-investors-but-heres-why-they-shouldnt-expect-a-deeper-stock-downturn-43139350?mod=mw_rss_topstories",
+      "title": "America\u2019s growing debt pile will be the big focus Wednesday as global bond rout deepens",
+      "url": "https://www.marketwatch.com/story/americas-growing-debt-pile-will-be-the-big-focus-wednesday-as-global-bond-rout-deepens-a6955c80?mod=mw_rss_topstories",
       "source": "Wall Street Journal",
       "bias": "center-right",
       "domain": "wsj.com"
-    }
-  ],
-  [
-    {
-      "title": "Should you Venmo your tuition? Here\u2019s what to know as colleges add new payment options.",
-      "url": "https://www.marketwatch.com/story/should-you-venmo-your-tuition-heres-what-to-know-as-colleges-add-new-payment-options-1a70ae96?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
-    },
-    {
-      "title": "Can debt collectors contact you at work? Here's what borrowers should know",
-      "url": "https://www.cbsnews.com/news/can-debt-collectors-contact-you-at-work/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
     }
   ],
   [
@@ -292,8 +287,8 @@
       "domain": "npr.org"
     },
     {
-      "title": "DRC\u2019s fast-growing Ebola outbreak spreads to sixth province",
-      "url": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
+      "title": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country\u2019s history",
+      "url": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
       "source": "The Guardian",
       "bias": "left-center",
       "domain": "theguardian.com"
@@ -301,18 +296,50 @@
   ],
   [
     {
-      "title": "Pakistan challenges top court order to move Imran Khan to private hospital",
-      "url": "https://www.aljazeera.com/news/2026/8/19/pakistan-challenges-top-court-order-to-move-imran-khan-to-private-hospital?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
+      "title": "Why more than 400,000 kids are on waitlists for federal childcare assistance",
+      "url": "https://www.npr.org/2026/08/19/nx-s1-5920326/childcare-assistance-waitlists",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
     },
     {
-      "title": "Pakistan\u2019s top court orders imprisoned former PM Imran Khan taken to hospital, allows family visits",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPai1pa0VGaklKbXMzY1lIZEdLNkljUDc2YkZJNEtKT3ZucFh3WGNKSlBhc3MtNDZNV20tY3FHQ2J2akg1TUxWR1NFUFhqQ3ZlRmVHQVhKdFJlS3JPeVlVTGxvVmE3dFUzd2NlOTBIczZkaThsUFQ4NXFYaUhUdHJRWWNRZVdwN3VSWE9QWWpGNng5SVBrSEhfbXVobkJYUTZ4MTNfNmREYWFRUmRkRVJNd2xUUkY?oc=5",
-      "source": "Associated Press",
+      "title": "\"Recess Therapy\" creator on why adults should bring child-like behavior back into their lives",
+      "url": "https://www.cbsnews.com/video/recess-therapy-creator-on-why-adults-should-bring-child-like-behavior-back-into-their-lives/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Defense minister dismissed by Zelensky demands elections in Ukraine",
+      "url": "https://www.washingtonpost.com/world/2026/08/19/mykhailo-fedorov-dismissed-by-zelensky-demands-elections-ukraine/",
+      "source": "Washington Post",
+      "bias": "left-center",
+      "domain": "washingtonpost.com"
+    },
+    {
+      "title": "Ukraine's fired defense minister calls for elections despite war with Russia",
+      "url": "https://www.cbsnews.com/news/ukraine-election-fedorov-zelensky-war-russia/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Shares in humanoid robot firm Unitree surge 600% on Chinese stock market debut",
+      "url": "https://www.theguardian.com/technology/2026/aug/19/unitree-shares-surge-humanoid-robot-firm-chinese-stock-market-debut",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "WATCH:  Chinese robotics company unveils robot that can outrun Usain Bolt: David Muir reports",
+      "url": "https://abcnews.com/video/135754463/",
+      "source": "ABC News",
       "bias": "center",
-      "domain": "apnews.com"
+      "domain": "abcnews.go.com"
     }
   ]
 ]

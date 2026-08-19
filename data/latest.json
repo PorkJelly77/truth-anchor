@@ -1,81 +1,39 @@
 [
   [
     {
-      "title": "Millions in the US could face massive consequences unless McCarthy can navigate out of a debt trap he set for Biden",
-      "url": "https://www.cnn.com/2023/04/18/politics/mccarthy-biden-debt-ceiling/index.html",
+      "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
       "source": "CNN",
       "bias": "left",
       "domain": "cnn.com"
     },
     {
-      "title": "Kim Jong-un\u2019s sister casts doubt on Trump\u2019s claims of secret US-North Korea talks",
-      "url": "https://www.theguardian.com/world/2026/aug/19/kim-jong-un-sister-doubt-trump-claims-secret-us-north-korea-talks",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    },
-    {
-      "title": "Jared Moskowitz savagely sends \u2018condolences\u2019 to Hasan Piker in victory lap after defeating DSA member in Florida primary",
-      "url": "https://nypost.com/2026/08/19/media/jared-moskowitz-sends-condolences-to-hasan-piker-after-defeating-dsa-member-in-florida-primary/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "The national debt just hit $40 trillion. Here\u2019s how it can hurt Americans.",
-      "url": "https://www.marketwatch.com/story/the-national-debt-is-about-to-hit-40-trillion-heres-how-it-can-hurt-americans-b4f252b9?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
-    },
-    {
-      "title": "The U.S. debt tops a record-shattering $40 trillion. Yes, with a T.",
-      "url": "https://www.npr.org/2026/08/19/nx-s1-5937552/the-u-s-debt-tops-a-record-shattering-40-trillion-yes-with-a-t",
+      "title": "Experts raise alarms over Census Bureau report Trump is touting on noncitizen voting",
+      "url": "https://www.npr.org/2026/08/19/nx-s1-5938799/trump-census-bureau-noncitizen-voting",
       "source": "NPR",
       "bias": "left-center",
       "domain": "npr.org"
     },
     {
-      "title": "Markets Rally After U.S. Treasury Eases Bond Investor Stress",
-      "url": "https://www.nytimes.com/2026/08/19/business/bond-yields-treasury-department.html",
+      "title": "UAE says it is suspending trade with Iran after missile launch",
+      "url": "https://www.washingtonpost.com/world/2026/08/19/uae-says-it-is-suspending-trade-with-iran-after-missile-attack/",
+      "source": "Washington Post",
+      "bias": "left-center",
+      "domain": "washingtonpost.com"
+    },
+    {
+      "title": "What to Know About Iran\u2019s Economic Ties With Gulf Countries",
+      "url": "https://www.nytimes.com/2026/08/19/world/middleeast/iran-emirates-gulf-economic-ties.html",
       "source": "New York Times",
       "bias": "left-center",
       "domain": "nytimes.com"
     },
     {
-      "title": "US stocks look to halt their 3-day slide as pressure from the bond market eases",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTGNiQUx0ZWFmZVFMdktJQkpSUDQyZW9DM2tOWUxHYUVZNG1iN3dXNUt0SF9ZMkVNYlRGb2drVl9ESG9EN1VTSWw4Y3Q2TVprR2U4S05CaEE4bktTVWNVTkFBX1V5dVMzSTNGdTc4RmN5UE8yeGlkNTB6c0FCR0haQUtWWXBLOWVmZ2VKeHBvUkJ3ZVNiUVpmWDA4Z2UzXzdfaUFTTmx3?oc=5",
+      "title": "United Arab Emirates suspends trade with Iran after coming under renewed missile fire",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa0QxYWRHV3EwbTFuUGNkbHlmazM2MHlDNTM0MFMyUnkxLWFGb2ozNm5OVjFsQ0RUcmlXSXcwOV9MV2ZVWi1fYVpRVVkxMWJYSGZlUWZvbmdoekxQNy1qTThzVWlOTE94bkdjWDhNSnFfM1RQdmJxRWZ0c3FqZkJ4dVVfbVNfa3VyUU1iSlFHckhMVHY5aUJEQjJBcUNtcG1rQjREZW9GY3hwdw?oc=5",
       "source": "Associated Press",
       "bias": "center",
       "domain": "apnews.com"
-    },
-    {
-      "title": "Kennedy Center Tells Court It Won't Try To Restore Trump's Name Before Sept. 8",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbTl4RzVnR0NDdU9wQW9WYjAwaXN4VEhWOWpnYVJFdS1taVQxaVJRVkQxdWRUS0dGVmpzSVNkWmdCNWljd0hkckRrS2I5SXkxQ0dTOUdVNzlySXBYejVEbGcwTkpkbXFleTBjZFRnRkgtUDhDa0ZfRFQ0Y2xHQnlPTmpSdlZCQm5IT3JqTXNiUWR1NkdUbV9YWDBQSGhPQktpNzVYc3JIaDFac1ZPT2ZDLdIBtgFBVV95cUxPYWZsa3BKMzlTZEYyblpnOUtwWm5fRkcwaHBKRWlUSTI1QXNvMGluVXF3VXVDbnEzUHZPOFdKdERudWxmQ0NIOV9ONHlJTnI3cTBOdHhaY3B6MVJEbFpuMmlBX2FLM3VKc2swLWstOUoyUzRLaENfLVJQTGdUUHZ4bDFac2h2U1RiaE05WmVuSjhKaEt5anlONG1LM2lfUGRJYmtpQW8xM2ZoV0VBc0I1ZjVpS3Bodw?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    },
-    {
-      "title": "Trump calls ballroom a 'military complex' in bid to complete White House construction",
-      "url": "https://abcnews.com/Politics/trump-calls-white-house-ballroom-military-complex-supreme/story?id=135782053",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    },
-    {
-      "title": "Trump nominates Heidi Overton to lead US Food and Drug Administration",
-      "url": "https://www.aljazeera.com/news/2026/8/19/trump-nominates-heidi-overton-to-lead-us-food-and-drug-administration?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "U.S. Navy destroyer lost power for 4 days in South China Sea",
-      "url": "https://www.washingtonpost.com/national-security/2026/08/17/us-navy-destroyer-lost-power-4-days-south-china-sea/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
     },
     {
       "title": "US debt crosses $40 trillion threshold after doubling under Trump and Biden",
@@ -85,18 +43,46 @@
       "domain": "reuters.com"
     },
     {
-      "title": "Trump's approval rating plummets to new low ahead of critical midterms: 'More work to do'",
-      "url": "https://www.foxnews.com/politics/trump-approval-rating-plummets-new-low-ahead-critical-midterms",
+      "title": "Jon Ossoff's controversial Trump jab sparks media feeding frenzy over White House aide Natalie Harp",
+      "url": "https://www.foxnews.com/media/jon-ossoffs-controversial-trump-jab-sparks-media-feeding-frenzy-over-white-house-aide-natalie-harp",
       "source": "Fox News",
       "bias": "right",
       "domain": "foxnews.com"
     },
     {
-      "title": "U.S. might return to negotiations \"at some point,\" Trump says",
-      "url": "https://www.cbsnews.com/live-updates/us-iran-war-deal-strait-of-hormuz/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
+      "title": "Trump calls ballroom a 'military complex' in bid to complete White House construction",
+      "url": "https://abcnews.com/Politics/trump-calls-white-house-ballroom-military-complex-supreme/story?id=135782053",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    },
+    {
+      "title": "Virginia county expects $1.3B haul in tax revenue from its 250 data centers\u2014 and has become a model for the nation",
+      "url": "https://nypost.com/2026/08/19/us-news/virginia-county-expecting-its-data-centers-to-bring-in-1-3b-haul-in-tax-revenue/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
+      "title": "Kennedy Center Tells Court It Won't Try To Restore Trump's Name Before Sept. 8",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbTl4RzVnR0NDdU9wQW9WYjAwaXN4VEhWOWpnYVJFdS1taVQxaVJRVkQxdWRUS0dGVmpzSVNkWmdCNWljd0hkckRrS2I5SXkxQ0dTOUdVNzlySXBYejVEbGcwTkpkbXFleTBjZFRnRkgtUDhDa0ZfRFQ0Y2xHQnlPTmpSdlZCQm5IT3JqTXNiUWR1NkdUbV9YWDBQSGhPQktpNzVYc3JIaDFac1ZPT2ZDLdIBtgFBVV95cUxPYWZsa3BKMzlTZEYyblpnOUtwWm5fRkcwaHBKRWlUSTI1QXNvMGluVXF3VXVDbnEzUHZPOFdKdERudWxmQ0NIOV9ONHlJTnI3cTBOdHhaY3B6MVJEbFpuMmlBX2FLM3VKc2swLWstOUoyUzRLaENfLVJQTGdUUHZ4bDFac2h2U1RiaE05WmVuSjhKaEt5anlONG1LM2lfUGRJYmtpQW8xM2ZoV0VBc0I1ZjVpS3Bodw?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    },
+    {
+      "title": "\u201cI get along with him very well.\u201d",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/i-get-along-with-him-very-well?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "The chip-stock rally hits a speed bump \u2014 but these analysts see reason to be hopeful",
+      "url": "https://www.marketwatch.com/story/the-chip-stock-rally-hits-a-speed-bump-but-these-analysts-see-reason-to-be-hopeful-61821295?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
     },
     {
       "title": "Nolte: McCarthyite Larry David Killed Friendship with Alan Dershowitz over Trump",
@@ -104,36 +90,13 @@
       "source": "Breitbart",
       "bias": "right",
       "domain": "breitbart.com"
-    }
-  ],
-  [
-    {
-      "title": "5 Americans killed in helicopter crash in Kenya, including Telemundo executive",
-      "url": "https://www.foxnews.com/world/5-americans-killed-helicopter-crash-kenya-including-telemundo-executive",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
     },
     {
-      "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
-      "url": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "5 Americans among 7 people killed in Kenya helicopter crash",
-      "url": "https://www.cbsnews.com/news/helicopter-crash-kenya-deaths-us-journalist/",
+      "title": "Beagles get first taste of freedom after relocation from controversial breeding facility",
+      "url": "https://www.cbsnews.com/video/beagles-rescued-from-controversial-breeding-facility-and-get-first-taste-of-freedom/",
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"
-    },
-    {
-      "title": "Seven people, mostly foreign tourists, killed in helicopter crash in Kenya",
-      "url": "https://www.aljazeera.com/news/2026/8/19/seven-mostly-tourists-killed-in-helicopter-crash-in-northern-kenya?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
     },
     {
       "title": "Five Americans among seven killed in safari helicopter crash in Kenya",
@@ -143,20 +106,64 @@
       "domain": "theguardian.com"
     },
     {
-      "title": "Israel Opens Criminal Investigation Into Killings of Hind Rajab and Gaza Medical Workers",
-      "url": "https://www.nytimes.com/2026/08/19/world/middleeast/israel-criminal-investigation-hind-rajab-gaza-workers.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
+      "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
+      "url": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
     }
   ],
   [
     {
-      "title": "Moderna shares double as cancer vaccine data rekindles investor hopes",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdGJPaGVZV1B5YXpJY1ZQM3h6X1ZtZmZMQ1k5NTZGX2NUSkdFZU80bHVXY3Z0Uk1kV2xWckJoc3VaTTB2MTd4dnhwaVp4SHk1U0RYMzBRQUtYRW45SFJKQ1hRN3pZd0pIblo1ZGN6aV9KVHZwYkNVUmpKNWhxdlRDTW9wTEtXWUxVdUZuMUJKUHJMeVpIZ1djS3kxeWhnbmNmSzJZUWVGYkwtNm5qWml4TUhzenpyUmlIRjNqa3czTmVORXQyTEY0eHdfdlpiQmFyNXdUcW5rbjJ0MjIwcmc?oc=5",
+      "title": "Prince Harry, Meghan Markle planning to move back to UK with children 6 years after royal exit: reports",
+      "url": "https://www.foxnews.com/entertainment/prince-harry-meghan-markle-planning-move-back-uk-children-6-years-after-royal-exit-reports",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Prince Harry and Meghan Will Move Back to U.K. After 6 Years in U.S.",
+      "url": "https://www.nytimes.com/2026/08/19/world/europe/prince-harry-meghan-return-uk.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Prince Harry and Meghan moving back to U.K.",
+      "url": "https://www.cbsnews.com/news/prince-harry-meghan-moving-back-uk/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Prince Harry and Meghan planning to move back to the UK: Source",
+      "url": "https://abcnews.com/GMA/Culture/prince-harry-meghan-planning-move-back-uk/story?id=135788587",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    },
+    {
+      "title": "Prince Harry and Meghan moving back to UK",
+      "url": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "Prince Harry and Meghan to move back to Britain, media reports say",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQV2d3eUNITlMzVnBXbUpLNl9kT2JBWEFjUWlWaXh0UXVzSklRMVdIWlFpbUFqQ3NaTDBSLWtMZ1Fscl91YXJFRzhXMTRXZE5BUnpyelVRUFFOLXRSeWNQRmZ5MHZFeWtQb015VEhMWnJveXJQcmRDSExLdDVUaWV6SDZkcHNvZ3kwVUdVSHE0eVViUktTTHRybE9CaUxpSjFScHYtMlQxTQ?oc=5",
       "source": "Reuters",
       "bias": "center",
       "domain": "reuters.com"
+    }
+  ],
+  [
+    {
+      "title": "Vaccine breakthrough stops cancer returning in trial",
+      "url": "https://www.bbc.co.uk/news/articles/c79gpv7v190o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
     },
     {
       "title": "Moderna\u2019s cancer-vaccine breakthrough drives broad biopharma stock rally",
@@ -180,38 +187,40 @@
       "domain": "apnews.com"
     },
     {
-      "title": "Vaccine breakthrough stops cancer returning in trial",
-      "url": "https://www.bbc.co.uk/news/articles/c79gpv7v190o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
+      "title": "Dr. Oz on Trump and prescription drug prices, skin cancer vaccine trial",
+      "url": "https://www.cbsnews.com/video/dr-oz-on-trump-claims-about-lower-prescription-drug-prices/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
     }
   ],
   [
     {
-      "title": "Penn State frat cocaine ring suspects allegedly used Cash App, Snapchat to arrange drug deals",
-      "url": "https://www.foxnews.com/us/penn-state-frat-cocaine-ring-suspects-allegedly-used-cash-app-snapchat-arrange-drug-deals",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "Penn State frat pledges were made to cut and bag cocaine for college drug ring, authorities say",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMjA2ZEd5VnpuODl0YVZTLWVvWVVybWdveEMxdEZSM3FhOGotelJ4blVnQldCOXJ0Uml2RWFaakMxa2ZvT2xLNGd0alRWV0NXcm1fQ1hmcURicERyUzYzX2J0ZlNXZDFNREFESVJmaXRIVVF4SW5WUkpxLUlKVF94ZFFqZHBvejJGQVluNVMzUjA1YTZ2OW5NTGh6VUhFeVEwRlRkYUNLN0pGODlpRWdN?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "Penn State frat brothers charged with running cocaine trafficking ring",
-      "url": "https://www.cbsnews.com/news/penn-state-fraternity-cocaine-trafficking-ring/",
-      "source": "CBS News",
+      "title": "Whistleblower Arturo B\u00e9jar leads testimony in landmark trial against Meta",
+      "url": "https://www.npr.org/2026/08/19/nx-s1-5936648/meta-trial-arturo-bejar-whistleblower-testimony",
+      "source": "NPR",
       "bias": "left-center",
-      "domain": "cbsnews.com"
+      "domain": "npr.org"
     },
     {
-      "title": "Penn State Fraternity Cocaine Trafficking Ringleader Surrenders, Denied Bail",
-      "url": "https://www.breitbart.com/pre-viral/2026/08/19/penn-state-fraternity-cocaine-trafficking-ringleader-surrenders-denied-bail/",
+      "title": "What the social media addiction lawsuit could cost Meta",
+      "url": "https://www.aljazeera.com/economy/2026/8/19/what-the-social-media-addiction-lawsuit-could-cost-meta?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    }
+  ],
+  [
+    {
+      "title": "Paramount CEO David Ellison eyes Austin as potential new base after threatening\u00a0to ditch California during antitrust battle",
+      "url": "https://nypost.com/2026/08/19/business/paramount-ceo-david-ellison-eyes-austin-as-potential-new-base-after-threatening-to-ditch-california-during-antitrust-battle/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
+      "title": "Rosie O'Donnell Says David Ellison Taking Over CNN Would Be 'Tragic,' Calls Jewish Bari Weiss a 'Nazi'",
+      "url": "https://www.breitbart.com/entertainment/2026/08/19/rosie-odonnell-says-david-ellison-taking-over-cnn-would-be-tragic-calls-jewish-bari-weiss-a-nazi/",
       "source": "Breitbart",
       "bias": "right",
       "domain": "breitbart.com"
@@ -219,68 +228,8 @@
   ],
   [
     {
-      "title": "U.A.E. Announces Halt to Trade With Iran Amid Trump\u2019s Push To Isolate Tehran",
-      "url": "https://www.nytimes.com/2026/08/19/world/middleeast/uae-cuts-trade-ties-iran-missiles.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "United Arab Emirates suspends trade with Iran after coming under renewed missile fire",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa0QxYWRHV3EwbTFuUGNkbHlmazM2MHlDNTM0MFMyUnkxLWFGb2ozNm5OVjFsQ0RUcmlXSXcwOV9MV2ZVWi1fYVpRVVkxMWJYSGZlUWZvbmdoekxQNy1qTThzVWlOTE94bkdjWDhNSnFfM1RQdmJxRWZ0c3FqZkJ4dVVfbVNfa3VyUU1iSlFHckhMVHY5aUJEQjJBcUNtcG1rQjREZW9GY3hwdw?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "UAE says it is suspending trade with Iran after missile launch",
-      "url": "https://www.washingtonpost.com/world/2026/08/19/uae-says-it-is-suspending-trade-with-iran-after-missile-attack/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
-    },
-    {
-      "title": "Why does the U.S. military seem stymied in the war with Iran?",
-      "url": "https://www.npr.org/2026/08/19/nx-s1-5937516/why-does-the-u-s-military-seem-stymied-in-the-war-with-iran",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    }
-  ],
-  [
-    {
-      "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
-      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
-    },
-    {
-      "title": "Trial judge removed from Karmelo Anthony case as teen seeks new trial",
-      "url": "https://abcnews.com/US/trial-judge-recused-karmelo-anthony-case-teen-seeks/story?id=133756722",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    },
-    {
-      "title": "Mark Zuckerberg\u2019s Meta had \u2018don\u2019t ask, don\u2019t tell\u2019 policy on child safety, ex-employee testifies in historic trial",
-      "url": "https://nypost.com/2026/08/19/business/mark-zuckerbergs-meta-had-dont-ask-dont-tell-policy-on-child-safety-ex-employee-testifies-in-historic-trial/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    }
-  ],
-  [
-    {
-      "title": "Disney alum Christy Carlson Romano rips Hollywood for failing child stars after Hayden Panettiere\u2019s death",
-      "url": "https://www.foxnews.com/entertainment/disney-alum-christy-carlson-romano-rips-hollywood-failing-child-stars-hayden-panettiere-death",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "Fast Takes: Hollywood parents\u2019 child sacrifices, a Swedish child-care lesson and more",
-      "url": "https://nypost.com/2026/08/19/opinion/fast-takes-hollywood-parents-child-sacrifices-a-swedish-child-care-lesson-and-more/",
+      "title": "Tragic death of Hayden Panettiere is a reminder of the dark side of Hollywood",
+      "url": "https://nypost.com/2026/08/19/opinion/tragic-death-of-hayden-panettiere-is-a-reminder-of-the-dark-side-of-hollywood/",
       "source": "New York Post",
       "bias": "right",
       "domain": "nypost.com"
@@ -295,50 +244,34 @@
   ],
   [
     {
-      "title": "Kathy Griffin 'really hurt' she's not a guest on Kimmel's show during Rosie O'Donnell's week to host",
-      "url": "https://www.foxnews.com/media/kathy-griffin-really-hurt-not-guest-kimmel-show-rosie-odonnell-week-host",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "Rosie O'Donnell Says David Ellison Taking Over CNN Would Be 'Tragic,' Calls Jewish Bari Weiss a 'Nazi'",
-      "url": "https://www.breitbart.com/entertainment/2026/08/19/rosie-odonnell-says-david-ellison-taking-over-cnn-would-be-tragic-calls-jewish-bari-weiss-a-nazi/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
-    }
-  ],
-  [
-    {
-      "title": "Manhunt intensifies for armed woman after veteran Massachusetts police officer found dead at home",
-      "url": "https://www.foxnews.com/us/manhunt-intensifies-armed-woman-after-veteran-massachusetts-police-officer-found-dead-home",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "Off-duty cop killed, possibly armed woman wanted",
-      "url": "https://abcnews.com/US/possibly-armed-woman-wanted-massachusetts-connection-off-duty/story?id=135771375",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    }
-  ],
-  [
-    {
-      "title": "How the U.S. Navy Is Helping Get Oil Through the Strait of Hormuz",
-      "url": "https://www.nytimes.com/2026/08/19/business/iran-hormuz-oman-us-navy.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "US quietly guides millions of barrels of oil through Strait of Hormuz in stealth operation",
-      "url": "https://nypost.com/2026/08/19/world-news/us-guides-millions-of-barrels-of-oil-through-strait-of-hormuz-in-stealth-operation/",
+      "title": "Blueberry recall over deadly E. coli fears hits FDA\u2019s highest-risk level \u2014 with 12 sickened, 4 hospitalized",
+      "url": "https://nypost.com/2026/08/19/lifestyle/greenwise-blueberry-recall-upgraded-over-e-coli-risk/",
       "source": "New York Post",
       "bias": "right",
       "domain": "nypost.com"
+    },
+    {
+      "title": "Publix frozen blueberry recall upgraded to highest health risk level",
+      "url": "https://www.cbsnews.com/news/blueberry-recall-fda-class-1-risk/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Penn State frat pledges were made to cut and bag cocaine for college drug ring, authorities say",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMjA2ZEd5VnpuODl0YVZTLWVvWVVybWdveEMxdEZSM3FhOGotelJ4blVnQldCOXJ0Uml2RWFaakMxa2ZvT2xLNGd0alRWV0NXcm1fQ1hmcURicERyUzYzX2J0ZlNXZDFNREFESVJmaXRIVVF4SW5WUkpxLUlKVF94ZFFqZHBvejJGQVluNVMzUjA1YTZ2OW5NTGh6VUhFeVEwRlRkYUNLN0pGODlpRWdN?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Penn State Fraternity Cocaine Trafficking Ringleader Surrenders, Denied Bail",
+      "url": "https://www.breitbart.com/pre-viral/2026/08/19/penn-state-fraternity-cocaine-trafficking-ringleader-surrenders-denied-bail/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
     }
   ]
 ]

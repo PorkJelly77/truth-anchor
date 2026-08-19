@@ -1,231 +1,68 @@
 [
   [
     {
-      "title": "South Korea president calls for military independence in wake of Trump call to cut joint drills",
-      "url": "https://www.theguardian.com/world/2026/aug/18/south-korea-president-trump-military-drills-control-opcon-kim-jong-un",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    },
-    {
-      "title": "Jared Kushner meets Hamas on Mideast trip to push Gaza deal",
-      "url": "https://www.washingtonpost.com/world/2026/08/16/jared-kushner-meets-hamas-mideast-trip-push-gaza-deal/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
-    },
-    {
-      "title": "Iran live updates: Trump posts map labeling Strait of Hormuz 'new' US territory",
-      "url": "https://abcnews.com/International/live-updates/iran-live-updates-tehran-adopt-offensive-aspect-irgc/?id=135700072",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    },
-    {
-      "title": "Trump says no talks with Iran ongoing, and none scheduled",
-      "url": "https://www.cbsnews.com/live-updates/us-iran-war-deal-strait-of-hormuz/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "A 13-year-old dies after participating in a Benadryl TikTok 'challenge'",
-      "url": "https://www.cnn.com/2023/04/18/us/benadryl-tiktok-challenge-teen-death-wellness/index.html",
+      "title": "Millions in the US could face massive consequences unless McCarthy can navigate out of a debt trap he set for Biden",
+      "url": "https://www.cnn.com/2023/04/18/politics/mccarthy-biden-debt-ceiling/index.html",
       "source": "CNN",
       "bias": "left",
       "domain": "cnn.com"
     },
     {
-      "title": "Trump Administration Plans to Deploy 1,000 Poll Monitors Across America for Midterm Elections",
-      "url": "https://www.breitbart.com/midterm-election/2026/08/18/trump-administration-plans-deploy-1000-poll-monitors-across-america-midterm-elections/",
-      "source": "Breitbart",
+      "title": "Your favorite cocktail could be an unexpected casualty of Trump's looming trade fight",
+      "url": "https://www.foxnews.com/politics/your-favorite-cocktail-could-unexpected-casualty-trumps-looming-trade-fight",
+      "source": "Fox News",
       "bias": "right",
-      "domain": "breitbart.com"
+      "domain": "foxnews.com"
     },
     {
-      "title": "'Profits won.' The child safety trial against Meta kicks off in federal court",
-      "url": "https://www.npr.org/2026/08/18/nx-s1-5935458/meta-child-safety-social-media-addiction-trial-opening",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    },
-    {
-      "title": "Meta Platforms faces pivotal trial as opening statements begin in California",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLWhfS2YxWEZCcDBpZ3EyYTc4YUt5alNaWmNZcWUxT2pZMlZUZ21rYmhZZU9vVHd6VkxfLTZCN0pSVWVwOHZCclc3TXJzUXRueDBVNmZfNzBnNV9UaTd1ZXJtZXYyTGpXa2Z3RXZFXzhqZFZlR2M4NUVGWDFDNjZZak5VZGpTVlZOWHRWaThTZkhXcWE3anZmcFdweFp1b0E5MG9PRQ?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "Landmark trial on Meta\u2019s impact on children\u2019s mental health begins in US",
-      "url": "https://www.aljazeera.com/economy/2026/8/18/landmark-trial-on-metas-impact-on-childrens-mental-health-begins-in-us?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "Gulf Oil Giants Push to Expand Overseas Stockpiles as Iran War Drags On",
-      "url": "https://www.nytimes.com/2026/08/18/business/saudi-uae-japan-oil-storage.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "Russia shipping drones, explosives to rebuild Iran\u2019s supply: report",
-      "url": "https://nypost.com/2026/08/18/world-news/russia-shipping-drones-explosives-to-rebuild-irans-supply-report/",
+      "title": "Abdul El-Sayed\u2019s mom worked for \u2018global terrorist\u2019 group accused of funding bin Laden, Hamas and Taliban: report",
+      "url": "https://nypost.com/2026/08/18/us-news/abdul-el-sayeds-mom-worked-for-global-terrorist-group-accused-of-funding-bin-laden-hamas-and-taliban-report/",
       "source": "New York Post",
       "bias": "right",
       "domain": "nypost.com"
     },
     {
-      "title": "White House defends Trump's ability to vote by mail",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcVhsN21VZ2ZlUnVlZXdMZnl6aGFaS2FiLVJSekRhU1JiRXdtenFzNE5NYi1zcnpqQ2xDdU9tNkpmVkVNZHY4RHVQdjhtUXBPSGVZTGF3aE5LNjUwajAyaldtTlpCM09SelF6NDg3Rm8zR3lwbWJtRV9fWG85R2Ztd3VuLUpoVE5YaGxDam11bWpaZDZncGk2VzBtR2k5cnR2T0E?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "House Democrat Cooks Up Damning New Title For Trump Over Latest 180",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOM2JhVmFzc1pIZUdqUS10bHowdXdTakNPLU5ob29ldVBtTEJ5eVdwV2ctYldRNGRwMURIN1hEbDlMTXZmSmpwSE9NN21tdXNqU2oxZV96cWwzOTBVUmZkZVFiX09TcmNmMHo0ZFB2Um80Tms1RmV5dTVHaTBpbDBkb1Z2SnZoNnV1bk02SS02NFJ0c1BzOVVBLTROT2FnUHJOUWtoM2VOMmNnZWZtYUhneHBDbDljUdIBuwFBVV95cUxPdTFZTDltOGVvYUllRDdZbFdXeFprZkJFS2ZuUVBveUFzQTNSM2pvWGhUbjF2dFVoUGVMdERqQ2c4YzFzU3I2QmFVdnQ1MG5xdUFWUEpsS0kxWmo1SlREY3dOLWktaFRmaEtUNUM5Ri11WFdEQ3ZDWUNjWHFyMWhJWEk3dVZDOVVFaThCSDNJaHptd2F4clBpRGZIbndqVnlIQ0xscFloQ29ueGZpSjlHQTBydERXc2hMeXo4?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    },
-    {
-      "title": "Time to face facts: Fantasy football punishments have officially jumped the shark in 2026",
-      "url": "https://www.foxnews.com/outkick-sports/time-face-facts-fantasy-football-punishments-officially-jumped-shark-2026",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    }
-  ],
-  [
-    {
-      "title": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies",
-      "url": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "Watch Live: Former mother-in-law says Lindsay Clancy was \"begging for help\"",
-      "url": "https://www.cbsnews.com/news/lindsay-clancy-trial-watch-live-day-15/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "Mom and sister testify about Lindsay Clancy's declining mental state before she killed her children",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRmZnc2VjQW84ajBSWlRrZGZyaHRVTnUxcXAxUjJXSFBQamN4eDdzYjAzUnJGdVFTRzZSU05wOXNFTC1BMjdwa0piZ3Y0Q0ZzckZmY1hkQWNOV2ZnMExwZERBR3Z0ZHlEYmZmTmhQTnZYbmo0bldLaGR0SWJjeWpXMTRfX2lmNTNtQ1dVRUI4UG8xQVRlSWxfUDJKXzFJbGlxSGZFeWdRcUhudGpsVHZV?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    }
-  ],
-  [
-    {
-      "title": "Israeli strike on Gaza City cafe kills six, including child",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/israeli-strike-on-gaza-city-cafe-kills-six-including-child?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "Philippine school shooter kills fellow student and himself in livestreamed attack",
-      "url": "https://www.theguardian.com/world/2026/aug/18/philippines-school-shooting-two-dead-zamboanga",
+      "title": "Former Mexican governor charged in case of 43 students who vanished in 2014",
+      "url": "https://www.theguardian.com/world/2026/aug/12/former-mexican-governor-charged-in-case-of-43-students-who-vanished-in-2014",
       "source": "The Guardian",
       "bias": "left-center",
       "domain": "theguardian.com"
     },
     {
-      "title": "Student kills schoolmate and himself in livestreamed Philippine school attack, official says",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOWJhMlJZekdIMG1VYmt2ZU5DZUR6N0RsR1BIekJsbXpJMzlSZDRBVmduRXd2RDVvY3MwbkljSVBzNTJLbGNuTnBiNGI1ZWw2Mm1EemJaRVEyTzF6ZHd6amplRG1mWGdUNnktMWRadkctM0gyajVVNk9oQVlmU3IxTmNESlNRRXBOV2JvMUxOOFc2ZmRDYld1OWxoSFF5QQ?oc=5",
-      "source": "Associated Press",
+      "title": "Tuesday primaries: Embattled Rep. Cory Mills projected to lose reelection bid",
+      "url": "https://abcnews.com/Politics/primaries-3-states-tuesday-narrow-field-key-senate/story?id=135721707",
+      "source": "ABC News",
       "bias": "center",
-      "domain": "apnews.com"
-    }
-  ],
-  [
-    {
-      "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges",
-      "url": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
+      "domain": "abcnews.go.com"
     },
     {
-      "title": "She told no one about her agony except ChatGPT. What her death reveals about AI risks",
-      "url": "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    }
-  ],
-  [
-    {
-      "title": "Blue state mayor arrested for fraud sparks uproar for not speaking English in viral clip: 'How is this real'",
-      "url": "https://www.foxnews.com/politics/blue-state-mayor-arrested-fraud-sparks-uproar-not-speaking-english-viral-clip-how-real",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "EXCLUSIVE: Trump Admin Opens New Front In War On Fraud, This Time In Child Sex-Changes",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdk5MdEV0U3FKel9YVl9wNEJkOVhxaWozd09nVE9fNDZ1M0xhZ3pQdElXZDM4NnhOS24tRllGNmkwbEJRWlF2LTdkby1TUTRwYldJalhwOUZrY3BLLWdFQkF6TzVUOEYxLVNkRTJUNnh4eWNZR0puT2xiU3pqSXVrc3doNkM5RmZ2UWFJem1zZkpjVzM0OG81eW83d3NiUEd2LWNRckhqcVFKa2RHSTFNb1BrZGNSZw?oc=5",
-      "source": "Daily Wire",
-      "bias": "right",
-      "domain": "dailywire.com"
-    }
-  ],
-  [
-    {
-      "title": "Socialists accused of 'motor mouth' rhetoric as longtime Dem strategist unloads on far-left candidate",
-      "url": "https://www.foxnews.com/politics/socialists-accused-motor-mouth-rhetoric-longtime-dem-strategist-unloads-far-left-candidate",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "Polling Firm Showing Karen Bass, Francesca Hong in Lead Admits Fake Polls: 'Short-Term Social Experiment'",
-      "url": "https://www.breitbart.com/politics/2026/08/18/polling-firm-showing-karen-bass-francesca-hong-in-lead-admits-fake-polls-short-term-social-experiment/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
-    }
-  ],
-  [
-    {
-      "title": "Premier League chief says Fifa self-destructed over World Cup plan",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgjeqez58wno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "Top FIFA Official Is Out, Weeks After Criticism Of Trump-Allied Infantino's Plan",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQkJWakQzUlpzWjk1QVU4QS1raVBQbC12d0xGM2E1V3JhY2VZdmZGU1J4MGZ0cmRZWkVacXNOdEFIZUV0dmdKMUVNU1NiaUd6Mm9EbzhOZHdWNWpMaGE4S3ZobDhwck1oZkpJMGNvQ295cUdjVEFGcWgzd01xNkgtWEZCUzRNd9IBiwFBVV95cUxQR0pNSEpOTUFLakxZWEpUTWFPbDdPOUFqbzlveHdrcVQtTk5GMnZ5WTFIQkdpcGZyNXQ2dUgybVg5SGJtd0UzMnplZjU2WXNoczVhZVJ6TWgyaUxaX2p6Yi1xMGVJbjNXNmR1T3RTLWtDN0F5YkYwWjdpLWpqaEx0a1IyYmJJeHlhUXhr?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    }
-  ],
-  [
-    {
-      "title": "Bond Sell-Off Sends Borrowing Costs to Highest Level Since 2007",
-      "url": "https://www.nytimes.com/2026/08/18/business/oil-prices-bonds.html",
+      "title": "Cory Mills Loses Republican Primary Amid Assault Allegations and Ethics Investigation",
+      "url": "https://www.nytimes.com/2026/08/18/us/politics/mills-elijah-florida-republican-primary.html",
       "source": "New York Times",
       "bias": "left-center",
       "domain": "nytimes.com"
     },
     {
-      "title": "Capital Spending Boom Lifts US Manufacturing Beyond AI",
-      "url": "https://www.breitbart.com/economy/2026/08/18/capital-spending-boom-lifts-us-manufacturing-beyond-ai/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
-    }
-  ],
-  [
+      "title": "Scandal-ridden Cory Mills ousted in GOP primary in Florida's 7th District",
+      "url": "https://www.cbsnews.com/news/florida-7th-district-gop-primary-results-cory-mills-ryan-elijah/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Live Primary Election 2026 Results: Florida, Alaska Voters Head To Polls",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVmhSeG96cnplUnNpck0wb2pOTTJKQ213cXBYeXZ2eEtXNndHYl9oRGxtdXRpRElsWkpyVE5aY3JhU2szU0lfbVVrV0xJYlluUXJ3UDZZV2JOTnpSR2M0T2dnaUhEY2dqNjFJelpYRWNPRVQwLW5xTXN6Q1B3THlqTkhvUHVPMkxtTnNmamRGejZmT3V6c25udlB2SG4tV0nSAaQBQVVfeXFMTk1lcUxkZG5ENHVvcUhjbTdNa2R6TEtTVTZLbURNSnRXVU1LaFlqQXQ3QThXejVMdHRCUmg1STg0dGI3S0RWNGhrSTQ2WWVXUTBTcFlyVDFTd0lQa0RGZm9iSzZ5MVBiZU1WVFR5MVFobzZKYnp2azdnX0kxYWh3THRraWF2SWJVdzNCSndDZ1l4RkxfdEk0ZnhKRjlQMnBqYU9rTUc?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    },
+    {
+      "title": "Key results from Florida primaries, so far",
+      "url": "https://www.npr.org/2026/08/18/nx-s1-5936403/what-to-watch-for-in-the-florida-primaries",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
     {
       "title": "U.S. Navy destroyer lost power for 4 days in South China Sea",
       "url": "https://www.washingtonpost.com/national-security/2026/08/17/us-navy-destroyer-lost-power-4-days-south-china-sea/",
@@ -234,11 +71,172 @@
       "domain": "washingtonpost.com"
     },
     {
-      "title": "USS Benfold went days without power in the South China Sea",
-      "url": "https://www.cbsnews.com/news/uss-benfold-navy-days-without-power-south-china-sea/",
-      "source": "CBS News",
+      "title": "Iran Calls Trump \u2018Delusional,\u2019 Declares \u2018Post-American Order\u2019 \u2014 After He Claims Hormuz as \u2018New U.S. Territory\u2019",
+      "url": "https://www.breitbart.com/politics/2026/08/18/iran-calls-trump-delusional-declares-post-american-order-after-he-claims-hormuz-as-new-u-s-territory/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
+    },
+    {
+      "title": "Quebec separatist says no independence referendum while Trump in office",
+      "url": "https://www.aljazeera.com/news/2026/8/19/quebec-separatist-says-no-independence-referendum-while-trump-in-office?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "Trump administration moves to rescind rule that protects millions of forest acres",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOTVaQzJXRGt5bG5SR3c4UElzeEFnRWV6UkRSdENUb3FZd1NOdVpMYW0xUHlTbXJIemdOaFJLMWUwckpSZWY3OGI0YldRd0RhYklKcnhxZGo4VTAyS1hhNC1VTHBvRlpzZTh4WmJKOHQ0ekRjazQ5Q2lKNU81TzVOSkVVVjVVWkJKMEZ4d0FfYlA2WXpZQmRuV2Exd1U2TGtsNVBna3dwZ1JtYWpOY3FxTHQzZ3REeGRSZklsbFRRT2RIY1JldjUw?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Meta hooked children on Facebook and Instagram, court hears",
+      "url": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "Trial for Meta begins with states arguing its platforms preyed on vulnerability of young brains",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLWhfS2YxWEZCcDBpZ3EyYTc4YUt5alNaWmNZcWUxT2pZMlZUZ21rYmhZZU9vVHd6VkxfLTZCN0pSVWVwOHZCclc3TXJzUXRueDBVNmZfNzBnNV9UaTd1ZXJtZXYyTGpXa2Z3RXZFXzhqZFZlR2M4NUVGWDFDNjZZak5VZGpTVlZOWHRWaThTZkhXcWE3anZmcFdweFp1b0E5MG9PRQ?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Meta is facing its \u2018Big Tobacco\u2019 moment \u2014 and investors can profit",
+      "url": "https://www.marketwatch.com/story/meta-is-facing-its-big-tobacco-moment-and-investors-can-profit-e0f27b2d?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
+    }
+  ],
+  [
+    {
+      "title": "Liberia agrees to accept 1,200 third-country deportees from US within a year",
+      "url": "https://www.foxnews.com/world/liberia-agrees-accept-1200-third-country-deportees-us-within-year",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Liberia Agrees To Take 1,200 Third-Country Deportees From The U.S.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRGlTZU5wNm90dzBHMXU3bnJOclloaU15TGY3RU9OWUR6Y1NEellkX2ZyRGt1XzNQOGpWbUlFcjlIMmNPYTd2YjdCbkx2UTFZSUZKOEEydTFNNzNaM3QtN1JjYUh4LWw0Q0R4QjMwbF9mM041WHdOUnMtZ1dEMjREWVM0aERFNGtjb3ZMUXV1QV9UOHhuSU9VN20xTXVmN3dEMUHSAacBQVVfeXFMT24xMHM2X0VERXhITE04bEZ2TXdRUDM5NnhnTW8wdHhuTmZkNks0R25oNTdoODBmQzNPN1R5NWZyYWkwcTI3LWpDYjJNX216eEVfb3FMd09tS3JaZHBTYnNyOVkxMmhnMnpNcEZXZXZ6ekh4YXpGeFJwWjJXQjBnQ0FBWUowMFhrWnFRVWZVRXk4dDF2VVB1Qk8yUkY4NmNxbTlCY1NhVTA?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    },
+    {
+      "title": "Liberia Agrees to Take 1,200 Deportees From U.S.",
+      "url": "https://www.nytimes.com/2026/08/18/us/politics/liberia-deportees.html",
+      "source": "New York Times",
       "bias": "left-center",
-      "domain": "cbsnews.com"
+      "domain": "nytimes.com"
+    }
+  ],
+  [
+    {
+      "title": "Congo\u2019s rapid Ebola outbreak is now most fatal in nation\u2019s history with over 2,300 deaths, government says",
+      "url": "https://nypost.com/2026/08/18/world-news/congos-rapid-ebola-outbreak-is-now-deadliest-in-nations-history/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
+      "title": "DRC\u2019s fast-growing Ebola outbreak spreads to sixth province",
+      "url": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "How Ebola became the deadliest outbreak in DR Congo\u2019s history",
+      "url": "https://www.aljazeera.com/news/2026/8/19/how-ebola-became-the-deadliest-outbreak-in-dr-congos-history?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    }
+  ],
+  [
+    {
+      "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
+    },
+    {
+      "title": "Prosecutors hammer Tyler Robinson's bid to derail death penalty in Charlie Kirk murder case",
+      "url": "https://www.foxnews.com/us/prosecutors-hammer-tyler-robinson-bid-derail-death-penalty-charlie-kirk-murder-case",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Maryland rocked by third beaver attack in weeks after 2 animals test positive for rabies",
+      "url": "https://www.foxnews.com/us/maryland-rocked-third-beaver-attack-weeks-2-animals-test-positive-rabies",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Three dead after family get into difficulty in sea",
+      "url": "https://www.bbc.co.uk/news/articles/cm2gmjd36pvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    }
+  ],
+  [
+    {
+      "title": "Ukraine's ousted defence minister calls for wartime elections",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM2I5VUo0cWlLNnZ2Vnp6dlMwcnFsc2R4ZElfZFdFN3VQYTE1MnFhc242TEQzb1BmU1duV0NnSWRuSzBVajN0d3VIMkVuMG9rSmYtNFd6MF81cjJRWThVYjRXamFfWGpFTlNvbGpKUFpEWXpXQWJqTkxLRld1NzBUQnc2dnhpU0N5NDF6N25QV3J2bFA1cW9TdE9lWHduTGRmV0RoV0pESF9SNEJEZWJtelIxaXZUUXNKajBB?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Sacked Ukrainian defence minister calls for presidential election",
+      "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    }
+  ],
+  [
+    {
+      "title": "Boyfriend Who Abused Hayden Panettiere Had Returned to Her Life",
+      "url": "https://www.nytimes.com/2026/08/18/arts/television/hayden-panettiere-brian-hickerson.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Hayden Panettiere\u2019s boyfriend Brian Hickerson allegedly sent threatening texts after 2020 arrest",
+      "url": "https://pagesix.com/2026/08/18/celebrity-news/hayden-panettieres-boyfriend-brian-hickerson-allegedly-sent-threatening-texts-after-2020-arrest/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    }
+  ],
+  [
+    {
+      "title": "Student kills schoolmate and himself in livestreamed Philippine school attack, official says",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOWJhMlJZekdIMG1VYmt2ZU5DZUR6N0RsR1BIekJsbXpJMzlSZDRBVmduRXd2RDVvY3MwbkljSVBzNTJLbGNuTnBiNGI1ZWw2Mm1EemJaRVEyTzF6ZHd6amplRG1mWGdUNnktMWRadkctM0gyajVVNk9oQVlmU3IxTmNESlNRRXBOV2JvMUxOOFc2ZmRDYld1OWxoSFF5QQ?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Philippine school shooter kills fellow student and himself in livestreamed attack",
+      "url": "https://www.theguardian.com/world/2026/aug/18/philippines-school-shooting-two-dead-zamboanga",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
     }
   ]
 ]

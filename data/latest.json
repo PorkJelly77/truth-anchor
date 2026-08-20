@@ -1,32 +1,11 @@
 [
   [
     {
-      "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
-      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+      "title": "Millions in the US could face massive consequences unless McCarthy can navigate out of a debt trap he set for Biden",
+      "url": "https://www.cnn.com/2023/04/18/politics/mccarthy-biden-debt-ceiling/index.html",
       "source": "CNN",
       "bias": "left",
       "domain": "cnn.com"
-    },
-    {
-      "title": "Nike Loses Nearly $200 Billion in Market Value Since 2021 as Stocks Plunge to 12-Year Low",
-      "url": "https://www.breitbart.com/sports/2026/08/20/nike-loses-nearly-200-billion-in-market-value-since-2021-as-stocks-plunge-to-12-year-low/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
-    },
-    {
-      "title": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?",
-      "url": "https://www.marketwatch.com/story/our-4-year-old-son-has-100-000-in-his-529-account-should-we-buy-him-stocks-instead-3ca745b2?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
-    },
-    {
-      "title": "Hochul\u2019s Advice for Mamdani: Focus on New York City",
-      "url": "https://www.nytimes.com/2026/08/20/nyregion/hochul-mamdani-israel-new-york.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
     },
     {
       "title": "UAE says it is suspending trade with Iran after missile launch",
@@ -36,46 +15,53 @@
       "domain": "washingtonpost.com"
     },
     {
-      "title": "Body Language Experts Spot Something In This Wild Clip Of Trump Dictating Tweets To Natalie Harp",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSjJnM04wX2F3WlNheFBVSVh0ZUgtWUliNXFvMzJTcU1nZEJiXy1WckRwZEZkZUNYWTVlVF9GSzMzV2dBUXVubzZSeF9CZ01qUFhjbUVZVi1sbTNDRG1PQnN5S0c1eUcyTElSMTlObFpkcldlTXVYZXhBOGNzSVNvbEtRUFFoUDA5QmRLTDVkRnowUGVlejFkZjEyOWY3QWJoSFNXMDhtMGphbHBHdklIeE51dm1Day0wV050WG1rZXLSAcYBQVVfeXFMTmxfNzJxWEY2czIwcjI4VzZhZ3RJMUlJbnBlSF9QYTRNUVFhU1VfVExvc1Nid21kR09icWFoQjhBMHY4N0hvTTJya2ltRWNNMUtfbm83c0ZvRi14aDdBZnFOTDhXV2VXR0Z1Z1FlVWtpNklVS1ZRaVdPY3l3c01ySUdlTHBhQ1gxMW9yS3lfbUNZTzFRekdFYkY1UHpxUkhDMnRCZUtwRGZFaWo1ZkJLZzZkWUhYRXFYdXBFMnlSLTdjSUxpOHh3?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    },
-    {
-      "title": "Rubio designates US citizen held in China as wrongfully detained as Trump prepares to host Xi at White House",
-      "url": "https://www.foxnews.com/politics/rubio-designates-us-citizen-held-china-wrongfully-detained-trump-prepares-host-xi-white-house",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "What to know about Dr. Heidi Overton, Trump's pick to lead the FDA",
-      "url": "https://www.npr.org/2026/08/20/nx-s1-5939549/heidi-overton-fda-commissioner-trump-senate-nomination",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    },
-    {
-      "title": "FBI seizes Swalwell's devices, executes warrants in sexual misconduct probe",
-      "url": "https://www.cbsnews.com/news/swalwell-fbi-search-warrants-devices-sexual-misconduct-investigation/",
+      "title": "Iran dismisses Trump's \"economic D-Day\" threat as more \"failed policies\"",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-us-economic-threat-defeat/",
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"
     },
     {
-      "title": "FBI raids ex-US Representative Swalwell\u2019s home amid sexual misconduct probe",
-      "url": "https://www.aljazeera.com/news/2026/8/20/fbi-raids-ex-us-representative-swalwells-home-amid-sexual-misconduct-probe?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
+      "title": "True scale of Meghan and Harry\u2019s US political plans revealed \u2014 from request for Biden Oval Office meeting to eyeing Senate seat",
+      "url": "https://nypost.com/2026/08/20/us-news/true-scale-of-meghan-and-harrys-us-political-plans-revealed-from-request-for-biden-oval-office-meeting-to-eyeing-senate-seat/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
     },
     {
-      "title": "FBI raids Democrat Swalwell's home in sexual-misconduct investigation, source says",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLUJTNG40SVVHLWs1Q2JnVlRROFhad1REekN2X0tZQUlWTjFlUEhKZExkSHc5b2VTbUdDYl9OZjlKUThzU3BVdHhtMTl6WFkzUkZhZGVvVFc2YlE1Wk9pZ3VvQm9RZFJDRThtZWZRYmhGSWZVQkJjLUdkTk93S2VYSEdMU2NmbFZGYWtILUhKQUZDd0M5WTdMZzNSQXlieEVsUnJhZ19SbV9zUURWXy14akl1NnRyNkVydUpfS3RtUlVWeUhUWlZrb0tn?oc=5",
+      "title": "Prince Harry, Meghan Markle\u2019s UK move puts fresh spotlight on their explosive claims against royal family",
+      "url": "https://www.foxnews.com/entertainment/prince-harry-meghan-markles-uk-move-puts-fresh-spotlight-explosive-claims-against-royal-family",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Bessent says US will impose toughest ever sanctions on Iran, urges China to cooperate",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUlFnUHhPNjlxRW5kTy03TFctOE1ST1NabGVNalozY2hiR2RKcEtfV1ZRblJ1VlJXQXRNem1yZmpIRVVYUjJOd2pzWElTX0JVeXZVR1V1Tk5NOG5oWWUtRVZzWDNFOE5KbE1VNmtubXdodnVzQ1RZMFV3TnpUUXVHM1N5MXZqZTBtdW1iUG8xS18wdi1ranhQQXpfVDdiYnRsc09iN3JtbEhZTVIwS202X0lmSkF2V0c2dFV5NQ?oc=5",
       "source": "Reuters",
       "bias": "center",
       "domain": "reuters.com"
+    },
+    {
+      "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
+      "url": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "Anxious bond market sends troubling message to investors: There\u2019s no easy fix for U.S. debt",
+      "url": "https://www.marketwatch.com/story/treasury-rout-restarts-one-day-after-bessents-beefed-up-buyback-plan-972766a1?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
+    },
+    {
+      "title": "US stocks halt their slide after the Treasury Department moves to ease pressure from the bond market",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTGNiQUx0ZWFmZVFMdktJQkpSUDQyZW9DM2tOWUxHYUVZNG1iN3dXNUt0SF9ZMkVNYlRGb2drVl9ESG9EN1VTSWw4Y3Q2TVprR2U4S05CaEE4bktTVWNVTkFBX1V5dVMzSTNGdTc4RmN5UE8yeGlkNTB6c0FCR0haQUtWWXBLOWVmZ2VKeHBvUkJ3ZVNiUVpmWDA4Z2UzXzdfaUFTTmx3?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
     },
     {
       "title": "Five Americans among seven killed in safari helicopter crash in Kenya",
@@ -85,6 +71,13 @@
       "domain": "theguardian.com"
     },
     {
+      "title": "DR Congo to receive 70,000 doses of Ervebo vaccine as Ebola infections surge",
+      "url": "https://www.aljazeera.com/news/2026/8/20/dr-congo-to-receive-70000-doses-of-ervebo-vaccine-as-ebola-infections-surge?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    },
+    {
       "title": "WATCH:  Over 20 tons of squid spill onto Rhode Island road blocking traffic for 8 hours",
       "url": "https://abcnews.com/video/135775640/",
       "source": "ABC News",
@@ -92,62 +85,85 @@
       "domain": "abcnews.go.com"
     },
     {
-      "title": "Harry and Meghan's return to UK reignites questions over security",
-      "url": "https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    }
-  ],
-  [
-    {
-      "title": "Bessent says US will impose toughest ever sanctions on Iran, urges China to cooperate",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUlFnUHhPNjlxRW5kTy03TFctOE1ST1NabGVNalozY2hiR2RKcEtfV1ZRblJ1VlJXQXRNem1yZmpIRVVYUjJOd2pzWElTX0JVeXZVR1V1Tk5NOG5oWWUtRVZzWDNFOE5KbE1VNmtubXdodnVzQ1RZMFV3TnpUUXVHM1N5MXZqZTBtdW1iUG8xS18wdi1ranhQQXpfVDdiYnRsc09iN3JtbEhZTVIwS202X0lmSkF2V0c2dFV5NQ?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "Bessent urges US partners to back plans to 'squash' Iran economy",
-      "url": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "The rise in interest rates hit a \u2018raw nerve\u2019 at the White House. Bessent\u2019s plan has analysts on edge.",
-      "url": "https://www.marketwatch.com/story/bessent-suggests-treasury-could-intervene-again-in-bond-market-we-have-a-big-tool-kit-358829e1?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
-    },
-    {
-      "title": "Dow plunges 600 points as surging Treasury yields, Walmart sales shock Wall Street",
-      "url": "https://nypost.com/2026/08/20/business/dow-plunges-600-points-as-surging-treasury-yields-walmart-sales-shock-wall-street/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "Treasury Turns to Interventionist Tactics to Lower Interest Rates",
-      "url": "https://www.nytimes.com/2026/08/20/business/treasury-bond-market-interventionist-tactics.html",
+      "title": "First U.S. Deportees to Arrive in Liberia Amid Growing Backlash",
+      "url": "https://www.nytimes.com/2026/08/20/world/africa/liberia-trump-deportations.html",
       "source": "New York Times",
       "bias": "left-center",
       "domain": "nytimes.com"
     },
     {
-      "title": "An alarmed bond market gets the Trump administration to act again",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdzcxSDVXQVJJeXZ0cWVTSVVIeE9KOV9ZT3ZJQXdLZXVYZ1pqbDA1cEwtbGg5RERicjR4OV85TFpTbExVWWlQRGxfX3lkeGJLbVhmOXMtTnBUY1VfS2FOdFNBMVphdkczTTN3eWp3aVZJRF9ZX09OXzBUYUIzeFpvMTJsWXBFWXRKWHcwWmFfaXQ3cVhWMFNsSGstZw?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
+      "title": "Tulsi Gabbard Shares Raw Update About Husband\u2019s Cancer Battle",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObFBxMjgtdlNLWEtmS3VJM3ZjcTJBcUtYZXN4bVVfNmR6YWsyU0JkenY1NDdDNDY4cC1MR05FNEFKbUcwNnlEZkd0bFc5dnpNUlJ3clhPOXdmN3VBQ3BpZE9CNlBlRERUcndrSG4zTnRxWWd2eWdTTzZJTGZqZDBrSGZtamt2Xy1kb1N3NzVwdW15Si1sdmc?oc=5",
+      "source": "Daily Wire",
+      "bias": "right",
+      "domain": "dailywire.com"
     },
     {
-      "title": "The bond market is signaling trouble ahead. This is why you should pay attention",
-      "url": "https://www.npr.org/2026/08/20/nx-s1-5937600/economy-bonds-inflation-debt-consumers",
+      "title": "Poll: Mike Rogers and Abdul El-Sayed Virtually Tied in Michigan Senate Race",
+      "url": "https://www.breitbart.com/politics/2026/08/20/poll-mike-rogers-and-abdul-el-sayed-virtually-tied-in-michigan-senate-race/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
+    },
+    {
+      "title": "Body Language Experts Spot Something In This Wild Clip Of Trump Dictating Tweets To Natalie Harp",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSjJnM04wX2F3WlNheFBVSVh0ZUgtWUliNXFvMzJTcU1nZEJiXy1WckRwZEZkZUNYWTVlVF9GSzMzV2dBUXVubzZSeF9CZ01qUFhjbUVZVi1sbTNDRG1PQnN5S0c1eUcyTElSMTlObFpkcldlTXVYZXhBOGNzSVNvbEtRUFFoUDA5QmRLTDVkRnowUGVlejFkZjEyOWY3QWJoSFNXMDhtMGphbHBHdklIeE51dm1Day0wV050WG1rZXLSAcYBQVVfeXFMTmxfNzJxWEY2czIwcjI4VzZhZ3RJMUlJbnBlSF9QYTRNUVFhU1VfVExvc1Nid21kR09icWFoQjhBMHY4N0hvTTJya2ltRWNNMUtfbm83c0ZvRi14aDdBZnFOTDhXV2VXR0Z1Z1FlVWtpNklVS1ZRaVdPY3l3c01ySUdlTHBhQ1gxMW9yS3lfbUNZTzFRekdFYkY1UHpxUkhDMnRCZUtwRGZFaWo1ZkJLZzZkWUhYRXFYdXBFMnlSLTdjSUxpOHh3?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    },
+    {
+      "title": "What to know about Dr. Heidi Overton, Trump's pick to lead the FDA",
+      "url": "https://www.npr.org/2026/08/20/nx-s1-5939549/heidi-overton-fda-commissioner-trump-senate-nomination",
       "source": "NPR",
       "bias": "left-center",
       "domain": "npr.org"
+    }
+  ],
+  [
+    {
+      "title": "Newly released video shows scene of Jeremy Renner's snowplow accident",
+      "url": "https://www.cnn.com/videos/us/2023/04/18/jeremy-renner-snowplow-accident-bodycam-nc-melas-contd-vpx.cnn",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
+    },
+    {
+      "title": "Watch heroic bystanders stop elderly man from being robbed",
+      "url": "https://nypost.com/video/watch-heroic-bystanders-stop-elderly-man-from-being-robbed/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
+      "title": "Police identify suspect accused of terrorizing Philadelphia women while wearing creepy Chucky-style mask",
+      "url": "https://www.foxnews.com/us/police-identify-suspect-accused-terrorizing-philadelphia-women-wearing-creepy-chucky-style-mask",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    }
+  ],
+  [
+    {
+      "title": "FBI raids Democrat Swalwell's home in sexual-misconduct investigation, source says",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLUJTNG40SVVHLWs1Q2JnVlRROFhad1REekN2X0tZQUlWTjFlUEhKZExkSHc5b2VTbUdDYl9OZjlKUThzU3BVdHhtMTl6WFkzUkZhZGVvVFc2YlE1Wk9pZ3VvQm9RZFJDRThtZWZRYmhGSWZVQkJjLUdkTk93S2VYSEdMU2NmbFZGYWtILUhKQUZDd0M5WTdMZzNSQXlieEVsUnJhZ19SbV9zUURWXy14akl1NnRyNkVydUpfS3RtUlVWeUhUWlZrb0tn?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "FBI seizes Swalwell's devices, executes warrants in sexual misconduct probe",
+      "url": "https://www.cbsnews.com/news/swalwell-fbi-search-warrants-devices-sexual-misconduct-investigation/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "FBI Seizes Former Democratic Rep. Eric Swalwell's Devices As Part Of Criminal Probe",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbmh4QlYzZjVTZFJTWkhtRFo0ZU5XRWU1N1FWVlFMV2VaN21naEJnbXVUTGlNX3otOERwd3dlN3Z1MFUwdV9VZS00QVFkV0dpTWY1TGZXNnFkY3BkMGl5Qm1TV2tkMk5OSGkyQWYyWjZkM3hqLTByZDNOVTVIRFJyVmR2SDJxQ2lpZXYxWjd6WEljT2tyb2R5cHRGWFI1ZDNObnZCNmdMMEszaXBKWXJUMnB4YnlWWUw4eTQ1cHplc0dXYmpSU0HSAcsBQVVfeXFMTkw3MkRmNHZNZHFoWXRPdDZQX1JQZnQ2LWllYm9MeTIwNXY0Q191ZGl4MklqeGZtNVF0VmxULTNmT0ZsWm5MN05MY0w5dnZNMkVGN2RIMThodnNJYUZWSnZIZXEydWNsaG9QVHFjd19DQ0dwNUctTlp0eVhyYk1qakJyX1VpcXdrU1gyVEdRR0FsTzFpdnRCVjM5VDV3STVwaG9Qc1lUbzdkX1VhQ2VpZjlJb2VESjRDVDNIVjBPTUYwOXZ4bjMtWmpOVWc?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
     }
   ],
   [
@@ -159,80 +175,43 @@
       "domain": "cnn.com"
     },
     {
-      "title": "FBI arrests woman who allegedly plotted ISIS-linked attack on New York state Capitol building",
-      "url": "https://www.foxnews.com/us/fbi-arrests-woman-who-allegedly-plotted-attack-new-york-state-capitol-building",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "A-list songwriter adopts runaway West Hollywood piglet \u2018Wilbur\u2019",
-      "url": "https://nypost.com/2026/08/20/us-news/runaway-west-hollywood-pig-wilbur-adopted-by-a-list-songwriter/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    }
-  ],
-  [
-    {
-      "title": "Moskowitz rejects Rick Scott claims he's 'scared to death' of socialists, beholden to Hasan Piker",
-      "url": "https://www.foxnews.com/media/moskowitz-rejects-rick-scott-claim-scared-death-socialists-beholden-hasan-piker",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "Jared Moskowitz Is Running For Reelection \u2014 Against Hasan Piker And The DSA",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdkpvUmpDWEVNVDFka0dTTzlPSFQzOXRkYjREekxHVEpDbTByUWVDNzlmYnFYTnBOVGRGejVvMGlvaUhzMzM5RDZ3TXdSNGNoblpfTTYzSUdwT1VMOXVmNS1MSXJudkxNdTZncmJ6YUd6bTBnQ1R5ak9mbEhJcTdjYkRpNE83QVl4UGpFZEFBWG1OUmNhQWI1UFZZNHdWN2_SAaQBQVVfeXFMT0QyMUZxVlF4d1lqX1ByMjQ1S0FwdkVRczZ0MmtQaHlqeHRMbmp1eDlwQTZCTk1DSWxFaUNRMkRhUXJobUtyUFJwN0V3dG94a0FlT2d4V3NJaWVMU3duZmxYeHd1Q0tvNThteXJRckxjc0t6UU9wdXJPTWdmdDQ1UWU5d1owb1NjYm9JRWNXTk9xZ0RBRVYtUE1xTmVlbnhxbEpPQlc?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    },
-    {
-      "title": "Grim warning for California Dems as bombshell new poll shows allegiances shifting",
-      "url": "https://nypost.com/2026/08/20/us-news/california-voters-favor-socialists-over-mainstream-democrats/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    }
-  ],
-  [
-    {
-      "title": "Swiss tourist jailed for insulting Bali\u2019s sacred Day of Silence",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/swiss-tourist-jailed-for-insulting-balis-sacred-day-of-silence?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "Chinese court sentences founder of troubled property developer Evergrande to life in prison",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdmpPc0tFMWFFbVdNcHBFUnNjM2h4QjhCVkFNcXU5Tk5YcXNmZWIzNUhEOGRhRlpfZFFwZGN6SW4wUjQ2T1hhbHdzUmltRFNTYURYd3NncEF6R3gyQ3hhQWxLSFFqU3dRX3FQeWMtbTQ5eGNZekZldjlVVlNLeWpFV2FjRUVIazYwQmdGVjI5eXI0dHY3NVljWjhtLWtCYVZwZ2JYSA?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "Spain to allow 500 children in Ceuta to go to mainland in immigration U-turn",
-      "url": "https://www.theguardian.com/world/2026/aug/19/spain-allows-500-migrant-minors-in-ceuta-to-relocate-to-the-mainland-in-u-turn",
-      "source": "The Guardian",
+      "title": "Woman linked to ISIS arrested for planning bomb attack on New York state capitol",
+      "url": "https://www.cbsnews.com/video/woman-linked-to-isis-arrested-for-planning-bomb-attack-on-new-york-state-capitol/",
+      "source": "CBS News",
       "bias": "left-center",
-      "domain": "theguardian.com"
+      "domain": "cbsnews.com"
     }
   ],
   [
     {
-      "title": "Irish authorities seek extradition warrant for suspect in murder of American mom Jamey Carney: report",
-      "url": "https://www.foxnews.com/us/irish-authorities-seek-extradition-warrant-suspect-murder-american-mom-jamey-carney",
+      "title": "Cancer vaccine prevents deadly melanoma from returning or spreading in landmark trial",
+      "url": "https://www.foxnews.com/health/cancer-vaccine-prevents-deadly-melanoma-returning-spreading-landmark-trial",
       "source": "Fox News",
       "bias": "right",
       "domain": "foxnews.com"
     },
     {
-      "title": "Adviser to far-right Latin American leaders arrested for allegedly plotting to kill girlfriend",
-      "url": "https://www.theguardian.com/world/2026/aug/19/fernando-cerimedo-adviser-far-right-latin-american-leaders-arrested-allegedly-plotting-kill-girlfriend",
-      "source": "The Guardian",
+      "title": "Moderna\u2019s personalized mRNA shot could reshape the fight against skin cancer \u2014 but it may also be overhyped",
+      "url": "https://www.marketwatch.com/story/modernas-personalized-mrna-shot-could-reshape-the-fight-against-skin-cancer-but-it-may-also-be-overhyped-a6f1bc88?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
+    }
+  ],
+  [
+    {
+      "title": "IndyCar driver Graham Rahal reflects on opportunity to compete at Freedom 250 Grand Prix: 'Iconic moment'",
+      "url": "https://www.foxnews.com/outkick-sports/indycar-driver-graham-rahal-reflects-opportunity-compete-freedom-250-grand-prix-iconic-moment",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "D.C.'s IndyCar race will zoom past museums. Some worry it could harm the art inside",
+      "url": "https://www.npr.org/2026/08/20/nx-s1-5939431/dc-indycar-race-museums-art-vibration",
+      "source": "NPR",
       "bias": "left-center",
-      "domain": "theguardian.com"
+      "domain": "npr.org"
     }
   ],
   [
@@ -253,15 +232,15 @@
   ],
   [
     {
-      "title": "Alcaraz to play US Open after four months out",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/cwyq490lje0o?at_medium=RSS&at_campaign=rss",
+      "title": "Academic who accused Jason Arday of plagiarism suspended by university",
+      "url": "https://www.bbc.co.uk/news/articles/cevmrjd9lj1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "bias": "center",
       "domain": "bbc.com"
     },
     {
-      "title": "Carlos Alcaraz confirms US Open return after four-month injury layoff",
-      "url": "https://www.aljazeera.com/sports/2026/8/20/carlos-alcaraz-confirms-us-open-return-after-four-month-injury-layoff?traffic_source=rss",
+      "title": "University suspends US academic leading Jason Arday plagiarism accusations",
+      "url": "https://www.aljazeera.com/news/2026/8/20/university-suspends-us-academic-leading-jason-arday-plagiarism-accusations?traffic_source=rss",
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
@@ -269,50 +248,66 @@
   ],
   [
     {
-      "title": "Brian Hickerson breaks silence on Hayden Panettiere\u2019s tragic death",
-      "url": "https://pagesix.com/2026/08/20/celebrity-news/brian-hickerson-breaks-silence-on-hayden-panettieres-tragic-death/",
+      "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
+      "url": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "Jewish-American barred by Israel calls settler violence \u2018state terror\u2019",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/08-20-208-20-2026-jewish-american-banned-sv-mp4?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    }
+  ],
+  [
+    {
+      "title": "Lawyer for Penn State frat bro\u2019s dad charged in coke ring makes wild claim",
+      "url": "https://nypost.com/2026/08/20/us-news/lawyer-for-penn-state-frat-bros-dad-charged-in-coke-ring-makes-wild-claim/",
       "source": "New York Post",
       "bias": "right",
       "domain": "nypost.com"
     },
+    {
+      "title": "Penn State frat pledges were made to cut and bag cocaine for college drug ring, authorities say",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMjA2ZEd5VnpuODl0YVZTLWVvWVVybWdveEMxdEZSM3FhOGotelJ4blVnQldCOXJ0Uml2RWFaakMxa2ZvT2xLNGd0alRWV0NXcm1fQ1hmcURicERyUzYzX2J0ZlNXZDFNREFESVJmaXRIVVF4SW5WUkpxLUlKVF94ZFFqZHBvejJGQVluNVMzUjA1YTZ2OW5NTGh6VUhFeVEwRlRkYUNLN0pGODlpRWdN?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Chinese court sentences founder of troubled property developer Evergrande to life in prison",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdmpPc0tFMWFFbVdNcHBFUnNjM2h4QjhCVkFNcXU5Tk5YcXNmZWIzNUhEOGRhRlpfZFFwZGN6SW4wUjQ2T1hhbHdzUmltRFNTYURYd3NncEF6R3gyQ3hhQWxLSFFqU3dRX3FQeWMtbTQ5eGNZekZldjlVVlNLeWpFV2FjRUVIazYwQmdGVjI5eXI0dHY3NVljWjhtLWtCYVZwZ2JYSA?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Spain to allow 500 children in Ceuta to go to mainland in immigration U-turn",
+      "url": "https://www.theguardian.com/world/2026/aug/19/spain-allows-500-migrant-minors-in-ceuta-to-relocate-to-the-mainland-in-u-turn",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    }
+  ],
+  [
     {
       "title": "911 Call Reveals New Clue In Hayden Panettiere\u2019s Shocking Death At 36",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM0hxYXpoYmZsMWdFSEFRWmwtSnB3NVNoYXNEakVQUDAzblJFa0xrUzJucXVpU1gtd25MVkNtQ0JIRlkwaHBLcW51WU56Sy0tZHVmUm51STZYYk54RDFkWWdDWHMwMVd4cTZNWmx0dFFTTm9WbU42c2Qtblp1b1AwVEVkNmI5QmQ4elA3OXNyMk84LVh1aWpabzV6MjBjRG9O?oc=5",
       "source": "Daily Wire",
       "bias": "right",
       "domain": "dailywire.com"
-    }
-  ],
-  [
-    {
-      "title": "Humanoid robots take centre stage in China-US tech race",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/humanoid-robots-take-centre-stage-in-china-us-tech-race?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
     },
     {
-      "title": "From robot dogs to helpers, China puts robotics ambitions on display at world conference",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMmJ5dy1FMThNbHNWR2RIUGU1TEQ2NUNOTXF0ZGFxa3NTZ0ZBMXFKWFViY2o1Wk8wWWtCRkF1UGt5dDBDZFRrTHlsWmhKZTR4d2FBUldqakxxdnhYZDlmM3hYQ2tUNmN5VHZ3ay1fZmQ5cG01a3d2NkZvalllVDhQdUF1S3hEWTMwenc?oc=5",
-      "source": "Associated Press",
+      "title": "Neutrogena acknowledges Hayden Panettiere backlash after actress's death",
+      "url": "https://abcnews.com/GMA/Culture/neutrogena-acknowledges-hayden-panettiere-backlash-after-actresss-death/story?id=135817284",
+      "source": "ABC News",
       "bias": "center",
-      "domain": "apnews.com"
-    }
-  ],
-  [
-    {
-      "title": "The US national debt now stands at $40 trillion",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOWRYUG5oRjZUWTlia0VxVkROYmNERFdTd3NhaWpkeGdLbUF1R2Q3MDVhdzdYZFVrX1FiTGUxZ0piZ3ROaXpYYVdXUDN2akhfM1c2NWRxMjhXMWZ2aURVc0toUWVpVVhoM0hiaTQ2X2NzaWpacG5GaEpZbS1rOEQ0dmRhY0xCMk9YYU1mdW42TmFrQQ?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "The U.S. National Debt Now Stands At $40 Trillion",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUmlsTkJxQUQxWUg4VEwtSHdBRGZHSG1ydEFwQ0JGN3NwYWpLWjlSRGstbHFqV3VpaGROOGZ0eXVraktUVXNQekJ6VUdNalNrUzNGb2JKYlZPLTFXY0xmSzVvN0RNQVA2dW5BUW5abWVTZkVqSF9QS3UyZlJtNmJUMC1XRkpNOFk3S08zX290UFZfd3FHYm55R2JrXzZySkhCRTBaazRmWXRKTDFKRjZCWNIBtgFBVV95cUxQT01uOE9UTHJjUS01SG9jVmcyZzNPSEJXYldyTWdkdXN0bUJfTTV5MlpIMjlIMUl5VVZWLWVWSkhKQUkwTEFmTnNUcHZhRmRCclBPSkdGVXBZM2pPOEMzUS0zcFJZcElqazY4cDB3NzFOU1hhYUNVUWR0V0lYMXpOWHhoLUluaXp1bUo1LUJCZERjQkdibHRzeTZOOGpkeEZUcW1oU1psR1cxczJQS0FJS0kyNDhMUQ?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
+      "domain": "abcnews.go.com"
     }
   ]
 ]

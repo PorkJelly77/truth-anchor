@@ -22,6 +22,62 @@
       "domain": "wsj.com"
     },
     {
+      "title": "Hochul\u2019s Advice for Mamdani: Focus on New York City",
+      "url": "https://www.nytimes.com/2026/08/20/nyregion/hochul-mamdani-israel-new-york.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "UAE says it is suspending trade with Iran after missile launch",
+      "url": "https://www.washingtonpost.com/world/2026/08/19/uae-says-it-is-suspending-trade-with-iran-after-missile-attack/",
+      "source": "Washington Post",
+      "bias": "left-center",
+      "domain": "washingtonpost.com"
+    },
+    {
+      "title": "Body Language Experts Spot Something In This Wild Clip Of Trump Dictating Tweets To Natalie Harp",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSjJnM04wX2F3WlNheFBVSVh0ZUgtWUliNXFvMzJTcU1nZEJiXy1WckRwZEZkZUNYWTVlVF9GSzMzV2dBUXVubzZSeF9CZ01qUFhjbUVZVi1sbTNDRG1PQnN5S0c1eUcyTElSMTlObFpkcldlTXVYZXhBOGNzSVNvbEtRUFFoUDA5QmRLTDVkRnowUGVlejFkZjEyOWY3QWJoSFNXMDhtMGphbHBHdklIeE51dm1Day0wV050WG1rZXLSAcYBQVVfeXFMTmxfNzJxWEY2czIwcjI4VzZhZ3RJMUlJbnBlSF9QYTRNUVFhU1VfVExvc1Nid21kR09icWFoQjhBMHY4N0hvTTJya2ltRWNNMUtfbm83c0ZvRi14aDdBZnFOTDhXV2VXR0Z1Z1FlVWtpNklVS1ZRaVdPY3l3c01ySUdlTHBhQ1gxMW9yS3lfbUNZTzFRekdFYkY1UHpxUkhDMnRCZUtwRGZFaWo1ZkJLZzZkWUhYRXFYdXBFMnlSLTdjSUxpOHh3?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    },
+    {
+      "title": "Rubio designates US citizen held in China as wrongfully detained as Trump prepares to host Xi at White House",
+      "url": "https://www.foxnews.com/politics/rubio-designates-us-citizen-held-china-wrongfully-detained-trump-prepares-host-xi-white-house",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "What to know about Dr. Heidi Overton, Trump's pick to lead the FDA",
+      "url": "https://www.npr.org/2026/08/20/nx-s1-5939549/heidi-overton-fda-commissioner-trump-senate-nomination",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "FBI seizes Swalwell's devices, executes warrants in sexual misconduct probe",
+      "url": "https://www.cbsnews.com/news/swalwell-fbi-search-warrants-devices-sexual-misconduct-investigation/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "FBI raids ex-US Representative Swalwell\u2019s home amid sexual misconduct probe",
+      "url": "https://www.aljazeera.com/news/2026/8/20/fbi-raids-ex-us-representative-swalwells-home-amid-sexual-misconduct-probe?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "FBI raids Democrat Swalwell's home in sexual-misconduct investigation, source says",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLUJTNG40SVVHLWs1Q2JnVlRROFhad1REekN2X0tZQUlWTjFlUEhKZExkSHc5b2VTbUdDYl9OZjlKUThzU3BVdHhtMTl6WFkzUkZhZGVvVFc2YlE1Wk9pZ3VvQm9RZFJDRThtZWZRYmhGSWZVQkJjLUdkTk93S2VYSEdMU2NmbFZGYWtILUhKQUZDd0M5WTdMZzNSQXlieEVsUnJhZ19SbV9zUURWXy14akl1NnRyNkVydUpfS3RtUlVWeUhUWlZrb0tn?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
       "title": "Five Americans among seven killed in safari helicopter crash in Kenya",
       "url": "https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safari-crash",
       "source": "The Guardian",
@@ -36,90 +92,27 @@
       "domain": "abcnews.go.com"
     },
     {
-      "title": "Trump threatens to isolate Iran. Who are its trading partners?",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUTliUERTQVlVWVpERU5Zd3V1dXdSY2JuZExLUjMtUkMxWXVoZFJzLUx1aTFITDQwdWY5RS1pR3pDNDVWMGlFS0t6cE9DQmYwNWRDeWViME50enF1X1RZWjNVYmF2ME9obUp6TTNLcG01ekdLS1liNUhmeDdmU1hYVnVpR21vTzlDYUJKY3EzYkItZThBZE9kYS1EV3FfYkx4MXZUVFloa2FYWG5jUVE?oc=5",
+      "title": "Harry and Meghan's return to UK reignites questions over security",
+      "url": "https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    }
+  ],
+  [
+    {
+      "title": "Bessent says US will impose toughest ever sanctions on Iran, urges China to cooperate",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUlFnUHhPNjlxRW5kTy03TFctOE1ST1NabGVNalozY2hiR2RKcEtfV1ZRblJ1VlJXQXRNem1yZmpIRVVYUjJOd2pzWElTX0JVeXZVR1V1Tk5NOG5oWWUtRVZzWDNFOE5KbE1VNmtubXdodnVzQ1RZMFV3TnpUUXVHM1N5MXZqZTBtdW1iUG8xS18wdi1ranhQQXpfVDdiYnRsc09iN3JtbEhZTVIwS202X0lmSkF2V0c2dFV5NQ?oc=5",
       "source": "Reuters",
       "bias": "center",
       "domain": "reuters.com"
     },
     {
-      "title": "UAE says it is suspending trade with Iran after missile launch",
-      "url": "https://www.washingtonpost.com/world/2026/08/19/uae-says-it-is-suspending-trade-with-iran-after-missile-attack/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
-    },
-    {
-      "title": "Canada and U.S. Resume Talks Over Trump Tariffs as a New Deadline Looms",
-      "url": "https://www.nytimes.com/2026/08/20/world/canada/trump-carney-tariffs-trade-deal.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "Padres homegrown hero shares crucial injury timeline update after random encounter viral YouTuber",
-      "url": "https://nypost.com/2026/08/20/sports/joe-musgrove-shares-injury-update-with-content-creator-faze-rug/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "Body Language Experts Spot Something In This Wild Clip Of Trump Dictating Tweets To Natalie Harp",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSjJnM04wX2F3WlNheFBVSVh0ZUgtWUliNXFvMzJTcU1nZEJiXy1WckRwZEZkZUNYWTVlVF9GSzMzV2dBUXVubzZSeF9CZ01qUFhjbUVZVi1sbTNDRG1PQnN5S0c1eUcyTElSMTlObFpkcldlTXVYZXhBOGNzSVNvbEtRUFFoUDA5QmRLTDVkRnowUGVlejFkZjEyOWY3QWJoSFNXMDhtMGphbHBHdklIeE51dm1Day0wV050WG1rZXLSAcYBQVVfeXFMTmxfNzJxWEY2czIwcjI4VzZhZ3RJMUlJbnBlSF9QYTRNUVFhU1VfVExvc1Nid21kR09icWFoQjhBMHY4N0hvTTJya2ltRWNNMUtfbm83c0ZvRi14aDdBZnFOTDhXV2VXR0Z1Z1FlVWtpNklVS1ZRaVdPY3l3c01ySUdlTHBhQ1gxMW9yS3lfbUNZTzFRekdFYkY1UHpxUkhDMnRCZUtwRGZFaWo1ZkJLZzZkWUhYRXFYdXBFMnlSLTdjSUxpOHh3?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    },
-    {
-      "title": "What to know about Dr. Heidi Overton, Trump's pick to lead the FDA",
-      "url": "https://www.npr.org/2026/08/20/nx-s1-5939549/heidi-overton-fda-commissioner-trump-senate-nomination",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    },
-    {
-      "title": "Florida Senate candidate Angie Nixon defends drag shows as 'wholesome' for children, brought her kids to one",
-      "url": "https://www.foxnews.com/media/florida-senate-candidate-angie-nixon-defends-drag-shows-wholesome-children-brought-kids",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "Academic who accused Jason Arday of plagiarism suspended by university",
-      "url": "https://www.bbc.co.uk/news/articles/cevmrjd9lj1o?at_medium=RSS&at_campaign=rss",
+      "title": "Bessent urges US partners to back plans to 'squash' Iran economy",
+      "url": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "bias": "center",
       "domain": "bbc.com"
-    },
-    {
-      "title": "Deadly Russian missile barrage hits Kyiv in hours-long overnight attack",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/deadly-russian-missile-barrage-hits-kyiv-in-hours-long-overnight-attack?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "Huge Russian bombardment kills at least 16 in Ukraine",
-      "url": "https://www.cbsnews.com/video/russian-attack-kills-at-least-16-in-kyiv/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "Student kills schoolmate and himself in livestreamed Philippine school attack, official says",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOWJhMlJZekdIMG1VYmt2ZU5DZUR6N0RsR1BIekJsbXpJMzlSZDRBVmduRXd2RDVvY3MwbkljSVBzNTJLbGNuTnBiNGI1ZWw2Mm1EemJaRVEyTzF6ZHd6amplRG1mWGdUNnktMWRadkctM0gyajVVNk9oQVlmU3IxTmNESlNRRXBOV2JvMUxOOFc2ZmRDYld1OWxoSFF5QQ?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    }
-  ],
-  [
-    {
-      "title": "Treasury Turns to Interventionist Tactics to Lower Interest Rates",
-      "url": "https://www.nytimes.com/2026/08/20/business/treasury-bond-market-interventionist-tactics.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
     },
     {
       "title": "The rise in interest rates hit a \u2018raw nerve\u2019 at the White House. Bessent\u2019s plan has analysts on edge.",
@@ -129,139 +122,25 @@
       "domain": "wsj.com"
     },
     {
+      "title": "Dow plunges 600 points as surging Treasury yields, Walmart sales shock Wall Street",
+      "url": "https://nypost.com/2026/08/20/business/dow-plunges-600-points-as-surging-treasury-yields-walmart-sales-shock-wall-street/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
+      "title": "Treasury Turns to Interventionist Tactics to Lower Interest Rates",
+      "url": "https://www.nytimes.com/2026/08/20/business/treasury-bond-market-interventionist-tactics.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
       "title": "An alarmed bond market gets the Trump administration to act again",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdzcxSDVXQVJJeXZ0cWVTSVVIeE9KOV9ZT3ZJQXdLZXVYZ1pqbDA1cEwtbGg5RERicjR4OV85TFpTbExVWWlQRGxfX3lkeGJLbVhmOXMtTnBUY1VfS2FOdFNBMVphdkczTTN3eWp3aVZJRF9ZX09OXzBUYUIzeFpvMTJsWXBFWXRKWHcwWmFfaXQ3cVhWMFNsSGstZw?oc=5",
       "source": "Associated Press",
       "bias": "center",
       "domain": "apnews.com"
-    }
-  ],
-  [
-    {
-      "title": "Spanish police evict hundreds of migrants from Ceuta beach to shelters",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/spanish-police-evict-hundreds-of-migrants-from-ceuta-beach-to-shelters?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "Spain to allow 500 children in Ceuta to go to mainland in immigration U-turn",
-      "url": "https://www.theguardian.com/world/2026/aug/19/spain-allows-500-migrant-minors-in-ceuta-to-relocate-to-the-mainland-in-u-turn",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    },
-    {
-      "title": "Chinese court sentences founder of troubled property developer Evergrande to life in prison",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdmpPc0tFMWFFbVdNcHBFUnNjM2h4QjhCVkFNcXU5Tk5YcXNmZWIzNUhEOGRhRlpfZFFwZGN6SW4wUjQ2T1hhbHdzUmltRFNTYURYd3NncEF6R3gyQ3hhQWxLSFFqU3dRX3FQeWMtbTQ5eGNZekZldjlVVlNLeWpFV2FjRUVIazYwQmdGVjI5eXI0dHY3NVljWjhtLWtCYVZwZ2JYSA?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    }
-  ],
-  [
-    {
-      "title": "A 13-year-old dies after participating in a Benadryl TikTok 'challenge'",
-      "url": "https://www.cnn.com/2023/04/18/us/benadryl-tiktok-challenge-teen-death-wellness/index.html",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
-    },
-    {
-      "title": "8-year-old boy dies after getting hit by falling tree at YMCA camp",
-      "url": "https://abcnews.com/US/8-year-boy-dies-after-hit-falling-tree/story?id=135801770",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    }
-  ],
-  [
-    {
-      "title": "Tulsi Gabbard gives promising, emotional update on husband's successful bone cancer surgery",
-      "url": "https://www.foxnews.com/politics/tulsi-gabbard-promising-emotional-update-husbands-successful-bone-cancer-surgery",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "Tulsi Gabbard Shares Raw Update About Husband\u2019s Cancer Battle",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObFBxMjgtdlNLWEtmS3VJM3ZjcTJBcUtYZXN4bVVfNmR6YWsyU0JkenY1NDdDNDY4cC1MR05FNEFKbUcwNnlEZkd0bFc5dnpNUlJ3clhPOXdmN3VBQ3BpZE9CNlBlRERUcndrSG4zTnRxWWd2eWdTTzZJTGZqZDBrSGZtamt2Xy1kb1N3NzVwdW15Si1sdmc?oc=5",
-      "source": "Daily Wire",
-      "bias": "right",
-      "domain": "dailywire.com"
-    }
-  ],
-  [
-    {
-      "title": "Alex Murdaugh defense team lied about polygraph results, prosecutors allege in new filing",
-      "url": "https://www.foxnews.com/us/alex-murdaugh-defense-team-lied-polygraph-results-prosecutors-allege-new-filing",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "Karmelo Anthony prosecutor reveals trove of evidence jury never saw \u2014 including disturbing texts: \u2018Low key on the verge\u2019",
-      "url": "https://nypost.com/2026/08/20/us-news/karmelo-anthony-prosecutor-reveals-trove-of-disturbing-evidence-jury-never-saw/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    }
-  ],
-  [
-    {
-      "title": "Walmart reports rare sales miss as consumers cut spending, shares fall",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWHpDQjhTTjdrTGVtLWhZMUJIdWtybnk5SjJ0bWxfMjZ3VmhYXzE3UGljRlZiMmI3V0FNN09Pb1NYWlhCWTVmMlFsdjZTRDFLUFh4WV9Yb0ZGMTJWYTc0eWVWVEZiVC1oVmdXNTBNdGtGdGZoWHN3MzRndDR2YlY2bzFuWTlJeHBXdGJzZHZzMmFiVzYxWUtsZDFlN0F6OWJPTktkS0RaTmtjY0I4WU9wQ3Y4X1VsZzQ?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "Walmart Posts Slowest Sales Growth in Years as Americans Tighten Wallets",
-      "url": "https://www.nytimes.com/2026/08/20/business/walmart-target-retail-consumer-economy.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    }
-  ],
-  [
-    {
-      "title": "School 'deeply saddened' by death of family in sea off Shoreham",
-      "url": "https://www.bbc.co.uk/news/articles/c70gpggglllo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "WATCH:  Friends\u00a0of boy who died\u00a0rally around his sister on\u00a01st day of school",
-      "url": "https://abcnews.com/video/135787111/",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    }
-  ],
-  [
-    {
-      "title": "Giant whales move into Greenland waters as ice disappears",
-      "url": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "Why whales are being drawn to \u2018feeding frenzies\u2019 within Arctic Circle",
-      "url": "https://nypost.com/2026/08/20/world-news/why-whales-are-being-drawn-to-feeding-frenzies-within-arctic-circle/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    }
-  ],
-  [
-    {
-      "title": "Bond Market Stress Returns and Oil Rises in Edgy Day for Markets",
-      "url": "https://www.nytimes.com/2026/08/20/business/iran-war-oil-bonds.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
     },
     {
       "title": "The bond market is signaling trouble ahead. This is why you should pay attention",
@@ -269,6 +148,155 @@
       "source": "NPR",
       "bias": "left-center",
       "domain": "npr.org"
+    }
+  ],
+  [
+    {
+      "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges",
+      "url": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
+    },
+    {
+      "title": "FBI arrests woman who allegedly plotted ISIS-linked attack on New York state Capitol building",
+      "url": "https://www.foxnews.com/us/fbi-arrests-woman-who-allegedly-plotted-attack-new-york-state-capitol-building",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "A-list songwriter adopts runaway West Hollywood piglet \u2018Wilbur\u2019",
+      "url": "https://nypost.com/2026/08/20/us-news/runaway-west-hollywood-pig-wilbur-adopted-by-a-list-songwriter/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    }
+  ],
+  [
+    {
+      "title": "Moskowitz rejects Rick Scott claims he's 'scared to death' of socialists, beholden to Hasan Piker",
+      "url": "https://www.foxnews.com/media/moskowitz-rejects-rick-scott-claim-scared-death-socialists-beholden-hasan-piker",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Jared Moskowitz Is Running For Reelection \u2014 Against Hasan Piker And The DSA",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdkpvUmpDWEVNVDFka0dTTzlPSFQzOXRkYjREekxHVEpDbTByUWVDNzlmYnFYTnBOVGRGejVvMGlvaUhzMzM5RDZ3TXdSNGNoblpfTTYzSUdwT1VMOXVmNS1MSXJudkxNdTZncmJ6YUd6bTBnQ1R5ak9mbEhJcTdjYkRpNE83QVl4UGpFZEFBWG1OUmNhQWI1UFZZNHdWN2_SAaQBQVVfeXFMT0QyMUZxVlF4d1lqX1ByMjQ1S0FwdkVRczZ0MmtQaHlqeHRMbmp1eDlwQTZCTk1DSWxFaUNRMkRhUXJobUtyUFJwN0V3dG94a0FlT2d4V3NJaWVMU3duZmxYeHd1Q0tvNThteXJRckxjc0t6UU9wdXJPTWdmdDQ1UWU5d1owb1NjYm9JRWNXTk9xZ0RBRVYtUE1xTmVlbnhxbEpPQlc?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    },
+    {
+      "title": "Grim warning for California Dems as bombshell new poll shows allegiances shifting",
+      "url": "https://nypost.com/2026/08/20/us-news/california-voters-favor-socialists-over-mainstream-democrats/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    }
+  ],
+  [
+    {
+      "title": "Swiss tourist jailed for insulting Bali\u2019s sacred Day of Silence",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/swiss-tourist-jailed-for-insulting-balis-sacred-day-of-silence?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "Chinese court sentences founder of troubled property developer Evergrande to life in prison",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdmpPc0tFMWFFbVdNcHBFUnNjM2h4QjhCVkFNcXU5Tk5YcXNmZWIzNUhEOGRhRlpfZFFwZGN6SW4wUjQ2T1hhbHdzUmltRFNTYURYd3NncEF6R3gyQ3hhQWxLSFFqU3dRX3FQeWMtbTQ5eGNZekZldjlVVlNLeWpFV2FjRUVIazYwQmdGVjI5eXI0dHY3NVljWjhtLWtCYVZwZ2JYSA?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Spain to allow 500 children in Ceuta to go to mainland in immigration U-turn",
+      "url": "https://www.theguardian.com/world/2026/aug/19/spain-allows-500-migrant-minors-in-ceuta-to-relocate-to-the-mainland-in-u-turn",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    }
+  ],
+  [
+    {
+      "title": "Irish authorities seek extradition warrant for suspect in murder of American mom Jamey Carney: report",
+      "url": "https://www.foxnews.com/us/irish-authorities-seek-extradition-warrant-suspect-murder-american-mom-jamey-carney",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Adviser to far-right Latin American leaders arrested for allegedly plotting to kill girlfriend",
+      "url": "https://www.theguardian.com/world/2026/aug/19/fernando-cerimedo-adviser-far-right-latin-american-leaders-arrested-allegedly-plotting-kill-girlfriend",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
+    }
+  ],
+  [
+    {
+      "title": "EXCLUSIVE: Trump administration to back US minerals projects with $500 million in grants",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdThFUDZLSTMyUHJsWGcwcS16TExSR3JHMnp1R25OQWltNmp4TGZ2R3dlbDJRQ2taWnVBODlVNXVOMUFRYmI5U3pEbHktb2xRYk5lZE00TzBqdmZqdXBzY3ZZaFVqRTdGQnhlSDdGMmpRbWpwblRkandfRmFnWUhwbUpDRmF4dk1UUVVGdmdlZGpoYWNiM1d4QUowU2x5aFhqMnM4d1E4ZEN2VVZ3LVdxYUpUQWM2bEF5dkgzSkstOA?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "EXCLUSIVE: A-Listers Got $34 Million In COVID Relief, The Trump Admin Is Trying To Get It Back",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMmlkQTl0YTNJdjd6LThSWnpmR2xWbURFV05ZNnpJQ1NkaEV5Q0xfc09DWjNVMTM2YWxXSVNBRkM4SWRSR2h0ekRacG0tQW9McUdTQkZYMTllcmc4aGtLcDh3Q29KVjNFbVVGa0dhMzVKNUxRQWNtckxJUDZTNEFyOEpGV2dXMDVDbDB2SHJaWExoTTJ5dVBDc25tXzdyVkxkRXFSS2Z4S2doOUtrck55a0hmdkdsQTZOeTNPU055WQ?oc=5",
+      "source": "Daily Wire",
+      "bias": "right",
+      "domain": "dailywire.com"
+    }
+  ],
+  [
+    {
+      "title": "Alcaraz to play US Open after four months out",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/cwyq490lje0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "Carlos Alcaraz confirms US Open return after four-month injury layoff",
+      "url": "https://www.aljazeera.com/sports/2026/8/20/carlos-alcaraz-confirms-us-open-return-after-four-month-injury-layoff?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    }
+  ],
+  [
+    {
+      "title": "Brian Hickerson breaks silence on Hayden Panettiere\u2019s tragic death",
+      "url": "https://pagesix.com/2026/08/20/celebrity-news/brian-hickerson-breaks-silence-on-hayden-panettieres-tragic-death/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
+      "title": "911 Call Reveals New Clue In Hayden Panettiere\u2019s Shocking Death At 36",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM0hxYXpoYmZsMWdFSEFRWmwtSnB3NVNoYXNEakVQUDAzblJFa0xrUzJucXVpU1gtd25MVkNtQ0JIRlkwaHBLcW51WU56Sy0tZHVmUm51STZYYk54RDFkWWdDWHMwMVd4cTZNWmx0dFFTTm9WbU42c2Qtblp1b1AwVEVkNmI5QmQ4elA3OXNyMk84LVh1aWpabzV6MjBjRG9O?oc=5",
+      "source": "Daily Wire",
+      "bias": "right",
+      "domain": "dailywire.com"
+    }
+  ],
+  [
+    {
+      "title": "Humanoid robots take centre stage in China-US tech race",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/humanoid-robots-take-centre-stage-in-china-us-tech-race?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "From robot dogs to helpers, China puts robotics ambitions on display at world conference",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMmJ5dy1FMThNbHNWR2RIUGU1TEQ2NUNOTXF0ZGFxa3NTZ0ZBMXFKWFViY2o1Wk8wWWtCRkF1UGt5dDBDZFRrTHlsWmhKZTR4d2FBUldqakxxdnhYZDlmM3hYQ2tUNmN5VHZ3ay1fZmQ5cG01a3d2NkZvalllVDhQdUF1S3hEWTMwenc?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
     }
   ],
   [

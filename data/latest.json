@@ -1,62 +1,6 @@
 [
   [
     {
-      "title": "Millions in the US could face massive consequences unless McCarthy can navigate out of a debt trap he set for Biden",
-      "url": "https://www.cnn.com/2023/04/18/politics/mccarthy-biden-debt-ceiling/index.html",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
-    },
-    {
-      "title": "UAE says it is suspending trade with Iran after missile launch",
-      "url": "https://www.washingtonpost.com/world/2026/08/19/uae-says-it-is-suspending-trade-with-iran-after-missile-attack/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
-    },
-    {
-      "title": "Iran dismisses Trump's \"economic D-Day\" threat as more \"failed policies\"",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-us-economic-threat-defeat/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "True scale of Meghan and Harry\u2019s US political plans revealed \u2014 from request for Biden Oval Office meeting to eyeing Senate seat",
-      "url": "https://nypost.com/2026/08/20/us-news/true-scale-of-meghan-and-harrys-us-political-plans-revealed-from-request-for-biden-oval-office-meeting-to-eyeing-senate-seat/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "Prince Harry, Meghan Markle\u2019s UK move puts fresh spotlight on their explosive claims against royal family",
-      "url": "https://www.foxnews.com/entertainment/prince-harry-meghan-markles-uk-move-puts-fresh-spotlight-explosive-claims-against-royal-family",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "Bessent says US will impose toughest ever sanctions on Iran, urges China to cooperate",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUlFnUHhPNjlxRW5kTy03TFctOE1ST1NabGVNalozY2hiR2RKcEtfV1ZRblJ1VlJXQXRNem1yZmpIRVVYUjJOd2pzWElTX0JVeXZVR1V1Tk5NOG5oWWUtRVZzWDNFOE5KbE1VNmtubXdodnVzQ1RZMFV3TnpUUXVHM1N5MXZqZTBtdW1iUG8xS18wdi1ranhQQXpfVDdiYnRsc09iN3JtbEhZTVIwS202X0lmSkF2V0c2dFV5NQ?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
-      "url": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "Anxious bond market sends troubling message to investors: There\u2019s no easy fix for U.S. debt",
-      "url": "https://www.marketwatch.com/story/treasury-rout-restarts-one-day-after-bessents-beefed-up-buyback-plan-972766a1?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
-    },
-    {
       "title": "US stocks halt their slide after the Treasury Department moves to ease pressure from the bond market",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTGNiQUx0ZWFmZVFMdktJQkpSUDQyZW9DM2tOWUxHYUVZNG1iN3dXNUt0SF9ZMkVNYlRGb2drVl9ESG9EN1VTSWw4Y3Q2TVprR2U4S05CaEE4bktTVWNVTkFBX1V5dVMzSTNGdTc4RmN5UE8yeGlkNTB6c0FCR0haQUtWWXBLOWVmZ2VKeHBvUkJ3ZVNiUVpmWDA4Z2UzXzdfaUFTTmx3?oc=5",
       "source": "Associated Press",
@@ -71,8 +15,22 @@
       "domain": "theguardian.com"
     },
     {
-      "title": "DR Congo to receive 70,000 doses of Ervebo vaccine as Ebola infections surge",
-      "url": "https://www.aljazeera.com/news/2026/8/20/dr-congo-to-receive-70000-doses-of-ervebo-vaccine-as-ebola-infections-surge?traffic_source=rss",
+      "title": "Pilot killed as plane collides with police helicopter at airport, officials say",
+      "url": "https://www.cbsnews.com/news/small-plane-state-police-helicopter-midair-collision-carlisle-pennsylvania/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Homeland Security Made a Big Claim About Noncitizen Voting. Now It Can\u2019t Prove It.",
+      "url": "https://www.nytimes.com/2026/08/20/us/politics/trump-nevada-voter-election-fraud.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Landslide at illegal gold mine kills 13 people in Colombia",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/landslide-at-illegal-gold-mine-kills-13-people-in-colombia-2?traffic_source=rss",
       "source": "Al Jazeera",
       "bias": "center",
       "domain": "aljazeera.com"
@@ -85,18 +43,11 @@
       "domain": "abcnews.go.com"
     },
     {
-      "title": "First U.S. Deportees to Arrive in Liberia Amid Growing Backlash",
-      "url": "https://www.nytimes.com/2026/08/20/world/africa/liberia-trump-deportations.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "Tulsi Gabbard Shares Raw Update About Husband\u2019s Cancer Battle",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObFBxMjgtdlNLWEtmS3VJM3ZjcTJBcUtYZXN4bVVfNmR6YWsyU0JkenY1NDdDNDY4cC1MR05FNEFKbUcwNnlEZkd0bFc5dnpNUlJ3clhPOXdmN3VBQ3BpZE9CNlBlRERUcndrSG4zTnRxWWd2eWdTTzZJTGZqZDBrSGZtamt2Xy1kb1N3NzVwdW15Si1sdmc?oc=5",
-      "source": "Daily Wire",
-      "bias": "right",
-      "domain": "dailywire.com"
+      "title": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?",
+      "url": "https://www.marketwatch.com/story/our-4-year-old-son-has-100-000-in-his-529-account-should-we-buy-him-stocks-instead-3ca745b2?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
     },
     {
       "title": "Poll: Mike Rogers and Abdul El-Sayed Virtually Tied in Michigan Senate Race",
@@ -104,6 +55,34 @@
       "source": "Breitbart",
       "bias": "right",
       "domain": "breitbart.com"
+    },
+    {
+      "title": "James Talarico accused of siding with teen killer Karmelo Anthony after lamenting \u2018there were no black members of the jury\u2019 at his trial",
+      "url": "https://nypost.com/2026/08/20/us-news/james-talarico-accused-of-siding-with-teen-killer-karmelo-anthony-after-lamenting-there-were-no-black-members-of-the-jury-at-his-trial/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
+      "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges",
+      "url": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
+    },
+    {
+      "title": "Woman charged with planning ISIS-inspired attack on New York State Capitol building",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNzJPam00WV9rdjA3LTc2VnlCRERNajFpSWpaLS03b0xFSUNvTGJtOFFtMExtM3BKMHk1Q0N2RVRSUXY2ekpQR1loZDgtOTBxWUk4N0gtZzdGSjV3eGhXeXY5WEJYWUhnMHJLYW42THRaN09UTUxPLTRDQ0ZMcjJkS3p0dW4xRE9EdWFzcEtTaVNnWGpEUkpqUWU0eUNxUkw5UU5yUUd3OHktZnExd1RZRlR0bzhjcmdtOTJMdzBsZFRucm8?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "'I heard you missed me': Melania Trump turns heads in patriotic Rose Garden look for major announcement",
+      "url": "https://www.foxnews.com/lifestyle/i-heard-you-missed-me-melania-trump-turns-heads-patriotic-rose-garden-look-major-announcement",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
     },
     {
       "title": "Body Language Experts Spot Something In This Wild Clip Of Trump Dictating Tweets To Natalie Harp",
@@ -118,109 +97,20 @@
       "source": "NPR",
       "bias": "left-center",
       "domain": "npr.org"
-    }
-  ],
-  [
-    {
-      "title": "Newly released video shows scene of Jeremy Renner's snowplow accident",
-      "url": "https://www.cnn.com/videos/us/2023/04/18/jeremy-renner-snowplow-accident-bodycam-nc-melas-contd-vpx.cnn",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
     },
     {
-      "title": "Watch heroic bystanders stop elderly man from being robbed",
-      "url": "https://nypost.com/video/watch-heroic-bystanders-stop-elderly-man-from-being-robbed/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "Police identify suspect accused of terrorizing Philadelphia women while wearing creepy Chucky-style mask",
-      "url": "https://www.foxnews.com/us/police-identify-suspect-accused-terrorizing-philadelphia-women-wearing-creepy-chucky-style-mask",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    }
-  ],
-  [
-    {
-      "title": "FBI raids Democrat Swalwell's home in sexual-misconduct investigation, source says",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLUJTNG40SVVHLWs1Q2JnVlRROFhad1REekN2X0tZQUlWTjFlUEhKZExkSHc5b2VTbUdDYl9OZjlKUThzU3BVdHhtMTl6WFkzUkZhZGVvVFc2YlE1Wk9pZ3VvQm9RZFJDRThtZWZRYmhGSWZVQkJjLUdkTk93S2VYSEdMU2NmbFZGYWtILUhKQUZDd0M5WTdMZzNSQXlieEVsUnJhZ19SbV9zUURWXy14akl1NnRyNkVydUpfS3RtUlVWeUhUWlZrb0tn?oc=5",
-      "source": "Reuters",
+      "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
+      "url": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "bias": "center",
-      "domain": "reuters.com"
+      "domain": "bbc.com"
     },
     {
-      "title": "FBI seizes Swalwell's devices, executes warrants in sexual misconduct probe",
-      "url": "https://www.cbsnews.com/news/swalwell-fbi-search-warrants-devices-sexual-misconduct-investigation/",
-      "source": "CBS News",
+      "title": "UAE says it is suspending trade with Iran after missile launch",
+      "url": "https://www.washingtonpost.com/world/2026/08/19/uae-says-it-is-suspending-trade-with-iran-after-missile-attack/",
+      "source": "Washington Post",
       "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "FBI Seizes Former Democratic Rep. Eric Swalwell's Devices As Part Of Criminal Probe",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbmh4QlYzZjVTZFJTWkhtRFo0ZU5XRWU1N1FWVlFMV2VaN21naEJnbXVUTGlNX3otOERwd3dlN3Z1MFUwdV9VZS00QVFkV0dpTWY1TGZXNnFkY3BkMGl5Qm1TV2tkMk5OSGkyQWYyWjZkM3hqLTByZDNOVTVIRFJyVmR2SDJxQ2lpZXYxWjd6WEljT2tyb2R5cHRGWFI1ZDNObnZCNmdMMEszaXBKWXJUMnB4YnlWWUw4eTQ1cHplc0dXYmpSU0HSAcsBQVVfeXFMTkw3MkRmNHZNZHFoWXRPdDZQX1JQZnQ2LWllYm9MeTIwNXY0Q191ZGl4MklqeGZtNVF0VmxULTNmT0ZsWm5MN05MY0w5dnZNMkVGN2RIMThodnNJYUZWSnZIZXEydWNsaG9QVHFjd19DQ0dwNUctTlp0eVhyYk1qakJyX1VpcXdrU1gyVEdRR0FsTzFpdnRCVjM5VDV3STVwaG9Qc1lUbzdkX1VhQ2VpZjlJb2VESjRDVDNIVjBPTUYwOXZ4bjMtWmpOVWc?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    }
-  ],
-  [
-    {
-      "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges",
-      "url": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
-    },
-    {
-      "title": "Woman linked to ISIS arrested for planning bomb attack on New York state capitol",
-      "url": "https://www.cbsnews.com/video/woman-linked-to-isis-arrested-for-planning-bomb-attack-on-new-york-state-capitol/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    }
-  ],
-  [
-    {
-      "title": "Cancer vaccine prevents deadly melanoma from returning or spreading in landmark trial",
-      "url": "https://www.foxnews.com/health/cancer-vaccine-prevents-deadly-melanoma-returning-spreading-landmark-trial",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "Moderna\u2019s personalized mRNA shot could reshape the fight against skin cancer \u2014 but it may also be overhyped",
-      "url": "https://www.marketwatch.com/story/modernas-personalized-mrna-shot-could-reshape-the-fight-against-skin-cancer-but-it-may-also-be-overhyped-a6f1bc88?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
-    }
-  ],
-  [
-    {
-      "title": "IndyCar driver Graham Rahal reflects on opportunity to compete at Freedom 250 Grand Prix: 'Iconic moment'",
-      "url": "https://www.foxnews.com/outkick-sports/indycar-driver-graham-rahal-reflects-opportunity-compete-freedom-250-grand-prix-iconic-moment",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "D.C.'s IndyCar race will zoom past museums. Some worry it could harm the art inside",
-      "url": "https://www.npr.org/2026/08/20/nx-s1-5939431/dc-indycar-race-museums-art-vibration",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    }
-  ],
-  [
-    {
-      "title": "EXCLUSIVE: Trump administration to back US minerals projects with $500 million in grants",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdThFUDZLSTMyUHJsWGcwcS16TExSR3JHMnp1R25OQWltNmp4TGZ2R3dlbDJRQ2taWnVBODlVNXVOMUFRYmI5U3pEbHktb2xRYk5lZE00TzBqdmZqdXBzY3ZZaFVqRTdGQnhlSDdGMmpRbWpwblRkandfRmFnWUhwbUpDRmF4dk1UUVVGdmdlZGpoYWNiM1d4QUowU2x5aFhqMnM4d1E4ZEN2VVZ3LVdxYUpUQWM2bEF5dkgzSkstOA?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
+      "domain": "washingtonpost.com"
     },
     {
       "title": "EXCLUSIVE: A-Listers Got $34 Million In COVID Relief, The Trump Admin Is Trying To Get It Back",
@@ -232,47 +122,176 @@
   ],
   [
     {
-      "title": "Academic who accused Jason Arday of plagiarism suspended by university",
-      "url": "https://www.bbc.co.uk/news/articles/cevmrjd9lj1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
+      "title": "Progressives notch victory in race to replace Swalwell following sexual assault scandal",
+      "url": "https://www.foxnews.com/politics/progressives-notch-victory-race-replace-swalwell-following-sexual-assault-scandal",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
     },
     {
-      "title": "University suspends US academic leading Jason Arday plagiarism accusations",
-      "url": "https://www.aljazeera.com/news/2026/8/20/university-suspends-us-academic-leading-jason-arday-plagiarism-accusations?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    }
-  ],
-  [
-    {
-      "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
-      "url": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
+      "title": "FBI seizes Swalwell's devices, executes warrants in sexual misconduct probe",
+      "url": "https://www.cbsnews.com/news/swalwell-fbi-search-warrants-devices-sexual-misconduct-investigation/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
     },
     {
-      "title": "Jewish-American barred by Israel calls settler violence \u2018state terror\u2019",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/08-20-208-20-2026-jewish-american-banned-sv-mp4?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    }
-  ],
-  [
-    {
-      "title": "Lawyer for Penn State frat bro\u2019s dad charged in coke ring makes wild claim",
-      "url": "https://nypost.com/2026/08/20/us-news/lawyer-for-penn-state-frat-bros-dad-charged-in-coke-ring-makes-wild-claim/",
+      "title": "Eric Swalwell FBI probe may focus on alleged bullying of women accusers: legal experts",
+      "url": "https://nypost.com/2026/08/20/us-news/eric-swalwell-could-face-abuse-of-power-claims-legal-experts/",
       "source": "New York Post",
       "bias": "right",
       "domain": "nypost.com"
     },
     {
-      "title": "Penn State frat pledges were made to cut and bag cocaine for college drug ring, authorities say",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMjA2ZEd5VnpuODl0YVZTLWVvWVVybWdveEMxdEZSM3FhOGotelJ4blVnQldCOXJ0Uml2RWFaakMxa2ZvT2xLNGd0alRWV0NXcm1fQ1hmcURicERyUzYzX2J0ZlNXZDFNREFESVJmaXRIVVF4SW5WUkpxLUlKVF94ZFFqZHBvejJGQVluNVMzUjA1YTZ2OW5NTGh6VUhFeVEwRlRkYUNLN0pGODlpRWdN?oc=5",
+      "title": "FBI Seizes Former Democratic Rep. Eric Swalwell's Devices As Part Of Criminal Probe",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbmh4QlYzZjVTZFJTWkhtRFo0ZU5XRWU1N1FWVlFMV2VaN21naEJnbXVUTGlNX3otOERwd3dlN3Z1MFUwdV9VZS00QVFkV0dpTWY1TGZXNnFkY3BkMGl5Qm1TV2tkMk5OSGkyQWYyWjZkM3hqLTByZDNOVTVIRFJyVmR2SDJxQ2lpZXYxWjd6WEljT2tyb2R5cHRGWFI1ZDNObnZCNmdMMEszaXBKWXJUMnB4YnlWWUw4eTQ1cHplc0dXYmpSU0HSAcsBQVVfeXFMTkw3MkRmNHZNZHFoWXRPdDZQX1JQZnQ2LWllYm9MeTIwNXY0Q191ZGl4MklqeGZtNVF0VmxULTNmT0ZsWm5MN05MY0w5dnZNMkVGN2RIMThodnNJYUZWSnZIZXEydWNsaG9QVHFjd19DQ0dwNUctTlp0eVhyYk1qakJyX1VpcXdrU1gyVEdRR0FsTzFpdnRCVjM5VDV3STVwaG9Qc1lUbzdkX1VhQ2VpZjlJb2VESjRDVDNIVjBPTUYwOXZ4bjMtWmpOVWc?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    },
+    {
+      "title": "FBI raids Democrat Swalwell's home in sexual-misconduct investigation, source says",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLUJTNG40SVVHLWs1Q2JnVlRROFhad1REekN2X0tZQUlWTjFlUEhKZExkSHc5b2VTbUdDYl9OZjlKUThzU3BVdHhtMTl6WFkzUkZhZGVvVFc2YlE1Wk9pZ3VvQm9RZFJDRThtZWZRYmhGSWZVQkJjLUdkTk93S2VYSEdMU2NmbFZGYWtILUhKQUZDd0M5WTdMZzNSQXlieEVsUnJhZ19SbV9zUURWXy14akl1NnRyNkVydUpfS3RtUlVWeUhUWlZrb0tn?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    }
+  ],
+  [
+    {
+      "title": "Hayden Panettiere's on-and-off boyfriend Brian Hickerson breaks silence after star's death",
+      "url": "https://www.foxnews.com/entertainment/hayden-panettieres-on-and-off-boyfriend-brian-hickerson-breaks-silence-after-stars-death",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "911 Call Reveals New Clue In Hayden Panettiere\u2019s Shocking Death At 36",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM0hxYXpoYmZsMWdFSEFRWmwtSnB3NVNoYXNEakVQUDAzblJFa0xrUzJucXVpU1gtd25MVkNtQ0JIRlkwaHBLcW51WU56Sy0tZHVmUm51STZYYk54RDFkWWdDWHMwMVd4cTZNWmx0dFFTTm9WbU42c2Qtblp1b1AwVEVkNmI5QmQ4elA3OXNyMk84LVh1aWpabzV6MjBjRG9O?oc=5",
+      "source": "Daily Wire",
+      "bias": "right",
+      "domain": "dailywire.com"
+    },
+    {
+      "title": "Brian Hickerson's attorney issues statement after Hayden Panettiere's death",
+      "url": "https://abcnews.com/GMA/Culture/brian-hickersons-attorney-issues-statement-after-hayden-panettieres/story?id=135817617",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
+    },
+    {
+      "title": "New details revealed in Hayden Panettiere's death",
+      "url": "https://www.cbsnews.com/video/new-details-revealed-in-hayden-panettieres-death/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Newly released video shows scene of Jeremy Renner's snowplow accident",
+      "url": "https://www.cnn.com/videos/us/2023/04/18/jeremy-renner-snowplow-accident-bodycam-nc-melas-contd-vpx.cnn",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
+    },
+    {
+      "title": "Timeline reveals how man in 'Chucky' mask terrorized Philadelphia streets, evaded police",
+      "url": "https://www.foxnews.com/us/timeline-reveals-how-man-chucky-mask-terrorized-philadelphia-streets-evaded-police",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Fresno County employee stabbed in Downtown Fresno as suspect detained",
+      "url": "https://nypost.com/2026/08/20/us-news/fresno-county-employee-stabbed-in-downtown-fresno-as-suspect-detained/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    }
+  ],
+  [
+    {
+      "title": "Walmart sees sales drop as US consumer spending retreats",
+      "url": "https://www.aljazeera.com/economy/2026/8/20/walmart-sees-sales-drop-as-us-consumer-spending-retreats?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "Walmart says it's using tariff refunds to lower prices as sales show slowest growth in 6 years",
+      "url": "https://www.cbsnews.com/video/walmart-using-billions-in-tariff-refunds-to-lower-prices-as-sales/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Exclusive: EPA to Enact Emergency Fuel Waiver to Increase Domestic Gas Supply, Lower Prices",
+      "url": "https://www.breitbart.com/environment/2026/08/20/exclusive-epa-to-enact-emergency-fuel-waiver-to-increase-domestic-gas-supply-lower-prices/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
+    }
+  ],
+  [
+    {
+      "title": "Academic who raised plagiarism allegations against Jason Arday suspended by his university",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORW9YRm9DdzFFWG5fVWMtUWZsXzlfUkNPanUxRWtReHRWaWF1NmpGWjVhWkdxYlhZMW1IYjlkcXhqRzdOekdFaVRNQnpxM21lR2VMc0pPcnhWUDVwSUZfOFZySnNtNGE1a1dpWFhFNUFWTElJOVZYd2RlUG53Ui1MbGpEbDlSZC0yVEpxXzZSRjRpOVZzUWlSNDFtSzZLN1paQ2p6UzdxdHNlbnJsakVBXy1PanpsN01yQV95Ukd3?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Academic who accused Jason Arday of plagiarism suspended by university",
+      "url": "https://www.bbc.co.uk/news/articles/cevmrjd9lj1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    }
+  ],
+  [
+    {
+      "title": "French becoming more effective in stopping small boat crossings, UK says",
+      "url": "https://www.bbc.co.uk/news/articles/c1d1v333ewxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "Sports betting to build wealth is becoming the new American dream",
+      "url": "https://www.marketwatch.com/story/sports-betting-to-build-wealth-is-becoming-the-new-american-dream-1e29b728?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
+    }
+  ],
+  [
+    {
+      "title": "Jailed Pakistan ex-PM Imran Khan taken to hospital for treatment",
+      "url": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "Pakistan\u2019s ex-PM Imran Khan reportedly moved to hospital from jail",
+      "url": "https://www.aljazeera.com/news/2026/8/20/pakistans-ex-pm-imran-khan-transferred-from-jail-to-hospital?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    }
+  ],
+  [
+    {
+      "title": "Moderna\u2019s personalized mRNA shot could reshape the fight against skin cancer \u2014 but it may also be overhyped",
+      "url": "https://www.marketwatch.com/story/modernas-personalized-mrna-shot-could-reshape-the-fight-against-skin-cancer-but-it-may-also-be-overhyped-a6f1bc88?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
+    },
+    {
+      "title": "Moderna shares surge after it says its experimental mRNA cancer treatment passed a key test",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWlFsYXNZV0ROTlQ3QlFuUWt0bFFXTVJCcDFGcGtqY3l4TmhSMmlOekVpaGFDOHlfWnJXbDNtbmlLX2xibVBZUmtPaFpacDN3ZVRCd2ZGcnNlYi14UHV0RFZFeGpmb2pJRnRCTGFJSVl5QmJvRDlJeGZaSVFxTVVBV01DS3NlclI2cGM5eVdTWjIzVExFTVpQMm05SWs5bkQ3VGpudnFpcWJLNElzRFNIR2ZRSWY?oc=5",
       "source": "Associated Press",
       "bias": "center",
       "domain": "apnews.com"
@@ -292,22 +311,6 @@
       "source": "The Guardian",
       "bias": "left-center",
       "domain": "theguardian.com"
-    }
-  ],
-  [
-    {
-      "title": "911 Call Reveals New Clue In Hayden Panettiere\u2019s Shocking Death At 36",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM0hxYXpoYmZsMWdFSEFRWmwtSnB3NVNoYXNEakVQUDAzblJFa0xrUzJucXVpU1gtd25MVkNtQ0JIRlkwaHBLcW51WU56Sy0tZHVmUm51STZYYk54RDFkWWdDWHMwMVd4cTZNWmx0dFFTTm9WbU42c2Qtblp1b1AwVEVkNmI5QmQ4elA3OXNyMk84LVh1aWpabzV6MjBjRG9O?oc=5",
-      "source": "Daily Wire",
-      "bias": "right",
-      "domain": "dailywire.com"
-    },
-    {
-      "title": "Neutrogena acknowledges Hayden Panettiere backlash after actress's death",
-      "url": "https://abcnews.com/GMA/Culture/neutrogena-acknowledges-hayden-panettiere-backlash-after-actresss-death/story?id=135817284",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
     }
   ]
 ]

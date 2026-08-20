@@ -1,81 +1,25 @@
 [
   [
     {
-      "title": "Watch Live: Lindsay Clancy trial testimony ends early as defense winds down case",
-      "url": "https://www.cbsnews.com/news/lindsay-clancy-trial-watch-live-day-17/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "911 Call Reveals New Clue In Hayden Panettiere\u2019s Shocking Death At 36",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM0hxYXpoYmZsMWdFSEFRWmwtSnB3NVNoYXNEakVQUDAzblJFa0xrUzJucXVpU1gtd25MVkNtQ0JIRlkwaHBLcW51WU56Sy0tZHVmUm51STZYYk54RDFkWWdDWHMwMVd4cTZNWmx0dFFTTm9WbU42c2Qtblp1b1AwVEVkNmI5QmQ4elA3OXNyMk84LVh1aWpabzV6MjBjRG9O?oc=5",
-      "source": "Daily Wire",
-      "bias": "right",
-      "domain": "dailywire.com"
-    },
-    {
-      "title": "A 13-year-old dies after participating in a Benadryl TikTok 'challenge'",
-      "url": "https://www.cnn.com/2023/04/18/us/benadryl-tiktok-challenge-teen-death-wellness/index.html",
+      "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
       "source": "CNN",
       "bias": "left",
       "domain": "cnn.com"
     },
     {
-      "title": "New judge has days to decide whether Karmelo Anthony's conviction and 35-year sentence survive",
-      "url": "https://www.foxnews.com/us/new-judge-days-decide-whether-carmelo-anthony-conviction-35-year-sentence-survive",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "Prince Harry and Meghan Markle\u2019s UK comeback raises 8 burning questions 6 years after Megxit",
-      "url": "https://pagesix.com/2026/08/20/royal-family/prince-harry-and-meghan-markles-uk-comeback-raises-8-burning-questions-6-years-after-megxit/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "U.S. debt tops $40 trillion. And, new census report Trump is touting raises concerns",
-      "url": "https://www.npr.org/2026/08/20/g-s1-139388/up-first-newsletter-us-debt-venezuela-oil-deals-census-bureau-trump-voting-claims",
-      "source": "NPR",
-      "bias": "left-center",
-      "domain": "npr.org"
-    },
-    {
-      "title": "What to Know About Iran\u2019s Economic Ties With Gulf Countries",
-      "url": "https://www.nytimes.com/2026/08/19/world/middleeast/iran-emirates-gulf-economic-ties.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "UAE says it is suspending trade with Iran after missile launch",
-      "url": "https://www.washingtonpost.com/world/2026/08/19/uae-says-it-is-suspending-trade-with-iran-after-missile-attack/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
-    },
-    {
-      "title": "\u2018Tremendous costs\u2019: Can Trump stop other countries from trading with Iran?",
-      "url": "https://www.aljazeera.com/news/2026/8/20/tremendous-costs-can-trump-stop-other-countries-from-trading-with-iran?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "Conditions are ripe for a market \u2018accident,\u2019 but surging bond yields alone won\u2019t cause it, concedes pessimistic strategist",
-      "url": "https://www.marketwatch.com/story/conditions-are-ripe-for-a-market-accident-but-surging-bond-yields-alone-wont-cause-it-concedes-pessimistic-strategist-222cfc57?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
-    },
-    {
-      "title": "DSA Co-Chair: People, 'Especially Younger' People, See Cuba Was Unequal Pre-Castro, Castro Expanded Healthcare",
-      "url": "https://www.breitbart.com/clips/2026/08/19/dsa-co-chair-people-especially-younger-people-see-cuba-was-unequal-pre-castro-castro-expanded-healthcare/",
+      "title": "Nike Loses Nearly $200 Billion in Market Value Since 2021 as Stocks Plunge to 12-Year Low",
+      "url": "https://www.breitbart.com/sports/2026/08/20/nike-loses-nearly-200-billion-in-market-value-since-2021-as-stocks-plunge-to-12-year-low/",
       "source": "Breitbart",
       "bias": "right",
       "domain": "breitbart.com"
+    },
+    {
+      "title": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?",
+      "url": "https://www.marketwatch.com/story/our-4-year-old-son-has-100-000-in-his-529-account-should-we-buy-him-stocks-instead-3ca745b2?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
     },
     {
       "title": "Five Americans among seven killed in safari helicopter crash in Kenya",
@@ -92,80 +36,113 @@
       "domain": "abcnews.go.com"
     },
     {
-      "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
-      "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "The US national debt now stands at $40 trillion",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOWRYUG5oRjZUWTlia0VxVkROYmNERFdTd3NhaWpkeGdLbUF1R2Q3MDVhdzdYZFVrX1FiTGUxZ0piZ3ROaXpYYVdXUDN2akhfM1c2NWRxMjhXMWZ2aURVc0toUWVpVVhoM0hiaTQ2X2NzaWpacG5GaEpZbS1rOEQ0dmRhY0xCMk9YYU1mdW42TmFrQQ?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "The U.S. National Debt Now Stands At $40 Trillion",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUmlsTkJxQUQxWUg4VEwtSHdBRGZHSG1ydEFwQ0JGN3NwYWpLWjlSRGstbHFqV3VpaGROOGZ0eXVraktUVXNQekJ6VUdNalNrUzNGb2JKYlZPLTFXY0xmSzVvN0RNQVA2dW5BUW5abWVTZkVqSF9QS3UyZlJtNmJUMC1XRkpNOFk3S08zX290UFZfd3FHYm55R2JrXzZySkhCRTBaazRmWXRKTDFKRjZCWNIBtgFBVV95cUxQT01uOE9UTHJjUS01SG9jVmcyZzNPSEJXYldyTWdkdXN0bUJfTTV5MlpIMjlIMUl5VVZWLWVWSkhKQUkwTEFmTnNUcHZhRmRCclBPSkdGVXBZM2pPOEMzUS0zcFJZcElqazY4cDB3NzFOU1hhYUNVUWR0V0lYMXpOWHhoLUluaXp1bUo1LUJCZERjQkdibHRzeTZOOGpkeEZUcW1oU1psR1cxczJQS0FJS0kyNDhMUQ?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    }
-  ],
-  [
-    {
-      "title": "Newly released video shows scene of Jeremy Renner's snowplow accident",
-      "url": "https://www.cnn.com/videos/us/2023/04/18/jeremy-renner-snowplow-accident-bodycam-nc-melas-contd-vpx.cnn",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
-    },
-    {
-      "title": "Bloodied, ejected Marine Corps pilot seen calm and collected after Washington crash destroys aircraft",
-      "url": "https://www.foxnews.com/us/bloodied-ejected-marine-corps-pilot-seen-calm-collected-washington-crash-destroys-aircraft",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
-    },
-    {
-      "title": "Romania destroys marine drone near Neptun Deep gas project, minister says",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZHhFbnVfeUN3WXExb3dCUFZTQzhPTVlnQm0xQkZ0YXFTUjVQZ3Y4WG1ET2N0T0JKMHJNWDBmU0xCYmxhT3FINXF3QlhYTDBxRWsxR2lXNkdQRThPc0lUY2FmakhSbUkwNTM3NWdRMjZ1T0JyYTUzWjBwbnRMUldCbXhaR245SWs3UFkzZFdtNzQ3dEhFQXhjZU9PV3pBS0NBX3ROTmZSVXBBOC1vbk1PN090SFF4S1poSjZBMkNn?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    }
-  ],
-  [
-    {
-      "title": "Walmart reports rare sales miss as consumers cut spending, shares fall",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWHpDQjhTTjdrTGVtLWhZMUJIdWtybnk5SjJ0bWxfMjZ3VmhYXzE3UGljRlZiMmI3V0FNN09Pb1NYWlhCWTVmMlFsdjZTRDFLUFh4WV9Yb0ZGMTJWYTc0eWVWVEZiVC1oVmdXNTBNdGtGdGZoWHN3MzRndDR2YlY2bzFuWTlJeHBXdGJzZHZzMmFiVzYxWUtsZDFlN0F6OWJPTktkS0RaTmtjY0I4WU9wQ3Y4X1VsZzQ?oc=5",
+      "title": "Trump threatens to isolate Iran. Who are its trading partners?",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUTliUERTQVlVWVpERU5Zd3V1dXdSY2JuZExLUjMtUkMxWXVoZFJzLUx1aTFITDQwdWY5RS1pR3pDNDVWMGlFS0t6cE9DQmYwNWRDeWViME50enF1X1RZWjNVYmF2ME9obUp6TTNLcG01ekdLS1liNUhmeDdmU1hYVnVpR21vTzlDYUJKY3EzYkItZThBZE9kYS1EV3FfYkx4MXZUVFloa2FYWG5jUVE?oc=5",
       "source": "Reuters",
       "bias": "center",
       "domain": "reuters.com"
     },
     {
-      "title": "Walmart Posts Slowest Sales Growth in Years as Americans Tighten Wallets",
-      "url": "https://www.nytimes.com/2026/08/20/business/walmart-target-retail-consumer-economy.html",
+      "title": "UAE says it is suspending trade with Iran after missile launch",
+      "url": "https://www.washingtonpost.com/world/2026/08/19/uae-says-it-is-suspending-trade-with-iran-after-missile-attack/",
+      "source": "Washington Post",
+      "bias": "left-center",
+      "domain": "washingtonpost.com"
+    },
+    {
+      "title": "Canada and U.S. Resume Talks Over Trump Tariffs as a New Deadline Looms",
+      "url": "https://www.nytimes.com/2026/08/20/world/canada/trump-carney-tariffs-trade-deal.html",
       "source": "New York Times",
       "bias": "left-center",
       "domain": "nytimes.com"
     },
     {
-      "title": "Walmart\u2019s stock slides as U.S. sales are hit by falling drug prices",
-      "url": "https://www.marketwatch.com/story/walmart-shares-slide-as-u-s-sales-hit-by-falling-drug-prices-1e308c61?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
+      "title": "Padres homegrown hero shares crucial injury timeline update after random encounter viral YouTuber",
+      "url": "https://nypost.com/2026/08/20/sports/joe-musgrove-shares-injury-update-with-content-creator-faze-rug/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
+      "title": "Body Language Experts Spot Something In This Wild Clip Of Trump Dictating Tweets To Natalie Harp",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSjJnM04wX2F3WlNheFBVSVh0ZUgtWUliNXFvMzJTcU1nZEJiXy1WckRwZEZkZUNYWTVlVF9GSzMzV2dBUXVubzZSeF9CZ01qUFhjbUVZVi1sbTNDRG1PQnN5S0c1eUcyTElSMTlObFpkcldlTXVYZXhBOGNzSVNvbEtRUFFoUDA5QmRLTDVkRnowUGVlejFkZjEyOWY3QWJoSFNXMDhtMGphbHBHdklIeE51dm1Day0wV050WG1rZXLSAcYBQVVfeXFMTmxfNzJxWEY2czIwcjI4VzZhZ3RJMUlJbnBlSF9QYTRNUVFhU1VfVExvc1Nid21kR09icWFoQjhBMHY4N0hvTTJya2ltRWNNMUtfbm83c0ZvRi14aDdBZnFOTDhXV2VXR0Z1Z1FlVWtpNklVS1ZRaVdPY3l3c01ySUdlTHBhQ1gxMW9yS3lfbUNZTzFRekdFYkY1UHpxUkhDMnRCZUtwRGZFaWo1ZkJLZzZkWUhYRXFYdXBFMnlSLTdjSUxpOHh3?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
+    },
+    {
+      "title": "What to know about Dr. Heidi Overton, Trump's pick to lead the FDA",
+      "url": "https://www.npr.org/2026/08/20/nx-s1-5939549/heidi-overton-fda-commissioner-trump-senate-nomination",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    },
+    {
+      "title": "Florida Senate candidate Angie Nixon defends drag shows as 'wholesome' for children, brought her kids to one",
+      "url": "https://www.foxnews.com/media/florida-senate-candidate-angie-nixon-defends-drag-shows-wholesome-children-brought-kids",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Academic who accused Jason Arday of plagiarism suspended by university",
+      "url": "https://www.bbc.co.uk/news/articles/cevmrjd9lj1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
+    },
+    {
+      "title": "Deadly Russian missile barrage hits Kyiv in hours-long overnight attack",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/deadly-russian-missile-barrage-hits-kyiv-in-hours-long-overnight-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "Huge Russian bombardment kills at least 16 in Ukraine",
+      "url": "https://www.cbsnews.com/video/russian-attack-kills-at-least-16-in-kyiv/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    },
+    {
+      "title": "Student kills schoolmate and himself in livestreamed Philippine school attack, official says",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOWJhMlJZekdIMG1VYmt2ZU5DZUR6N0RsR1BIekJsbXpJMzlSZDRBVmduRXd2RDVvY3MwbkljSVBzNTJLbGNuTnBiNGI1ZWw2Mm1EemJaRVEyTzF6ZHd6amplRG1mWGdUNnktMWRadkctM0gyajVVNk9oQVlmU3IxTmNESlNRRXBOV2JvMUxOOFc2ZmRDYld1OWxoSFF5QQ?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
     }
   ],
   [
     {
-      "title": "Chinese court sentences founder of property developer Evergrande to life in prison",
-      "url": "https://www.npr.org/2026/08/20/nx-s1-5939335/chinese-sentence-founder-evergrande",
-      "source": "NPR",
+      "title": "Treasury Turns to Interventionist Tactics to Lower Interest Rates",
+      "url": "https://www.nytimes.com/2026/08/20/business/treasury-bond-market-interventionist-tactics.html",
+      "source": "New York Times",
       "bias": "left-center",
-      "domain": "npr.org"
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "The rise in interest rates hit a \u2018raw nerve\u2019 at the White House. Bessent\u2019s plan has analysts on edge.",
+      "url": "https://www.marketwatch.com/story/bessent-suggests-treasury-could-intervene-again-in-bond-market-we-have-a-big-tool-kit-358829e1?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
+    },
+    {
+      "title": "An alarmed bond market gets the Trump administration to act again",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdzcxSDVXQVJJeXZ0cWVTSVVIeE9KOV9ZT3ZJQXdLZXVYZ1pqbDA1cEwtbGg5RERicjR4OV85TFpTbExVWWlQRGxfX3lkeGJLbVhmOXMtTnBUY1VfS2FOdFNBMVphdkczTTN3eWp3aVZJRF9ZX09OXzBUYUIzeFpvMTJsWXBFWXRKWHcwWmFfaXQ3cVhWMFNsSGstZw?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Spanish police evict hundreds of migrants from Ceuta beach to shelters",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/spanish-police-evict-hundreds-of-migrants-from-ceuta-beach-to-shelters?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
     },
     {
       "title": "Spain to allow 500 children in Ceuta to go to mainland in immigration U-turn",
@@ -184,25 +161,66 @@
   ],
   [
     {
-      "title": "Election fight cracks political unity in Ukraine as Russia bombards Kyiv",
-      "url": "https://www.washingtonpost.com/world/2026/08/20/election-fight-cracks-political-unity-ukraine-russia-bombards-kyiv/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
+      "title": "A 13-year-old dies after participating in a Benadryl TikTok 'challenge'",
+      "url": "https://www.cnn.com/2023/04/18/us/benadryl-tiktok-challenge-teen-death-wellness/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
     },
     {
-      "title": "Ex-defence chief\u2019s call for wartime election raises pressure on Zelenskyy",
-      "url": "https://www.aljazeera.com/news/2026/8/20/ukraines-ex-defence-chief-calls-for-presidential-vote?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "8-year-old boy dies after getting hit by falling tree at YMCA camp",
+      "url": "https://abcnews.com/US/8-year-boy-dies-after-hit-falling-tree/story?id=135801770",
+      "source": "ABC News",
       "bias": "center",
-      "domain": "aljazeera.com"
+      "domain": "abcnews.go.com"
+    }
+  ],
+  [
+    {
+      "title": "Tulsi Gabbard gives promising, emotional update on husband's successful bone cancer surgery",
+      "url": "https://www.foxnews.com/politics/tulsi-gabbard-promising-emotional-update-husbands-successful-bone-cancer-surgery",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
     },
     {
-      "title": "Activist forced out of US after criticising Trump-aligned Colombian politician",
-      "url": "https://www.theguardian.com/world/2026/aug/19/activist-forced-out-of-us-after-criticising-trump-aligned-colombian-politician",
-      "source": "The Guardian",
+      "title": "Tulsi Gabbard Shares Raw Update About Husband\u2019s Cancer Battle",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObFBxMjgtdlNLWEtmS3VJM3ZjcTJBcUtYZXN4bVVfNmR6YWsyU0JkenY1NDdDNDY4cC1MR05FNEFKbUcwNnlEZkd0bFc5dnpNUlJ3clhPOXdmN3VBQ3BpZE9CNlBlRERUcndrSG4zTnRxWWd2eWdTTzZJTGZqZDBrSGZtamt2Xy1kb1N3NzVwdW15Si1sdmc?oc=5",
+      "source": "Daily Wire",
+      "bias": "right",
+      "domain": "dailywire.com"
+    }
+  ],
+  [
+    {
+      "title": "Alex Murdaugh defense team lied about polygraph results, prosecutors allege in new filing",
+      "url": "https://www.foxnews.com/us/alex-murdaugh-defense-team-lied-polygraph-results-prosecutors-allege-new-filing",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Karmelo Anthony prosecutor reveals trove of evidence jury never saw \u2014 including disturbing texts: \u2018Low key on the verge\u2019",
+      "url": "https://nypost.com/2026/08/20/us-news/karmelo-anthony-prosecutor-reveals-trove-of-disturbing-evidence-jury-never-saw/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    }
+  ],
+  [
+    {
+      "title": "Walmart reports rare sales miss as consumers cut spending, shares fall",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWHpDQjhTTjdrTGVtLWhZMUJIdWtybnk5SjJ0bWxfMjZ3VmhYXzE3UGljRlZiMmI3V0FNN09Pb1NYWlhCWTVmMlFsdjZTRDFLUFh4WV9Yb0ZGMTJWYTc0eWVWVEZiVC1oVmdXNTBNdGtGdGZoWHN3MzRndDR2YlY2bzFuWTlJeHBXdGJzZHZzMmFiVzYxWUtsZDFlN0F6OWJPTktkS0RaTmtjY0I4WU9wQ3Y4X1VsZzQ?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Walmart Posts Slowest Sales Growth in Years as Americans Tighten Wallets",
+      "url": "https://www.nytimes.com/2026/08/20/business/walmart-target-retail-consumer-economy.html",
+      "source": "New York Times",
       "bias": "left-center",
-      "domain": "theguardian.com"
+      "domain": "nytimes.com"
     }
   ],
   [
@@ -223,47 +241,47 @@
   ],
   [
     {
-      "title": "Asylum seekers told rape and harassment illegal in UK in new Home Office booklet",
-      "url": "https://www.bbc.co.uk/news/articles/ceqe3y34e9eo?at_medium=RSS&at_campaign=rss",
+      "title": "Giant whales move into Greenland waters as ice disappears",
+      "url": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "bias": "center",
       "domain": "bbc.com"
     },
     {
-      "title": "UK Gov't Publishes Pamphlet to Inform Migrants That Rape is Wrong, Sex With Children Is a Crime",
-      "url": "https://www.breitbart.com/europe/2026/08/20/uk-govt-publishes-pamphlet-to-inform-migrants-that-rape-is-wrong-sex-with-children-is-a-crime/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
-    }
-  ],
-  [
-    {
-      "title": "Some people experience dramatic hair regrowth from common arthritis drug: study",
-      "url": "https://nypost.com/2026/08/20/health/some-achieve-dramatic-hair-regrowth-from-common-arthritis-drug-study/",
+      "title": "Why whales are being drawn to \u2018feeding frenzies\u2019 within Arctic Circle",
+      "url": "https://nypost.com/2026/08/20/world-news/why-whales-are-being-drawn-to-feeding-frenzies-within-arctic-circle/",
       "source": "New York Post",
       "bias": "right",
       "domain": "nypost.com"
-    },
-    {
-      "title": "Book publishers forced to navigate AI and the stories about misuse are stunning",
-      "url": "https://www.cbsnews.com/video/book-publishers-forced-to-navigate-ai-and-the-stories-about-misuse-are-stunning/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
     }
   ],
   [
     {
-      "title": "Israeli military launches criminal probes into killings of Hind Rajab and Palestinian paramedics",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdjh4SUp0a2ZhbFFhSGQzVERrREI3OFJQRXBVY3gyS2FQRkp4RTFyTUc4d3dJRDUzTzR5X1d1YkVCeU9nYTNyYnM5NmRjS25xXzVZWk03SksyVFlOWWdnM1dhQ0kyVFB3Vmt1RWZVeDlyNEZYMXpNbC1NdGNWbjZkSnBjM1ZqV1FrVjRpSmRNOThiT1d3OG5Ob3FQcHlTcnRNWWdqUktqa3FqLVRONmU1NmZWLURUV2lm?oc=5",
+      "title": "Bond Market Stress Returns and Oil Rises in Edgy Day for Markets",
+      "url": "https://www.nytimes.com/2026/08/20/business/iran-war-oil-bonds.html",
+      "source": "New York Times",
+      "bias": "left-center",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "The bond market is signaling trouble ahead. This is why you should pay attention",
+      "url": "https://www.npr.org/2026/08/20/nx-s1-5937600/economy-bonds-inflation-debt-consumers",
+      "source": "NPR",
+      "bias": "left-center",
+      "domain": "npr.org"
+    }
+  ],
+  [
+    {
+      "title": "The US national debt now stands at $40 trillion",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOWRYUG5oRjZUWTlia0VxVkROYmNERFdTd3NhaWpkeGdLbUF1R2Q3MDVhdzdYZFVrX1FiTGUxZ0piZ3ROaXpYYVdXUDN2akhfM1c2NWRxMjhXMWZ2aURVc0toUWVpVVhoM0hiaTQ2X2NzaWpacG5GaEpZbS1rOEQ0dmRhY0xCMk9YYU1mdW42TmFrQQ?oc=5",
       "source": "Associated Press",
       "bias": "center",
       "domain": "apnews.com"
     },
     {
-      "title": "Israel Launches Criminal Probes Into Killings Of Hind Rajab And Palestinian Paramedics",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR2JoSVk3SmQwX3JWZzdjSkVIZU1qelhHRG1PN2NWYUJpb3REZlU4WWtRNzhGQVdtZkNLNm1OdThzTFhhb0dMdHNnSUVpcTZYTW5MUnpOdXgzMFpRdkRuYV95V25odjJjeGxOOXBCUkxPQlZGT0lSOXRDb3FPTmdYbnpyS3Q5MWFiZUJ2R0lYak1CZHI0RDYybVJCVnZjSzJFaHh2X0tzUU9SV0hpMl9teGNmU1JGaGFlbVNFMXBpMHpidktWV2dfek50VDV2dGvSAdQBQVVfeXFMTno0QUdIVHFQajVwYXBSLVVGVE1sYXkyU1AzalVWSmJrTHF1eFpOSTBENkU3Q196U3V2SUpvdmlOTDhDQlFVUVZtQkxTeU5rS2tyVzh3OENfQXhLcTVNNlk1Yzl0bDhzMjlhZlN1UlJxQWRvS1J0cWFSUWpxMUxQZXFzYUZrX3dGYm1HMFAyejBVZjdqX3RHZl9qSG5xSVpJM0s4QU5PazVKMlVXRWpPdEUwSjNfMFlPVWd2RTZ1NjgxTUR3anNBc1pkZUF6UkF5Q3Bvdkk?oc=5",
+      "title": "The U.S. National Debt Now Stands At $40 Trillion",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUmlsTkJxQUQxWUg4VEwtSHdBRGZHSG1ydEFwQ0JGN3NwYWpLWjlSRGstbHFqV3VpaGROOGZ0eXVraktUVXNQekJ6VUdNalNrUzNGb2JKYlZPLTFXY0xmSzVvN0RNQVA2dW5BUW5abWVTZkVqSF9QS3UyZlJtNmJUMC1XRkpNOFk3S08zX290UFZfd3FHYm55R2JrXzZySkhCRTBaazRmWXRKTDFKRjZCWNIBtgFBVV95cUxQT01uOE9UTHJjUS01SG9jVmcyZzNPSEJXYldyTWdkdXN0bUJfTTV5MlpIMjlIMUl5VVZWLWVWSkhKQUkwTEFmTnNUcHZhRmRCclBPSkdGVXBZM2pPOEMzUS0zcFJZcElqazY4cDB3NzFOU1hhYUNVUWR0V0lYMXpOWHhoLUluaXp1bUo1LUJCZERjQkdibHRzeTZOOGpkeEZUcW1oU1psR1cxczJQS0FJS0kyNDhMUQ?oc=5",
       "source": "HuffPost",
       "bias": "left",
       "domain": "huffpost.com"

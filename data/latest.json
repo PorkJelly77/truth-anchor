@@ -1,46 +1,39 @@
 [
   [
     {
-      "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
-      "url": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
-      "source": "CNN",
-      "bias": "left",
-      "domain": "cnn.com"
-    },
-    {
-      "title": "Oil prices jump after Trump declares economic war on Iran",
-      "url": "https://www.marketwatch.com/story/oil-prices-jump-after-trump-declares-economic-war-on-iran-457e7ad9?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
-    },
-    {
-      "title": "Trump shows off multimillion-dollar White House helipad and adds his signature",
-      "url": "https://abcnews.com/Politics/trump-shows-off-multimillion-dollar-white-house-helipad/story?id=135782264",
-      "source": "ABC News",
-      "bias": "center",
-      "domain": "abcnews.go.com"
-    },
-    {
-      "title": "Syrian official says \u2018no plans\u2019 to establish Turkish military presence",
-      "url": "https://www.aljazeera.com/news/2026/8/20/syrian-official-says-no-plans-to-establish-turkish-military-presence?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "Pentagon officials considering firing Stars and Stripes publisher, sources say",
-      "url": "https://www.cbsnews.com/news/pentagon-considers-firing-stars-stripes-publisher/",
+      "title": "Watch Live: Lindsay Clancy trial testimony ends early as defense winds down case",
+      "url": "https://www.cbsnews.com/news/lindsay-clancy-trial-watch-live-day-17/",
       "source": "CBS News",
       "bias": "left-center",
       "domain": "cbsnews.com"
     },
     {
-      "title": "North Korea launches 10 ballistic missiles as US-South Korea drills near end",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRXZKc3RxRGFCN0NYZVJKTFN1eFZCakt6WFN5alRHRjBpalMwdmlYeWhsYUhvWEJfbC1kZ1FHS1JlbGxYSG9jUHRDUVdlR3pJSE93eXlnN2NSMXlGX19XZFlVaVNxRE5xMzlZS1VwMkwzSXpCMjZ4ZDVRcWRCR21UN19yQ1ZhTkYzeUVwREl0MTRxZ20xb0kzNTNrNmtYMXc0YUFpdEtxckJVRVZTWHl3d3V2R0dFSlNsTHc?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
+      "title": "911 Call Reveals New Clue In Hayden Panettiere\u2019s Shocking Death At 36",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM0hxYXpoYmZsMWdFSEFRWmwtSnB3NVNoYXNEakVQUDAzblJFa0xrUzJucXVpU1gtd25MVkNtQ0JIRlkwaHBLcW51WU56Sy0tZHVmUm51STZYYk54RDFkWWdDWHMwMVd4cTZNWmx0dFFTTm9WbU42c2Qtblp1b1AwVEVkNmI5QmQ4elA3OXNyMk84LVh1aWpabzV6MjBjRG9O?oc=5",
+      "source": "Daily Wire",
+      "bias": "right",
+      "domain": "dailywire.com"
+    },
+    {
+      "title": "A 13-year-old dies after participating in a Benadryl TikTok 'challenge'",
+      "url": "https://www.cnn.com/2023/04/18/us/benadryl-tiktok-challenge-teen-death-wellness/index.html",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
+    },
+    {
+      "title": "New judge has days to decide whether Karmelo Anthony's conviction and 35-year sentence survive",
+      "url": "https://www.foxnews.com/us/new-judge-days-decide-whether-carmelo-anthony-conviction-35-year-sentence-survive",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Prince Harry and Meghan Markle\u2019s UK comeback raises 8 burning questions 6 years after Megxit",
+      "url": "https://pagesix.com/2026/08/20/royal-family/prince-harry-and-meghan-markles-uk-comeback-raises-8-burning-questions-6-years-after-megxit/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
     },
     {
       "title": "U.S. debt tops $40 trillion. And, new census report Trump is touting raises concerns",
@@ -48,27 +41,6 @@
       "source": "NPR",
       "bias": "left-center",
       "domain": "npr.org"
-    },
-    {
-      "title": "The US national debt now stands at $40 trillion",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOWRYUG5oRjZUWTlia0VxVkROYmNERFdTd3NhaWpkeGdLbUF1R2Q3MDVhdzdYZFVrX1FiTGUxZ0piZ3ROaXpYYVdXUDN2akhfM1c2NWRxMjhXMWZ2aURVc0toUWVpVVhoM0hiaTQ2X2NzaWpacG5GaEpZbS1rOEQ0dmRhY0xCMk9YYU1mdW42TmFrQQ?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "The U.S. National Debt Now Stands At $40 Trillion",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUmlsTkJxQUQxWUg4VEwtSHdBRGZHSG1ydEFwQ0JGN3NwYWpLWjlSRGstbHFqV3VpaGROOGZ0eXVraktUVXNQekJ6VUdNalNrUzNGb2JKYlZPLTFXY0xmSzVvN0RNQVA2dW5BUW5abWVTZkVqSF9QS3UyZlJtNmJUMC1XRkpNOFk3S08zX290UFZfd3FHYm55R2JrXzZySkhCRTBaazRmWXRKTDFKRjZCWNIBtgFBVV95cUxQT01uOE9UTHJjUS01SG9jVmcyZzNPSEJXYldyTWdkdXN0bUJfTTV5MlpIMjlIMUl5VVZWLWVWSkhKQUkwTEFmTnNUcHZhRmRCclBPSkdGVXBZM2pPOEMzUS0zcFJZcElqazY4cDB3NzFOU1hhYUNVUWR0V0lYMXpOWHhoLUluaXp1bUo1LUJCZERjQkdibHRzeTZOOGpkeEZUcW1oU1psR1cxczJQS0FJS0kyNDhMUQ?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    },
-    {
-      "title": "Judge hands Trump, GOP major redistricting win ahead of midterm elections and more top headlines",
-      "url": "https://www.foxnews.com/us/judge-hands-trump-gop-major-redistricting-win-ahead-midterm-elections-more-top-headlines",
-      "source": "Fox News",
-      "bias": "right",
-      "domain": "foxnews.com"
     },
     {
       "title": "What to Know About Iran\u2019s Economic Ties With Gulf Countries",
@@ -85,11 +57,39 @@
       "domain": "washingtonpost.com"
     },
     {
+      "title": "\u2018Tremendous costs\u2019: Can Trump stop other countries from trading with Iran?",
+      "url": "https://www.aljazeera.com/news/2026/8/20/tremendous-costs-can-trump-stop-other-countries-from-trading-with-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "Conditions are ripe for a market \u2018accident,\u2019 but surging bond yields alone won\u2019t cause it, concedes pessimistic strategist",
+      "url": "https://www.marketwatch.com/story/conditions-are-ripe-for-a-market-accident-but-surging-bond-yields-alone-wont-cause-it-concedes-pessimistic-strategist-222cfc57?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
+    },
+    {
+      "title": "DSA Co-Chair: People, 'Especially Younger' People, See Cuba Was Unequal Pre-Castro, Castro Expanded Healthcare",
+      "url": "https://www.breitbart.com/clips/2026/08/19/dsa-co-chair-people-especially-younger-people-see-cuba-was-unequal-pre-castro-castro-expanded-healthcare/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
+    },
+    {
       "title": "Five Americans among seven killed in safari helicopter crash in Kenya",
       "url": "https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safari-crash",
       "source": "The Guardian",
       "bias": "left-center",
       "domain": "theguardian.com"
+    },
+    {
+      "title": "WATCH:  Over 20 tons of squid spill onto Rhode Island road blocking traffic for 8 hours",
+      "url": "https://abcnews.com/video/135775640/",
+      "source": "ABC News",
+      "bias": "center",
+      "domain": "abcnews.go.com"
     },
     {
       "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
@@ -99,93 +99,67 @@
       "domain": "bbc.com"
     },
     {
-      "title": "Byron Donalds: David Jolly 'Is a Trojan Horse for the Democrat Socialists'",
-      "url": "https://www.breitbart.com/clips/2026/08/19/byron-donalds-david-jolly-is-a-trojan-horse-for-the-democrat-socialists/",
-      "source": "Breitbart",
-      "bias": "right",
-      "domain": "breitbart.com"
+      "title": "The US national debt now stands at $40 trillion",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOWRYUG5oRjZUWTlia0VxVkROYmNERFdTd3NhaWpkeGdLbUF1R2Q3MDVhdzdYZFVrX1FiTGUxZ0piZ3ROaXpYYVdXUDN2akhfM1c2NWRxMjhXMWZ2aURVc0toUWVpVVhoM0hiaTQ2X2NzaWpacG5GaEpZbS1rOEQ0dmRhY0xCMk9YYU1mdW42TmFrQQ?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "The U.S. National Debt Now Stands At $40 Trillion",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUmlsTkJxQUQxWUg4VEwtSHdBRGZHSG1ydEFwQ0JGN3NwYWpLWjlSRGstbHFqV3VpaGROOGZ0eXVraktUVXNQekJ6VUdNalNrUzNGb2JKYlZPLTFXY0xmSzVvN0RNQVA2dW5BUW5abWVTZkVqSF9QS3UyZlJtNmJUMC1XRkpNOFk3S08zX290UFZfd3FHYm55R2JrXzZySkhCRTBaazRmWXRKTDFKRjZCWNIBtgFBVV95cUxQT01uOE9UTHJjUS01SG9jVmcyZzNPSEJXYldyTWdkdXN0bUJfTTV5MlpIMjlIMUl5VVZWLWVWSkhKQUkwTEFmTnNUcHZhRmRCclBPSkdGVXBZM2pPOEMzUS0zcFJZcElqazY4cDB3NzFOU1hhYUNVUWR0V0lYMXpOWHhoLUluaXp1bUo1LUJCZERjQkdibHRzeTZOOGpkeEZUcW1oU1psR1cxczJQS0FJS0kyNDhMUQ?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
     }
   ],
   [
     {
-      "title": "Prince Harry and Meghan to move back to Britain",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPal9aT3dZNWdGaUFhcFY4bXBJTmFROGQtTWREY0dycUZSaGxybWswbUtENzFjc01aUTBmcG5WMThITjA3WVRtenRzdGpqVXNYZ2ZVUTY1NUFGcEVmajIzUVdyV2FKaGtFWEItUU5vb0d2U3cyRWlMbkREQU1JUnRneTczMWJBa0hGYlE?oc=5",
+      "title": "Newly released video shows scene of Jeremy Renner's snowplow accident",
+      "url": "https://www.cnn.com/videos/us/2023/04/18/jeremy-renner-snowplow-accident-bodycam-nc-melas-contd-vpx.cnn",
+      "source": "CNN",
+      "bias": "left",
+      "domain": "cnn.com"
+    },
+    {
+      "title": "Bloodied, ejected Marine Corps pilot seen calm and collected after Washington crash destroys aircraft",
+      "url": "https://www.foxnews.com/us/bloodied-ejected-marine-corps-pilot-seen-calm-collected-washington-crash-destroys-aircraft",
+      "source": "Fox News",
+      "bias": "right",
+      "domain": "foxnews.com"
+    },
+    {
+      "title": "Romania destroys marine drone near Neptun Deep gas project, minister says",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZHhFbnVfeUN3WXExb3dCUFZTQzhPTVlnQm0xQkZ0YXFTUjVQZ3Y4WG1ET2N0T0JKMHJNWDBmU0xCYmxhT3FINXF3QlhYTDBxRWsxR2lXNkdQRThPc0lUY2FmakhSbUkwNTM3NWdRMjZ1T0JyYTUzWjBwbnRMUldCbXhaR245SWs3UFkzZFdtNzQ3dEhFQXhjZU9PV3pBS0NBX3ROTmZSVXBBOC1vbk1PN090SFF4S1poSjZBMkNn?oc=5",
+      "source": "Reuters",
+      "bias": "center",
+      "domain": "reuters.com"
+    }
+  ],
+  [
+    {
+      "title": "Walmart reports rare sales miss as consumers cut spending, shares fall",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWHpDQjhTTjdrTGVtLWhZMUJIdWtybnk5SjJ0bWxfMjZ3VmhYXzE3UGljRlZiMmI3V0FNN09Pb1NYWlhCWTVmMlFsdjZTRDFLUFh4WV9Yb0ZGMTJWYTc0eWVWVEZiVC1oVmdXNTBNdGtGdGZoWHN3MzRndDR2YlY2bzFuWTlJeHBXdGJzZHZzMmFiVzYxWUtsZDFlN0F6OWJPTktkS0RaTmtjY0I4WU9wQ3Y4X1VsZzQ?oc=5",
       "source": "Reuters",
       "bias": "center",
       "domain": "reuters.com"
     },
     {
-      "title": "After Six Years, Harry and Meghan Are Coming Home. What Changed?",
-      "url": "https://www.nytimes.com/2026/08/20/world/europe/harry-meghan-britain-return.html",
+      "title": "Walmart Posts Slowest Sales Growth in Years as Americans Tighten Wallets",
+      "url": "https://www.nytimes.com/2026/08/20/business/walmart-target-retail-consumer-economy.html",
       "source": "New York Times",
       "bias": "left-center",
       "domain": "nytimes.com"
     },
     {
-      "title": "Shocking timing of King Charles learning about Prince Harry and Meghan Markle\u2019s UK return exposed",
-      "url": "https://pagesix.com/2026/08/20/royal-family/when-king-charles-learned-about-prince-harry-meghan-markles-uk-return/",
-      "source": "New York Post",
-      "bias": "right",
-      "domain": "nypost.com"
-    },
-    {
-      "title": "\u2018The great Meghan-aissance\u2019: Harry and Meghan\u2019s return sparks frenzied U.K. reaction",
-      "url": "https://www.washingtonpost.com/world/2026/08/20/great-meghan-aissance-harry-meghans-return-sparks-frenzied-uk-reaction/",
-      "source": "Washington Post",
-      "bias": "left-center",
-      "domain": "washingtonpost.com"
-    },
-    {
-      "title": "Harry and Meghan's security arrangements a private matter, PM says",
-      "url": "https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "bias": "center",
-      "domain": "bbc.com"
-    },
-    {
-      "title": "Activist forced out of US after criticising Trump-aligned Colombian politician",
-      "url": "https://www.theguardian.com/world/2026/aug/19/activist-forced-out-of-us-after-criticising-trump-aligned-colombian-politician",
-      "source": "The Guardian",
-      "bias": "left-center",
-      "domain": "theguardian.com"
-    },
-    {
-      "title": "Prince Harry and Meghan moving back to U.K.",
-      "url": "https://www.cbsnews.com/news/prince-harry-meghan-moving-back-uk/",
-      "source": "CBS News",
-      "bias": "left-center",
-      "domain": "cbsnews.com"
-    },
-    {
-      "title": "Queen Camilla Discusses King Charles' Cancer Diagnosis For The First Time",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZERTZTRyeEt5dEMtRnk0TUExSE5lLXg2N3htN1h6MVZXNTdBTmJVUE1uNkZvZDZONEhsNy1Hb2l4TzRRcFdsaHl2eXFPUW9zMVoyNlExVXlQZzZGdjlpSUp1dWx4aDVxSzdSc3hlOG5UQmstVG55SS1HN0N2b1gwUTlhbzZPekViMmNqV1JMMTRjSzdqU3fSAZsBQVVfeXFMT24yT2gtNnB6YTY4WGtiV3ZVYmotQ2k5UExZWENjbFpadU9lZE0wTHVGM2FJdnBQWHN2X3FZaEdsdU9ULW43QnZUZmJPd2k5VFh5bVZKcmxxWXhxaE5yeUl2WFY3N2Jrdk1UWThFVFdHV0R0d1pkY1RtaHVJVUxmSHFMRXNWRjctdUxrUkQxVlJ2OFZZVjA4b3NTdXM?oc=5",
-      "source": "HuffPost",
-      "bias": "left",
-      "domain": "huffpost.com"
-    },
-    {
-      "title": "Who was Hind Rajab and why is Israel investigating her killing?",
-      "url": "https://www.aljazeera.com/news/2026/8/20/who-was-hind-rajab-and-why-is-israel-investigating-her-killing?traffic_source=rss",
-      "source": "Al Jazeera",
-      "bias": "center",
-      "domain": "aljazeera.com"
-    },
-    {
-      "title": "Israeli military launches criminal probes into killings of Hind Rajab and Palestinian paramedics",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdjh4SUp0a2ZhbFFhSGQzVERrREI3OFJQRXBVY3gyS2FQRkp4RTFyTUc4d3dJRDUzTzR5X1d1YkVCeU9nYTNyYnM5NmRjS25xXzVZWk03SksyVFlOWWdnM1dhQ0kyVFB3Vmt1RWZVeDlyNEZYMXpNbC1NdGNWbjZkSnBjM1ZqV1FrVjRpSmRNOThiT1d3OG5Ob3FQcHlTcnRNWWdqUktqa3FqLVRONmU1NmZWLURUV2lm?oc=5",
-      "source": "Associated Press",
-      "bias": "center",
-      "domain": "apnews.com"
+      "title": "Walmart\u2019s stock slides as U.S. sales are hit by falling drug prices",
+      "url": "https://www.marketwatch.com/story/walmart-shares-slide-as-u-s-sales-hit-by-falling-drug-prices-1e308c61?mod=mw_rss_topstories",
+      "source": "Wall Street Journal",
+      "bias": "center-right",
+      "domain": "wsj.com"
     }
   ],
   [
-    {
-      "title": "Evergrande founder Hui Ka Yan, from property tycoon to life in jail",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeU1JcFVldWhYODZiWmJKTWVWSTRCT3hKMHJ2TkhrcWhtODF5TGl0Q2xDdGNnOUVReEJlRXZ6SklhanR1Q0l6TG1aalNXVTlvRUdnZS1FclNQTGZRcFNXZEVkOU1WVFl0aXFnZDJ0RXpsRF9nSjdQMU0xZmJzZXpzVFJ2TEZZTzB3cE1BTV90WHVBaWN5SElEeFBKeU5XWlVnYjhOQzdR?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
     {
       "title": "Chinese court sentences founder of property developer Evergrande to life in prison",
       "url": "https://www.npr.org/2026/08/20/nx-s1-5939335/chinese-sentence-founder-evergrande",
@@ -201,48 +175,34 @@
       "domain": "theguardian.com"
     },
     {
-      "title": "China Sentences Evergrande Founder to Life in Prison",
-      "url": "https://www.nytimes.com/2026/08/20/business/evergrande-founder-life-prison.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
-    },
-    {
       "title": "Chinese court sentences founder of troubled property developer Evergrande to life in prison",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdmpPc0tFMWFFbVdNcHBFUnNjM2h4QjhCVkFNcXU5Tk5YcXNmZWIzNUhEOGRhRlpfZFFwZGN6SW4wUjQ2T1hhbHdzUmltRFNTYURYd3NncEF6R3gyQ3hhQWxLSFFqU3dRX3FQeWMtbTQ5eGNZekZldjlVVlNLeWpFV2FjRUVIazYwQmdGVjI5eXI0dHY3NVljWjhtLWtCYVZwZ2JYSA?oc=5",
       "source": "Associated Press",
       "bias": "center",
       "domain": "apnews.com"
-    },
-    {
-      "title": "A $420 camera for $10: China\u2019s young consumers would rather rent than buy. It\u2019s a problem for the government and the economy.",
-      "url": "https://www.marketwatch.com/story/test-driving-that-drone-or-just-renting-why-the-chinese-government-needs-to-know-07ca4d1b?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
     }
   ],
   [
     {
-      "title": "Gains in AI company stakes juice second-quarter earnings for S&P 500",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdEoyTlBhdlZxOEhhZFREWWpnNDdtV0RDODN4eFFTcmV5T1RfenE3eFRHYzd0VUlrclYwN0w3YUJnWGRzSWZITEx5a2xvQkdVYmVzcHJsSGxBV2JCN2pIOVlhb19pSXVJTWVHVVRFSnVmTXlZWkMwSUFhMWRQeDAzVXY1WUVoWDliVGhJNE9vN3dJV2FyZTZqYmJZc1h3TFE5WDItZFprR1Y?oc=5",
-      "source": "Reuters",
-      "bias": "center",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "Walmart shares slide as U.S. sales hit by falling drug prices",
-      "url": "https://www.marketwatch.com/story/walmart-shares-slide-as-u-s-sales-hit-by-falling-drug-prices-1e308c61?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
-    },
-    {
-      "title": "Walmart Posts Slowest Sales Growth in Years as Americans Tighten Wallets",
-      "url": "https://www.nytimes.com/2026/08/20/business/walmart-target-retail-consumer-economy.html",
-      "source": "New York Times",
+      "title": "Election fight cracks political unity in Ukraine as Russia bombards Kyiv",
+      "url": "https://www.washingtonpost.com/world/2026/08/20/election-fight-cracks-political-unity-ukraine-russia-bombards-kyiv/",
+      "source": "Washington Post",
       "bias": "left-center",
-      "domain": "nytimes.com"
+      "domain": "washingtonpost.com"
+    },
+    {
+      "title": "Ex-defence chief\u2019s call for wartime election raises pressure on Zelenskyy",
+      "url": "https://www.aljazeera.com/news/2026/8/20/ukraines-ex-defence-chief-calls-for-presidential-vote?traffic_source=rss",
+      "source": "Al Jazeera",
+      "bias": "center",
+      "domain": "aljazeera.com"
+    },
+    {
+      "title": "Activist forced out of US after criticising Trump-aligned Colombian politician",
+      "url": "https://www.theguardian.com/world/2026/aug/19/activist-forced-out-of-us-after-criticising-trump-aligned-colombian-politician",
+      "source": "The Guardian",
+      "bias": "left-center",
+      "domain": "theguardian.com"
     }
   ],
   [
@@ -263,18 +223,50 @@
   ],
   [
     {
-      "title": "Did Bessent Put the Fed in a Bind?",
-      "url": "https://www.nytimes.com/2026/08/20/business/dealbook/bessent-fed-warsh-bonds.html",
-      "source": "New York Times",
-      "bias": "left-center",
-      "domain": "nytimes.com"
+      "title": "Asylum seekers told rape and harassment illegal in UK in new Home Office booklet",
+      "url": "https://www.bbc.co.uk/news/articles/ceqe3y34e9eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "bias": "center",
+      "domain": "bbc.com"
     },
     {
-      "title": "Treasury\u2019s buyback blitz may end up driving bond yields higher, warns JPMorgan. Here\u2019s its advice for investors.",
-      "url": "https://www.marketwatch.com/story/treasurys-bond-buyback-blitz-may-end-up-driving-yields-higher-warns-jpmorgan-heres-their-investment-advice-b8f507be?mod=mw_rss_topstories",
-      "source": "Wall Street Journal",
-      "bias": "center-right",
-      "domain": "wsj.com"
+      "title": "UK Gov't Publishes Pamphlet to Inform Migrants That Rape is Wrong, Sex With Children Is a Crime",
+      "url": "https://www.breitbart.com/europe/2026/08/20/uk-govt-publishes-pamphlet-to-inform-migrants-that-rape-is-wrong-sex-with-children-is-a-crime/",
+      "source": "Breitbart",
+      "bias": "right",
+      "domain": "breitbart.com"
+    }
+  ],
+  [
+    {
+      "title": "Some people experience dramatic hair regrowth from common arthritis drug: study",
+      "url": "https://nypost.com/2026/08/20/health/some-achieve-dramatic-hair-regrowth-from-common-arthritis-drug-study/",
+      "source": "New York Post",
+      "bias": "right",
+      "domain": "nypost.com"
+    },
+    {
+      "title": "Book publishers forced to navigate AI and the stories about misuse are stunning",
+      "url": "https://www.cbsnews.com/video/book-publishers-forced-to-navigate-ai-and-the-stories-about-misuse-are-stunning/",
+      "source": "CBS News",
+      "bias": "left-center",
+      "domain": "cbsnews.com"
+    }
+  ],
+  [
+    {
+      "title": "Israeli military launches criminal probes into killings of Hind Rajab and Palestinian paramedics",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdjh4SUp0a2ZhbFFhSGQzVERrREI3OFJQRXBVY3gyS2FQRkp4RTFyTUc4d3dJRDUzTzR5X1d1YkVCeU9nYTNyYnM5NmRjS25xXzVZWk03SksyVFlOWWdnM1dhQ0kyVFB3Vmt1RWZVeDlyNEZYMXpNbC1NdGNWbjZkSnBjM1ZqV1FrVjRpSmRNOThiT1d3OG5Ob3FQcHlTcnRNWWdqUktqa3FqLVRONmU1NmZWLURUV2lm?oc=5",
+      "source": "Associated Press",
+      "bias": "center",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Israel Launches Criminal Probes Into Killings Of Hind Rajab And Palestinian Paramedics",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR2JoSVk3SmQwX3JWZzdjSkVIZU1qelhHRG1PN2NWYUJpb3REZlU4WWtRNzhGQVdtZkNLNm1OdThzTFhhb0dMdHNnSUVpcTZYTW5MUnpOdXgzMFpRdkRuYV95V25odjJjeGxOOXBCUkxPQlZGT0lSOXRDb3FPTmdYbnpyS3Q5MWFiZUJ2R0lYak1CZHI0RDYybVJCVnZjSzJFaHh2X0tzUU9SV0hpMl9teGNmU1JGaGFlbVNFMXBpMHpidktWV2dfek50VDV2dGvSAdQBQVVfeXFMTno0QUdIVHFQajVwYXBSLVVGVE1sYXkyU1AzalVWSmJrTHF1eFpOSTBENkU3Q196U3V2SUpvdmlOTDhDQlFVUVZtQkxTeU5rS2tyVzh3OENfQXhLcTVNNlk1Yzl0bDhzMjlhZlN1UlJxQWRvS1J0cWFSUWpxMUxQZXFzYUZrX3dGYm1HMFAyejBVZjdqX3RHZl9qSG5xSVpJM0s4QU5PazVKMlVXRWpPdEUwSjNfMFlPVWd2RTZ1NjgxTUR3anNBc1pkZUF6UkF5Q3Bvdkk?oc=5",
+      "source": "HuffPost",
+      "bias": "left",
+      "domain": "huffpost.com"
     }
   ]
 ]
